@@ -63,8 +63,6 @@ This image provides various versions that are available via tags. `latest` tag u
 | :----: | --- |
 | latest | XFCE Focal |
 | xfce-bionic | XFCE Bionic |
-| gnome-focal | GNOME Focal |
-| gnome-bionic | GNOME Bionic |
 | kde-focal | KDE Focal |
 | kde-bionic | KDE Bionic |
 | lxde-focal | LXDE Focal |

@@ -19,8 +19,6 @@ development_versions: true
 development_versions_items:
   - { tag: "latest", desc: "XFCE Focal" }
   - { tag: "xfce-bionic", desc: "XFCE Bionic" }
-  - { tag: "gnome-focal", desc: "GNOME Focal" }
-  - { tag: "gnome-bionic", desc: "GNOME Bionic" }
   - { tag: "kde-focal", desc: "KDE Focal" }
   - { tag: "kde-bionic", desc: "KDE Bionic" }
   - { tag: "lxde-focal", desc: "LXDE Focal" }

@@ -12,11 +12,13 @@ RUN \
  DEBIAN_FRONTEND=noninteractive \
  apt-get install --no-install-recommends -y \
 	firefox \
+	mate-applets \
+	mate-applet-brisk-menu \
 	terminator \
-	xfce4 \
-	xfce4-goodies \
-	xubuntu-default-settings \
-	xubuntu-icon-theme && \
+	ubuntu-mate-artwork \
+	ubuntu-mate-default-settings \
+	ubuntu-mate-desktop \
+	ubuntu-mate-icon-themes && \
  echo "**** cleanup ****" && \
  apt-get autoclean && \
  rm -rf \
