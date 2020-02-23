@@ -1,0 +1,26 @@
+---
+
+# jenkins variables
+project_name: docker-rdesktop
+external_type: os
+release_type: stable
+release_tag: latest
+ls_branch: master
+repo_vars:
+  - BUILD_VERSION_ARG = 'OS_VERSION'
+  - LS_USER = 'linuxserver'
+  - LS_REPO = 'docker-rdesktop'
+  - CONTAINER_NAME = 'rdesktop'
+  - DOCKERHUB_IMAGE = 'linuxserver/rdesktop'
+  - DEV_DOCKERHUB_IMAGE = 'lsiodev/rdesktop'
+  - PR_DOCKERHUB_IMAGE = 'lspipepr/rdesktop'
+  - DIST_IMAGE = 'ubuntu'
+  - MULTIARCH='true'
+  - CI='true'
+  - CI_WEB='false'
+  - CI_PORT='3389'
+  - CI_SSL='false'
+  - CI_DELAY='30'
+  - CI_DOCKERENV='TZ=US/Pacific'
+  - CI_AUTH='user:password'
+  - CI_WEBPATH=''
