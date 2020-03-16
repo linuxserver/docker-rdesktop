@@ -13,10 +13,7 @@ RUN \
  apt-get install --no-install-recommends -y \
 	firefox \
 	terminator \
-	xfce4 \
-	xfce4-goodies \
-	xubuntu-default-settings \
-	xubuntu-icon-theme && \
+	kubuntu-desktop && \
  echo "**** cleanup ****" && \
  apt-get autoclean && \
  rm -rf \
