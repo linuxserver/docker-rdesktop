@@ -1,2 +1,2 @@
 #!/bin/bash
-/usr/bin/startplasma-x11 > /dev/null 2>&1
+/usr/bin/startkde > /dev/null 2>&1

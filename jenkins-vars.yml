@@ -4,8 +4,9 @@
 project_name: docker-rdesktop
 external_type: os
 release_type: prerelease
-release_tag: kde-focal
-ls_branch: kde-focal
+release_tag: kde-bionic
+ls_branch: kde-bionic
+use_qemu: true
 repo_vars:
   - BUILD_VERSION_ARG = 'OS_VERSION'
   - LS_USER = 'linuxserver'
