@@ -1,4 +1,4 @@
-FROM lsiobase/rdesktop:focal
+FROM lsiobase/rdesktop:bionic
 
 # set version label
 ARG BUILD_DATE
