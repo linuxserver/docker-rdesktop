@@ -4,8 +4,8 @@
 project_name: docker-rdesktop
 external_type: os
 release_type: prerelease
-release_tag: mate-focal
-ls_branch: mate-focal
+release_tag: mate-bionic
+ls_branch: mate-bionic
 use_qemu: true
 repo_vars:
   - BUILD_VERSION_ARG = 'OS_VERSION'
