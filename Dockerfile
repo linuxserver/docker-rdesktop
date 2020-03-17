@@ -1,4 +1,4 @@
-FROM lsiobase/rdesktop:focal
+FROM lsiobase/rdesktop:bionic
 
 # set version label
 ARG BUILD_DATE
@@ -14,10 +14,8 @@ RUN \
 	firefox \
 	obconf \
 	openbox \
-	python2-minimal \
+	python \
 	xterm && \
- cd /usr/bin && \
- ln -s python2 python && \
  echo "**** cleanup ****" && \
  apt-get autoclean && \
  rm -rf \
