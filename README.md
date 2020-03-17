@@ -65,14 +65,14 @@ This image provides various versions that are available via tags. `latest` tag u
 | xfce-bionic | XFCE Bionic |
 | kde-focal | KDE Focal |
 | kde-bionic | KDE Bionic |
-| lxde-focal | LXDE Focal |
-| lxde-bionic | LXDE Bionic |
-| budgie-focal | Budgie Focal |
-| budgie-bionic | Budgie Bionic |
 | mate-focal | MATE Focal |
 | mate-bionic | MATE Bionic |
-| kylin-focal | Kylin Focal |
-| kylin-bionic | Kylin Bionic |
+| i3-focal | i3 Focal |
+| i3-bionic | i3 Bionic |
+| openbox-focal | Openbox Focal |
+| openbox-bionic | Openbox Bionic |
+| icewm-focal | IceWM Focal |
+| icewm-bionic | IceWM Bionic |
 
 ## Usage
 
@@ -83,12 +83,14 @@ Here are some example snippets to help you get started creating a container.
 ```
 docker create \
   --name=rdesktop \
+  --privileged `#optional` \
   -e PUID=1000 \
   -e PGID=1000 \
   -e TZ=Europe/London \
   -p 3389:3389 \
   -v /var/run/docker.sock:/var/run/docker.sock `#optional` \
   -v /path/to/data:/config `#optional` \
+  --shm-size="1gb" `#optional` \
   --restart unless-stopped \
   linuxserver/rdesktop
 ```
@@ -105,6 +107,7 @@ services:
   rdesktop:
     image: linuxserver/rdesktop
     container_name: rdesktop
+    privileged: true #optional
     environment:
       - PUID=1000
       - PGID=1000
@@ -114,6 +117,7 @@ services:
       - /path/to/data:/config #optional
     ports:
       - 3389:3389
+    shm_size: "1gb" #optional \
     restart: unless-stopped
 ```
 
@@ -129,6 +133,8 @@ Container images are configured using parameters passed at runtime (such as thos
 | `-e TZ=Europe/London` | Specify a timezone to use EG Europe/London |
 | `-v /var/run/docker.sock` | Docker Socket on the system, if you want to use Docker in the container |
 | `-v /config` | abc users home directory |
+| `--shm-size=` | We set this to 1 gig to prevent modern web browsers from crashing |
+
 
 ## Environment variables from files (Docker secrets)
 
@@ -162,6 +168,8 @@ In this instance `PUID=1000` and `PGID=1000`, to find yours use `id user` as bel
 **The Default USERNAME and PASSWORD is: abc/abc**
 
 **Unlike our other containers these Desktops are not designed to be upgraded by Docker, you will keep your home directoy but anything you installed system level will be lost if you upgrade an existing container. To keep packages up to date instead use Ubuntu's own apt program**
+
+**The KDE and i3 flavors need to be run in privileged mode to function properly**
 
 You will need a Remote Desktop client to access this container [Wikipedia List](https://en.wikipedia.org/wiki/Comparison_of_remote_desktop_software), by default it listens on 3389, but you can change that port to whatever you wish on the host side IE `3390:3389`.
 The first thing you should do when you login to the container is to change the abc users password by issuing the `passwd` command. 
