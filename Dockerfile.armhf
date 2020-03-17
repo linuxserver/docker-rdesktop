@@ -10,11 +10,14 @@ RUN \
  echo "**** install packages ****" && \
  apt-get update && \
  DEBIAN_FRONTEND=noninteractive \
- apt-get install -y \
+ apt-get install --no-install-recommends -y \
 	firefox \
-	i3 \
-	i3status \
-	terminator && \
+	obconf \
+	openbox \
+	python2-minimal \
+	xterm && \
+ cd /usr/bin && \
+ ln -s python2 python && \
  echo "**** cleanup ****" && \
  apt-get autoclean && \
  rm -rf \
