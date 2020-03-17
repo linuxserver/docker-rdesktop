@@ -10,13 +10,11 @@ RUN \
  echo "**** install packages ****" && \
  apt-get update && \
  DEBIAN_FRONTEND=noninteractive \
- apt-get install --no-install-recommends -y \
+ apt-get install -y \
 	firefox \
-	terminator \
-	xfce4 \
-	xfce4-goodies \
-	xubuntu-default-settings \
-	xubuntu-icon-theme && \
+	i3 \
+	i3status \
+	terminator && \
  echo "**** cleanup ****" && \
  apt-get autoclean && \
  rm -rf \

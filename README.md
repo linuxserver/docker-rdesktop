@@ -55,24 +55,6 @@ The architectures supported by this image are:
 | arm64 | arm64v8-latest |
 | armhf | arm32v7-latest |
 
-## Version Tags
-
-This image provides various versions that are available via tags. `latest` tag usually provides the latest stable version. Others are considered under development and caution must be exercised when using them.
-
-| Tag | Description |
-| :----: | --- |
-| latest | XFCE Focal |
-| xfce-bionic | XFCE Bionic |
-| kde-focal | KDE Focal |
-| kde-bionic | KDE Bionic |
-| lxde-focal | LXDE Focal |
-| lxde-bionic | LXDE Bionic |
-| budgie-focal | Budgie Focal |
-| budgie-bionic | Budgie Bionic |
-| mate-focal | MATE Focal |
-| mate-bionic | MATE Bionic |
-| kylin-focal | Kylin Focal |
-| kylin-bionic | Kylin Bionic |
 
 ## Usage
 

@@ -14,22 +14,6 @@ available_architectures:
   - { arch: "{{ arch_arm64 }}", tag: "arm64v8-latest"}
   - { arch: "{{ arch_armhf }}", tag: "arm32v7-latest"}
 
-# development version
-development_versions: true
-development_versions_items:
-  - { tag: "latest", desc: "XFCE Focal" }
-  - { tag: "xfce-bionic", desc: "XFCE Bionic" }
-  - { tag: "kde-focal", desc: "KDE Focal" }
-  - { tag: "kde-bionic", desc: "KDE Bionic" }
-  - { tag: "lxde-focal", desc: "LXDE Focal" }
-  - { tag: "lxde-bionic", desc: "LXDE Bionic" }
-  - { tag: "budgie-focal", desc: "Budgie Focal" }
-  - { tag: "budgie-bionic", desc: "Budgie Bionic" }
-  - { tag: "mate-focal", desc: "MATE Focal" }
-  - { tag: "mate-bionic", desc: "MATE Bionic" }
-  - { tag: "kylin-focal", desc: "Kylin Focal" }
-  - { tag: "kylin-bionic", desc: "Kylin Bionic" }
-
 # container parameters
 param_container_name: "{{ project_name }}"
 param_usage_include_vols: false
