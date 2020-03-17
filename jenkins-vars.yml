@@ -4,9 +4,8 @@
 project_name: docker-rdesktop
 external_type: os
 release_type: prerelease
-release_tag: icewm-focal
-ls_branch: icewm-focal
-use_qemu: true
+release_tag: icewm-bionic
+ls_branch: icewm-bionic
 repo_vars:
   - BUILD_VERSION_ARG = 'OS_VERSION'
   - LS_USER = 'linuxserver'
