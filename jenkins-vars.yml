@@ -4,8 +4,8 @@
 project_name: docker-rdesktop
 external_type: os
 release_type: prerelease
-release_tag: i3-focal
-ls_branch: i3-focal
+release_tag: i3-bionic
+ls_branch: i3-bionic
 repo_vars:
   - BUILD_VERSION_ARG = 'OS_VERSION'
   - LS_USER = 'linuxserver'
