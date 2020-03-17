@@ -21,16 +21,17 @@ development_versions_items:
   - { tag: "xfce-bionic", desc: "XFCE Bionic" }
   - { tag: "kde-focal", desc: "KDE Focal" }
   - { tag: "kde-bionic", desc: "KDE Bionic" }
-  - { tag: "lxde-focal", desc: "LXDE Focal" }
-  - { tag: "lxde-bionic", desc: "LXDE Bionic" }
-  - { tag: "budgie-focal", desc: "Budgie Focal" }
-  - { tag: "budgie-bionic", desc: "Budgie Bionic" }
   - { tag: "mate-focal", desc: "MATE Focal" }
   - { tag: "mate-bionic", desc: "MATE Bionic" }
-  - { tag: "kylin-focal", desc: "Kylin Focal" }
-  - { tag: "kylin-bionic", desc: "Kylin Bionic" }
+  - { tag: "i3-focal", desc: "i3 Focal" }
+  - { tag: "i3-bionic", desc: "i3 Bionic" }
+  - { tag: "openbox-focal", desc: "Openbox Focal" }
+  - { tag: "openbox-bionic", desc: "Openbox Bionic" }
+  - { tag: "icewm-focal", desc: "IceWM Focal" }
+  - { tag: "icewm-bionic", desc: "IceWM Bionic" }
 
 # container parameters
+privileged: "optional"
 param_container_name: "{{ project_name }}"
 param_usage_include_vols: false
 param_usage_include_ports: true
@@ -44,6 +45,8 @@ opt_param_usage_include_vols: true
 opt_param_volumes:
   - { vol_path: "/var/run/docker.sock", vol_host_path: "/var/run/docker.sock", desc: "Docker Socket on the system, if you want to use Docker in the container" }
   - { vol_path: "/config", vol_host_path: "/path/to/data", desc: "abc users home directory" }
+opt_custom_params:
+  - { name: "shm-size", name_compose: "shm_size", value: "1gb",desc: "We set this to 1 gig to prevent modern web browsers from crashing" }
 
 # application setup block
 app_setup_block_enabled: true
@@ -51,6 +54,8 @@ app_setup_block: |
   **The Default USERNAME and PASSWORD is: abc/abc**
   
   **Unlike our other containers these Desktops are not designed to be upgraded by Docker, you will keep your home directoy but anything you installed system level will be lost if you upgrade an existing container. To keep packages up to date instead use Ubuntu's own apt program**
+
+  **The KDE and i3 flavors need to be run in privileged mode to function properly**
   
   You will need a Remote Desktop client to access this container [Wikipedia List](https://en.wikipedia.org/wiki/Comparison_of_remote_desktop_software), by default it listens on 3389, but you can change that port to whatever you wish on the host side IE `3390:3389`.
   The first thing you should do when you login to the container is to change the abc users password by issuing the `passwd` command. 
