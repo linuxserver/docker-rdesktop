@@ -10,10 +10,9 @@ RUN \
  echo "**** install packages ****" && \
  apt-get update && \
  DEBIAN_FRONTEND=noninteractive \
- apt-get install -y \
+ apt-get install --no-install-recommends -y \
 	firefox \
-	i3 \
-	i3status \
+	icewm-experimental \
 	terminator && \
  echo "**** cleanup ****" && \
  apt-get autoclean && \
