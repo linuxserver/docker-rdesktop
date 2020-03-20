@@ -131,7 +131,7 @@ libacl12.2.53-5ubuntu1
 libaom01.0.0.errata1-3build1
 libapparmor12.13.3-7ubuntu2
 libappstream40.12.10-1
-libappstreamqt20.12.10-1
+libappstreamqt20.12.10-2
 libapt-pkg5.901.9.10
 libarchive133.4.0-1ubuntu2
 libargon2-10~20171227-0.2
@@ -148,7 +148,7 @@ libatk1.0-02.35.1-1ubuntu1
 libatk1.0-data2.35.1-1ubuntu1
 libatk-bridge2.0-02.34.1-2ubuntu1
 libatopology21.2.2-2.1
-libatspi2.0-02.36.0-1
+libatspi2.0-02.36.0-2
 libattr11:2.4.48-5
 libaudit11:2.8.5-2ubuntu5
 libaudit-common1:2.8.5-2ubuntu5
@@ -269,7 +269,7 @@ libgpg-error01.36-7
 libgpgme111.13.1-7ubuntu2
 libgpgmepp61.13.1-7ubuntu2
 libgpm21.20.7-5
-libgps263.20-4build1
+libgps263.20-5ubuntu1
 libgrantlee-templates55.2.0-0ubuntu1
 libgraphite2-31.3.13-11
 libgroupsock82020.01.19-1
@@ -556,7 +556,7 @@ libpowerdevilui54:5.18.3-0ubuntu1
 libprocesscore74:5.18.3-0ubuntu1
 libprocessui74:5.18.3-0ubuntu1
 libprocps72:3.3.15-2ubuntu3
-libprotobuf-lite173.6.1.3-2ubuntu4
+libprotobuf-lite173.6.1.3-2ubuntu5
 libproxy1v50.4.15-9ubuntu1
 libpsl50.20.2-2
 libpthread-stubs0-dev0.4-1
@@ -837,10 +837,10 @@ python3-cryptography2.8-3
 python3-dbus1.2.16-1build1
 python3-distro1.4.0-1
 python3-distro-info0.23ubuntu1
-python3-distupgrade1:20.04.13
+python3-distupgrade1:20.04.14
 python3-entrypoints0.3-1build1
-python3-gi3.34.0-6build1
-python3-gi-cairo3.34.0-6build1
+python3-gi3.36.0-1
+python3-gi-cairo3.36.0-1
 python3-httplib20.14.0-1
 python3-idna2.6-2build1
 python3-jwt1.7.1-2ubuntu1
@@ -920,9 +920,9 @@ terminator1.91-4
 tzdata2019c-3
 ubuntu-drivers-common1:0.8
 ubuntu-keyring2018.09.18.1
-ubuntu-mono19.04-0ubuntu2
-ubuntu-release-upgrader-core1:20.04.13
-ubuntu-release-upgrader-qt1:20.04.13
+ubuntu-mono19.04-0ubuntu3
+ubuntu-release-upgrader-core1:20.04.14
+ubuntu-release-upgrader-qt1:20.04.14
 ucf3.0038+nmu1
 udev244.3-1ubuntu1
 udisks22.8.4-1ubuntu1
