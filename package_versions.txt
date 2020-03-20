@@ -438,8 +438,8 @@ python3-certifi2019.11.28-1
 python3-chardet3.0.4-4build1
 python3-configobj5.0.6-3build1
 python3-dbus1.2.16-1build1
-python3-gi3.34.0-6build1
-python3-gi-cairo3.34.0-6build1
+python3-gi3.36.0-1
+python3-gi-cairo3.36.0-1
 python3-idna2.6-2build1
 python3-minimal3.8.0-3ubuntu1
 python3-pkg-resources45.2.0-1
