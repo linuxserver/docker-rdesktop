@@ -96,7 +96,7 @@ libcap21:2.32-1
 libcap2-bin1:2.32-1
 libcap-ng00.7.9-2.1
 libc-bin2.30-0ubuntu3
-libcolord21.4.4-1ubuntu2
+libcolord21.4.4-2
 libcom-err21.45.3-4ubuntu2
 libcryptsetup122:2.2.2-3ubuntu2
 libcups22.3.1-9ubuntu1
