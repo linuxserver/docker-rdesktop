@@ -315,7 +315,7 @@ libhunspell-1.6-01.6.2-1
 libhx509-5-heimdal7.5.0+dfsg-1
 libhyphen02.8.8-5
 libice62:1.0.9-2
-libicu6060.2-3ubuntu3
+libicu6060.2-3ubuntu3.1
 libidn111.33-2.1ubuntu1.2
 libidn2-02.0.4-1.1ubuntu0.2
 libido3-0.1-013.10.0+17.04.20161028-0ubuntu1
@@ -652,7 +652,7 @@ python2.7-minimal2.7.17-1~18.04
 python33.6.7-1~18.04
 python3.63.6.9-1~18.04
 python3.6-minimal3.6.9-1~18.04
-python3-apport2.20.9-0ubuntu7.11
+python3-apport2.20.9-0ubuntu7.12
 python3-apt1.6.5ubuntu0.2
 python3-aptdaemon1.1.1+bzr982-0ubuntu19.2
 python3-aptdaemon.gtk3widgets1.1.1+bzr982-0ubuntu19.2
@@ -672,7 +672,7 @@ python3-minimal3.6.7-1~18.04
 python3-pexpect4.2.1-1
 python3-pil5.1.0-1ubuntu0.2
 python3-pkg-resources39.0.1-2
-python3-problem-report2.20.9-0ubuntu7.11
+python3-problem-report2.20.9-0ubuntu7.12
 python3-ptyprocess0.5.2-1
 python3-reportlab3.4.0-3ubuntu0.1
 python3-reportlab-accel3.4.0-3ubuntu0.1
