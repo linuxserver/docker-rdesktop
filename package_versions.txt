@@ -29,7 +29,7 @@ distro-info-data0.43ubuntu1
 docker-ce-cli5:19.03.8~3-0~ubuntu-bionic
 dpkg1.19.7ubuntu2
 e2fsprogs1.45.3-4ubuntu2
-elementary-xfce-icon-theme0.14-1
+elementary-xfce-icon-theme0.15-1
 exo-utils0.12.11-1
 fdisk2.34-0.1ubuntu4
 findutils4.6.0+git+20190209-2ubuntu1
@@ -51,7 +51,7 @@ gir1.2-glib-2.01.64.0-1
 gir1.2-gtk-3.03.24.14-1ubuntu1
 gir1.2-packagekitglib-1.01.1.13-2build1
 gir1.2-pango-1.01.44.7-1ubuntu3
-gir1.2-vte-2.910.59.91-0ubuntu1
+gir1.2-vte-2.910.59.91-0ubuntu2
 glib-networking2.63.91-1ubuntu1
 glib-networking-common2.63.91-1ubuntu1
 glib-networking-services2.63.91-1ubuntu1
@@ -67,7 +67,7 @@ gpgv2.2.17-3ubuntu1
 gpg-wks-client2.2.17-3ubuntu1
 gpg-wks-server2.2.17-3ubuntu1
 grep3.3-1build1
-greybird-gtk-theme3.22.11-0ubuntu1
+greybird-gtk-theme3.22.12-0ubuntu1
 groff-base1.22.4-4
 gsettings-desktop-schemas3.35.91-0ubuntu1
 gtk2-engines-murrine0.98.2-3
@@ -93,7 +93,7 @@ libassuan02.5.3-7ubuntu2
 libasyncns00.8-6
 libatk1.0-02.35.1-1ubuntu1
 libatk1.0-data2.35.1-1ubuntu1
-libatk-bridge2.0-02.34.1-2ubuntu1
+libatk-bridge2.0-02.34.1-3
 libatspi2.0-02.36.0-2
 libattr11:2.4.48-5
 libaudit11:2.8.5-2ubuntu5
@@ -113,7 +113,7 @@ libcap21:2.32-1
 libcap2-bin1:2.32-1
 libcap-ng00.7.9-2.1
 libc-bin2.30-0ubuntu3
-libcolord21.4.4-1ubuntu2
+libcolord21.4.4-2
 libcom-err21.45.3-4ubuntu2
 libcryptsetup122:2.2.2-3ubuntu2
 libcups22.3.1-9ubuntu1
@@ -176,7 +176,7 @@ libgmp102:6.1.2+dfsg-4
 libgnutls303.6.11.1-2
 libgomp110-20200304-1ubuntu1
 libgpg-error01.36-7
-libgraphite2-31.3.13-11
+libgraphite2-31.3.13-11build1
 libgssapi3-heimdal7.7.0+dfsg-1
 libgssapi-krb5-21.17-6ubuntu4
 libgstreamer1.0-01.16.2-2
@@ -188,7 +188,7 @@ libgtk-3-common3.24.14-1ubuntu1
 libgtksourceview-3.0-13.24.11-2
 libgtksourceview-3.0-common3.24.11-2
 libgudev-1.0-01:233-1
-libharfbuzz0b2.6.4-1ubuntu2
+libharfbuzz0b2.6.4-1ubuntu3
 libhcrypto4-heimdal7.7.0+dfsg-1
 libheimbase1-heimdal7.7.0+dfsg-1
 libheimntlm0-heimdal7.7.0+dfsg-1
@@ -196,6 +196,7 @@ libhogweed53.5.1+really3.5.1-2
 libhx509-5-heimdal7.7.0+dfsg-1
 libice62:1.0.10-0ubuntu1
 libicu6565.1-1ubuntu2
+libicu6666.1-2ubuntu2
 libidn2-02.2.0-2
 libindicator3-716.10.0+18.04.20180321.1-0ubuntu4
 libip4tc21.8.4-3ubuntu2
@@ -238,7 +239,7 @@ libncursesw66.1+20191019-1ubuntu1
 libnettle73.5.1+really3.5.1-2
 libnewt0.520.52.21-4ubuntu2
 libnghttp2-141.40.0-1
-libnotify40.7.8-1ubuntu4
+libnotify40.7.9-1ubuntu2
 libnpth01.6-1
 libogg01.3.4-0ubuntu1
 libopus01.3.1-0ubuntu1
@@ -259,7 +260,7 @@ libpcre2-8-010.34-7
 libpcre32:8.39-12
 libpipeline11.5.2-2build1
 libpixman-1-00.38.4-0ubuntu1
-libplymouth50.9.4git20200109-0ubuntu8
+libplymouth50.9.4git20200323-0ubuntu1
 libpng16-161.6.37-2
 libpolkit-agent-1-00.105-26ubuntu1
 libpolkit-gobject-1-00.105-26ubuntu1
@@ -309,15 +310,15 @@ libstartup-notification00.12-6
 libstdc++610-20200304-1ubuntu1
 libstemmer0d0+svn585-2
 libsystemd0244.3-1ubuntu1
-libtag1v51.11.1+dfsg.1-0.3ubuntu1
-libtag1v5-vanilla1.11.1+dfsg.1-0.3ubuntu1
-libtagc01.11.1+dfsg.1-0.3ubuntu1
+libtag1v51.11.1+dfsg.1-0.3ubuntu2
+libtag1v5-vanilla1.11.1+dfsg.1-0.3ubuntu2
+libtagc01.11.1+dfsg.1-0.3ubuntu2
 libtasn1-64.15.0-2
 libtdb11.4.2-3build1
 libthai00.1.28-3
 libthai-data0.1.28-3
 libthunarx-3-01.8.12-1
-libtiff54.1.0+git191117-2
+libtiff54.1.0+git191117-2build1
 libtinfo66.1+20191019-1ubuntu1
 libuchardet00.0.6-3
 libudev1244.3-1ubuntu1
@@ -329,8 +330,8 @@ libutempter01.1.6-4
 libuuid12.34-0.1ubuntu4
 libvorbis0a1.3.6-2ubuntu1
 libvorbisenc21.3.6-2ubuntu1
-libvte-2.91-00.59.91-0ubuntu1
-libvte-2.91-common0.59.91-0ubuntu1
+libvte-2.91-00.59.91-0ubuntu2
+libvte-2.91-common0.59.91-0ubuntu2
 libvulkan11.2.131.2-1
 libwayland-client01.18.0-1
 libwayland-cursor01.18.0-1
@@ -339,8 +340,8 @@ libwayland-server01.18.0-1
 libwebp60.6.1-2
 libwebrtc-audio-processing10.3.1-0ubuntu2
 libwind0-heimdal7.7.0+dfsg-1
-libwnck-3-03.32.0-1
-libwnck-3-common3.32.0-1
+libwnck-3-03.36.0-1
+libwnck-3-common3.36.0-1
 libwrap07.6.q-30
 libx11-62:1.6.9-2
 libx11-data2:1.6.9-2
@@ -419,9 +420,9 @@ packagekit1.1.13-2build1
 passwd1:4.5-1.1ubuntu4
 perl-base5.30.0-9
 pinentry-curses1.1.0-3
-plymouth0.9.4git20200109-0ubuntu8
-plymouth-label0.9.4git20200109-0ubuntu8
-plymouth-theme-ubuntu-text0.9.4git20200109-0ubuntu8
+plymouth0.9.4git20200323-0ubuntu1
+plymouth-label0.9.4git20200323-0ubuntu1
+plymouth-theme-ubuntu-text0.9.4git20200323-0ubuntu1
 plymouth-theme-xubuntu-logo20.04
 plymouth-theme-xubuntu-text20.04
 policykit-10.105-26ubuntu1
@@ -468,7 +469,7 @@ thunar1.8.12-1
 thunar-archive-plugin0.4.0-2
 thunar-data1.8.12-1
 thunar-media-tags-plugin0.3.0-2
-tzdata2019c-3
+tzdata2019c-3ubuntu1
 ubuntu-keyring2018.09.18.1
 ubuntu-mono19.04-0ubuntu3
 ucf3.0038+nmu1
