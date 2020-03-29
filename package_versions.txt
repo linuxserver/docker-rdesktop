@@ -20,7 +20,7 @@ base-passwd3.5.44
 bash4.4.18-2ubuntu1.2
 bc1.07.1-2
 bsdmainutils11.1.2ubuntu1
-bsdutils1:2.31.1-0.4ubuntu3.5
+bsdutils1:2.31.1-0.4ubuntu3.6
 bzip21.0.6-8.1ubuntu0.2
 ca-certificates20180409
 caja1.20.2-4ubuntu1
@@ -57,7 +57,7 @@ docker-ce-cli5:19.03.8~3-0~ubuntu-bionic
 dpkg1.19.0.5ubuntu2.3
 e2fsprogs1.44.1-1ubuntu1.3
 emacsen-common2.0.8
-fdisk2.31.1-0.4ubuntu3.5
+fdisk2.31.1-0.4ubuntu3.6
 findutils4.6.0+git+20170828-2
 firefox74.0+build3-0ubuntu0.18.04.1
 fontconfig2.12.6-0ubuntu2
@@ -146,8 +146,8 @@ libapt-pkg5.01.6.12
 libarchive133.2.2-3.1ubuntu0.6
 libargon2-00~20161029-1.1
 libasn1-8-heimdal7.5.0+dfsg-1
-libasound21.1.3-5ubuntu0.2
-libasound2-data1.1.3-5ubuntu0.2
+libasound21.1.3-5ubuntu0.4
+libasound2-data1.1.3-5ubuntu0.4
 libasound2-plugins1.1.1-1ubuntu1
 libaspell150.60.7~20110707-4ubuntu0.1
 libassuan02.5.1-2
@@ -165,7 +165,7 @@ libavahi-common30.7-3.1ubuntu1.2
 libavahi-common-data0.7-3.1ubuntu1.2
 libavahi-glib10.7-3.1ubuntu1.2
 libavc1394-00.5.4-4build1
-libblkid12.31.1-0.4ubuntu3.5
+libblkid12.31.1-0.4ubuntu3.6
 libblockdev22.16-2
 libblockdev-fs22.16-2
 libblockdev-loop22.16-2
@@ -237,7 +237,7 @@ libexempi32.4.5-2
 libexif120.6.21-4ubuntu0.1
 libexpat12.2.5-3ubuntu0.2
 libext2fs21.44.1-1ubuntu1.3
-libfdisk12.31.1-0.4ubuntu3.5
+libfdisk12.31.1-0.4ubuntu3.6
 libffi63.2.1-8
 libfftw3-single33.3.7-1
 libflac81.3.2-1
@@ -263,9 +263,9 @@ libgirepository-1.0-11.56.1-1
 libgl11.0.0-2ubuntu2.3
 libgl1-mesa-dri19.2.8-0ubuntu0~18.04.3
 libglapi-mesa19.2.8-0ubuntu0~18.04.3
-libglib2.0-02.56.4-0ubuntu0.18.04.4
-libglib2.0-bin2.56.4-0ubuntu0.18.04.4
-libglib2.0-data2.56.4-0ubuntu0.18.04.4
+libglib2.0-02.56.4-0ubuntu0.18.04.6
+libglib2.0-bin2.56.4-0ubuntu0.18.04.6
+libglib2.0-data2.56.4-0ubuntu0.18.04.6
 libglib-object-introspection-perl0.044-2
 libglib-perl3:1.326-1build1
 libglu1-mesa9.0.0-2.1build1
@@ -369,7 +369,7 @@ libmate-slab01.20.2-2ubuntu1
 libmateweather11.20.0-1
 libmateweather-common1.20.0-1
 libmate-window-settings11.20.2-2ubuntu1
-libmount12.31.1-0.4ubuntu3.5
+libmount12.31.1-0.4ubuntu3.6
 libmp3lame03.100-2
 libmpc31.1.0-1
 libmpdec22.4.2-1ubuntu1
@@ -463,7 +463,7 @@ libshout32.4.1-2build1
 libsigsegv22.12-1
 libslang22.3.1a-3ubuntu1
 libsm62:1.2.2-1
-libsmartcols12.31.1-0.4ubuntu3.5
+libsmartcols12.31.1-0.4ubuntu3.6
 libsmbclient2:4.7.6+dfsg~ubuntu-0ubuntu2.15
 libsnapd-glib11.49-0ubuntu0.18.04.1
 libsndfile11.0.28-4ubuntu0.18.04.1
@@ -499,7 +499,7 @@ libunistring20.9.9-0ubuntu2
 libupower-glib30.99.7-2ubuntu0.18.04.1
 libusb-1.0-02:1.0.21-2
 libusbmuxd41.1.0~git20171206.c724e70f-0.1
-libuuid12.31.1-0.4ubuntu3.5
+libuuid12.31.1-0.4ubuntu3.6
 libv4l-01.14.2-1
 libv4lconvert01.14.2-1
 libvisual-0.4-00.4.0-11
@@ -620,7 +620,7 @@ mate-utils-common1.20.0-0ubuntu1
 mawk1.3.3-17ubuntu3
 menu-xdg0.5
 mime-support3.60ubuntu1
-mount2.31.1-0.4ubuntu3.5
+mount2.31.1-0.4ubuntu3.6
 multiarch-support2.27-3ubuntu1
 ncurses-base6.1-1ubuntu1.18.04
 ncurses-bin6.1-1ubuntu1.18.04
@@ -694,7 +694,7 @@ python-minimal2.7.15~rc1-1
 python-psutil5.4.2-1ubuntu0.1
 python-talloc2.1.10-2ubuntu1
 readline-common7.0-3
-rfkill2.31.1-0.4ubuntu3.5
+rfkill2.31.1-0.4ubuntu3.6
 samba-libs2:4.7.6+dfsg~ubuntu-0ubuntu2.15
 sed4.4-2
 sensible-utils0.0.12
@@ -738,7 +738,7 @@ update-notifier3.192.1.7
 update-notifier-common3.192.1.7
 upower0.99.7-2ubuntu0.18.04.1
 usbutils1:007-4build1
-util-linux2.31.1-0.4ubuntu3.5
+util-linux2.31.1-0.4ubuntu3.6
 wget1.19.4-1ubuntu2.2
 whiptail0.52.20-1ubuntu1
 wireless-tools30~pre9-12ubuntu1
