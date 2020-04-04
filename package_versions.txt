@@ -39,7 +39,7 @@ dpkg1.19.0.5ubuntu2.3
 e2fsprogs1.44.1-1ubuntu1.3
 fdisk2.31.1-0.4ubuntu3.6
 findutils4.6.0+git+20170828-2
-firefox74.0+build3-0ubuntu0.18.04.1
+firefox74.0.1+build1-0ubuntu0.18.04.1
 fontconfig2.12.6-0ubuntu2
 fontconfig-config2.12.6-0ubuntu2
 fonts-dejavu-core2.37-1
@@ -49,7 +49,7 @@ foomatic-db-compressed-ppds20180306-1
 frameworkintegration5.44.0-0ubuntu1
 gawk1:4.1.4+dfsg-1build1
 gcc-7-base7.5.0-3ubuntu1~18.04
-gcc-8-base8.3.0-26ubuntu1~18.04
+gcc-8-base8.4.0-1ubuntu1~18.04
 gdb8.1-0ubuntu3.2
 gdisk1.0.3-1
 genisoimage9:1.1.11-3ubuntu2
@@ -234,7 +234,7 @@ libfreetype62.8.1-2ubuntu2
 libfribidi00.19.7-2
 libfuse22.9.7-1ubuntu1
 libgbm119.2.8-0ubuntu0~18.04.3
-libgcc11:8.3.0-26ubuntu1~18.04
+libgcc11:8.4.0-1ubuntu1~18.04
 libgcrypt201.8.1-4ubuntu1.2
 libgdbm51.14.1-6
 libgdbm-compat41.14.1-6
@@ -255,7 +255,7 @@ libglx-mesa019.2.8-0ubuntu0~18.04.3
 libgme00.6.2-1
 libgmp102:6.1.2+dfsg-2
 libgnutls303.5.18-1ubuntu1.3
-libgomp18.3.0-26ubuntu1~18.04
+libgomp18.4.0-1ubuntu1~18.04
 libgpg-error01.27-6
 libgpgme111.10.0-1ubuntu2
 libgpgmepp61.10.0-1ubuntu2
@@ -638,7 +638,7 @@ libssh2-11.8.0-1
 libssh-40.8.0~20170825.94fa1e38-1ubuntu0.5
 libssh-gcrypt-40.8.0~20170825.94fa1e38-1ubuntu0.5
 libssl1.11.1.1-1ubuntu2.1~18.04.5
-libstdc++68.3.0-26ubuntu1~18.04
+libstdc++68.4.0-1ubuntu1~18.04
 libstemmer0d0+svn585-1build1
 libswresample27:3.4.6-0ubuntu0.18.04.1
 libswscale47:3.4.6-0ubuntu0.18.04.1
@@ -810,7 +810,7 @@ python2.7-minimal2.7.17-1~18.04
 python33.6.7-1~18.04
 python3.63.6.9-1~18.04
 python3.6-minimal3.6.9-1~18.04
-python3-apport2.20.9-0ubuntu7.12
+python3-apport2.20.9-0ubuntu7.14
 python3-apt1.6.5ubuntu0.2
 python3-certifi2018.1.18-2
 python3-chardet3.0.4-1
@@ -820,11 +820,11 @@ python3-httplib20.9.2+dfsg-1ubuntu0.1
 python3-idna2.6-1
 python3-minimal3.6.7-1~18.04
 python3-pkg-resources39.0.1-2
-python3-problem-report2.20.9-0ubuntu7.12
+python3-problem-report2.20.9-0ubuntu7.14
 python3-pyqt55.10.1+dfsg-1ubuntu2
 python3-requests2.18.4-2ubuntu0.1
 python3-requests-unixsocket0.1.5-3
-python3-sip4.19.7+dfsg-1
+python3-sip4.19.7+dfsg-1ubuntu0.1
 python3-six1.11.0-2
 python3-software-properties0.96.24.32.12
 python3-urllib31.22-1ubuntu0.18.04.1
