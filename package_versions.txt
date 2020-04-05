@@ -59,7 +59,7 @@ e2fsprogs1.44.1-1ubuntu1.3
 emacsen-common2.0.8
 fdisk2.31.1-0.4ubuntu3.6
 findutils4.6.0+git+20170828-2
-firefox74.0+build3-0ubuntu0.18.04.1
+firefox74.0.1+build1-0ubuntu0.18.04.1
 fontconfig2.12.6-0ubuntu2
 fontconfig-config2.12.6-0ubuntu2
 fonts-dejavu-core2.37-1
@@ -68,7 +68,7 @@ fonts-ubuntu0.83-2
 foomatic-db-compressed-ppds20180306-1
 gawk1:4.1.4+dfsg-1build1
 gcc-7-base7.5.0-3ubuntu1~18.04
-gcc-8-base8.3.0-26ubuntu1~18.04
+gcc-8-base8.4.0-1ubuntu1~18.04
 gdisk1.0.3-1
 genisoimage9:1.1.11-3ubuntu2
 gettext-base0.19.8.1-6ubuntu0.3
@@ -80,7 +80,7 @@ gir1.2-gdkpixbuf-2.02.36.11-2
 gir1.2-glib-2.01.56.1-1
 gir1.2-goa-1.03.28.0-0ubuntu2.1
 gir1.2-gtk-3.03.22.30-1ubuntu4
-gir1.2-javascriptcoregtk-4.02.26.4-0ubuntu0.18.04.1
+gir1.2-javascriptcoregtk-4.02.28.0-0ubuntu0.18.04.3
 gir1.2-mate-panel1.20.1-3ubuntu1
 gir1.2-matepanelapplet-4.01.20.1-3ubuntu1
 gir1.2-packagekitglib-1.01.1.9-1ubuntu2.18.04.5
@@ -88,7 +88,7 @@ gir1.2-pango-1.01.40.14-1ubuntu0.1
 gir1.2-snapd-11.49-0ubuntu0.18.04.1
 gir1.2-soup-2.42.62.1-1ubuntu0.4
 gir1.2-vte-2.910.52.2-1ubuntu1~18.04.2
-gir1.2-webkit2-4.02.26.4-0ubuntu0.18.04.1
+gir1.2-webkit2-4.02.28.0-0ubuntu0.18.04.3
 glib-networking2.56.0-1
 glib-networking-common2.56.0-1
 glib-networking-services2.56.0-1
@@ -248,11 +248,11 @@ libfreetype62.8.1-2ubuntu2
 libfuse22.9.7-1ubuntu1
 libgail-3-03.22.30-1ubuntu4
 libgbm119.2.8-0ubuntu0~18.04.3
-libgcc11:8.3.0-26ubuntu1~18.04
+libgcc11:8.4.0-1ubuntu1~18.04
 libgck-1-03.28.0-1
 libgcr-base-3-13.28.0-1
 libgcrypt201.8.1-4ubuntu1.2
-libgd32.2.5-4ubuntu0.3
+libgd32.2.5-4ubuntu0.4
 libgdata220.17.9-2
 libgdata-common0.17.9-2
 libgdbm51.14.1-6
@@ -278,7 +278,7 @@ libgnome-keyring-common3.12.0-1build1
 libgnutls303.5.18-1ubuntu1.3
 libgoa-1.0-0b3.28.0-0ubuntu2.1
 libgoa-1.0-common3.28.0-0ubuntu2.1
-libgomp18.3.0-26ubuntu1~18.04
+libgomp18.4.0-1ubuntu1~18.04
 libgpg-error01.27-6
 libgphoto2-62.5.16-2
 libgphoto2-port122.5.16-2
@@ -329,7 +329,7 @@ libisl190.19-1
 libiw3030~pre9-12ubuntu1
 libjack-jackd2-01.9.12~dfsg-2
 libjansson42.11-1
-libjavascriptcoregtk-4.0-182.26.4-0ubuntu0.18.04.1
+libjavascriptcoregtk-4.0-182.28.0-0ubuntu0.18.04.3
 libjbig02.1-3.1build1
 libjbig2dec00.13-6
 libjpeg88c-2ubuntu8
@@ -477,7 +477,7 @@ libsqlite3-03.22.0-1ubuntu0.3
 libss21.44.1-1ubuntu1.3
 libssl1.11.1.1-1ubuntu2.1~18.04.5
 libstartup-notification00.12-5
-libstdc++68.3.0-26ubuntu1~18.04
+libstdc++68.4.0-1ubuntu1~18.04
 libsystemd0237-3ubuntu10.39
 libtag1v51.11.1+dfsg.1-0.2build2
 libtag1v5-vanilla1.11.1+dfsg.1-0.2build2
@@ -515,7 +515,7 @@ libwayland-cursor01.16.0-1ubuntu1.1~18.04.3
 libwayland-egl11.16.0-1ubuntu1.1~18.04.3
 libwayland-server01.16.0-1ubuntu1.1~18.04.3
 libwbclient02:4.7.6+dfsg~ubuntu-0ubuntu2.15
-libwebkit2gtk-4.0-372.26.4-0ubuntu0.18.04.1
+libwebkit2gtk-4.0-372.28.0-0ubuntu0.18.04.3
 libwebp60.6.1-2
 libwebpdemux20.6.1-2
 libwebpmux30.6.1-2
@@ -652,7 +652,7 @@ python2.7-minimal2.7.17-1~18.04
 python33.6.7-1~18.04
 python3.63.6.9-1~18.04
 python3.6-minimal3.6.9-1~18.04
-python3-apport2.20.9-0ubuntu7.12
+python3-apport2.20.9-0ubuntu7.14
 python3-apt1.6.5ubuntu0.2
 python3-aptdaemon1.1.1+bzr982-0ubuntu19.2
 python3-aptdaemon.gtk3widgets1.1.1+bzr982-0ubuntu19.2
@@ -672,7 +672,7 @@ python3-minimal3.6.7-1~18.04
 python3-pexpect4.2.1-1
 python3-pil5.1.0-1ubuntu0.2
 python3-pkg-resources39.0.1-2
-python3-problem-report2.20.9-0ubuntu7.12
+python3-problem-report2.20.9-0ubuntu7.14
 python3-ptyprocess0.5.2-1
 python3-reportlab3.4.0-3ubuntu0.1
 python3-reportlab-accel3.4.0-3ubuntu0.1
