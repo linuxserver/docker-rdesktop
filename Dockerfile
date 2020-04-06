@@ -12,8 +12,9 @@ RUN \
  DEBIAN_FRONTEND=noninteractive \
  apt-get install --no-install-recommends -y \
 	firefox \
-	terminator \
-	kubuntu-desktop && \
+	kmix \
+	kubuntu-desktop 
+	terminator && \
  echo "**** cleanup ****" && \
  apt-get autoclean && \
  rm -rf \
