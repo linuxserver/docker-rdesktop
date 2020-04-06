@@ -104,6 +104,7 @@ kio5.44.0-0ubuntu1
 kio-extras4:17.12.3-0ubuntu2
 kio-extras-data4:17.12.3-0ubuntu2
 kmenuedit4:5.12.8-0ubuntu0.1
+kmix4:17.12.3-0ubuntu1
 kmod24-1ubuntu3.2
 kpackagetool55.44.0-0ubuntu1
 krb5-locales1.16-2ubuntu0.1
