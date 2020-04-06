@@ -13,7 +13,7 @@ RUN \
  apt-get install --no-install-recommends -y \
 	firefox \
 	kmix \
-	kubuntu-desktop 
+	kubuntu-desktop \
 	terminator && \
  echo "**** cleanup ****" && \
  apt-get autoclean && \
