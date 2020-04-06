@@ -94,6 +94,7 @@ libasyncns00.8-6
 libatk1.0-02.35.1-1ubuntu1
 libatk1.0-data2.35.1-1ubuntu1
 libatk-bridge2.0-02.34.1-3
+libatkmm-1.6-1v52.28.0-2build1
 libatspi2.0-02.36.0-2
 libattr11:2.4.48-5
 libaudit11:2.8.5-2ubuntu5
@@ -109,6 +110,9 @@ libbz2-1.01.0.8-2
 libc62.30-0ubuntu3
 libcairo21.16.0-4ubuntu1
 libcairo-gobject21.16.0-4ubuntu1
+libcairomm-1.0-1v51.12.2-4build1
+libcanberra00.30-7ubuntu1
+libcanberra-gtk3-00.30-7ubuntu1
 libcap21:2.32-1
 libcap2-bin1:2.32-1
 libcap-ng00.7.9-2.1
@@ -169,6 +173,7 @@ libglapi-mesa20.0.0-1ubuntu1
 libglib2.0-02.64.0-1
 libglib2.0-bin2.64.0-1
 libglib2.0-data2.64.0-1
+libglibmm-2.4-1v52.64.2-1
 libglvnd01.3.1-1
 libglx01.3.1-1
 libglx-mesa020.0.0-1ubuntu1
@@ -185,6 +190,7 @@ libgtk2.0-02.24.32-4ubuntu4
 libgtk2.0-common2.24.32-4ubuntu4
 libgtk-3-03.24.14-1ubuntu1
 libgtk-3-common3.24.14-1ubuntu1
+libgtkmm-3.0-1v53.24.2-1build1
 libgtksourceview-3.0-13.24.11-2
 libgtksourceview-3.0-common3.24.11-2
 libgudev-1.0-01:233-1
@@ -254,6 +260,7 @@ libpam-systemd244.3-1ubuntu1
 libpango-1.0-01.44.7-2ubuntu2
 libpangocairo-1.0-01.44.7-2ubuntu2
 libpangoft2-1.0-01.44.7-2ubuntu2
+libpangomm-1.4-1v52.42.0-2build1
 libpangoxft-1.0-01.44.7-2ubuntu2
 libpciaccess00.16-0ubuntu1
 libpcre2-8-010.34-7
@@ -292,6 +299,7 @@ libsemanage-common3.0-1
 libsensors51:3.6.0-2ubuntu1
 libsensors-config1:3.6.0-2ubuntu1
 libsepol13.0-1
+libsigc++-2.0-0v52.10.2-1build1
 libsigsegv22.12-2
 libslang22.3.2-4
 libsm62:1.2.3-1
@@ -329,6 +337,7 @@ libutempter01.1.6-4
 libuuid12.34-0.1ubuntu4
 libvorbis0a1.3.6-2ubuntu1
 libvorbisenc21.3.6-2ubuntu1
+libvorbisfile31.3.6-2ubuntu1
 libvte-2.91-00.60.0-2ubuntu2
 libvte-2.91-common0.60.0-2ubuntu2
 libvulkan11.2.131.2-1
@@ -417,6 +426,7 @@ numix-gtk-theme2.6.7-5
 openssl1.1.1d-2ubuntu6
 packagekit1.1.13-2build1
 passwd1:4.5-1.1ubuntu4
+pavucontrol4.0-1build1
 perl-base5.30.0-9
 pinentry-curses1.1.0-3
 plymouth0.9.4git20200323-0ubuntu5
@@ -457,6 +467,7 @@ sensible-utils0.0.12+nmu1
 shared-mime-info1.15-1
 shimmer-themes2.1.3
 software-properties-common0.98.7
+sound-theme-freedesktop0.8-2ubuntu1
 ssl-cert1.0.39
 sudo1.8.31-1ubuntu1
 systemd244.3-1ubuntu1
