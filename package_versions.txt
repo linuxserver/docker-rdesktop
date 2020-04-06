@@ -107,14 +107,14 @@ libblkid12.34-0.1ubuntu4
 libbrotli11.0.7-6build1
 libbsd00.10.0-1
 libbz2-1.01.0.8-2
-libc62.31-0ubuntu6
+libc62.31-0ubuntu7
 libcairo21.16.0-4ubuntu1
 libcairo-gobject21.16.0-4ubuntu1
 libcanberra00.30-7ubuntu1
 libcap21:2.32-1
 libcap2-bin1:2.32-1
 libcap-ng00.7.9-2.1
-libc-bin2.31-0ubuntu6
+libc-bin2.31-0ubuntu7
 libcolord21.4.4-2
 libcom-err21.45.3-4ubuntu2
 libcommon-sense-perl3.74-2build6
@@ -129,8 +129,8 @@ libdatrie10.2.12-3
 libdb5.35.3.28+dfsg1-0.6ubuntu1
 libdbus-1-31.12.16-2ubuntu2
 libdbus-glib-1-20.110-5fakssync1
-libdbusmenu-glib416.04.1+18.10.20180917-0ubuntu5
-libdbusmenu-gtk3-416.04.1+18.10.20180917-0ubuntu5
+libdbusmenu-glib416.04.1+18.10.20180917-0ubuntu6
+libdbusmenu-gtk3-416.04.1+18.10.20180917-0ubuntu6
 libdconf10.36.0-1
 libdebconfclient00.250ubuntu2
 libdevmapper1.02.12:1.02.167-1ubuntu1
@@ -427,7 +427,7 @@ libxxf86vm11:1.1.4-1build1
 libyajl22.1.0-3
 libyaml-0-20.2.2-1
 libzstd11.4.4+dfsg-1
-locales2.31-0ubuntu6
+locales2.31-0ubuntu7
 login1:4.5-1.1ubuntu4
 logsave1.45.3-4ubuntu2
 lsb-base11.1.0ubuntu2
