@@ -156,6 +156,7 @@ libatasmart40.19-4
 libatk1.0-02.28.1-1
 libatk1.0-data2.28.1-1
 libatk-bridge2.0-02.26.2-1
+libatkmm-1.6-1v52.24.2-3
 libatspi2.0-02.28.0-1
 libattr11:2.4.47-2build1
 libaudit11:2.8.2-1ubuntu1
@@ -181,6 +182,7 @@ libcaca00.99.beta19-2ubuntu0.18.04.1
 libcairo21.15.10-2ubuntu0.1
 libcairo-gobject21.15.10-2ubuntu0.1
 libcairo-gobject-perl1.004-2build3
+libcairomm-1.0-1v51.12.2-3
 libcairo-perl1.106-2build2
 libcaja-extension11.20.2-4ubuntu1
 libcanberra00.30-5ubuntu1
@@ -266,6 +268,7 @@ libglapi-mesa19.2.8-0ubuntu0~18.04.3
 libglib2.0-02.56.4-0ubuntu0.18.04.6
 libglib2.0-bin2.56.4-0ubuntu0.18.04.6
 libglib2.0-data2.56.4-0ubuntu0.18.04.6
+libglibmm-2.4-1v52.56.0-1
 libglib-object-introspection-perl0.044-2
 libglib-perl3:1.326-1build1
 libglu1-mesa9.0.0-2.1build1
@@ -297,6 +300,7 @@ libgtk2.0-common2.24.32-1ubuntu1
 libgtk-3-03.22.30-1ubuntu4
 libgtk-3-common3.22.30-1ubuntu4
 libgtk3-perl0.032-1
+libgtkmm-3.0-1v53.22.2-2
 libgtksourceview-3.0-13.24.7-1
 libgtksourceview-3.0-common3.24.7-1
 libgtop-2.0-112.38.0-2ubuntu0.18.04.1
@@ -404,6 +408,7 @@ libpam-systemd237-3ubuntu10.39
 libpango-1.0-01.40.14-1ubuntu0.1
 libpangocairo-1.0-01.40.14-1ubuntu0.1
 libpangoft2-1.0-01.40.14-1ubuntu0.1
+libpangomm-1.4-1v52.40.1-4
 libpangoxft-1.0-01.40.14-1ubuntu0.1
 libpaper11.1.24+nmu5ubuntu1
 libparted23.2-20ubuntu0.2
@@ -460,6 +465,7 @@ libsemanage-common2.7-2build2
 libsensors41:3.4.0-4
 libsepol12.7-1
 libshout32.4.1-2build1
+libsigc++-2.0-0v52.10.0-2
 libsigsegv22.12-1
 libslang22.3.1a-3ubuntu1
 libsm62:1.2.2-1
@@ -629,6 +635,7 @@ openssl1.1.1-1ubuntu2.1~18.04.5
 parted3.2-20ubuntu0.2
 passwd1:4.5-1ubuntu2
 patch2.7.6-2ubuntu1.1
+pavucontrol3.0-4
 pciutils1:3.5.2-1ubuntu1.1
 perl5.26.1-6ubuntu0.3
 perl-base5.26.1-6ubuntu0.3
