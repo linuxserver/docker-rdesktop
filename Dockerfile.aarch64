@@ -14,6 +14,7 @@ RUN \
 	firefox \
 	mate-applets \
 	mate-applet-brisk-menu \
+	pavucontrol \
 	terminator \
 	ubuntu-mate-artwork \
 	ubuntu-mate-default-settings \
