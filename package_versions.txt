@@ -61,8 +61,8 @@ e2fsprogs1.45.3-4ubuntu2
 emacsen-common3.0.4
 fdisk2.34-0.1ubuntu4
 findutils4.6.0+git+20190209-2ubuntu1
-firefox74.0+build3-0ubuntu1
-fontconfig2.13.1-2ubuntu2
+firefox75.0+build3-0ubuntu1
+fontconfig2.13.1-2ubuntu3
 fontconfig-config2.13.1-2ubuntu2
 fonts-dejavu-core2.37-1
 fonts-freefont-ttf20120503-10
@@ -312,8 +312,8 @@ libgucharmap-2-90-71:13.0.1-1
 libgudev-1.0-01:233-1
 libgutenprint95.3.3-4
 libgutenprint-common5.3.3-4
-libharfbuzz0b2.6.4-1ubuntu3
-libharfbuzz-icu02.6.4-1ubuntu3
+libharfbuzz0b2.6.4-1ubuntu4
+libharfbuzz-icu02.6.4-1ubuntu4
 libhcrypto4-heimdal7.7.0+dfsg-1
 libheimbase1-heimdal7.7.0+dfsg-1
 libheimntlm0-heimdal7.7.0+dfsg-1
@@ -711,7 +711,7 @@ python3-simplejson3.16.0-2ubuntu2
 python3-six1.14.0-2
 python3-software-properties0.98.7
 python3-talloc2.3.0-3ubuntu1
-python3-update-manager1:20.04.1
+python3-update-manager1:20.04.4
 python3-urllib31.25.8-1
 python3-wadllib1.3.3-3build1
 python3-xkit0.5.0ubuntu4
@@ -754,8 +754,8 @@ ucf3.0038+nmu1
 udev244.3-1ubuntu1
 udisks22.8.4-1ubuntu1
 unzip6.0-25ubuntu1
-update-manager1:20.04.1
-update-manager-core1:20.04.1
+update-manager1:20.04.4
+update-manager-core1:20.04.4
 update-notifier3.192.30
 update-notifier-common3.192.30
 upower0.99.11-1build2
