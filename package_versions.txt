@@ -29,8 +29,8 @@ dpkg1.19.7ubuntu2
 e2fsprogs1.45.3-4ubuntu2
 fdisk2.34-0.1ubuntu4
 findutils4.6.0+git+20190209-2ubuntu1
-firefox74.0+build3-0ubuntu1
-fontconfig2.13.1-2ubuntu2
+firefox75.0+build3-0ubuntu1
+fontconfig2.13.1-2ubuntu3
 fontconfig-config2.13.1-2ubuntu2
 fonts-dejavu-core2.37-1
 gawk1:5.0.1+dfsg-1
@@ -40,10 +40,10 @@ gir1.2-atk-1.02.35.1-1ubuntu1
 gir1.2-freedesktop1.64.0-2
 gir1.2-gdkpixbuf-2.02.40.0+dfsg-3
 gir1.2-glib-2.01.64.0-2
-gir1.2-gtk-3.03.24.14-1ubuntu1
+gir1.2-gtk-3.03.24.17-3ubuntu1
 gir1.2-packagekitglib-1.01.1.13-2build1
 gir1.2-pango-1.01.44.7-2ubuntu2
-gir1.2-vte-2.910.60.0-2ubuntu2
+gir1.2-vte-2.910.60.1-1ubuntu1
 glib-networking2.63.91-1ubuntu1
 glib-networking-common2.63.91-1ubuntu1
 glib-networking-services2.63.91-1ubuntu1
@@ -61,7 +61,7 @@ gpg-wks-server2.2.17-3ubuntu1
 grep3.3-1build1
 groff-base1.22.4-4
 gsettings-desktop-schemas3.35.91-0ubuntu1
-gtk-update-icon-cache3.24.14-1ubuntu1
+gtk-update-icon-cache3.24.17-3ubuntu1
 gzip1.10-0ubuntu4
 hicolor-icon-theme0.17-2
 hostname3.23
@@ -167,9 +167,9 @@ libgssapi3-heimdal7.7.0+dfsg-1
 libgssapi-krb5-21.17-6ubuntu4
 libgstreamer1.0-01.16.2-2
 libgstreamer-plugins-base1.0-01.16.2-2ubuntu4
-libgtk-3-03.24.14-1ubuntu1
-libgtk-3-common3.24.14-1ubuntu1
-libharfbuzz0b2.6.4-1ubuntu3
+libgtk-3-03.24.17-3ubuntu1
+libgtk-3-common3.24.17-3ubuntu1
+libharfbuzz0b2.6.4-1ubuntu4
 libhcrypto4-heimdal7.7.0+dfsg-1
 libheimbase1-heimdal7.7.0+dfsg-1
 libheimntlm0-heimdal7.7.0+dfsg-1
@@ -247,8 +247,8 @@ libpython3-stdlib3.8.0-3ubuntu1
 libreadline88.0-4
 librest-0.7-00.8.1-1
 libroken18-heimdal7.7.0+dfsg-1
-librsvg2-22.48.0-1
-librsvg2-common2.48.0-1
+librsvg2-22.48.2-1
+librsvg2-common2.48.2-1
 librtmp12.4+20151223.gitfa8646d.1-2build1
 libsamplerate00.1.9-2
 libsasl2-22.1.27+dfsg-2
@@ -290,8 +290,8 @@ libunwind81.2.1-9
 libuuid12.34-0.1ubuntu4
 libvorbis0a1.3.6-2ubuntu1
 libvorbisenc21.3.6-2ubuntu1
-libvte-2.91-00.60.0-2ubuntu2
-libvte-2.91-common0.60.0-2ubuntu2
+libvte-2.91-00.60.1-1ubuntu1
+libvte-2.91-common0.60.1-1ubuntu1
 libvulkan11.2.131.2-1
 libwayland-client01.18.0-1
 libwayland-cursor01.18.0-1
