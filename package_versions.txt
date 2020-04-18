@@ -43,10 +43,10 @@ gir1.2-freedesktop1.64.0-2
 gir1.2-gdkpixbuf-2.02.40.0+dfsg-3
 gir1.2-glib-2.01.64.0-2
 gir1.2-gtk-3.03.24.17-3ubuntu1
-gir1.2-keybinder-3.00.3.2-1
+gir1.2-keybinder-3.00.3.2-1ubuntu1
 gir1.2-notify-0.70.7.9-1ubuntu2
 gir1.2-packagekitglib-1.01.1.13-2build1
-gir1.2-pango-1.01.44.7-2ubuntu2
+gir1.2-pango-1.01.44.7-2ubuntu3
 gir1.2-vte-2.910.60.1-1ubuntu1
 glib-networking2.63.91-1ubuntu1
 glib-networking-common2.63.91-1ubuntu1
@@ -100,9 +100,9 @@ libattr11:2.4.48-5
 libaudit11:2.8.5-2ubuntu5
 libaudit-common1:2.8.5-2ubuntu5
 libauthen-sasl-perl2.1600-1
-libavahi-client30.7-4ubuntu6
-libavahi-common30.7-4ubuntu6
-libavahi-common-data0.7-4ubuntu6
+libavahi-client30.7-4ubuntu7
+libavahi-common30.7-4ubuntu7
+libavahi-common-data0.7-4ubuntu7
 libblkid12.34-0.1ubuntu4
 libbrotli11.0.7-6build1
 libbsd00.10.0-1
@@ -231,7 +231,7 @@ libjson-glib-1.0-01.4.4-2ubuntu1
 libjson-glib-1.0-common1.4.4-2ubuntu1
 libjson-xs-perl4.020-1build1
 libk5crypto31.17-6ubuntu4
-libkeybinder-3.0-00.3.2-1
+libkeybinder-3.0-00.3.2-1ubuntu1
 libkeyutils11.6-6ubuntu1
 libkmod227-1ubuntu1
 libkrb5-26-heimdal7.7.0+dfsg-1
@@ -276,10 +276,10 @@ libpam-modules1.3.1-5ubuntu4
 libpam-modules-bin1.3.1-5ubuntu4
 libpam-runtime1.3.1-5ubuntu4
 libpam-systemd244.3-1ubuntu1
-libpango-1.0-01.44.7-2ubuntu2
-libpangocairo-1.0-01.44.7-2ubuntu2
-libpangoft2-1.0-01.44.7-2ubuntu2
-libpangoxft-1.0-01.44.7-2ubuntu2
+libpango-1.0-01.44.7-2ubuntu3
+libpangocairo-1.0-01.44.7-2ubuntu3
+libpangoft2-1.0-01.44.7-2ubuntu3
+libpangoxft-1.0-01.44.7-2ubuntu3
 libpciaccess00.16-0ubuntu1
 libpcre2-8-010.34-7
 libpcre32:8.39-12
@@ -459,7 +459,7 @@ python3-apt1.9.7
 python3-cairo1.16.2-2ubuntu2
 python3-certifi2019.11.28-1
 python3-chardet3.0.4-4build1
-python3-configobj5.0.6-3build1
+python3-configobj5.0.6-4
 python3-dbus1.2.16-1build1
 python3-gi3.36.0-1
 python3-gi-cairo3.36.0-1
@@ -486,7 +486,7 @@ systemd244.3-1ubuntu1
 systemd-sysv244.3-1ubuntu1
 sysvinit-utils2.96-1ubuntu1
 tar1.30+dfsg-6
-terminator1.91-4
+terminator1.91-4ubuntu1
 tzdata2019c-3ubuntu1
 ubuntu-keyring2018.09.18.1
 ubuntu-mono19.04-0ubuntu3
