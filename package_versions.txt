@@ -82,9 +82,9 @@ libatspi2.0-02.36.0-2
 libattr11:2.4.48-5
 libaudit11:2.8.5-2ubuntu5
 libaudit-common1:2.8.5-2ubuntu5
-libavahi-client30.7-4ubuntu6
-libavahi-common30.7-4ubuntu6
-libavahi-common-data0.7-4ubuntu6
+libavahi-client30.7-4ubuntu7
+libavahi-common30.7-4ubuntu7
+libavahi-common-data0.7-4ubuntu7
 libblkid12.34-0.1ubuntu4
 libbrotli11.0.7-6build1
 libbsd00.10.0-1
@@ -216,10 +216,10 @@ libpam-modules1.3.1-5ubuntu4
 libpam-modules-bin1.3.1-5ubuntu4
 libpam-runtime1.3.1-5ubuntu4
 libpam-systemd244.3-1ubuntu1
-libpango-1.0-01.44.7-2ubuntu2
-libpangocairo-1.0-01.44.7-2ubuntu2
-libpangoft2-1.0-01.44.7-2ubuntu2
-libpangoxft-1.0-01.44.7-2ubuntu2
+libpango-1.0-01.44.7-2ubuntu3
+libpangocairo-1.0-01.44.7-2ubuntu3
+libpangoft2-1.0-01.44.7-2ubuntu3
+libpangoxft-1.0-01.44.7-2ubuntu3
 libpciaccess00.16-0ubuntu1
 libpcre2-8-010.34-7
 libpcre32:8.39-12
@@ -234,7 +234,7 @@ libpsl50.20.2-2
 libpthread-stubs0-dev0.4-1
 libpulse01:13.99.1-1ubuntu1
 libpulsedsp1:13.99.1-1ubuntu1
-libpython2.7-minimal2.7.17-1ubuntu6
+libpython2.7-minimal2.7.18~rc1-2
 libpython3.8-minimal3.8.2-1
 libpython3.8-stdlib3.8.2-1
 libpython3-stdlib3.8.0-3ubuntu1
@@ -364,7 +364,7 @@ procps2:3.3.15-2ubuntu3
 publicsuffix20200201.2258-1
 pulseaudio1:13.99.1-1ubuntu1
 pulseaudio-utils1:13.99.1-1ubuntu1
-python2.7-minimal2.7.17-1ubuntu6
+python2.7-minimal2.7.18~rc1-2
 python2-minimal2.7.17-2ubuntu4
 python33.8.0-3ubuntu1
 python3.83.8.2-1
