@@ -42,7 +42,7 @@ gir1.2-gdkpixbuf-2.02.40.0+dfsg-3
 gir1.2-glib-2.01.64.0-2
 gir1.2-gtk-3.03.24.18-1ubuntu1
 gir1.2-packagekitglib-1.01.1.13-2build1
-gir1.2-pango-1.01.44.7-2ubuntu3
+gir1.2-pango-1.01.44.7-2ubuntu4
 gir1.2-vte-2.910.60.1-1ubuntu1
 glib-networking2.63.91-1ubuntu1
 glib-networking-common2.63.91-1ubuntu1
@@ -223,10 +223,10 @@ libpam-modules1.3.1-5ubuntu4
 libpam-modules-bin1.3.1-5ubuntu4
 libpam-runtime1.3.1-5ubuntu4
 libpam-systemd244.3-1ubuntu1
-libpango-1.0-01.44.7-2ubuntu3
-libpangocairo-1.0-01.44.7-2ubuntu3
-libpangoft2-1.0-01.44.7-2ubuntu3
-libpangoxft-1.0-01.44.7-2ubuntu3
+libpango-1.0-01.44.7-2ubuntu4
+libpangocairo-1.0-01.44.7-2ubuntu4
+libpangoft2-1.0-01.44.7-2ubuntu4
+libpangoxft-1.0-01.44.7-2ubuntu4
 libpciaccess00.16-0ubuntu1
 libpcre2-8-010.34-7
 libpcre32:8.39-12
