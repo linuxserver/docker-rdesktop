@@ -105,7 +105,7 @@ kio-extras4:17.12.3-0ubuntu2
 kio-extras-data4:17.12.3-0ubuntu2
 kmenuedit4:5.12.8-0ubuntu0.1
 kmix4:17.12.3-0ubuntu1
-kmod24-1ubuntu3.2
+kmod24-1ubuntu3.3
 kpackagetool55.44.0-0ubuntu1
 krb5-locales1.16-2ubuntu0.1
 ksysguard4:5.12.9-0ubuntu0.1
@@ -185,8 +185,8 @@ libcom-err21.44.1-1ubuntu1.3
 libcroco30.6.12-2
 libcryptsetup122:2.0.2-1ubuntu1.1
 libcrystalhd31:0.0~git20110715.fdd2f19-12
-libcups22.2.7-1ubuntu2.7
-libcupsimage22.2.7-1ubuntu2.7
+libcups22.2.7-1ubuntu2.8
+libcupsimage22.2.7-1ubuntu2.8
 libcurl3-gnutls7.58.0-2ubuntu3.8
 libcurl47.58.0-2ubuntu3.8
 libdatrie10.2.10-7
@@ -438,7 +438,7 @@ libkf5xmlgui-bin5.44.0-0ubuntu2
 libkf5xmlgui-data5.44.0-0ubuntu2
 libkfontinst54:5.12.9.1-0ubuntu0.1
 libkfontinstui54:5.12.9.1-0ubuntu0.1
-libkmod224-1ubuntu3.2
+libkmod224-1ubuntu3.3
 libkrb5-26-heimdal7.5.0+dfsg-1
 libkrb5-31.16-2ubuntu0.1
 libkrb5support01.16-2ubuntu0.1
@@ -496,7 +496,7 @@ libnspr42:4.18-1ubuntu1
 libnss32:3.35-2ubuntu2.7
 libnuma12.0.11-2.1ubuntu0.1
 libogg01.3.2-1
-libopenexr222.2.0-11.1ubuntu1.1
+libopenexr222.2.0-11.1ubuntu1.2
 libopenjp2-72.3.0-2build0.18.04.1
 libopenmpt00.3.6-1
 libopenmpt-modplug10.3.6-1
@@ -624,7 +624,7 @@ libsigsegv22.12-1
 libslang22.3.1a-3ubuntu1
 libsm62:1.2.2-1
 libsmartcols12.31.1-0.4ubuntu3.6
-libsmbclient2:4.7.6+dfsg~ubuntu-0ubuntu2.15
+libsmbclient2:4.7.6+dfsg~ubuntu-0ubuntu2.16
 libsnapd-glib11.49-0ubuntu0.18.04.1
 libsnappy1v51.1.7-1
 libsndfile11.0.28-4ubuntu0.18.04.1
@@ -687,7 +687,7 @@ libwayland-client01.16.0-1ubuntu1.1~18.04.3
 libwayland-cursor01.16.0-1ubuntu1.1~18.04.3
 libwayland-egl11.16.0-1ubuntu1.1~18.04.3
 libwayland-server01.16.0-1ubuntu1.1~18.04.3
-libwbclient02:4.7.6+dfsg~ubuntu-0ubuntu2.15
+libwbclient02:4.7.6+dfsg~ubuntu-0ubuntu2.16
 libweather-ion74:5.12.9-0ubuntu0.1
 libwebp60.6.1-2
 libwebpdemux20.6.1-2
@@ -870,7 +870,7 @@ qml-module-qtquick-window25.9.5-0ubuntu1.1
 qtchooser64-ga1b6736-5
 readline-common7.0-3
 rfkill2.31.1-0.4ubuntu3.6
-samba-libs2:4.7.6+dfsg~ubuntu-0ubuntu2.15
+samba-libs2:4.7.6+dfsg~ubuntu-0ubuntu2.16
 sddm-theme-breeze4:5.12.9-0ubuntu0.1
 sed4.4-2
 sensible-utils0.0.12
