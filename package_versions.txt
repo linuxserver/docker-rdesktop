@@ -118,7 +118,7 @@ libcommon-sense-perl3.74-2build2
 libconfuse23.2.1+dfsg-4ubuntu0.1
 libconfuse-common3.2.1+dfsg-4ubuntu0.1
 libcroco30.6.12-2
-libcups22.2.7-1ubuntu2.7
+libcups22.2.7-1ubuntu2.8
 libcurl47.58.0-2ubuntu3.8
 libdata-dump-perl1.23-1
 libdatrie10.2.10-7
@@ -217,7 +217,7 @@ libjson-xs-perl3.040-1
 libk5crypto31.16-2ubuntu0.1
 libkeybinder-3.0-00.3.2-1
 libkeyutils11.5.9-9.2ubuntu2
-libkmod224-1ubuntu3.2
+libkmod224-1ubuntu3.3
 libkrb5-26-heimdal7.5.0+dfsg-1
 libkrb5-31.16-2ubuntu0.1
 libkrb5support01.16-2ubuntu0.1
