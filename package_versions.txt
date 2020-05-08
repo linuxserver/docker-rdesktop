@@ -33,7 +33,7 @@ elementary-xfce-icon-theme0.15-1
 exo-utils0.12.11-1ubuntu1
 fdisk2.34-0.1ubuntu4
 findutils4.6.0+git+20190209-2ubuntu1
-firefox75.0+build3-0ubuntu1
+firefox76.0+build2-0ubuntu0.20.04.1
 fontconfig2.13.1-2ubuntu3
 fontconfig-config2.13.1-2ubuntu2
 fonts-dejavu-core2.37-1
