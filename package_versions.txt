@@ -43,7 +43,7 @@ drkonqi5.18.4.1-0ubuntu1
 e2fsprogs1.45.3-4ubuntu2
 fdisk2.34-0.1ubuntu4
 findutils4.6.0+git+20190209-2ubuntu1
-firefox75.0+build3-0ubuntu1
+firefox76.0+build2-0ubuntu0.20.04.1
 fontconfig2.13.1-2ubuntu3
 fontconfig-config2.13.1-2ubuntu2
 fonts-dejavu-core2.37-1
@@ -839,7 +839,7 @@ python3-cryptography2.8-3
 python3-dbus1.2.16-1build1
 python3-distro1.4.0-1
 python3-distro-info0.23ubuntu1
-python3-distupgrade1:20.04.18
+python3-distupgrade1:20.04.19
 python3-entrypoints0.3-2ubuntu1
 python3-gi3.36.0-1
 python3-gi-cairo3.36.0-1
@@ -864,7 +864,7 @@ python3-sip4.19.21+dfsg-1build1
 python3-six1.14.0-2
 python3-software-properties0.98.9
 python3-talloc2.3.0-3ubuntu1
-python3-update-manager1:20.04.9
+python3-update-manager1:20.04.10
 python3-urllib31.25.8-1
 python3-wadllib1.3.3-3build1
 python3-xkit0.5.0ubuntu4
@@ -923,8 +923,8 @@ tzdata2019c-3ubuntu1
 ubuntu-drivers-common1:0.8.1
 ubuntu-keyring2018.09.18.1
 ubuntu-mono19.04-0ubuntu3
-ubuntu-release-upgrader-core1:20.04.18
-ubuntu-release-upgrader-qt1:20.04.18
+ubuntu-release-upgrader-core1:20.04.19
+ubuntu-release-upgrader-qt1:20.04.19
 ucf3.0038+nmu1
 udev244.3-1ubuntu1
 udisks22.8.4-1ubuntu1
