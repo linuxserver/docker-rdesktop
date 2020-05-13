@@ -16,6 +16,9 @@ base-files11ubuntu2
 base-passwd3.5.47
 bash5.0-5ubuntu1
 bc1.07.1-2build1
+binutils2.34-6ubuntu1
+binutils-common2.34-6ubuntu1
+binutils-x86-64-linux-gnu2.34-6ubuntu1
 bsdmainutils11.1.2ubuntu2
 bsdutils1:2.34-0.1ubuntu4
 bubblewrap0.4.0-1ubuntu4
@@ -57,11 +60,12 @@ dmidecode3.2-3
 dmsetup2:1.02.167-1ubuntu1
 docker-ce-cli5:19.03.8~3-0~ubuntu-bionic
 dpkg1.19.7ubuntu2
+dpkg-dev1.19.7ubuntu3
 e2fsprogs1.45.3-4ubuntu2
 emacsen-common3.0.4
 fdisk2.34-0.1ubuntu4
 findutils4.6.0+git+20190209-2ubuntu1
-firefox75.0+build3-0ubuntu1
+firefox76.0.1+build1-0ubuntu0.20.04.1
 fontconfig2.13.1-2ubuntu3
 fontconfig-config2.13.1-2ubuntu2
 fonts-dejavu-core2.37-1
@@ -169,6 +173,7 @@ libavahi-common30.7-4ubuntu7
 libavahi-common-data0.7-4ubuntu7
 libavahi-glib10.7-4ubuntu7
 libavc1394-00.5.4-5
+libbinutils2.34-6ubuntu1
 libblkid12.34-0.1ubuntu4
 libblockdev22.23-2ubuntu3
 libblockdev-fs22.23-2ubuntu3
@@ -207,6 +212,8 @@ libcom-err21.45.3-4ubuntu2
 libcpufreq0008-1.1
 libcrypt11:4.4.10-10ubuntu4
 libcryptsetup122:2.2.2-3ubuntu2
+libctf02.34-6ubuntu1
+libctf-nobfd02.34-6ubuntu1
 libcups22.3.1-9ubuntu1.1
 libcupsfilters11.27.4-1
 libcurl47.68.0-1ubuntu1
@@ -437,9 +444,9 @@ libprocps72:3.3.15-2ubuntu3
 libproxy1v50.4.15-9ubuntu1
 libpsl50.20.2-2
 libpthread-stubs0-dev0.4-1
-libpulse01:13.99.1-1ubuntu3
-libpulsedsp1:13.99.1-1ubuntu3
-libpulse-mainloop-glib01:13.99.1-1ubuntu3
+libpulse01:13.99.1-1ubuntu3.2
+libpulsedsp1:13.99.1-1ubuntu3.2
+libpulse-mainloop-glib01:13.99.1-1ubuntu3.2
 libpython3.83.8.2-1ubuntu1.1
 libpython3.8-minimal3.8.2-1ubuntu1.1
 libpython3.8-stdlib3.8.2-1ubuntu1.1
@@ -599,6 +606,7 @@ logsave1.45.3-4ubuntu2
 lsb-base11.1.0ubuntu2
 lsb-release11.1.0ubuntu2
 lsof4.93.2+dfsg-1
+make4.2.1-1.2
 man-db2.9.1-1
 marco1.24.0-1ubuntu1
 marco-common1.24.0-1ubuntu1
@@ -665,8 +673,8 @@ printer-driver-postscript-hp3.20.3+dfsg0-2
 procps2:3.3.15-2ubuntu3
 psmisc23.3-1
 publicsuffix20200201.2258-1
-pulseaudio1:13.99.1-1ubuntu3
-pulseaudio-utils1:13.99.1-1ubuntu3
+pulseaudio1:13.99.1-1ubuntu3.2
+pulseaudio-utils1:13.99.1-1ubuntu3.2
 python33.8.0-3ubuntu1
 python3.83.8.2-1ubuntu1.1
 python3.8-minimal3.8.2-1ubuntu1.1
@@ -688,7 +696,7 @@ python3-debian0.1.36ubuntu1
 python3-defer1.0.6-2.1
 python3-distro1.4.0-1
 python3-distro-info0.23ubuntu1
-python3-distupgrade1:20.04.18
+python3-distupgrade1:20.04.19
 python3-entrypoints0.3-2ubuntu1
 python3-gi3.36.0-1
 python3-gi-cairo3.36.0-1
@@ -735,7 +743,7 @@ sysvinit-utils2.96-1ubuntu1
 tar1.30+dfsg-6
 terminator1.91-4ubuntu1
 tzdata2019c-3ubuntu1
-ubuntu-drivers-common1:0.8.1
+ubuntu-drivers-common1:0.8.1.1
 ubuntu-keyring2018.09.18.1
 ubuntu-mate-artwork20.04.2
 ubuntu-mate-core1.263
@@ -748,8 +756,8 @@ ubuntu-mate-wallpapers-common20.04.2
 ubuntu-mate-wallpapers-focal20.04.2
 ubuntu-mate-wallpapers-photos20.04.2
 ubuntu-mono19.04-0ubuntu3
-ubuntu-release-upgrader-core1:20.04.18
-ubuntu-release-upgrader-gtk1:20.04.18
+ubuntu-release-upgrader-core1:20.04.19
+ubuntu-release-upgrader-gtk1:20.04.19
 ucf3.0038+nmu1
 udev244.3-1ubuntu1
 udisks22.8.4-1ubuntu1
