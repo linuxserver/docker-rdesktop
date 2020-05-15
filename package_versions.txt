@@ -33,7 +33,7 @@ elementary-xfce-icon-theme0.15-1
 exo-utils0.12.11-1ubuntu1
 fdisk2.34-0.1ubuntu4
 findutils4.6.0+git+20190209-2ubuntu1
-firefox76.0+build2-0ubuntu0.20.04.1
+firefox76.0.1+build1-0ubuntu0.20.04.1
 fontconfig2.13.1-2ubuntu3
 fontconfig-config2.13.1-2ubuntu2
 fonts-dejavu-core2.37-1
@@ -140,7 +140,7 @@ libegl11.3.1-1
 libegl-mesa020.0.0-1ubuntu1
 libelf10.176-1.1build1
 libepoxy01.5.4-1
-libexif120.6.21-6
+libexif120.6.21-6ubuntu0.1
 libexo-1-00.12.11-1ubuntu1
 libexo-2-00.12.11-1ubuntu1
 libexo-common0.12.11-1ubuntu1
@@ -275,9 +275,9 @@ libprocps72:3.3.15-2ubuntu3
 libproxy1v50.4.15-9ubuntu1
 libpsl50.20.2-2
 libpthread-stubs0-dev0.4-1
-libpulse01:13.99.1-1ubuntu3
-libpulsedsp1:13.99.1-1ubuntu3
-libpulse-mainloop-glib01:13.99.1-1ubuntu3
+libpulse01:13.99.1-1ubuntu3.2
+libpulsedsp1:13.99.1-1ubuntu3.2
+libpulse-mainloop-glib01:13.99.1-1ubuntu3.2
 libpython3.8-minimal3.8.2-1
 libpython3.8-stdlib3.8.2-1
 libpython3-stdlib3.8.0-3ubuntu1
@@ -437,8 +437,8 @@ plymouth-theme-xubuntu-text20.04.2
 policykit-10.105-26ubuntu1
 procps2:3.3.15-2ubuntu3
 publicsuffix20200201.2258-1
-pulseaudio1:13.99.1-1ubuntu3
-pulseaudio-utils1:13.99.1-1ubuntu3
+pulseaudio1:13.99.1-1ubuntu3.2
+pulseaudio-utils1:13.99.1-1ubuntu3.2
 python33.8.0-3ubuntu1
 python3.83.8.2-1
 python3.8-minimal3.8.2-1
