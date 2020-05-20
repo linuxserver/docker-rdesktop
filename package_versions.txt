@@ -99,7 +99,7 @@ gir1.2-webkit2-4.02.28.2-0ubuntu0.20.04.1
 glib-networking2.63.91-1ubuntu1
 glib-networking-common2.63.91-1ubuntu1
 glib-networking-services2.63.91-1ubuntu1
-gnome-control-center-faces1:3.36.1-1ubuntu5
+gnome-control-center-faces1:3.36.2-0ubuntu1
 gnome-session-canberra0.30-7ubuntu1
 gnupg2.2.17-3ubuntu1
 gnupg22.2.17-3ubuntu1
@@ -241,7 +241,7 @@ libelf10.176-1.1build1
 libenchant-2-22.2.8-1
 libepoxy01.5.4-1
 libexempi82.5.1-1build1
-libexif120.6.21-6
+libexif120.6.21-6ubuntu0.1
 libexpat12.2.9-1
 libext2fs21.45.3-4ubuntu2
 libextutils-depends-perl0.8000-1
@@ -467,8 +467,8 @@ libsasl2-22.1.27+dfsg-2
 libsasl2-modules2.1.27+dfsg-2
 libsasl2-modules-db2.1.27+dfsg-2
 libseccomp22.4.2-2ubuntu2
-libsecret-1-00.20.2-1
-libsecret-common0.20.2-1
+libsecret-1-00.20.3-0ubuntu1
+libsecret-common0.20.3-0ubuntu1
 libselinux13.0-1
 libsemanage13.0-1
 libsemanage-common3.0-1
@@ -742,7 +742,7 @@ systemd-sysv244.3-1ubuntu1
 sysvinit-utils2.96-1ubuntu1
 tar1.30+dfsg-6
 terminator1.91-4ubuntu1
-tzdata2019c-3ubuntu1
+tzdata2020a-0ubuntu0.20.04
 ubuntu-drivers-common1:0.8.1.1
 ubuntu-keyring2018.09.18.1
 ubuntu-mate-artwork20.04.2
