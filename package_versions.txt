@@ -479,7 +479,7 @@ thunar1.8.14-0ubuntu1
 thunar-archive-plugin0.4.0-2
 thunar-data1.8.14-0ubuntu1
 thunar-media-tags-plugin0.3.0-2
-tzdata2019c-3ubuntu1
+tzdata2020a-0ubuntu0.20.04
 ubuntu-keyring2018.09.18.1
 ubuntu-mono19.04-0ubuntu3
 ucf3.0038+nmu1
