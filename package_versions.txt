@@ -3,9 +3,9 @@ adwaita-icon-theme3.28.0-1ubuntu1
 alsa-base1.0.25+dfsg-0ubuntu5
 alsa-utils1.1.3-1ubuntu1
 anacron2.3-24
-apt1.6.12
+apt1.6.12ubuntu0.1
 apt-transport-https1.6.12ubuntu0.1
-apt-utils1.6.12
+apt-utils1.6.12ubuntu0.1
 baloo-kf55.44.0-0ubuntu1
 base-files10.1ubuntu2.8
 base-passwd3.5.44
@@ -34,7 +34,7 @@ dirmngr2.2.4-1ubuntu1.2
 distro-info-data0.37ubuntu0.7
 docbook-xml4.5-8
 docbook-xsl1.79.1+dfsg-2
-docker-ce-cli5:19.03.8~3-0~ubuntu-bionic
+docker-ce-cli5:19.03.9~3-0~ubuntu-bionic
 dpkg1.19.0.5ubuntu2.3
 e2fsprogs1.44.1-1ubuntu1.3
 fdisk2.31.1-0.4ubuntu3.6
@@ -105,7 +105,7 @@ kio-extras4:17.12.3-0ubuntu2
 kio-extras-data4:17.12.3-0ubuntu2
 kmenuedit4:5.12.8-0ubuntu0.1
 kmix4:17.12.3-0ubuntu1
-kmod24-1ubuntu3.3
+kmod24-1ubuntu3.4
 kpackagetool55.44.0-0ubuntu1
 krb5-locales1.16-2ubuntu0.1
 ksysguard4:5.12.9-0ubuntu0.1
@@ -126,8 +126,8 @@ libacl12.2.52-3build1
 libapparmor12.12-4ubuntu5.1
 libappstream40.12.0-3ubuntu1
 libappstreamqt20.12.0-3ubuntu1
-libapt-inst2.01.6.12
-libapt-pkg5.01.6.12
+libapt-inst2.01.6.12ubuntu0.1
+libapt-pkg5.01.6.12ubuntu0.1
 libarchive133.2.2-3.1ubuntu0.6
 libargon2-00~20161029-1.1
 libaribb24-01.0.3-1
@@ -198,7 +198,7 @@ libdc1394-222.2.5-1
 libdca00.0.5-10
 libdconf10.26.0-2ubuntu3
 libdebconfclient00.213ubuntu1
-libdevmapper1.02.12:1.02.145-4.1ubuntu3.18.04.2
+libdevmapper1.02.12:1.02.145-4.1ubuntu3.18.04.3
 libdmtx0a0.7.4-2
 libdouble-conversion12.0.1-4ubuntu1
 libdrm22.4.99-1ubuntu1~18.04.2
@@ -438,7 +438,7 @@ libkf5xmlgui-bin5.44.0-0ubuntu2
 libkf5xmlgui-data5.44.0-0ubuntu2
 libkfontinst54:5.12.9.1-0ubuntu0.1
 libkfontinstui54:5.12.9.1-0ubuntu0.1
-libkmod224-1ubuntu3.3
+libkmod224-1ubuntu3.4
 libkrb5-26-heimdal7.5.0+dfsg-1
 libkrb5-31.16-2ubuntu0.1
 libkrb5support01.16-2ubuntu0.1
@@ -889,7 +889,7 @@ systemsettings4:5.12.8-0ubuntu0.1
 sysvinit-utils2.88dsf-59.10ubuntu1
 tar1.29b-2ubuntu0.1
 terminator1.91-1
-tzdata2019c-0ubuntu0.18.04
+tzdata2020a-0ubuntu0.18.04
 ubuntu-drivers-common1:0.5.2.5
 ubuntu-keyring2018.09.18.1~18.04.0
 ubuntu-mono16.10+18.04.20181005-0ubuntu1
