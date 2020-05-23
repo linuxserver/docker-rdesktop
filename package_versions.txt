@@ -487,7 +487,7 @@ systemd-sysv244.3-1ubuntu1
 sysvinit-utils2.96-1ubuntu1
 tar1.30+dfsg-6
 terminator1.91-4ubuntu1
-tzdata2019c-3ubuntu1
+tzdata2020a-0ubuntu0.20.04
 ubuntu-keyring2018.09.18.1
 ubuntu-mono19.04-0ubuntu3
 ucf3.0038+nmu1
