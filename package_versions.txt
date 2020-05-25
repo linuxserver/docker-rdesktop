@@ -1,8 +1,8 @@
 adduser3.116ubuntu1
 adwaita-icon-theme3.28.0-1ubuntu1
-apt1.6.12
+apt1.6.12ubuntu0.1
 apt-transport-https1.6.12ubuntu0.1
-apt-utils1.6.12
+apt-utils1.6.12ubuntu0.1
 at-spi2-core2.28.0-1
 base-files10.1ubuntu2.8
 base-passwd3.5.44
@@ -25,7 +25,7 @@ debianutils4.8.4
 diffutils1:3.6-1
 dirmngr2.2.4-1ubuntu1.2
 distro-info-data0.37ubuntu0.7
-docker-ce-cli5:19.03.8~3-0~ubuntu-bionic
+docker-ce-cli5:19.03.9~3-0~ubuntu-bionic
 dpkg1.19.0.5ubuntu2.3
 dunst1.3.0-2
 e2fsprogs1.44.1-1ubuntu1.3
@@ -81,8 +81,8 @@ libacl12.2.52-3build1
 libanyevent-i3-perl0.17-1
 libanyevent-perl7.140-2
 libapparmor12.12-4ubuntu5.1
-libapt-inst2.01.6.12
-libapt-pkg5.01.6.12
+libapt-inst2.01.6.12ubuntu0.1
+libapt-pkg5.01.6.12ubuntu0.1
 libasn1-8-heimdal7.5.0+dfsg-1
 libasound21.1.3-5ubuntu0.5
 libasound2-data1.1.3-5ubuntu0.5
@@ -217,7 +217,7 @@ libjson-xs-perl3.040-1
 libk5crypto31.16-2ubuntu0.1
 libkeybinder-3.0-00.3.2-1
 libkeyutils11.5.9-9.2ubuntu2
-libkmod224-1ubuntu3.3
+libkmod224-1ubuntu3.4
 libkrb5-26-heimdal7.5.0+dfsg-1
 libkrb5-31.16-2ubuntu0.1
 libkrb5support01.16-2ubuntu0.1
@@ -454,7 +454,7 @@ sudo1.8.21p2-3ubuntu1.2
 sysvinit-utils2.88dsf-59.10ubuntu1
 tar1.29b-2ubuntu0.1
 terminator1.91-1
-tzdata2019c-0ubuntu0.18.04
+tzdata2020a-0ubuntu0.18.04
 ubuntu-keyring2018.09.18.1~18.04.0
 ubuntu-mono16.10+18.04.20181005-0ubuntu1
 ucf3.0038
