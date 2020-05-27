@@ -481,7 +481,7 @@ libsigsegv22.12-2
 libslang22.3.2-4
 libsm62:1.2.3-1
 libsmartcols12.34-0.1ubuntu4
-libsmbclient2:4.11.6+dfsg-0ubuntu1.1
+libsmbclient2:4.11.6+dfsg-0ubuntu1.2
 libsnapd-glib11.57-0ubuntu3
 libsndfile11.0.28-7
 libsnmp355.8+dfsg-2ubuntu2
@@ -537,7 +537,7 @@ libwayland-client01.18.0-1
 libwayland-cursor01.18.0-1
 libwayland-egl11.18.0-1
 libwayland-server01.18.0-1
-libwbclient02:4.11.6+dfsg-0ubuntu1.1
+libwbclient02:4.11.6+dfsg-0ubuntu1.2
 libwebkit2gtk-4.0-372.28.2-0ubuntu0.20.04.1
 libwebp60.6.1-2
 libwebpdemux20.6.1-2
@@ -727,7 +727,7 @@ python3-yaml5.3.1-1
 python-apt-common1.9.7
 readline-common8.0-4
 rfkill2.34-0.1ubuntu9
-samba-libs2:4.11.6+dfsg-0ubuntu1.1
+samba-libs2:4.11.6+dfsg-0ubuntu1.2
 sed4.7-1
 sensible-utils0.0.12+nmu1
 shared-mime-info1.15-1
