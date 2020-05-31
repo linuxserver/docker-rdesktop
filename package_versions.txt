@@ -6,8 +6,8 @@ alsa-base1.0.25+dfsg-0ubuntu5
 alsa-utils1.1.3-1ubuntu1
 anacron2.3-24
 apt1.6.12ubuntu0.1
-aptdaemon1.1.1+bzr982-0ubuntu19.2
-aptdaemon-data1.1.1+bzr982-0ubuntu19.2
+aptdaemon1.1.1+bzr982-0ubuntu19.3
+aptdaemon-data1.1.1+bzr982-0ubuntu19.3
 apt-transport-https1.6.12ubuntu0.1
 apturl0.5.2ubuntu14.2
 apturl-common0.5.2ubuntu14.2
@@ -53,7 +53,7 @@ dictionaries-common1.27.2
 diffutils1:3.6-1
 dirmngr2.2.4-1ubuntu1.2
 distro-info-data0.37ubuntu0.7
-docker-ce-cli5:19.03.9~3-0~ubuntu-bionic
+docker-ce-cli5:19.03.10~3-0~ubuntu-bionic
 dpkg1.19.0.5ubuntu2.3
 e2fsprogs1.44.1-1ubuntu1.3
 emacsen-common2.0.8
@@ -338,7 +338,7 @@ libjbig02.1-3.1build1
 libjbig2dec00.13-6
 libjpeg88c-2ubuntu8
 libjpeg-turbo81.5.2-0ubuntu5.18.04.3
-libjson-c30.12.1-1.3ubuntu0.2
+libjson-c30.12.1-1.3ubuntu0.3
 libjson-glib-1.0-01.4.2-3ubuntu0.18.04.1
 libjson-glib-1.0-common1.4.2-3ubuntu0.18.04.1
 libk5crypto31.16-2ubuntu0.1
@@ -404,7 +404,7 @@ libpam0g1.1.8-3.6ubuntu2.18.04.1
 libpam-modules1.1.8-3.6ubuntu2.18.04.1
 libpam-modules-bin1.1.8-3.6ubuntu2.18.04.1
 libpam-runtime1.1.8-3.6ubuntu2.18.04.1
-libpam-systemd237-3ubuntu10.40
+libpam-systemd237-3ubuntu10.41
 libpango-1.0-01.40.14-1ubuntu0.1
 libpangocairo-1.0-01.40.14-1ubuntu0.1
 libpangoft2-1.0-01.40.14-1ubuntu0.1
@@ -481,10 +481,10 @@ libspeex11.2~rc1.2-1ubuntu2
 libspeexdsp11.2~rc1.2-1ubuntu2
 libsqlite3-03.22.0-1ubuntu0.3
 libss21.44.1-1ubuntu1.3
-libssl1.11.1.1-1ubuntu2.1~18.04.5
+libssl1.11.1.1-1ubuntu2.1~18.04.6
 libstartup-notification00.12-5
 libstdc++68.4.0-1ubuntu1~18.04
-libsystemd0237-3ubuntu10.40
+libsystemd0237-3ubuntu10.41
 libtag1v51.11.1+dfsg.1-0.2build2
 libtag1v5-vanilla1.11.1+dfsg.1-0.2build2
 libtalloc22.1.10-2ubuntu1
@@ -499,7 +499,7 @@ libtiff54.0.9-5ubuntu0.3
 libtinfo56.1-1ubuntu1.18.04
 libtwolame00.3.13-3
 libu2f-udev1.1.4-1ubuntu0.1
-libudev1237-3ubuntu10.40
+libudev1237-3ubuntu10.41
 libudisks2-02.7.6-3ubuntu0.2
 libunistring20.9.9-0ubuntu2
 libupower-glib30.99.7-2ubuntu0.18.04.1
@@ -631,7 +631,7 @@ multiarch-support2.27-3ubuntu1
 ncurses-base6.1-1ubuntu1.18.04
 ncurses-bin6.1-1ubuntu1.18.04
 openprinting-ppds20180306-1
-openssl1.1.1-1ubuntu2.1~18.04.5
+openssl1.1.1-1ubuntu2.1~18.04.6
 parted3.2-20ubuntu0.2
 passwd1:4.5-1ubuntu2
 patch2.7.6-2ubuntu1.1
@@ -659,10 +659,10 @@ python2.7-minimal2.7.17-1~18.04ubuntu1
 python33.6.7-1~18.04
 python3.63.6.9-1~18.04ubuntu1
 python3.6-minimal3.6.9-1~18.04ubuntu1
-python3-apport2.20.9-0ubuntu7.14
+python3-apport2.20.9-0ubuntu7.15
 python3-apt1.6.5ubuntu0.2
-python3-aptdaemon1.1.1+bzr982-0ubuntu19.2
-python3-aptdaemon.gtk3widgets1.1.1+bzr982-0ubuntu19.2
+python3-aptdaemon1.1.1+bzr982-0ubuntu19.3
+python3-aptdaemon.gtk3widgets1.1.1+bzr982-0ubuntu19.3
 python3-certifi2018.1.18-2
 python3-chardet3.0.4-1
 python3-dateutil2.6.1-1
@@ -679,7 +679,7 @@ python3-minimal3.6.7-1~18.04
 python3-pexpect4.2.1-1
 python3-pil5.1.0-1ubuntu0.2
 python3-pkg-resources39.0.1-2
-python3-problem-report2.20.9-0ubuntu7.14
+python3-problem-report2.20.9-0ubuntu7.15
 python3-ptyprocess0.5.2-1
 python3-reportlab3.4.0-3ubuntu0.1
 python3-reportlab-accel3.4.0-3ubuntu0.1
@@ -713,8 +713,8 @@ sound-theme-freedesktop0.8-2ubuntu1
 spice-vdagent0.17.0-1ubuntu2
 ssl-cert1.0.39
 sudo1.8.21p2-3ubuntu1.2
-systemd237-3ubuntu10.40
-systemd-sysv237-3ubuntu10.40
+systemd237-3ubuntu10.41
+systemd-sysv237-3ubuntu10.41
 sysvinit-utils2.88dsf-59.10ubuntu1
 tar1.29b-2ubuntu0.1
 terminator1.91-1
@@ -736,7 +736,7 @@ ubuntu-release-upgrader-core1:18.04.37
 ubuntu-release-upgrader-gtk1:18.04.37
 ubuntu-sounds0.13
 ucf3.0038
-udev237-3ubuntu10.40
+udev237-3ubuntu10.41
 udisks22.7.6-3ubuntu0.2
 unzip6.0-21ubuntu1
 update-manager1:18.04.11.12
