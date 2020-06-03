@@ -5,8 +5,8 @@ alsa-base1.0.25+dfsg-0ubuntu5
 alsa-utils1.2.2-1ubuntu1
 anacron2.3-29
 apt1.9.10
-aptdaemon1.1.1+bzr982-0ubuntu32
-aptdaemon-data1.1.1+bzr982-0ubuntu32
+aptdaemon1.1.1+bzr982-0ubuntu32.1
+aptdaemon-data1.1.1+bzr982-0ubuntu32.1
 apt-transport-https1.9.10
 apturl0.5.2ubuntu19
 apturl-common0.5.2ubuntu19
@@ -678,10 +678,10 @@ pulseaudio-utils1:13.99.1-1ubuntu3.2
 python33.8.0-3ubuntu1
 python3.83.8.2-1ubuntu1.1
 python3.8-minimal3.8.2-1ubuntu1.1
-python3-apport2.20.11-0ubuntu27
+python3-apport2.20.11-0ubuntu27.2
 python3-apt1.9.7
-python3-aptdaemon1.1.1+bzr982-0ubuntu32
-python3-aptdaemon.gtk3widgets1.1.1+bzr982-0ubuntu32
+python3-aptdaemon1.1.1+bzr982-0ubuntu32.1
+python3-aptdaemon.gtk3widgets1.1.1+bzr982-0ubuntu32.1
 python3-blinker1.4+dfsg1-0.3ubuntu1
 python3-cairo1.16.2-2ubuntu2
 python3-certifi2019.11.28-1
@@ -710,7 +710,7 @@ python3-lazr.uri1.0.3-4build1
 python3-minimal3.8.0-3ubuntu1
 python3-oauthlib3.1.0-1ubuntu2
 python3-pkg-resources45.2.0-1
-python3-problem-report2.20.11-0ubuntu27
+python3-problem-report2.20.11-0ubuntu27.2
 python3-psutil5.5.1-1ubuntu4
 python3-requests2.22.0-2build1
 python3-requests-unixsocket0.2.0-2
