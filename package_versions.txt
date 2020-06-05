@@ -47,7 +47,7 @@ drkonqi5.18.5-0ubuntu0.1
 e2fsprogs1.45.3-4ubuntu2
 fdisk2.34-0.1ubuntu4
 findutils4.6.0+git+20190209-2ubuntu1
-firefox76.0.1+build1-0ubuntu0.20.04.1
+firefox77.0.1+build1-0ubuntu0.20.04.1
 fontconfig2.13.1-2ubuntu3
 fontconfig-config2.13.1-2ubuntu2
 fonts-dejavu-core2.37-1
@@ -278,7 +278,7 @@ libgpg-error01.36-7
 libgpgme111.13.1-7ubuntu2
 libgpgmepp61.13.1-7ubuntu2
 libgpm21.20.7-5
-libgps263.20-8ubuntu0.1
+libgps263.20-8ubuntu0.2
 libgrantlee-templates55.2.0-0ubuntu2
 libgraphite2-31.3.13-11build1
 libgroupsock82020.01.19-1build1
