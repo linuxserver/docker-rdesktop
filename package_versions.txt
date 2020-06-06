@@ -31,7 +31,7 @@ dunst1.4.1-1
 e2fsprogs1.45.3-4ubuntu2
 fdisk2.34-0.1ubuntu4
 findutils4.6.0+git+20190209-2ubuntu1
-firefox76.0.1+build1-0ubuntu0.20.04.1
+firefox77.0.1+build1-0ubuntu0.20.04.1
 fontconfig2.13.1-2ubuntu3
 fontconfig-config2.13.1-2ubuntu2
 fonts-dejavu-core2.37-1
@@ -184,7 +184,7 @@ libglvnd01.3.1-1
 libglx01.3.1-1
 libglx-mesa020.0.0-1ubuntu1
 libgmp102:6.1.2+dfsg-4
-libgnutls303.6.13-2ubuntu1
+libgnutls303.6.13-2ubuntu1.1
 libgomp110-20200304-1ubuntu1
 libgpg-error01.36-7
 libgraphite2-31.3.13-11build1
