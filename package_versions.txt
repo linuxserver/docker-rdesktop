@@ -1,4 +1,4 @@
-accountsservice0.6.55-0ubuntu11
+accountsservice0.6.55-0ubuntu12~20.04.1
 adduser3.118ubuntu1
 adwaita-icon-theme3.36.1-2ubuntu0.20.04.2
 alsa-base1.0.25+dfsg-0ubuntu5
@@ -51,7 +51,7 @@ dconf-gsettings-backend0.36.0-1
 dconf-service0.36.0-1
 debconf1.5.73
 debianutils4.9.1
-desktop-file-utils0.24-1ubuntu2
+desktop-file-utils0.24-1ubuntu3
 dictionaries-common1.28.1
 diffutils1:3.7-3
 dirmngr2.2.17-3ubuntu1
@@ -143,7 +143,7 @@ krb5-locales1.17-6ubuntu4
 language-selector-common0.204
 language-selector-gnome0.204
 libaa11.4p5-46
-libaccountsservice00.6.55-0ubuntu11
+libaccountsservice00.6.55-0ubuntu12~20.04.1
 libacl12.2.53-5ubuntu1
 libapparmor12.13.3-7ubuntu2
 libappindicator3-112.10.1+20.04.20200408.1-0ubuntu1
@@ -241,7 +241,7 @@ libelf10.176-1.1build1
 libenchant-2-22.2.8-1
 libepoxy01.5.4-1
 libexempi82.5.1-1build1
-libexif120.6.21-6ubuntu0.1
+libexif120.6.21-6ubuntu0.3
 libexpat12.2.9-1
 libext2fs21.45.3-4ubuntu2
 libextutils-depends-perl0.8000-1
@@ -405,7 +405,7 @@ libnl-route-3-2003.4.0-1
 libnotify40.7.9-1ubuntu2
 libnpth01.6-1
 libnspr42:4.25-1
-libnss32:3.49.1-1ubuntu1
+libnss32:3.49.1-1ubuntu1.1
 libogg01.3.4-0ubuntu1
 libopenjp2-72.3.1-1ubuntu4
 libopus01.3.1-0ubuntu1
@@ -678,7 +678,7 @@ pulseaudio-utils1:13.99.1-1ubuntu3.3
 python33.8.0-3ubuntu1
 python3.83.8.2-1ubuntu1.1
 python3.8-minimal3.8.2-1ubuntu1.1
-python3-apport2.20.11-0ubuntu27.2
+python3-apport2.20.11-0ubuntu27.3
 python3-apt1.9.7
 python3-aptdaemon1.1.1+bzr982-0ubuntu32.1
 python3-aptdaemon.gtk3widgets1.1.1+bzr982-0ubuntu32.1
@@ -710,7 +710,7 @@ python3-lazr.uri1.0.3-4build1
 python3-minimal3.8.0-3ubuntu1
 python3-oauthlib3.1.0-1ubuntu2
 python3-pkg-resources45.2.0-1
-python3-problem-report2.20.11-0ubuntu27.2
+python3-problem-report2.20.11-0ubuntu27.3
 python3-psutil5.5.1-1ubuntu4
 python3-requests2.22.0-2build1
 python3-requests-unixsocket0.2.0-2
