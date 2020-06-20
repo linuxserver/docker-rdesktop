@@ -23,8 +23,8 @@ cpp4:7.4.0-1ubuntu2.3
 cpp-77.5.0-3ubuntu1~18.04
 curl7.58.0-2ubuntu3.8
 dash0.5.8-2.10
-dbus1.12.2-1ubuntu1.1
-dbus-x111.12.2-1ubuntu1.1
+dbus1.12.2-1ubuntu1.2
+dbus-x111.12.2-1ubuntu1.2
 dconf-gsettings-backend0.26.0-2ubuntu3
 dconf-service0.26.0-2ubuntu3
 debconf1.5.66ubuntu1
@@ -191,7 +191,7 @@ libcurl3-gnutls7.58.0-2ubuntu3.8
 libcurl47.58.0-2ubuntu3.8
 libdatrie10.2.10-7
 libdb5.35.3.28-13.1ubuntu1.1
-libdbus-1-31.12.2-1ubuntu1.1
+libdbus-1-31.12.2-1ubuntu1.2
 libdbus-glib-1-20.110-2
 libdbusmenu-qt5-20.9.3+16.04.20160218-1ubuntu1
 libdc1394-222.2.5-1
@@ -201,12 +201,12 @@ libdebconfclient00.213ubuntu1
 libdevmapper1.02.12:1.02.145-4.1ubuntu3.18.04.3
 libdmtx0a0.7.4-2
 libdouble-conversion12.0.1-4ubuntu1
-libdrm22.4.99-1ubuntu1~18.04.2
-libdrm-amdgpu12.4.99-1ubuntu1~18.04.2
-libdrm-common2.4.99-1ubuntu1~18.04.2
-libdrm-intel12.4.99-1ubuntu1~18.04.2
-libdrm-nouveau22.4.99-1ubuntu1~18.04.2
-libdrm-radeon12.4.99-1ubuntu1~18.04.2
+libdrm22.4.101-2~18.04.1
+libdrm-amdgpu12.4.101-2~18.04.1
+libdrm-common2.4.101-2~18.04.1
+libdrm-intel12.4.101-2~18.04.1
+libdrm-nouveau22.4.101-2~18.04.1
+libdrm-radeon12.4.101-2~18.04.1
 libdvbpsi101.3.2-1
 libdvdnav46.0.0-1
 libdvdread46.0.0-1
@@ -493,7 +493,7 @@ libnl-3-2003.2.29-0ubuntu3
 libnl-genl-3-2003.2.29-0ubuntu3
 libnpth01.5-3
 libnspr42:4.18-1ubuntu1
-libnss32:3.35-2ubuntu2.7
+libnss32:3.35-2ubuntu2.8
 libnuma12.0.11-2.1ubuntu0.1
 libogg01.3.2-1
 libopenexr222.2.0-11.1ubuntu1.2
