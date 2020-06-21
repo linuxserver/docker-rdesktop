@@ -37,9 +37,9 @@ gawk1:5.0.1+dfsg-1
 gcc-10-base10-20200304-1ubuntu1
 gcc-9-base9.2.1-31ubuntu1
 gir1.2-atk-1.02.35.1-1ubuntu2
-gir1.2-freedesktop1.64.0-2
+gir1.2-freedesktop1.64.1-1~ubuntu20.04.1
 gir1.2-gdkpixbuf-2.02.40.0+dfsg-3
-gir1.2-glib-2.01.64.0-2
+gir1.2-glib-2.01.64.1-1~ubuntu20.04.1
 gir1.2-gtk-3.03.24.18-1ubuntu1
 gir1.2-packagekitglib-1.01.1.13-2build1
 gir1.2-pango-1.01.44.7-2ubuntu4
