@@ -83,9 +83,9 @@ gettext-base0.19.8.1-10build1
 ghostscript9.50~dfsg-5ubuntu4
 ghostscript-x9.50~dfsg-5ubuntu4
 gir1.2-atk-1.02.35.1-1ubuntu2
-gir1.2-freedesktop1.64.0-2
+gir1.2-freedesktop1.64.1-1~ubuntu20.04.1
 gir1.2-gdkpixbuf-2.02.40.0+dfsg-3
-gir1.2-glib-2.01.64.0-2
+gir1.2-glib-2.01.64.1-1~ubuntu20.04.1
 gir1.2-goa-1.03.36.0-1ubuntu1
 gir1.2-gtk-3.03.24.18-1ubuntu1
 gir1.2-javascriptcoregtk-4.02.28.2-0ubuntu0.20.04.1
@@ -719,7 +719,7 @@ python3-simplejson3.16.0-2ubuntu2
 python3-six1.14.0-2
 python3-software-properties0.98.9
 python3-talloc2.3.0-3ubuntu1
-python3-update-manager1:20.04.10
+python3-update-manager1:20.04.10.1
 python3-urllib31.25.8-1
 python3-wadllib1.3.3-3build1
 python3-xkit0.5.0ubuntu4
@@ -762,8 +762,8 @@ ucf3.0038+nmu1
 udev244.3-1ubuntu1
 udisks22.8.4-1ubuntu1
 unzip6.0-25ubuntu1
-update-manager1:20.04.10
-update-manager-core1:20.04.10
+update-manager1:20.04.10.1
+update-manager-core1:20.04.10.1
 update-notifier3.192.30
 update-notifier-common3.192.30
 upower0.99.11-1build2
