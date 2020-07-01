@@ -163,7 +163,7 @@ libatk1.0-02.35.1-1ubuntu2
 libatk1.0-data2.35.1-1ubuntu2
 libatk-bridge2.0-02.34.2-0ubuntu2~20.04.1
 libatkmm-1.6-1v52.28.0-2build1
-libatopology21.2.2-2.1
+libatopology21.2.2-2.1ubuntu1
 libatspi2.0-02.36.0-2
 libattr11:2.4.48-5
 libaudit11:2.8.5-2ubuntu5
