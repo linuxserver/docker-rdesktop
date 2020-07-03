@@ -47,7 +47,7 @@ drkonqi5.18.5-0ubuntu0.1
 e2fsprogs1.45.3-4ubuntu2
 fdisk2.34-0.1ubuntu4
 findutils4.6.0+git+20190209-2ubuntu1
-firefox77.0.1+build1-0ubuntu0.20.04.1
+firefox78.0.1+build1-0ubuntu0.20.04.1
 fontconfig2.13.1-2ubuntu3
 fontconfig-config2.13.1-2ubuntu2
 fonts-dejavu-core2.37-1
@@ -68,10 +68,10 @@ gir1.2-atk-1.02.35.1-1ubuntu2
 gir1.2-freedesktop1.64.1-1~ubuntu20.04.1
 gir1.2-gdkpixbuf-2.02.40.0+dfsg-3
 gir1.2-glib-2.01.64.1-1~ubuntu20.04.1
-gir1.2-gtk-3.03.24.18-1ubuntu1
+gir1.2-gtk-3.03.24.20-0ubuntu1
 gir1.2-packagekitglib-1.01.1.13-2build1
 gir1.2-pango-1.01.44.7-2ubuntu4
-gir1.2-vte-2.910.60.1-1ubuntu1
+gir1.2-vte-2.910.60.3-0ubuntu1~20.04
 glib-networking2.63.91-1ubuntu1
 glib-networking-common2.63.91-1ubuntu1
 glib-networking-services2.63.91-1ubuntu1
@@ -89,7 +89,7 @@ gpg-wks-server2.2.17-3ubuntu1
 grep3.3-1build1
 groff-base1.22.4-4
 gsettings-desktop-schemas3.35.91-0ubuntu1
-gtk-update-icon-cache3.24.18-1ubuntu1
+gtk-update-icon-cache3.24.20-0ubuntu1
 gzip1.10-0ubuntu4
 hicolor-icon-theme0.17-2
 hostname3.23
@@ -152,7 +152,7 @@ libatasmart40.19-5
 libatk1.0-02.35.1-1ubuntu2
 libatk1.0-data2.35.1-1ubuntu2
 libatk-bridge2.0-02.34.2-0ubuntu2~20.04.1
-libatopology21.2.2-2.1
+libatopology21.2.2-2.1ubuntu1
 libatspi2.0-02.36.0-2
 libattr11:2.4.48-5
 libaudit11:2.8.5-2ubuntu5
@@ -272,7 +272,7 @@ libglx01.3.1-1
 libglx-mesa020.0.0-1ubuntu1
 libgme00.6.2-1build1
 libgmp102:6.1.2+dfsg-4
-libgnutls303.6.13-2ubuntu1.1
+libgnutls303.6.13-2ubuntu1.2
 libgomp110-20200304-1ubuntu1
 libgpg-error01.36-7
 libgpgme111.13.1-7ubuntu2
@@ -289,8 +289,8 @@ libgssapi3-heimdal7.7.0+dfsg-1
 libgssapi-krb5-21.17-6ubuntu4
 libgstreamer1.0-01.16.2-2
 libgstreamer-plugins-base1.0-01.16.2-2ubuntu4
-libgtk-3-03.24.18-1ubuntu1
-libgtk-3-common3.24.18-1ubuntu1
+libgtk-3-03.24.20-0ubuntu1
+libgtk-3-common3.24.20-0ubuntu1
 libgudev-1.0-01:233-1
 libharfbuzz0b2.6.4-1ubuntu4
 libhcrypto4-heimdal7.7.0+dfsg-1
@@ -642,7 +642,7 @@ libsigsegv22.12-2
 libslang22.3.2-4
 libsm62:1.2.3-1
 libsmartcols12.34-0.1ubuntu4
-libsmbclient2:4.11.6+dfsg-0ubuntu1.2
+libsmbclient2:4.11.6+dfsg-0ubuntu1.3
 libsnapd-glib11.56-0ubuntu1
 libsnappy1v51.1.8-1build1
 libsndfile11.0.28-7
@@ -699,8 +699,8 @@ libvorbis0a1.3.6-2ubuntu1
 libvorbisenc21.3.6-2ubuntu1
 libvorbisfile31.3.6-2ubuntu1
 libvpx61.8.2-1build1
-libvte-2.91-00.60.1-1ubuntu1
-libvte-2.91-common0.60.1-1ubuntu1
+libvte-2.91-00.60.3-0ubuntu1~20.04
+libvte-2.91-common0.60.3-0ubuntu1~20.04
 libvulkan11.2.131.2-1
 libwacom21.3-2ubuntu1
 libwacom-common1.3-2ubuntu1
@@ -709,7 +709,7 @@ libwayland-client01.18.0-1
 libwayland-cursor01.18.0-1
 libwayland-egl11.18.0-1
 libwayland-server01.18.0-1
-libwbclient02:4.11.6+dfsg-0ubuntu1.2
+libwbclient02:4.11.6+dfsg-0ubuntu1.3
 libweather-ion74:5.18.5-0ubuntu0.1
 libwebp60.6.1-2
 libwebpdemux20.6.1-2
@@ -910,7 +910,7 @@ qml-module-qtquick-window25.12.8-0ubuntu1
 qtchooser66-2build1
 readline-common8.0-4
 rfkill2.34-0.1ubuntu9
-samba-libs2:4.11.6+dfsg-0ubuntu1.2
+samba-libs2:4.11.6+dfsg-0ubuntu1.3
 sddm-theme-breeze4:5.18.5-0ubuntu0.1
 sed4.7-1
 sensible-utils0.0.12+nmu1
@@ -946,7 +946,7 @@ vlc-data3.0.9.2-1
 vlc-plugin-base3.0.9.2-1
 vlc-plugin-video-output3.0.9.2-1
 wireless-tools30~pre9-13ubuntu1
-wpasupplicant2:2.9-1ubuntu4
+wpasupplicant2:2.9-1ubuntu4.1
 x11-apps7.7+8
 x11-common1:7.7+19ubuntu14
 x11proto-core-dev2019.2-1ubuntu1
