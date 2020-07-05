@@ -59,7 +59,7 @@ e2fsprogs1.44.1-1ubuntu1.3
 emacsen-common2.0.8
 fdisk2.31.1-0.4ubuntu3.6
 findutils4.6.0+git+20170828-2
-firefox77.0.1+build1-0ubuntu0.18.04.1
+firefox78.0.1+build1-0ubuntu0.18.04.1
 fontconfig2.12.6-0ubuntu2
 fontconfig-config2.12.6-0ubuntu2
 fonts-dejavu-core2.37-1
@@ -89,9 +89,9 @@ gir1.2-snapd-11.49-0ubuntu0.18.04.2
 gir1.2-soup-2.42.62.1-1ubuntu0.4
 gir1.2-vte-2.910.52.2-1ubuntu1~18.04.2
 gir1.2-webkit2-4.02.28.2-0ubuntu0.18.04.1
-glib-networking2.56.0-1
-glib-networking-common2.56.0-1
-glib-networking-services2.56.0-1
+glib-networking2.56.0-1ubuntu0.1
+glib-networking-common2.56.0-1ubuntu0.1
+glib-networking-services2.56.0-1ubuntu0.1
 gnome-control-center-faces1:3.28.2-0ubuntu0.18.04.6
 gnome-session-canberra0.30-5ubuntu1
 gnupg22.2.4-1ubuntu1.2
@@ -456,7 +456,7 @@ libsane-hpaio3.17.10+repack0-5
 libsasl2-22.1.27~101-g0780600+dfsg-3ubuntu2.1
 libsasl2-modules2.1.27~101-g0780600+dfsg-3ubuntu2.1
 libsasl2-modules-db2.1.27~101-g0780600+dfsg-3ubuntu2.1
-libseccomp22.4.1-0ubuntu0.18.04.2
+libseccomp22.4.3-1ubuntu3.18.04.2
 libsecret-1-00.18.6-1
 libsecret-common0.18.6-1
 libselinux12.7-2build2
@@ -470,7 +470,7 @@ libsigsegv22.12-1
 libslang22.3.1a-3ubuntu1
 libsm62:1.2.2-1
 libsmartcols12.31.1-0.4ubuntu3.6
-libsmbclient2:4.7.6+dfsg~ubuntu-0ubuntu2.16
+libsmbclient2:4.7.6+dfsg~ubuntu-0ubuntu2.17
 libsnapd-glib11.49-0ubuntu0.18.04.2
 libsndfile11.0.28-4ubuntu0.18.04.1
 libsnmp305.7.3+dfsg-1.8ubuntu3.3
@@ -520,7 +520,7 @@ libwayland-client01.16.0-1ubuntu1.1~18.04.3
 libwayland-cursor01.16.0-1ubuntu1.1~18.04.3
 libwayland-egl11.16.0-1ubuntu1.1~18.04.3
 libwayland-server01.16.0-1ubuntu1.1~18.04.3
-libwbclient02:4.7.6+dfsg~ubuntu-0ubuntu2.16
+libwbclient02:4.7.6+dfsg~ubuntu-0ubuntu2.17
 libwebkit2gtk-4.0-372.28.2-0ubuntu0.18.04.1
 libwebp60.6.1-2
 libwebpdemux20.6.1-2
@@ -535,8 +535,8 @@ libx11-62:1.6.4-3ubuntu0.2
 libx11-data2:1.6.4-3ubuntu0.2
 libx11-dev2:1.6.4-3ubuntu0.2
 libx11-xcb12:1.6.4-3ubuntu0.2
-libxau61:1.0.8-1
-libxau-dev1:1.0.8-1
+libxau61:1.0.8-1ubuntu1
+libxau-dev1:1.0.8-1ubuntu1
 libxaw72:1.0.13-1
 libxcb11.13-2~ubuntu18.04
 libxcb1-dev1.13-2~ubuntu18.04
@@ -702,7 +702,7 @@ python-psutil5.4.2-1ubuntu0.1
 python-talloc2.1.10-2ubuntu1
 readline-common7.0-3
 rfkill2.31.1-0.4ubuntu3.6
-samba-libs2:4.7.6+dfsg~ubuntu-0ubuntu2.16
+samba-libs2:4.7.6+dfsg~ubuntu-0ubuntu2.17
 sed4.4-2
 sensible-utils0.0.12
 session-migration0.3.3
