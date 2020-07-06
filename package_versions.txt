@@ -31,7 +31,7 @@ dunst1.3.0-2
 e2fsprogs1.44.1-1ubuntu1.3
 fdisk2.31.1-0.4ubuntu3.6
 findutils4.6.0+git+20170828-2
-firefox77.0.1+build1-0ubuntu0.18.04.1
+firefox78.0.1+build1-0ubuntu0.18.04.1
 fontconfig2.12.6-0ubuntu2
 fontconfig-config2.12.6-0ubuntu2
 fonts-dejavu-core2.37-1
@@ -47,9 +47,9 @@ gir1.2-keybinder-3.00.3.2-1
 gir1.2-notify-0.70.7.7-3
 gir1.2-pango-1.01.40.14-1ubuntu0.1
 gir1.2-vte-2.910.52.2-1ubuntu1~18.04.2
-glib-networking2.56.0-1
-glib-networking-common2.56.0-1
-glib-networking-services2.56.0-1
+glib-networking2.56.0-1ubuntu0.1
+glib-networking-common2.56.0-1ubuntu0.1
+glib-networking-services2.56.0-1ubuntu0.1
 gnupg22.2.4-1ubuntu1.2
 gnupg2.2.4-1ubuntu1.2
 gnupg-l10n2.2.4-1ubuntu1.2
@@ -290,7 +290,7 @@ libsamplerate00.1.9-1
 libsasl2-22.1.27~101-g0780600+dfsg-3ubuntu2.1
 libsasl2-modules2.1.27~101-g0780600+dfsg-3ubuntu2.1
 libsasl2-modules-db2.1.27~101-g0780600+dfsg-3ubuntu2.1
-libseccomp22.4.1-0ubuntu0.18.04.2
+libseccomp22.4.3-1ubuntu3.18.04.2
 libselinux12.7-2build2
 libsemanage12.7-2build2
 libsemanage-common2.7-2build2
@@ -344,8 +344,8 @@ libx11-data2:1.6.4-3ubuntu0.2
 libx11-dev2:1.6.4-3ubuntu0.2
 libx11-protocol-perl0.56-7
 libx11-xcb12:1.6.4-3ubuntu0.2
-libxau61:1.0.8-1
-libxau-dev1:1.0.8-1
+libxau61:1.0.8-1ubuntu1
+libxau-dev1:1.0.8-1ubuntu1
 libxaw72:1.0.13-1
 libxcb11.13-2~ubuntu18.04
 libxcb1-dev1.13-2~ubuntu18.04
