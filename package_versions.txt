@@ -493,10 +493,10 @@ libnl-3-2003.2.29-0ubuntu3
 libnl-genl-3-2003.2.29-0ubuntu3
 libnpth01.5-3
 libnspr42:4.18-1ubuntu1
-libnss32:3.35-2ubuntu2.8
+libnss32:3.35-2ubuntu2.9
 libnuma12.0.11-2.1ubuntu0.1
 libogg01.3.2-1
-libopenexr222.2.0-11.1ubuntu1.2
+libopenexr222.2.0-11.1ubuntu1.3
 libopenjp2-72.3.0-2build0.18.04.1
 libopenmpt00.3.6-1
 libopenmpt-modplug10.3.6-1
@@ -542,9 +542,9 @@ libprotobuf-lite103.0.0-9.1ubuntu1
 libproxy1v50.4.15-1
 libpsl50.19.1-5build1
 libpthread-stubs0-dev0.3-4
-libpulse01:11.1-1ubuntu7.8
-libpulsedsp1:11.1-1ubuntu7.8
-libpulse-mainloop-glib01:11.1-1ubuntu7.8
+libpulse01:11.1-1ubuntu7.9
+libpulsedsp1:11.1-1ubuntu7.9
+libpulse-mainloop-glib01:11.1-1ubuntu7.9
 libpython2.72.7.17-1~18.04ubuntu1
 libpython2.7-minimal2.7.17-1~18.04ubuntu1
 libpython2.7-stdlib2.7.17-1~18.04ubuntu1
@@ -766,7 +766,7 @@ libzstd11.3.3+dfsg-2ubuntu1.1
 libzvbi00.2.35-13
 libzvbi-common0.2.35-13
 linux-sound-base1.0.25+dfsg-0ubuntu5
-locales2.27-3ubuntu1
+locales2.27-3ubuntu1.2
 login1:4.5-1ubuntu2
 lsb-base9.20170808ubuntu1
 lsb-release9.20170808ubuntu1
@@ -775,7 +775,7 @@ mawk1.3.3-17ubuntu3
 milou4:5.12.9-0ubuntu0.1
 mime-support3.60ubuntu1
 mount2.31.1-0.4ubuntu3.6
-multiarch-support2.27-3ubuntu1
+multiarch-support2.27-3ubuntu1.2
 ncurses-base6.1-1ubuntu1.18.04
 ncurses-bin6.1-1ubuntu1.18.04
 openprinting-ppds20180306-1
@@ -804,8 +804,8 @@ powerdevil-data4:5.12.8-0ubuntu0.1
 printer-driver-pnm2ppa1.13+nondbs-0ubuntu6
 procps2:3.3.12-3ubuntu1.2
 publicsuffix20180223.1310-1
-pulseaudio1:11.1-1ubuntu7.8
-pulseaudio-utils1:11.1-1ubuntu7.8
+pulseaudio1:11.1-1ubuntu7.9
+pulseaudio-utils1:11.1-1ubuntu7.9
 python2.7.15~rc1-1
 python2.72.7.17-1~18.04ubuntu1
 python2.7-minimal2.7.17-1~18.04ubuntu1
@@ -818,7 +818,7 @@ python3-certifi2018.1.18-2
 python3-chardet3.0.4-1
 python3-dbus1.2.6-1
 python3-gi3.26.1-2ubuntu1
-python3-httplib20.9.2+dfsg-1ubuntu0.1
+python3-httplib20.9.2+dfsg-1ubuntu0.2
 python3-idna2.6-1
 python3-minimal3.6.7-1~18.04
 python3-pkg-resources39.0.1-2
