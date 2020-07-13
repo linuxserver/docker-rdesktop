@@ -272,8 +272,8 @@ libprocps62:3.3.12-3ubuntu1.2
 libproxy1v50.4.15-1
 libpsl50.19.1-5build1
 libpthread-stubs0-dev0.3-4
-libpulse01:11.1-1ubuntu7.8
-libpulsedsp1:11.1-1ubuntu7.8
+libpulse01:11.1-1ubuntu7.9
+libpulsedsp1:11.1-1ubuntu7.9
 libpython2.7-minimal2.7.17-1~18.04ubuntu1
 libpython2.7-stdlib2.7.17-1~18.04ubuntu1
 libpython3.6-minimal3.6.9-1~18.04ubuntu1
@@ -401,7 +401,7 @@ libxxf86dga12:1.1.4-1
 libxxf86vm11:1.1.4-1
 libyajl22.1.0-2build1
 libzstd11.3.3+dfsg-2ubuntu1.1
-locales2.27-3ubuntu1
+locales2.27-3ubuntu1.2
 login1:4.5-1ubuntu2
 lsb-base9.20170808ubuntu1
 lsb-release9.20170808ubuntu1
@@ -409,7 +409,7 @@ man-db2.8.3-2ubuntu0.1
 mawk1.3.3-17ubuntu3
 mime-support3.60ubuntu1
 mount2.31.1-0.4ubuntu3.6
-multiarch-support2.27-3ubuntu1
+multiarch-support2.27-3ubuntu1.2
 ncurses-base6.1-1ubuntu1.18.04
 ncurses-bin6.1-1ubuntu1.18.04
 netbase5.4
@@ -422,8 +422,8 @@ perl-openssl-defaults3build1
 pinentry-curses1.1.0-1
 procps2:3.3.12-3ubuntu1.2
 publicsuffix20180223.1310-1
-pulseaudio1:11.1-1ubuntu7.8
-pulseaudio-utils1:11.1-1ubuntu7.8
+pulseaudio1:11.1-1ubuntu7.9
+pulseaudio-utils1:11.1-1ubuntu7.9
 python2.7.15~rc1-1
 python2.72.7.17-1~18.04ubuntu1
 python2.7-minimal2.7.17-1~18.04ubuntu1
