@@ -32,7 +32,7 @@ e2fsprogs1.44.1-1ubuntu1.3
 exo-utils0.12.2-0ubuntu0.18.04.1
 fdisk2.31.1-0.4ubuntu3.6
 findutils4.6.0+git+20170828-2
-firefox78.0.1+build1-0ubuntu0.18.04.1
+firefox78.0.2+build2-0ubuntu0.18.04.1
 fontconfig2.12.6-0ubuntu2
 fontconfig-config2.12.6-0ubuntu2
 fonts-dejavu-core2.37-1
@@ -393,7 +393,7 @@ libxxf86dga12:1.1.4-1
 libxxf86vm11:1.1.4-1
 libzstd11.3.3+dfsg-2ubuntu1.1
 lightdm-gtk-greeter2.0.5-0ubuntu1
-locales2.27-3ubuntu1
+locales2.27-3ubuntu1.2
 login1:4.5-1ubuntu2
 lsb-base9.20170808ubuntu1
 lsb-release9.20170808ubuntu1
@@ -402,7 +402,7 @@ mawk1.3.3-17ubuntu3
 mime-support3.60ubuntu1
 mount2.31.1-0.4ubuntu3.6
 mousepad0.4.0-4ubuntu1
-multiarch-support2.27-3ubuntu1
+multiarch-support2.27-3ubuntu1.2
 ncurses-base6.1-1ubuntu1.18.04
 ncurses-bin6.1-1ubuntu1.18.04
 numix-gtk-theme2.6.7-3
