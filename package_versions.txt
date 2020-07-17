@@ -47,7 +47,7 @@ drkonqi5.18.5-0ubuntu0.1
 e2fsprogs1.45.3-4ubuntu2
 fdisk2.34-0.1ubuntu4
 findutils4.6.0+git+20190209-2ubuntu1
-firefox78.0.1+build1-0ubuntu0.20.04.1
+firefox78.0.2+build2-0ubuntu0.20.04.1
 fontconfig2.13.1-2ubuntu3
 fontconfig-config2.13.1-2ubuntu3
 fonts-dejavu-core2.37-1
@@ -300,7 +300,7 @@ libheimntlm0-heimdal7.7.0+dfsg-1
 libhogweed53.5.1+really3.5.1-2
 libhttp-parser2.92.9.2-2
 libhx509-5-heimdal7.7.0+dfsg-1
-libibus-1.0-51.5.22-2ubuntu2
+libibus-1.0-51.5.22-2ubuntu2.1
 libice62:1.0.10-0ubuntu1
 libicu6666.1-2ubuntu2
 libidn111.33-2.2ubuntu2
@@ -604,9 +604,9 @@ libqt5svg55.12.8-0ubuntu1
 libqt5test55.12.8+dfsg-0ubuntu1
 libqt5texttospeech55.12.8-0ubuntu1
 libqt5webchannel55.12.8-0ubuntu1
-libqt5webenginecore55.12.8+dfsg-0ubuntu1
-libqt5webengine-data5.12.8+dfsg-0ubuntu1
-libqt5webenginewidgets55.12.8+dfsg-0ubuntu1
+libqt5webenginecore55.12.8+dfsg-0ubuntu1.1
+libqt5webengine-data5.12.8+dfsg-0ubuntu1.1
+libqt5webenginewidgets55.12.8+dfsg-0ubuntu1.1
 libqt5widgets55.12.8+dfsg-0ubuntu1
 libqt5x11extras55.12.8-0ubuntu1
 libqt5xml55.12.8+dfsg-0ubuntu1
@@ -616,8 +616,8 @@ libreadline88.0-4
 libresid-builder0c2a2.1.1-15ubuntu2
 librest-0.7-00.8.1-1
 libroken18-heimdal7.7.0+dfsg-1
-librsvg2-22.48.2-1
-librsvg2-common2.48.2-1
+librsvg2-22.48.7-1ubuntu0.20.04.1
+librsvg2-common2.48.7-1ubuntu0.20.04.1
 librtmp12.4+20151223.gitfa8646d.1-2build1
 libsamplerate00.1.9-2
 libsasl2-22.1.27+dfsg-2
@@ -837,7 +837,7 @@ pulseaudio-utils1:13.99.1-1ubuntu3.3
 python33.8.2-0ubuntu2
 python3.83.8.2-1ubuntu1.1
 python3.8-minimal3.8.2-1ubuntu1.1
-python3-apport2.20.11-0ubuntu27.3
+python3-apport2.20.11-0ubuntu27.4
 python3-apt2.0.0
 python3-blinker1.4+dfsg1-0.3ubuntu1
 python3-cairo1.16.2-2ubuntu2
@@ -849,7 +849,7 @@ python3-cryptography2.8-3
 python3-dbus1.2.16-1build1
 python3-distro1.4.0-1
 python3-distro-info0.23ubuntu1
-python3-distupgrade1:20.04.19
+python3-distupgrade1:20.04.21
 python3-entrypoints0.3-2ubuntu1
 python3-gi3.36.0-1
 python3-gi-cairo3.36.0-1
@@ -863,7 +863,7 @@ python3-lazr.uri1.0.3-4build1
 python3-minimal3.8.2-0ubuntu2
 python3-oauthlib3.1.0-1ubuntu2
 python3-pkg-resources45.2.0-1
-python3-problem-report2.20.11-0ubuntu27.3
+python3-problem-report2.20.11-0ubuntu27.4
 python3-psutil5.5.1-1ubuntu4
 python3-pyqt55.14.1+dfsg-3build1
 python3-requests2.22.0-2ubuntu1
@@ -934,8 +934,8 @@ tzdata2020a-0ubuntu0.20.04
 ubuntu-drivers-common1:0.8.1.1
 ubuntu-keyring2018.09.18.1
 ubuntu-mono19.04-0ubuntu3
-ubuntu-release-upgrader-core1:20.04.19
-ubuntu-release-upgrader-qt1:20.04.19
+ubuntu-release-upgrader-core1:20.04.21
+ubuntu-release-upgrader-qt1:20.04.21
 ucf3.0038+nmu1
 udev245.4-4ubuntu3.1
 udisks22.8.4-1ubuntu1
@@ -970,9 +970,9 @@ xorg-docs-core1:1.7.1-1.1
 xorg-sgml-doctools1:1.11-1
 xorgxrdp1:0.2.12-1
 xrdp0.9.12-1
-xserver-common2:1.20.8-2ubuntu2.1
+xserver-common2:1.20.8-2ubuntu2.2
 xserver-xorg1:7.7+19ubuntu14
-xserver-xorg-core2:1.20.8-2ubuntu2.1
+xserver-xorg-core2:1.20.8-2ubuntu2.2
 xtrans-dev1.4.0-1
 xutils1:7.7+19ubuntu14
 xz-utils5.2.4-1
