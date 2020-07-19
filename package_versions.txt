@@ -29,7 +29,7 @@ dpkg1.19.7ubuntu2
 e2fsprogs1.45.3-4ubuntu2
 fdisk2.34-0.1ubuntu4
 findutils4.6.0+git+20190209-2ubuntu1
-firefox78.0.1+build1-0ubuntu0.20.04.1
+firefox78.0.2+build2-0ubuntu0.20.04.1
 fontconfig2.13.1-2ubuntu3
 fontconfig-config2.13.1-2ubuntu3
 fonts-dejavu-core2.37-1
@@ -248,8 +248,8 @@ libpython3-stdlib3.8.2-0ubuntu2
 libreadline88.0-4
 librest-0.7-00.8.1-1
 libroken18-heimdal7.7.0+dfsg-1
-librsvg2-22.48.2-1
-librsvg2-common2.48.2-1
+librsvg2-22.48.7-1ubuntu0.20.04.1
+librsvg2-common2.48.7-1ubuntu0.20.04.1
 librtmp12.4+20151223.gitfa8646d.1-2build1
 libsamplerate00.1.9-2
 libsasl2-22.1.27+dfsg-2
@@ -423,8 +423,8 @@ xkb-data2.29-2
 xorg-sgml-doctools1:1.11-1
 xorgxrdp1:0.2.12-1
 xrdp0.9.12-1
-xserver-common2:1.20.8-2ubuntu2.1
-xserver-xorg-core2:1.20.8-2ubuntu2.1
+xserver-common2:1.20.8-2ubuntu2.2
+xserver-xorg-core2:1.20.8-2ubuntu2.2
 xtrans-dev1.4.0-1
 xutils1:7.7+19ubuntu14
 zlib1g1:1.2.11.dfsg-2ubuntu1
