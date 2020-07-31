@@ -11,9 +11,6 @@ base-files11ubuntu5
 base-passwd3.5.47
 bash5.0-6ubuntu1
 bc1.07.1-2build1
-binutils2.34-6ubuntu1
-binutils-common2.34-6ubuntu1
-binutils-x86-64-linux-gnu2.34-6ubuntu1
 breeze4:5.18.4.1-0ubuntu1
 breeze-cursor-theme4:5.18.4.1-0ubuntu1
 breeze-icon-theme4:5.68.0-0ubuntu1
@@ -42,12 +39,11 @@ docbook-xml4.5-9
 docbook-xsl1.79.1+dfsg-2
 docker-ce-cli5:19.03.12~3-0~ubuntu-bionic
 dpkg1.19.7ubuntu3
-dpkg-dev1.19.7ubuntu3
 drkonqi5.18.5-0ubuntu0.1
 e2fsprogs1.45.5-2ubuntu1
 fdisk2.34-0.1ubuntu9
 findutils4.7.0-1ubuntu1
-firefox78.0.2+build2-0ubuntu0.20.04.1
+firefox79.0+build1-0ubuntu0.20.04.1
 fontconfig2.13.1-2ubuntu3
 fontconfig-config2.13.1-2ubuntu3
 fonts-dejavu-core2.37-1
@@ -166,7 +162,6 @@ libavformat587:4.2.4-1ubuntu0.1
 libavutil567:4.2.4-1ubuntu0.1
 libbabeltrace11.5.8-1build1
 libbasicusageenvironment12020.01.19-1build1
-libbinutils2.34-6ubuntu1
 libblkid12.34-0.1ubuntu9
 libblockdev22.23-2ubuntu3
 libblockdev-fs22.23-2ubuntu3
@@ -196,8 +191,6 @@ libcolord21.4.4-2
 libcom-err21.45.5-2ubuntu1
 libcrypt11:4.4.10-10ubuntu4
 libcryptsetup122:2.2.2-3ubuntu2
-libctf02.34-6ubuntu1
-libctf-nobfd02.34-6ubuntu1
 libcups22.3.1-9ubuntu1.1
 libcurl3-gnutls7.68.0-1ubuntu2.1
 libcurl47.68.0-1ubuntu2.1
@@ -214,7 +207,6 @@ libdebconf-kde11.0.3-3
 libdevmapper1.02.12:1.02.167-1ubuntu1
 libdmtx0b0.7.5-3
 libdouble-conversion33.1.5-4ubuntu1
-libdpkg-perl1.19.7ubuntu3
 libdrm22.4.101-2
 libdrm-amdgpu12.4.101-2
 libdrm-common2.4.101-2
@@ -791,7 +783,6 @@ login1:4.8.1-1ubuntu5.20.04
 logsave1.45.5-2ubuntu1
 lsb-base11.1.0ubuntu2
 lsb-release11.1.0ubuntu2
-make4.2.1-1.2
 man-db2.9.1-1
 mawk1.3.4.20200120-2
 milou4:5.18.5-0ubuntu0.1
@@ -806,7 +797,6 @@ oxygen-sounds4:5.18.4.1-0ubuntu1
 packagekit1.1.13-2ubuntu1
 parted3.3-4
 passwd1:4.8.1-1ubuntu5.20.04
-patch2.7.6-6
 pci.ids0.0~2020.03.20-1
 pciutils1:3.6.4-1
 perl5.30.0-9build1
@@ -835,12 +825,14 @@ python33.8.2-0ubuntu2
 python3.83.8.2-1ubuntu1.2
 python3.8-minimal3.8.2-1ubuntu1.2
 python3-apport2.20.11-0ubuntu27.4
-python3-apt2.0.0
+python3-apt2.0.0ubuntu0.20.04.1
 python3-blinker1.4+dfsg1-0.3ubuntu1
 python3-cairo1.16.2-2ubuntu2
 python3-certifi2019.11.28-1
 python3-cffi-backend1.14.0-1build1
 python3-chardet3.0.4-4build1
+python3-click7.0-3
+python3-colorama0.4.3-1build1
 python3-configobj5.0.6-4
 python3-cryptography2.8-3
 python3-dbus1.2.16-1build1
@@ -875,7 +867,7 @@ python3-update-manager1:20.04.10.1
 python3-urllib31.25.8-2
 python3-wadllib1.3.3-3build1
 python3-xkit0.5.0ubuntu4
-python-apt-common2.0.0
+python-apt-common2.0.0ubuntu0.20.04.1
 qdbus-qt55.12.8-0ubuntu1
 qml-module-org-kde-activities5.68.0-0ubuntu2
 qml-module-org-kde-draganddrop5.68.0-0ubuntu2
@@ -928,7 +920,7 @@ sysvinit-utils2.96-2.1ubuntu1
 tar1.30+dfsg-7
 terminator1.91-4ubuntu1
 tzdata2020a-0ubuntu0.20.04
-ubuntu-drivers-common1:0.8.1.1
+ubuntu-drivers-common1:0.8.4~0.20.04.3
 ubuntu-keyring2020.02.11.2
 ubuntu-mono19.04-0ubuntu3
 ubuntu-release-upgrader-core1:20.04.23
