@@ -29,7 +29,7 @@ dpkg1.19.7ubuntu3
 e2fsprogs1.45.5-2ubuntu1
 fdisk2.34-0.1ubuntu9
 findutils4.7.0-1ubuntu1
-firefox78.0.2+build2-0ubuntu0.20.04.1
+firefox79.0+build1-0ubuntu0.20.04.1
 fontconfig2.13.1-2ubuntu3
 fontconfig-config2.13.1-2ubuntu3
 fonts-dejavu-core2.37-1
@@ -368,7 +368,7 @@ pulseaudio-utils1:13.99.1-1ubuntu3.5
 python33.8.2-0ubuntu2
 python3.83.8.2-1ubuntu1.2
 python3.8-minimal3.8.2-1ubuntu1.2
-python3-apt2.0.0
+python3-apt2.0.0ubuntu0.20.04.1
 python3-cairo1.16.2-2ubuntu2
 python3-certifi2019.11.28-1
 python3-chardet3.0.4-4build1
@@ -385,7 +385,7 @@ python3-requests-unixsocket0.2.0-2
 python3-six1.14.0-2
 python3-software-properties0.98.9.1
 python3-urllib31.25.8-2
-python-apt-common2.0.0
+python-apt-common2.0.0ubuntu0.20.04.1
 readline-common8.0-4
 sed4.7-1
 sensible-utils0.0.12+nmu1
