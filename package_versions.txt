@@ -58,8 +58,8 @@ gcc-9-base9.3.0-10ubuntu2
 gdb9.1-0ubuntu1
 gdisk1.0.5-1
 genisoimage9:1.1.11-3.1ubuntu1
-ghostscript9.50~dfsg-5ubuntu4
-ghostscript-x9.50~dfsg-5ubuntu4
+ghostscript9.50~dfsg-5ubuntu4.1
+ghostscript-x9.50~dfsg-5ubuntu4.1
 gir1.2-atk-1.02.35.1-1ubuntu2
 gir1.2-freedesktop1.64.1-1~ubuntu20.04.1
 gir1.2-gdkpixbuf-2.02.40.0+dfsg-3
@@ -272,8 +272,8 @@ libgps263.20-8ubuntu0.2
 libgrantlee-templates55.2.0-0ubuntu2
 libgraphite2-31.3.13-11build1
 libgroupsock82020.01.19-1build1
-libgs99.50~dfsg-5ubuntu4
-libgs9-common9.50~dfsg-5ubuntu4
+libgs99.50~dfsg-5ubuntu4.1
+libgs9-common9.50~dfsg-5ubuntu4.1
 libgsm11.0.18-2
 libgssapi3-heimdal7.7.0+dfsg-1ubuntu1
 libgssapi-krb5-21.17-6ubuntu4
@@ -647,7 +647,7 @@ libsrt11.4.0-1build1
 libss21.45.5-2ubuntu1
 libssh2-11.8.0-2.1build1
 libssh-40.9.3-2ubuntu2
-libssh-gcrypt-40.9.3-2ubuntu2
+libssh-gcrypt-40.9.3-2ubuntu2.1
 libssl1.11.1.1f-1ubuntu2
 libstdc++610-20200411-0ubuntu1
 libstemmer0d0+svn585-2
@@ -824,7 +824,7 @@ pulseaudio-utils1:13.99.1-1ubuntu3.5
 python33.8.2-0ubuntu2
 python3.83.8.2-1ubuntu1.2
 python3.8-minimal3.8.2-1ubuntu1.2
-python3-apport2.20.11-0ubuntu27.4
+python3-apport2.20.11-0ubuntu27.6
 python3-apt2.0.0ubuntu0.20.04.1
 python3-blinker1.4+dfsg1-0.3ubuntu1
 python3-cairo1.16.2-2ubuntu2
@@ -852,7 +852,7 @@ python3-lazr.uri1.0.3-4build1
 python3-minimal3.8.2-0ubuntu2
 python3-oauthlib3.1.0-1ubuntu2
 python3-pkg-resources45.2.0-1
-python3-problem-report2.20.11-0ubuntu27.4
+python3-problem-report2.20.11-0ubuntu27.6
 python3-psutil5.5.1-1ubuntu4
 python3-pyqt55.14.1+dfsg-3build1
 python3-requests2.22.0-2ubuntu1
