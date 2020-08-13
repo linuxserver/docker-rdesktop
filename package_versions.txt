@@ -211,7 +211,7 @@ libjte11.20-2ubuntu2
 libk5crypto31.16-2ubuntu0.1
 libkeybinder-3.0-00.3.2-1
 libkeyutils11.5.9-9.2ubuntu2
-libkmod224-1ubuntu3.4
+libkmod224-1ubuntu3.5
 libkrb5-26-heimdal7.5.0+dfsg-1
 libkrb5-31.16-2ubuntu0.1
 libkrb5support01.16-2ubuntu0.1
@@ -316,7 +316,7 @@ libthai-data0.1.27-2
 libthunarx-2-01.6.15-0ubuntu1.18.04.1
 libtiff54.0.9-5ubuntu0.3
 libtinfo56.1-1ubuntu1.18.04
-libudev1237-3ubuntu10.41
+libudev1237-3ubuntu10.42
 libunique-1.0-01.1.6-6
 libunistring20.9.9-0ubuntu2
 libupower-glib30.99.7-2ubuntu0.18.04.1
@@ -462,7 +462,7 @@ tzdata2020a-0ubuntu0.18.04
 ubuntu-keyring2018.09.18.1~18.04.0
 ubuntu-mono16.10+18.04.20181005-0ubuntu1
 ucf3.0038
-udev237-3ubuntu10.41
+udev237-3ubuntu10.42
 util-linux2.31.1-0.4ubuntu3.6
 x11-apps7.7+6ubuntu1
 x11-common1:7.7+19ubuntu7.1
