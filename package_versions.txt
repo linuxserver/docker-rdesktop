@@ -13,7 +13,7 @@ ca-certificates20190110ubuntu1.1
 coreutils8.30-3ubuntu2
 cpp4:9.3.0-1ubuntu2
 cpp-99.3.0-10ubuntu2
-curl7.68.0-1ubuntu2.1
+curl7.68.0-1ubuntu2.2
 dash0.5.10.2-6
 dbus1.12.16-2ubuntu2.1
 dbus-user-session1.12.16-2ubuntu2.1
@@ -122,7 +122,7 @@ libcom-err21.45.5-2ubuntu1
 libcrypt11:4.4.10-10ubuntu4
 libcryptsetup122:2.2.2-3ubuntu2
 libcups22.3.1-9ubuntu1.1
-libcurl47.68.0-1ubuntu2.1
+libcurl47.68.0-1ubuntu2.2
 libdatrie10.2.12-3
 libdb5.35.3.28+dfsg1-0.6ubuntu2
 libdbus-1-31.12.16-2ubuntu2.1
