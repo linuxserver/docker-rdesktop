@@ -40,7 +40,7 @@ cups-ipp-utils2.2.7-1ubuntu2.8
 cups-pk-helper0.2.6-1ubuntu1.2
 cups-ppdc2.2.7-1ubuntu2.8
 cups-server-common2.2.7-1ubuntu2.8
-curl7.58.0-2ubuntu3.9
+curl7.58.0-2ubuntu3.10
 dash0.5.8-2.10
 dbus1.12.2-1ubuntu1.2
 dbus-x111.12.2-1ubuntu1.2
@@ -210,8 +210,8 @@ libcupsfilters11.20.2-0ubuntu3.1
 libcupsimage22.2.7-1ubuntu2.8
 libcupsmime12.2.7-1ubuntu2.8
 libcupsppdc12.2.7-1ubuntu2.8
-libcurl3-gnutls7.58.0-2ubuntu3.9
-libcurl47.58.0-2ubuntu3.9
+libcurl3-gnutls7.58.0-2ubuntu3.10
+libcurl47.58.0-2ubuntu3.10
 libdatrie10.2.10-7
 libdb5.35.3.28-13.1ubuntu1.1
 libdbus-1-31.12.2-1ubuntu1.2
