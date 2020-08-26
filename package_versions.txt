@@ -40,7 +40,7 @@ cups-ipp-utils2.3.1-9ubuntu1.1
 cups-pk-helper0.2.6-1ubuntu3
 cups-ppdc2.3.1-9ubuntu1.1
 cups-server-common2.3.1-9ubuntu1.1
-curl7.68.0-1ubuntu2.1
+curl7.68.0-1ubuntu2.2
 dash0.5.10.2-6
 dbus1.12.16-2ubuntu2.1
 dbus-x111.12.16-2ubuntu2.1
@@ -76,8 +76,8 @@ gcc-9-base9.3.0-10ubuntu2
 gdisk1.0.5-1
 genisoimage9:1.1.11-3.1ubuntu1
 gettext-base0.19.8.1-10build1
-ghostscript9.50~dfsg-5ubuntu4.1
-ghostscript-x9.50~dfsg-5ubuntu4.1
+ghostscript9.50~dfsg-5ubuntu4.2
+ghostscript-x9.50~dfsg-5ubuntu4.2
 gir1.2-atk-1.02.35.1-1ubuntu2
 gir1.2-freedesktop1.64.1-1~ubuntu20.04.1
 gir1.2-gdkpixbuf-2.02.40.0+dfsg-3
@@ -209,7 +209,7 @@ libcrypt11:4.4.10-10ubuntu4
 libcryptsetup122:2.2.2-3ubuntu2
 libcups22.3.1-9ubuntu1.1
 libcupsfilters11.27.4-1
-libcurl47.68.0-1ubuntu2.1
+libcurl47.68.0-1ubuntu2.2
 libdatrie10.2.12-3
 libdb5.35.3.28+dfsg1-0.6ubuntu2
 libdbus-1-31.12.16-2ubuntu2.1
@@ -287,8 +287,8 @@ libgphoto2-62.5.25-0ubuntu0.1
 libgphoto2-port122.5.25-0ubuntu0.1
 libgpm21.20.7-5
 libgraphite2-31.3.13-11build1
-libgs99.50~dfsg-5ubuntu4.1
-libgs9-common9.50~dfsg-5ubuntu4.1
+libgs99.50~dfsg-5ubuntu4.2
+libgs9-common9.50~dfsg-5ubuntu4.2
 libgssapi3-heimdal7.7.0+dfsg-1ubuntu1
 libgssapi-krb5-21.17-6ubuntu4
 libgstreamer1.0-01.16.2-2
@@ -474,8 +474,8 @@ libsmartcols12.34-0.1ubuntu9
 libsmbclient2:4.11.6+dfsg-0ubuntu1.4
 libsnapd-glib11.57-0ubuntu3
 libsndfile11.0.28-7
-libsnmp355.8+dfsg-2ubuntu2.2
-libsnmp-base5.8+dfsg-2ubuntu2.2
+libsnmp355.8+dfsg-2ubuntu2.3
+libsnmp-base5.8+dfsg-2ubuntu2.3
 libsoup2.4-12.70.0-1
 libsoup-gnome2.4-12.70.0-1
 libsoxr00.1.3-2build1
@@ -667,7 +667,7 @@ pulseaudio-utils1:13.99.1-1ubuntu3.5
 python33.8.2-0ubuntu2
 python3.83.8.2-1ubuntu1.2
 python3.8-minimal3.8.2-1ubuntu1.2
-python3-apport2.20.11-0ubuntu27.6
+python3-apport2.20.11-0ubuntu27.8
 python3-apt2.0.0ubuntu0.20.04.1
 python3-aptdaemon1.1.1+bzr982-0ubuntu32.1
 python3-aptdaemon.gtk3widgets1.1.1+bzr982-0ubuntu32.1
@@ -701,7 +701,7 @@ python3-lazr.uri1.0.3-4build1
 python3-minimal3.8.2-0ubuntu2
 python3-oauthlib3.1.0-1ubuntu2
 python3-pkg-resources45.2.0-1
-python3-problem-report2.20.11-0ubuntu27.6
+python3-problem-report2.20.11-0ubuntu27.8
 python3-psutil5.5.1-1ubuntu4
 python3-requests2.22.0-2ubuntu1
 python3-requests-unixsocket0.2.0-2
