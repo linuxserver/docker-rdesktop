@@ -43,7 +43,7 @@ drkonqi5.18.5-0ubuntu0.1
 e2fsprogs1.45.5-2ubuntu1
 fdisk2.34-0.1ubuntu9
 findutils4.7.0-1ubuntu1
-firefox79.0+build1-0ubuntu0.20.04.1
+firefox80.0+build2-0ubuntu0.20.04.1
 fontconfig2.13.1-2ubuntu3
 fontconfig-config2.13.1-2ubuntu3
 fonts-dejavu-core2.37-1
@@ -58,8 +58,8 @@ gcc-9-base9.3.0-10ubuntu2
 gdb9.1-0ubuntu1
 gdisk1.0.5-1
 genisoimage9:1.1.11-3.1ubuntu1
-ghostscript9.50~dfsg-5ubuntu4.1
-ghostscript-x9.50~dfsg-5ubuntu4.1
+ghostscript9.50~dfsg-5ubuntu4.2
+ghostscript-x9.50~dfsg-5ubuntu4.2
 gir1.2-atk-1.02.35.1-1ubuntu2
 gir1.2-freedesktop1.64.1-1~ubuntu20.04.1
 gir1.2-gdkpixbuf-2.02.40.0+dfsg-3
@@ -272,8 +272,8 @@ libgps263.20-8ubuntu0.2
 libgrantlee-templates55.2.0-0ubuntu2
 libgraphite2-31.3.13-11build1
 libgroupsock82020.01.19-1build1
-libgs99.50~dfsg-5ubuntu4.1
-libgs9-common9.50~dfsg-5ubuntu4.1
+libgs99.50~dfsg-5ubuntu4.2
+libgs9-common9.50~dfsg-5ubuntu4.2
 libgsm11.0.18-2
 libgssapi3-heimdal7.7.0+dfsg-1ubuntu1
 libgssapi-krb5-21.17-6ubuntu4
@@ -473,7 +473,7 @@ liblocale-gettext-perl1.07-4
 libltdl72.4.6-14
 liblua5.2-05.2.4-1.1build3
 liblz4-11.9.2-2
-liblzma55.2.4-1
+liblzma55.2.4-1ubuntu1
 libmad00.15.1b-10ubuntu1
 libmagic11:5.38-4
 libmagic-mgc1:5.38-4
@@ -506,7 +506,7 @@ libnl-route-3-2003.4.0-1
 libnotificationmanager14:5.18.5-0ubuntu0.1
 libnpth01.6-1
 libnspr42:4.25-1
-libnss32:3.49.1-1ubuntu1.4
+libnss32:3.49.1-1ubuntu1.5
 libnuma12.0.12-1
 libogg01.3.4-0ubuntu1
 libopenexr242.3.0-6ubuntu0.2
