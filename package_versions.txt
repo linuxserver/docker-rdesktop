@@ -29,7 +29,7 @@ dpkg1.19.0.5ubuntu2.3
 e2fsprogs1.44.1-1ubuntu1.3
 fdisk2.31.1-0.4ubuntu3.6
 findutils4.6.0+git+20170828-2
-firefox80.0+build2-0ubuntu0.18.04.1
+firefox80.0.1+build1-0ubuntu0.18.04.1
 fontconfig2.12.6-0ubuntu2
 fontconfig-config2.12.6-0ubuntu2
 fonts-dejavu-core2.37-1
@@ -275,10 +275,10 @@ libwayland-server01.16.0-1ubuntu1.1~18.04.3
 libwebrtc-audio-processing10.3-1
 libwind0-heimdal7.5.0+dfsg-1
 libwrap07.6.q-27
-libx11-62:1.6.4-3ubuntu0.2
-libx11-data2:1.6.4-3ubuntu0.2
-libx11-dev2:1.6.4-3ubuntu0.2
-libx11-xcb12:1.6.4-3ubuntu0.2
+libx11-62:1.6.4-3ubuntu0.3
+libx11-data2:1.6.4-3ubuntu0.3
+libx11-dev2:1.6.4-3ubuntu0.3
+libx11-xcb12:1.6.4-3ubuntu0.3
 libxau61:1.0.8-1ubuntu1
 libxau-dev1:1.0.8-1ubuntu1
 libxaw72:1.0.13-1
@@ -387,8 +387,8 @@ xkb-data2.23.1-1ubuntu1.18.04.1
 xorg-sgml-doctools1:1.11-1
 xorgxrdp0.9.5-2
 xrdp0.9.5-2
-xserver-common2:1.19.6-1ubuntu4.4
-xserver-xorg-core2:1.19.6-1ubuntu4.4
+xserver-common2:1.19.6-1ubuntu4.5
+xserver-xorg-core2:1.19.6-1ubuntu4.5
 xtrans-dev1.3.5-1
 xutils1:7.7+19ubuntu7.1
 zlib1g1:1.2.11.dfsg-0ubuntu2
