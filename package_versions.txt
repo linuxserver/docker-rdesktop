@@ -29,7 +29,7 @@ dpkg1.19.7ubuntu3
 e2fsprogs1.45.5-2ubuntu1
 fdisk2.34-0.1ubuntu9
 findutils4.7.0-1ubuntu1
-firefox80.0+build2-0ubuntu0.20.04.1
+firefox80.0.1+build1-0ubuntu0.20.04.1
 fontconfig2.13.1-2ubuntu3
 fontconfig-config2.13.1-2ubuntu3
 fonts-dejavu-core2.37-1
@@ -70,8 +70,8 @@ libappstream40.12.10-2
 libapt-pkg6.02.0.2ubuntu0.1
 libargon2-10~20171227-0.2
 libasn1-8-heimdal7.7.0+dfsg-1ubuntu1
-libasound21.2.2-2.1ubuntu1
-libasound2-data1.2.2-2.1ubuntu1
+libasound21.2.2-2.1ubuntu2
+libasound2-data1.2.2-2.1ubuntu2
 libasound2-plugins1.2.2-1ubuntu1
 libassuan02.5.3-7ubuntu2
 libasyncns00.8-6
@@ -231,8 +231,8 @@ libprocps82:3.3.16-1ubuntu2
 libproxy1v50.4.15-10ubuntu1
 libpsl50.21.0-1ubuntu1
 libpthread-stubs0-dev0.4-1
-libpulse01:13.99.1-1ubuntu3.5
-libpulsedsp1:13.99.1-1ubuntu3.5
+libpulse01:13.99.1-1ubuntu3.6
+libpulsedsp1:13.99.1-1ubuntu3.6
 libpython2.7-minimal2.7.18~rc1-2
 libpython3.8-minimal3.8.2-1ubuntu1.2
 libpython3.8-stdlib3.8.2-1ubuntu1.2
@@ -294,10 +294,10 @@ libwebp60.6.1-2
 libwebrtc-audio-processing10.3.1-0ubuntu3
 libwind0-heimdal7.7.0+dfsg-1ubuntu1
 libwrap07.6.q-30
-libx11-62:1.6.9-2ubuntu1
-libx11-data2:1.6.9-2ubuntu1
-libx11-dev2:1.6.9-2ubuntu1
-libx11-xcb12:1.6.9-2ubuntu1
+libx11-62:1.6.9-2ubuntu1.1
+libx11-data2:1.6.9-2ubuntu1.1
+libx11-dev2:1.6.9-2ubuntu1.1
+libx11-xcb12:1.6.9-2ubuntu1.1
 libxau61:1.0.9-0ubuntu1
 libxau-dev1:1.0.9-0ubuntu1
 libxaw72:1.0.13-1
@@ -361,8 +361,8 @@ pinentry-curses1.1.0-3build1
 policykit-10.105-26ubuntu1
 procps2:3.3.16-1ubuntu2
 publicsuffix20200303.0012-1
-pulseaudio1:13.99.1-1ubuntu3.5
-pulseaudio-utils1:13.99.1-1ubuntu3.5
+pulseaudio1:13.99.1-1ubuntu3.6
+pulseaudio-utils1:13.99.1-1ubuntu3.6
 python2.7-minimal2.7.18~rc1-2
 python2-minimal2.7.17-2ubuntu4
 python33.8.2-0ubuntu2
@@ -416,8 +416,8 @@ xkb-data2.29-2
 xorg-sgml-doctools1:1.11-1
 xorgxrdp1:0.2.12-1
 xrdp0.9.12-1
-xserver-common2:1.20.8-2ubuntu2.2
-xserver-xorg-core2:1.20.8-2ubuntu2.2
+xserver-common2:1.20.8-2ubuntu2.3
+xserver-xorg-core2:1.20.8-2ubuntu2.3
 xterm353-1ubuntu1
 xtrans-dev1.4.0-1
 xutils1:7.7+19ubuntu14
