@@ -59,7 +59,7 @@ e2fsprogs1.44.1-1ubuntu1.3
 emacsen-common2.0.8
 fdisk2.31.1-0.4ubuntu3.6
 findutils4.6.0+git+20170828-2
-firefox80.0+build2-0ubuntu0.18.04.1
+firefox80.0.1+build1-0ubuntu0.18.04.1
 fontconfig2.12.6-0ubuntu2
 fontconfig-config2.12.6-0ubuntu2
 fonts-dejavu-core2.37-1
@@ -473,8 +473,8 @@ libsmartcols12.31.1-0.4ubuntu3.6
 libsmbclient2:4.7.6+dfsg~ubuntu-0ubuntu2.18
 libsnapd-glib11.49-0ubuntu0.18.04.2
 libsndfile11.0.28-4ubuntu0.18.04.1
-libsnmp305.7.3+dfsg-1.8ubuntu3.5
-libsnmp-base5.7.3+dfsg-1.8ubuntu3.5
+libsnmp305.7.3+dfsg-1.8ubuntu3.6
+libsnmp-base5.7.3+dfsg-1.8ubuntu3.6
 libsoup2.4-12.62.1-1ubuntu0.4
 libsoup-gnome2.4-12.62.1-1ubuntu0.4
 libspeex11.2~rc1.2-1ubuntu2
@@ -531,10 +531,10 @@ libwnck-3-03.24.1-2
 libwnck-3-common3.24.1-2
 libwoff11.0.2-1build0.1
 libwrap07.6.q-27
-libx11-62:1.6.4-3ubuntu0.2
-libx11-data2:1.6.4-3ubuntu0.2
-libx11-dev2:1.6.4-3ubuntu0.2
-libx11-xcb12:1.6.4-3ubuntu0.2
+libx11-62:1.6.4-3ubuntu0.3
+libx11-data2:1.6.4-3ubuntu0.3
+libx11-dev2:1.6.4-3ubuntu0.3
+libx11-xcb12:1.6.4-3ubuntu0.3
 libxau61:1.0.8-1ubuntu1
 libxau-dev1:1.0.8-1ubuntu1
 libxaw72:1.0.13-1
@@ -772,9 +772,9 @@ xorg-docs-core1:1.7.1-1.1
 xorg-sgml-doctools1:1.11-1
 xorgxrdp0.9.5-2
 xrdp0.9.5-2
-xserver-common2:1.19.6-1ubuntu4.4
+xserver-common2:1.19.6-1ubuntu4.5
 xserver-xorg1:7.7+19ubuntu7.1
-xserver-xorg-core2:1.19.6-1ubuntu4.4
+xserver-xorg-core2:1.19.6-1ubuntu4.5
 xtrans-dev1.3.5-1
 xutils1:7.7+19ubuntu7.1
 xz-utils5.2.2-1.3
