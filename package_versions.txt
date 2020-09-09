@@ -61,7 +61,7 @@ e2fsprogs1.45.5-2ubuntu1
 emacsen-common3.0.4
 fdisk2.34-0.1ubuntu9
 findutils4.7.0-1ubuntu1
-firefox80.0+build2-0ubuntu0.20.04.1
+firefox80.0.1+build1-0ubuntu0.20.04.1
 fontconfig2.13.1-2ubuntu3
 fontconfig-config2.13.1-2ubuntu3
 fonts-dejavu-core2.37-1
@@ -136,8 +136,8 @@ iso-codes4.4-1
 keyboard-configuration1.194ubuntu3
 kmod27-1ubuntu2
 krb5-locales1.17-6ubuntu4
-language-selector-common0.204
-language-selector-gnome0.204
+language-selector-common0.204.1
+language-selector-gnome0.204.1
 libaa11.4p5-46
 libaccountsservice00.6.55-0ubuntu12~20.04.1
 libacl12.2.53-6
@@ -537,10 +537,10 @@ libwnck-3-03.36.0-1
 libwnck-3-common3.36.0-1
 libwoff11.0.2-1build2
 libwrap07.6.q-30
-libx11-62:1.6.9-2ubuntu1
-libx11-data2:1.6.9-2ubuntu1
-libx11-dev2:1.6.9-2ubuntu1
-libx11-xcb12:1.6.9-2ubuntu1
+libx11-62:1.6.9-2ubuntu1.1
+libx11-data2:1.6.9-2ubuntu1.1
+libx11-dev2:1.6.9-2ubuntu1.1
+libx11-xcb12:1.6.9-2ubuntu1.1
 libxau61:1.0.9-0ubuntu1
 libxau-dev1:1.0.9-0ubuntu1
 libxaw72:1.0.13-1
@@ -687,7 +687,7 @@ python3-debian0.1.36ubuntu1
 python3-defer1.0.6-2.1
 python3-distro1.4.0-1
 python3-distro-info0.23ubuntu1
-python3-distupgrade1:20.04.24
+python3-distupgrade1:20.04.25
 python3-entrypoints0.3-2ubuntu1
 python3-gi3.36.0-1
 python3-gi-cairo3.36.0-1
@@ -748,8 +748,8 @@ ubuntu-mate-wallpapers-common20.04.2
 ubuntu-mate-wallpapers-focal20.04.2
 ubuntu-mate-wallpapers-photos20.04.2
 ubuntu-mono19.04-0ubuntu3
-ubuntu-release-upgrader-core1:20.04.24
-ubuntu-release-upgrader-gtk1:20.04.24
+ubuntu-release-upgrader-core1:20.04.25
+ubuntu-release-upgrader-gtk1:20.04.25
 ucf3.0038+nmu1
 udev245.4-4ubuntu3.2
 udisks22.8.4-1ubuntu1
@@ -787,9 +787,9 @@ xorg-docs-core1:1.7.1-1.1
 xorg-sgml-doctools1:1.11-1
 xorgxrdp1:0.2.12-1
 xrdp0.9.12-1
-xserver-common2:1.20.8-2ubuntu2.2
+xserver-common2:1.20.8-2ubuntu2.3
 xserver-xorg1:7.7+19ubuntu14
-xserver-xorg-core2:1.20.8-2ubuntu2.2
+xserver-xorg-core2:1.20.8-2ubuntu2.3
 xtrans-dev1.4.0-1
 xutils1:7.7+19ubuntu14
 xz-utils5.2.4-1ubuntu1
