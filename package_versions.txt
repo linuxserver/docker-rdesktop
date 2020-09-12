@@ -3,7 +3,7 @@ adwaita-icon-theme3.28.0-1ubuntu1
 apt1.6.12ubuntu0.1
 apt-transport-https1.6.12ubuntu0.1
 apt-utils1.6.12ubuntu0.1
-base-files10.1ubuntu2.9
+base-files10.1ubuntu2.10
 base-passwd3.5.44
 bash4.4.18-2ubuntu1.2
 bsdmainutils11.1.2ubuntu1
@@ -201,10 +201,10 @@ libogg01.3.2-1
 libopus01.1.2-1ubuntu1
 liborc-0.4-01:0.4.28-1
 libp11-kit00.23.9-2
-libpam0g1.1.8-3.6ubuntu2.18.04.1
-libpam-modules1.1.8-3.6ubuntu2.18.04.1
-libpam-modules-bin1.1.8-3.6ubuntu2.18.04.1
-libpam-runtime1.1.8-3.6ubuntu2.18.04.1
+libpam0g1.1.8-3.6ubuntu2.18.04.2
+libpam-modules1.1.8-3.6ubuntu2.18.04.2
+libpam-modules-bin1.1.8-3.6ubuntu2.18.04.2
+libpam-runtime1.1.8-3.6ubuntu2.18.04.2
 libpango-1.0-01.40.14-1ubuntu0.1
 libpangocairo-1.0-01.40.14-1ubuntu0.1
 libpangoft2-1.0-01.40.14-1ubuntu0.1
@@ -387,8 +387,8 @@ xkb-data2.23.1-1ubuntu1.18.04.1
 xorg-sgml-doctools1:1.11-1
 xorgxrdp0.9.5-2
 xrdp0.9.5-2
-xserver-common2:1.19.6-1ubuntu4.5
-xserver-xorg-core2:1.19.6-1ubuntu4.5
+xserver-common2:1.19.6-1ubuntu4.6
+xserver-xorg-core2:1.19.6-1ubuntu4.6
 xtrans-dev1.3.5-1
 xutils1:7.7+19ubuntu7.1
 zlib1g1:1.2.11.dfsg-0ubuntu2
