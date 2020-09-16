@@ -26,8 +26,8 @@ caja-common1.24.0-1
 coreutils8.30-3ubuntu2
 cpp4:9.3.0-1ubuntu2
 cpp-99.3.0-10ubuntu2
-cryptsetup2:2.2.2-3ubuntu2
-cryptsetup-bin2:2.2.2-3ubuntu2
+cryptsetup2:2.2.2-3ubuntu2.2
+cryptsetup-bin2:2.2.2-3ubuntu2.2
 cups2.3.1-9ubuntu1.1
 cups-browsed1.27.4-1
 cups-client2.3.1-9ubuntu1.1
@@ -129,7 +129,7 @@ hicolor-icon-theme0.17-2
 hostname3.23
 humanity-icon-theme0.6.15
 hunspell-en-us1:2018.04.16-1
-im-config0.44-1ubuntu1.1
+im-config0.44-1ubuntu1.2
 init-system-helpers1.57
 inputattach1:1.7.0-1
 iso-codes4.4-1
@@ -717,7 +717,7 @@ python3-xkit0.5.0ubuntu4
 python3-yaml5.3.1-1
 python-apt-common2.0.0ubuntu0.20.04.1
 readline-common8.0-4
-rfkill2.34-0.1ubuntu9
+rfkill2.34-0.1ubuntu9.1
 samba-libs2:4.11.6+dfsg-0ubuntu1.4
 sed4.7-1
 sensible-utils0.0.12+nmu1
