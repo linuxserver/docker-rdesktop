@@ -7,7 +7,7 @@ apt2.0.2ubuntu0.1
 apt-transport-https2.0.2ubuntu0.1
 apt-utils2.0.2ubuntu0.1
 baloo-kf55.68.0-0ubuntu1
-base-files11ubuntu5.1
+base-files11ubuntu5.2
 base-passwd3.5.47
 bash5.0-6ubuntu1.1
 bc1.07.1-2build1
@@ -190,7 +190,7 @@ libcolorcorrect54:5.18.5-0ubuntu0.1
 libcolord21.4.4-2
 libcom-err21.45.5-2ubuntu1
 libcrypt11:4.4.10-10ubuntu4
-libcryptsetup122:2.2.2-3ubuntu2
+libcryptsetup122:2.2.2-3ubuntu2.2
 libcups22.3.1-9ubuntu1.1
 libcurl3-gnutls7.68.0-1ubuntu2.2
 libcurl47.68.0-1ubuntu2.2
@@ -262,7 +262,7 @@ libglx01.3.1-1ubuntu0.20.04.1
 libglx-mesa020.0.8-0ubuntu1~20.04.1
 libgme00.6.2-1build1
 libgmp102:6.2.0+dfsg-4
-libgnutls303.6.13-2ubuntu1.2
+libgnutls303.6.13-2ubuntu1.3
 libgomp110-20200411-0ubuntu1
 libgpg-error01.37-1
 libgpgme111.13.1-7ubuntu2
@@ -518,10 +518,10 @@ liborc-0.4-01:0.4.31-1
 libp11-kit00.23.20-1build1
 libpackagekit-glib2-181.1.13-2ubuntu1
 libpackagekitqt5-11.0.2-1
-libpam0g1.3.1-5ubuntu4
-libpam-modules1.3.1-5ubuntu4
-libpam-modules-bin1.3.1-5ubuntu4
-libpam-runtime1.3.1-5ubuntu4
+libpam0g1.3.1-5ubuntu4.1
+libpam-modules1.3.1-5ubuntu4.1
+libpam-modules-bin1.3.1-5ubuntu4.1
+libpam-runtime1.3.1-5ubuntu4.1
 libpam-systemd245.4-4ubuntu3.2
 libpango-1.0-01.44.7-2ubuntu4
 libpangocairo-1.0-01.44.7-2ubuntu4
@@ -898,7 +898,7 @@ qml-module-qtquick-templates25.12.8+dfsg-0ubuntu1
 qml-module-qtquick-window25.12.8-0ubuntu1
 qtchooser66-2build1
 readline-common8.0-4
-rfkill2.34-0.1ubuntu9
+rfkill2.34-0.1ubuntu9.1
 samba-libs2:4.11.6+dfsg-0ubuntu1.4
 sddm-theme-breeze4:5.18.5-0ubuntu0.1
 sed4.7-1
@@ -959,9 +959,9 @@ xorg-docs-core1:1.7.1-1.1
 xorg-sgml-doctools1:1.11-1
 xorgxrdp1:0.2.12-1
 xrdp0.9.12-1
-xserver-common2:1.20.8-2ubuntu2.3
+xserver-common2:1.20.8-2ubuntu2.4
 xserver-xorg1:7.7+19ubuntu14
-xserver-xorg-core2:1.20.8-2ubuntu2.3
+xserver-xorg-core2:1.20.8-2ubuntu2.4
 xtrans-dev1.4.0-1
 xutils1:7.7+19ubuntu14
 xz-utils5.2.4-1ubuntu1
