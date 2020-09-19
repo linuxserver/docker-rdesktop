@@ -3,7 +3,7 @@ adwaita-icon-theme3.36.1-2ubuntu0.20.04.2
 apt2.0.2ubuntu0.1
 apt-transport-https2.0.2ubuntu0.1
 apt-utils2.0.2ubuntu0.1
-base-files11ubuntu5.1
+base-files11ubuntu5.2
 base-passwd3.5.47
 bash5.0-6ubuntu1.1
 bsdmainutils11.1.2ubuntu3
@@ -99,7 +99,7 @@ libc-bin2.31-0ubuntu9
 libcolord21.4.4-2
 libcom-err21.45.5-2ubuntu1
 libcrypt11:4.4.10-10ubuntu4
-libcryptsetup122:2.2.2-3ubuntu2
+libcryptsetup122:2.2.2-3ubuntu2.2
 libcups22.3.1-9ubuntu1.1
 libcurl47.68.0-1ubuntu2.2
 libdatrie10.2.12-3
@@ -148,7 +148,7 @@ libglvnd01.3.1-1ubuntu0.20.04.1
 libglx01.3.1-1ubuntu0.20.04.1
 libglx-mesa020.0.8-0ubuntu1~20.04.1
 libgmp102:6.2.0+dfsg-4
-libgnutls303.6.13-2ubuntu1.2
+libgnutls303.6.13-2ubuntu1.3
 libgomp110-20200411-0ubuntu1
 libgpg-error01.37-1
 libgraphite2-31.3.13-11build1
@@ -210,10 +210,10 @@ libopus01.3.1-0ubuntu1
 liborc-0.4-01:0.4.31-1
 libp11-kit00.23.20-1build1
 libpackagekit-glib2-181.1.13-2ubuntu1
-libpam0g1.3.1-5ubuntu4
-libpam-modules1.3.1-5ubuntu4
-libpam-modules-bin1.3.1-5ubuntu4
-libpam-runtime1.3.1-5ubuntu4
+libpam0g1.3.1-5ubuntu4.1
+libpam-modules1.3.1-5ubuntu4.1
+libpam-modules-bin1.3.1-5ubuntu4.1
+libpam-runtime1.3.1-5ubuntu4.1
 libpam-systemd245.4-4ubuntu3.2
 libpango-1.0-01.44.7-2ubuntu4
 libpangocairo-1.0-01.44.7-2ubuntu4
@@ -416,8 +416,8 @@ xkb-data2.29-2
 xorg-sgml-doctools1:1.11-1
 xorgxrdp1:0.2.12-1
 xrdp0.9.12-1
-xserver-common2:1.20.8-2ubuntu2.3
-xserver-xorg-core2:1.20.8-2ubuntu2.3
+xserver-common2:1.20.8-2ubuntu2.4
+xserver-xorg-core2:1.20.8-2ubuntu2.4
 xterm353-1ubuntu1
 xtrans-dev1.4.0-1
 xutils1:7.7+19ubuntu14
