@@ -12,7 +12,7 @@ apturl0.5.2ubuntu19
 apturl-common0.5.2ubuntu19
 apt-utils2.0.2ubuntu0.1
 at-spi2-core2.36.0-2
-base-files11ubuntu5.1
+base-files11ubuntu5.2
 base-passwd3.5.47
 bash5.0-6ubuntu1.1
 bc1.07.1-2build1
@@ -206,7 +206,7 @@ libcolord21.4.4-2
 libcom-err21.45.5-2ubuntu1
 libcpufreq0008-1.1
 libcrypt11:4.4.10-10ubuntu4
-libcryptsetup122:2.2.2-3ubuntu2
+libcryptsetup122:2.2.2-3ubuntu2.2
 libcups22.3.1-9ubuntu1.1
 libcupsfilters11.27.4-1
 libcurl47.68.0-1ubuntu2.2
@@ -278,7 +278,7 @@ libglvnd01.3.1-1ubuntu0.20.04.1
 libglx01.3.1-1ubuntu0.20.04.1
 libglx-mesa020.0.8-0ubuntu1~20.04.1
 libgmp102:6.2.0+dfsg-4
-libgnutls303.6.13-2ubuntu1.2
+libgnutls303.6.13-2ubuntu1.3
 libgoa-1.0-0b3.36.0-1ubuntu1
 libgoa-1.0-common3.36.0-1ubuntu1
 libgomp110-20200411-0ubuntu1
@@ -402,10 +402,10 @@ libopus01.3.1-0ubuntu1
 liborc-0.4-01:0.4.31-1
 libp11-kit00.23.20-1build1
 libpackagekit-glib2-181.1.13-2ubuntu1
-libpam0g1.3.1-5ubuntu4
-libpam-modules1.3.1-5ubuntu4
-libpam-modules-bin1.3.1-5ubuntu4
-libpam-runtime1.3.1-5ubuntu4
+libpam0g1.3.1-5ubuntu4.1
+libpam-modules1.3.1-5ubuntu4.1
+libpam-modules-bin1.3.1-5ubuntu4.1
+libpam-runtime1.3.1-5ubuntu4.1
 libpam-systemd245.4-4ubuntu3.2
 libpango-1.0-01.44.7-2ubuntu4
 libpangocairo-1.0-01.44.7-2ubuntu4
@@ -667,7 +667,7 @@ pulseaudio-utils1:13.99.1-1ubuntu3.6
 python33.8.2-0ubuntu2
 python3.83.8.2-1ubuntu1.2
 python3.8-minimal3.8.2-1ubuntu1.2
-python3-apport2.20.11-0ubuntu27.8
+python3-apport2.20.11-0ubuntu27.9
 python3-apt2.0.0ubuntu0.20.04.1
 python3-aptdaemon1.1.1+bzr982-0ubuntu32.1
 python3-aptdaemon.gtk3widgets1.1.1+bzr982-0ubuntu32.1
@@ -701,7 +701,7 @@ python3-lazr.uri1.0.3-4build1
 python3-minimal3.8.2-0ubuntu2
 python3-oauthlib3.1.0-1ubuntu2
 python3-pkg-resources45.2.0-1
-python3-problem-report2.20.11-0ubuntu27.8
+python3-problem-report2.20.11-0ubuntu27.9
 python3-psutil5.5.1-1ubuntu4
 python3-requests2.22.0-2ubuntu1
 python3-requests-unixsocket0.2.0-2
@@ -787,9 +787,9 @@ xorg-docs-core1:1.7.1-1.1
 xorg-sgml-doctools1:1.11-1
 xorgxrdp1:0.2.12-1
 xrdp0.9.12-1
-xserver-common2:1.20.8-2ubuntu2.3
+xserver-common2:1.20.8-2ubuntu2.4
 xserver-xorg1:7.7+19ubuntu14
-xserver-xorg-core2:1.20.8-2ubuntu2.3
+xserver-xorg-core2:1.20.8-2ubuntu2.4
 xtrans-dev1.4.0-1
 xutils1:7.7+19ubuntu14
 xz-utils5.2.4-1ubuntu1
