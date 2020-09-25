@@ -15,7 +15,7 @@ breeze4:5.18.4.1-0ubuntu1
 breeze-cursor-theme4:5.18.4.1-0ubuntu1
 breeze-icon-theme4:5.68.0-0ubuntu1
 bsdmainutils11.1.2ubuntu3
-bsdutils1:2.34-0.1ubuntu9
+bsdutils1:2.34-0.1ubuntu9.1
 bzip21.0.8-2
 ca-certificates20190110ubuntu1.1
 coreutils8.30-3ubuntu2
@@ -37,11 +37,11 @@ distro-info-data0.43ubuntu1.1
 dmidecode3.2-3
 docbook-xml4.5-9
 docbook-xsl1.79.1+dfsg-2
-docker-ce-cli5:19.03.12~3-0~ubuntu-bionic
+docker-ce-cli5:19.03.13~3-0~ubuntu-bionic
 dpkg1.19.7ubuntu3
 drkonqi5.18.5-0ubuntu0.1
 e2fsprogs1.45.5-2ubuntu1
-fdisk2.34-0.1ubuntu9
+fdisk2.34-0.1ubuntu9.1
 findutils4.7.0-1ubuntu1
 firefox80.0.1+build1-0ubuntu0.20.04.1
 fontconfig2.13.1-2ubuntu3
@@ -65,7 +65,7 @@ gir1.2-freedesktop1.64.1-1~ubuntu20.04.1
 gir1.2-gdkpixbuf-2.02.40.0+dfsg-3
 gir1.2-glib-2.01.64.1-1~ubuntu20.04.1
 gir1.2-gtk-3.03.24.20-0ubuntu1
-gir1.2-packagekitglib-1.01.1.13-2ubuntu1
+gir1.2-packagekitglib-1.01.1.13-2ubuntu1.1
 gir1.2-pango-1.01.44.7-2ubuntu4
 gir1.2-vte-2.910.60.3-0ubuntu1~20.04
 glib-networking2.64.2-1ubuntu0.1
@@ -162,7 +162,7 @@ libavformat587:4.2.4-1ubuntu0.1
 libavutil567:4.2.4-1ubuntu0.1
 libbabeltrace11.5.8-1build1
 libbasicusageenvironment12020.01.19-1build1
-libblkid12.34-0.1ubuntu9
+libblkid12.34-0.1ubuntu9.1
 libblockdev22.23-2ubuntu3
 libblockdev-fs22.23-2ubuntu3
 libblockdev-loop22.23-2ubuntu3
@@ -230,7 +230,7 @@ libexpat12.2.9-1build1
 libext2fs21.45.5-2ubuntu1
 libfaad22.9.1-1
 libfam02.7.0-17.3build2
-libfdisk12.34-0.1ubuntu9
+libfdisk12.34-0.1ubuntu9.1
 libffi73.3-4
 libfftw3-single33.3.8-2ubuntu1
 libflac81.3.3-1build1
@@ -482,7 +482,7 @@ libmbedcrypto32.16.4-1ubuntu2
 libmbedtls122.16.4-1ubuntu2
 libmbedx509-02.16.4-1ubuntu2
 libminizip11.1-8build1
-libmount12.34-0.1ubuntu9
+libmount12.34-0.1ubuntu9.1
 libmp3lame03.100-3
 libmpc31.1.0-1
 libmpcdec62:0.1~r495-2
@@ -516,7 +516,7 @@ libopenmpt-modplug10.4.11-1build1
 libopus01.3.1-0ubuntu1
 liborc-0.4-01:0.4.31-1
 libp11-kit00.23.20-1build1
-libpackagekit-glib2-181.1.13-2ubuntu1
+libpackagekit-glib2-181.1.13-2ubuntu1.1
 libpackagekitqt5-11.0.2-1
 libpam0g1.3.1-5ubuntu4.1
 libpam-modules1.3.1-5ubuntu4.1
@@ -556,7 +556,7 @@ libprocesscore74:5.18.4.1-0ubuntu1
 libprocessui74:5.18.4.1-0ubuntu1
 libprocps82:3.3.16-1ubuntu2
 libprotobuf-lite173.6.1.3-2ubuntu5
-libproxy1v50.4.15-10ubuntu1
+libproxy1v50.4.15-10ubuntu1.1
 libpsl50.21.0-1ubuntu1
 libpthread-stubs0-dev0.4-1
 libpulse01:13.99.1-1ubuntu3.6
@@ -630,7 +630,7 @@ libsidplay22.1.1-15ubuntu2
 libsigsegv22.12-2
 libslang22.3.2-4
 libsm62:1.2.3-1
-libsmartcols12.34-0.1ubuntu9
+libsmartcols12.34-0.1ubuntu9.1
 libsmbclient2:4.11.6+dfsg-0ubuntu1.4
 libsnapd-glib11.57-0ubuntu3
 libsnappy1v51.1.8-1build1
@@ -676,7 +676,7 @@ libunwind81.2.1-9build1
 libupnp131:1.8.4-2ubuntu2
 libusageenvironment32020.01.19-1build1
 libusb-1.0-02:1.0.23-2build1
-libuuid12.34-0.1ubuntu9
+libuuid12.34-0.1ubuntu9.1
 libva22.7.0-2
 libva-drm22.7.0-2
 libva-wayland22.7.0-2
@@ -787,14 +787,14 @@ man-db2.9.1-1
 mawk1.3.4.20200120-2
 milou4:5.18.5-0ubuntu0.1
 mime-support3.64ubuntu1
-mount2.34-0.1ubuntu9
+mount2.34-0.1ubuntu9.1
 ncurses-base6.2-0ubuntu2
 ncurses-bin6.2-0ubuntu2
 ocl-icd-libopencl12.2.11-1ubuntu1
 openprinting-ppds20200401-1
 openssl1.1.1f-1ubuntu2
 oxygen-sounds4:5.18.4.1-0ubuntu1
-packagekit1.1.13-2ubuntu1
+packagekit1.1.13-2ubuntu1.1
 parted3.3-4
 passwd1:4.8.1-1ubuntu5.20.04
 pci.ids0.0~2020.03.20-1
@@ -824,7 +824,7 @@ pulseaudio-utils1:13.99.1-1ubuntu3.6
 python33.8.2-0ubuntu2
 python3.83.8.2-1ubuntu1.2
 python3.8-minimal3.8.2-1ubuntu1.2
-python3-apport2.20.11-0ubuntu27.8
+python3-apport2.20.11-0ubuntu27.9
 python3-apt2.0.0ubuntu0.20.04.1
 python3-blinker1.4+dfsg1-0.3ubuntu1
 python3-cairo1.16.2-2ubuntu2
@@ -852,7 +852,7 @@ python3-lazr.uri1.0.3-4build1
 python3-minimal3.8.2-0ubuntu2
 python3-oauthlib3.1.0-1ubuntu2
 python3-pkg-resources45.2.0-1
-python3-problem-report2.20.11-0ubuntu27.8
+python3-problem-report2.20.11-0ubuntu27.9
 python3-psutil5.5.1-1ubuntu4
 python3-pyqt55.14.1+dfsg-3build1
 python3-requests2.22.0-2ubuntu1
@@ -931,7 +931,7 @@ udisks22.8.4-1ubuntu1
 unzip6.0-25ubuntu1
 usb.ids2020.03.19-1
 usbutils1:012-2
-util-linux2.34-0.1ubuntu9
+util-linux2.34-0.1ubuntu9.1
 vlc-data3.0.9.2-1
 vlc-plugin-base3.0.9.2-1
 vlc-plugin-video-output3.0.9.2-1
