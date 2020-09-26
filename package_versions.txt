@@ -15,7 +15,7 @@ breeze4:5.12.8-0ubuntu0.1
 breeze-cursor-theme4:5.12.8-0ubuntu0.1
 breeze-icon-theme4:5.44.0-0ubuntu1
 bsdmainutils11.1.2ubuntu1
-bsdutils1:2.31.1-0.4ubuntu3.6
+bsdutils1:2.31.1-0.4ubuntu3.7
 bzip21.0.6-8.1ubuntu0.2
 ca-certificates20190110~18.04.1
 coreutils8.28-1ubuntu1
@@ -37,7 +37,7 @@ docbook-xsl1.79.1+dfsg-2
 docker-ce-cli5:19.03.13~3-0~ubuntu-bionic
 dpkg1.19.0.5ubuntu2.3
 e2fsprogs1.44.1-1ubuntu1.3
-fdisk2.31.1-0.4ubuntu3.6
+fdisk2.31.1-0.4ubuntu3.7
 findutils4.6.0+git+20170828-2
 firefox80.0.1+build1-0ubuntu0.18.04.1
 fontconfig2.12.6-0ubuntu2
@@ -155,7 +155,7 @@ libavformat577:3.4.8-0ubuntu0.2
 libavutil557:3.4.8-0ubuntu0.2
 libbabeltrace11.5.5-1
 libbasicusageenvironment12018.02.18-1
-libblkid12.31.1-0.4ubuntu3.6
+libblkid12.31.1-0.4ubuntu3.7
 libblockdev22.16-2
 libblockdev-fs22.16-2
 libblockdev-loop22.16-2
@@ -225,7 +225,7 @@ libexpat12.2.5-3ubuntu0.2
 libext2fs21.44.1-1ubuntu1.3
 libfaad22.8.8-1
 libfam02.7.0-17.2
-libfdisk12.31.1-0.4ubuntu3.6
+libfdisk12.31.1-0.4ubuntu3.7
 libffi63.2.1-8
 libfftw3-single33.3.7-1
 libflac81.3.2-1
@@ -472,7 +472,7 @@ libmagic-mgc1:5.32-2ubuntu0.4
 libmatroska6v51.4.8-1.1
 libmicrodns00.0.8-1
 libminizip11.1-8build1
-libmount12.31.1-0.4ubuntu3.6
+libmount12.31.1-0.4ubuntu3.7
 libmp3lame03.100-2
 libmpc31.1.0-1
 libmpcdec62:0.1~r495-1
@@ -623,7 +623,7 @@ libsidplay22.1.1-15ubuntu1
 libsigsegv22.12-1
 libslang22.3.1a-3ubuntu1
 libsm62:1.2.2-1
-libsmartcols12.31.1-0.4ubuntu3.6
+libsmartcols12.31.1-0.4ubuntu3.7
 libsmbclient2:4.7.6+dfsg~ubuntu-0ubuntu2.19
 libsnapd-glib11.49-0ubuntu0.18.04.2
 libsnappy1v51.1.7-1
@@ -665,7 +665,7 @@ libunistring20.9.9-0ubuntu2
 libupnp61:1.6.24-4
 libusageenvironment32018.02.18-1
 libusb-1.0-02:1.0.21-2
-libuuid12.31.1-0.4ubuntu3.6
+libuuid12.31.1-0.4ubuntu3.7
 libva22.1.0-3
 libva-drm22.1.0-3
 libva-wayland22.1.0-3
@@ -774,7 +774,7 @@ man-db2.8.3-2ubuntu0.1
 mawk1.3.3-17ubuntu3
 milou4:5.12.9-0ubuntu0.1
 mime-support3.60ubuntu1
-mount2.31.1-0.4ubuntu3.6
+mount2.31.1-0.4ubuntu3.7
 multiarch-support2.27-3ubuntu1.2
 ncurses-base6.1-1ubuntu1.18.04
 ncurses-bin6.1-1ubuntu1.18.04
@@ -898,7 +898,7 @@ udev237-3ubuntu10.42
 udisks22.7.6-3ubuntu0.2
 unzip6.0-21ubuntu1
 usbutils1:007-4build1
-util-linux2.31.1-0.4ubuntu3.6
+util-linux2.31.1-0.4ubuntu3.7
 vlc-data3.0.8-0ubuntu18.04.1
 vlc-plugin-base3.0.8-0ubuntu18.04.1
 vlc-plugin-video-output3.0.8-0ubuntu18.04.1
