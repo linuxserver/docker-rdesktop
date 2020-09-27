@@ -6,8 +6,8 @@ alsa-base1.0.25+dfsg-0ubuntu5
 alsa-utils1.1.3-1ubuntu1
 anacron2.3-24
 apt1.6.12ubuntu0.1
-aptdaemon1.1.1+bzr982-0ubuntu19.3
-aptdaemon-data1.1.1+bzr982-0ubuntu19.3
+aptdaemon1.1.1+bzr982-0ubuntu19.4
+aptdaemon-data1.1.1+bzr982-0ubuntu19.4
 apt-transport-https1.6.12ubuntu0.1
 apturl0.5.2ubuntu14.2
 apturl-common0.5.2ubuntu14.2
@@ -20,7 +20,7 @@ base-passwd3.5.44
 bash4.4.18-2ubuntu1.2
 bc1.07.1-2
 bsdmainutils11.1.2ubuntu1
-bsdutils1:2.31.1-0.4ubuntu3.6
+bsdutils1:2.31.1-0.4ubuntu3.7
 bzip21.0.6-8.1ubuntu0.2
 ca-certificates20190110~18.04.1
 caja1.20.2-4ubuntu1
@@ -57,7 +57,7 @@ docker-ce-cli5:19.03.13~3-0~ubuntu-bionic
 dpkg1.19.0.5ubuntu2.3
 e2fsprogs1.44.1-1ubuntu1.3
 emacsen-common2.0.8
-fdisk2.31.1-0.4ubuntu3.6
+fdisk2.31.1-0.4ubuntu3.7
 findutils4.6.0+git+20170828-2
 firefox80.0.1+build1-0ubuntu0.18.04.1
 fontconfig2.12.6-0ubuntu2
@@ -83,7 +83,7 @@ gir1.2-gtk-3.03.22.30-1ubuntu4
 gir1.2-javascriptcoregtk-4.02.28.4-0ubuntu0.18.04.1
 gir1.2-mate-panel1.20.1-3ubuntu1
 gir1.2-matepanelapplet-4.01.20.1-3ubuntu1
-gir1.2-packagekitglib-1.01.1.9-1ubuntu2.18.04.5
+gir1.2-packagekitglib-1.01.1.9-1ubuntu2.18.04.6
 gir1.2-pango-1.01.40.14-1ubuntu0.1
 gir1.2-snapd-11.49-0ubuntu0.18.04.2
 gir1.2-soup-2.42.62.1-1ubuntu0.4
@@ -166,7 +166,7 @@ libavahi-common30.7-3.1ubuntu1.2
 libavahi-common-data0.7-3.1ubuntu1.2
 libavahi-glib10.7-3.1ubuntu1.2
 libavc1394-00.5.4-4build1
-libblkid12.31.1-0.4ubuntu3.6
+libblkid12.31.1-0.4ubuntu3.7
 libblockdev22.16-2
 libblockdev-fs22.16-2
 libblockdev-loop22.16-2
@@ -239,7 +239,7 @@ libexempi32.4.5-2
 libexif120.6.21-4ubuntu0.5
 libexpat12.2.5-3ubuntu0.2
 libext2fs21.44.1-1ubuntu1.3
-libfdisk12.31.1-0.4ubuntu3.6
+libfdisk12.31.1-0.4ubuntu3.7
 libffi63.2.1-8
 libfftw3-single33.3.7-1
 libflac81.3.2-1
@@ -373,7 +373,7 @@ libmate-slab01.20.2-2ubuntu1
 libmateweather11.20.0-1
 libmateweather-common1.20.0-1
 libmate-window-settings11.20.2-2ubuntu1
-libmount12.31.1-0.4ubuntu3.6
+libmount12.31.1-0.4ubuntu3.7
 libmp3lame03.100-2
 libmpc31.1.0-1
 libmpdec22.4.2-1ubuntu1
@@ -399,7 +399,7 @@ libogg01.3.2-1
 libopus01.1.2-1ubuntu1
 liborc-0.4-01:0.4.28-1
 libp11-kit00.23.9-2
-libpackagekit-glib2-181.1.9-1ubuntu2.18.04.5
+libpackagekit-glib2-181.1.9-1ubuntu2.18.04.6
 libpam0g1.1.8-3.6ubuntu2.18.04.2
 libpam-modules1.1.8-3.6ubuntu2.18.04.2
 libpam-modules-bin1.1.8-3.6ubuntu2.18.04.2
@@ -469,7 +469,7 @@ libsigc++-2.0-0v52.10.0-2
 libsigsegv22.12-1
 libslang22.3.1a-3ubuntu1
 libsm62:1.2.2-1
-libsmartcols12.31.1-0.4ubuntu3.6
+libsmartcols12.31.1-0.4ubuntu3.7
 libsmbclient2:4.7.6+dfsg~ubuntu-0ubuntu2.19
 libsnapd-glib11.49-0ubuntu0.18.04.2
 libsndfile11.0.28-4ubuntu0.18.04.1
@@ -505,7 +505,7 @@ libunistring20.9.9-0ubuntu2
 libupower-glib30.99.7-2ubuntu0.18.04.1
 libusb-1.0-02:1.0.21-2
 libusbmuxd41.1.0~git20171206.c724e70f-0.1
-libuuid12.31.1-0.4ubuntu3.6
+libuuid12.31.1-0.4ubuntu3.7
 libv4l-01.14.2-1
 libv4lconvert01.14.2-1
 libvisual-0.4-00.4.0-11
@@ -626,7 +626,7 @@ mate-utils-common1.20.0-0ubuntu1
 mawk1.3.3-17ubuntu3
 menu-xdg0.5
 mime-support3.60ubuntu1
-mount2.31.1-0.4ubuntu3.6
+mount2.31.1-0.4ubuntu3.7
 multiarch-support2.27-3ubuntu1.2
 ncurses-base6.1-1ubuntu1.18.04
 ncurses-bin6.1-1ubuntu1.18.04
@@ -661,8 +661,8 @@ python3.63.6.9-1~18.04ubuntu1.1
 python3.6-minimal3.6.9-1~18.04ubuntu1.1
 python3-apport2.20.9-0ubuntu7.17
 python3-apt1.6.5ubuntu0.3
-python3-aptdaemon1.1.1+bzr982-0ubuntu19.3
-python3-aptdaemon.gtk3widgets1.1.1+bzr982-0ubuntu19.3
+python3-aptdaemon1.1.1+bzr982-0ubuntu19.4
+python3-aptdaemon.gtk3widgets1.1.1+bzr982-0ubuntu19.4
 python3-certifi2018.1.18-2
 python3-chardet3.0.4-1
 python3-dateutil2.6.1-1
@@ -745,7 +745,7 @@ update-notifier3.192.1.7
 update-notifier-common3.192.1.7
 upower0.99.7-2ubuntu0.18.04.1
 usbutils1:007-4build1
-util-linux2.31.1-0.4ubuntu3.6
+util-linux2.31.1-0.4ubuntu3.7
 wget1.19.4-1ubuntu2.2
 whiptail0.52.20-1ubuntu1
 wireless-tools30~pre9-12ubuntu1
