@@ -5,8 +5,8 @@ alsa-base1.0.25+dfsg-0ubuntu5
 alsa-utils1.2.2-1ubuntu1
 anacron2.3-29
 apt2.0.2ubuntu0.1
-aptdaemon1.1.1+bzr982-0ubuntu32.1
-aptdaemon-data1.1.1+bzr982-0ubuntu32.1
+aptdaemon1.1.1+bzr982-0ubuntu32.2
+aptdaemon-data1.1.1+bzr982-0ubuntu32.2
 apt-transport-https2.0.2ubuntu0.1
 apturl0.5.2ubuntu19
 apturl-common0.5.2ubuntu19
@@ -17,7 +17,7 @@ base-passwd3.5.47
 bash5.0-6ubuntu1.1
 bc1.07.1-2build1
 bsdmainutils11.1.2ubuntu3
-bsdutils1:2.34-0.1ubuntu9
+bsdutils1:2.34-0.1ubuntu9.1
 bubblewrap0.4.0-1ubuntu4
 bzip21.0.8-2
 ca-certificates20190110ubuntu1.1
@@ -55,13 +55,13 @@ dirmngr2.2.19-3ubuntu2
 distro-info-data0.43ubuntu1.1
 dmidecode3.2-3
 dmsetup2:1.02.167-1ubuntu1
-docker-ce-cli5:19.03.12~3-0~ubuntu-bionic
+docker-ce-cli5:19.03.13~3-0~ubuntu-bionic
 dpkg1.19.7ubuntu3
 e2fsprogs1.45.5-2ubuntu1
 emacsen-common3.0.4
-fdisk2.34-0.1ubuntu9
+fdisk2.34-0.1ubuntu9.1
 findutils4.7.0-1ubuntu1
-firefox80.0.1+build1-0ubuntu0.20.04.1
+firefox81.0+build2-0ubuntu0.20.04.1
 fontconfig2.13.1-2ubuntu3
 fontconfig-config2.13.1-2ubuntu3
 fonts-dejavu-core2.37-1
@@ -86,7 +86,7 @@ gir1.2-goa-1.03.36.0-1ubuntu1
 gir1.2-gtk-3.03.24.20-0ubuntu1
 gir1.2-javascriptcoregtk-4.02.28.4-0ubuntu0.20.04.1
 gir1.2-matemenu-2.01.24.0-1
-gir1.2-packagekitglib-1.01.1.13-2ubuntu1
+gir1.2-packagekitglib-1.01.1.13-2ubuntu1.1
 gir1.2-pango-1.01.44.7-2ubuntu4
 gir1.2-snapd-11.57-0ubuntu3
 gir1.2-soup-2.42.70.0-1
@@ -169,7 +169,7 @@ libavahi-common30.7-4ubuntu7
 libavahi-common-data0.7-4ubuntu7
 libavahi-glib10.7-4ubuntu7
 libavc1394-00.5.4-5
-libblkid12.34-0.1ubuntu9
+libblkid12.34-0.1ubuntu9.1
 libblockdev22.23-2ubuntu3
 libblockdev-fs22.23-2ubuntu3
 libblockdev-loop22.23-2ubuntu3
@@ -239,7 +239,7 @@ libexpat12.2.9-1build1
 libext2fs21.45.5-2ubuntu1
 libextutils-depends-perl0.8000-1
 libextutils-pkgconfig-perl1.16-1
-libfdisk12.34-0.1ubuntu9
+libfdisk12.34-0.1ubuntu9.1
 libffi73.3-4
 libfftw3-single33.3.8-2ubuntu1
 libflac81.3.3-1build1
@@ -374,7 +374,7 @@ libmate-slab01.24.0-1
 libmateweather11.24.0-1
 libmateweather-common1.24.0-1
 libmate-window-settings11.24.0-1
-libmount12.34-0.1ubuntu9
+libmount12.34-0.1ubuntu9.1
 libmp3lame03.100-3
 libmpc31.1.0-1
 libmpdec22.4.2-3
@@ -401,7 +401,7 @@ libopenjp2-72.3.1-1ubuntu4
 libopus01.3.1-0ubuntu1
 liborc-0.4-01:0.4.31-1
 libp11-kit00.23.20-1build1
-libpackagekit-glib2-181.1.13-2ubuntu1
+libpackagekit-glib2-181.1.13-2ubuntu1.1
 libpam0g1.3.1-5ubuntu4.1
 libpam-modules1.3.1-5ubuntu4.1
 libpam-modules-bin1.3.1-5ubuntu4.1
@@ -431,7 +431,7 @@ libpoppler970.86.1-0ubuntu1
 libpoppler-cpp0v50.86.1-0ubuntu1
 libpopt01.16-14
 libprocps82:3.3.16-1ubuntu2
-libproxy1v50.4.15-10ubuntu1
+libproxy1v50.4.15-10ubuntu1.1
 libpsl50.21.0-1ubuntu1
 libpthread-stubs0-dev0.4-1
 libpulse01:13.99.1-1ubuntu3.6
@@ -470,7 +470,7 @@ libsigc++-2.0-0v52.10.2-1build1
 libsigsegv22.12-2
 libslang22.3.2-4
 libsm62:1.2.3-1
-libsmartcols12.34-0.1ubuntu9
+libsmartcols12.34-0.1ubuntu9.1
 libsmbclient2:4.11.6+dfsg-0ubuntu1.4
 libsnapd-glib11.57-0ubuntu3
 libsndfile11.0.28-7
@@ -511,7 +511,7 @@ libunwind81.2.1-9build1
 libupower-glib30.99.11-1build2
 libusb-1.0-02:1.0.23-2build1
 libusbmuxd62.0.1-2
-libuuid12.34-0.1ubuntu9
+libuuid12.34-0.1ubuntu9.1
 libv4l-01.18.0-2build1
 libv4lconvert01.18.0-2build1
 libvisual-0.4-00.4.0-17
@@ -634,13 +634,13 @@ mate-utils-common1.24.0-1
 mawk1.3.4.20200120-2
 menu-xdg0.6
 mime-support3.64ubuntu1
-mount2.34-0.1ubuntu9
+mount2.34-0.1ubuntu9.1
 mysql-common5.8+1.0.5ubuntu2
 ncurses-base6.2-0ubuntu2
 ncurses-bin6.2-0ubuntu2
 openprinting-ppds20200401-1
 openssl1.1.1f-1ubuntu2
-packagekit1.1.13-2ubuntu1
+packagekit1.1.13-2ubuntu1.1
 parted3.3-4
 passwd1:4.8.1-1ubuntu5.20.04
 patch2.7.6-6
@@ -669,8 +669,8 @@ python3.83.8.2-1ubuntu1.2
 python3.8-minimal3.8.2-1ubuntu1.2
 python3-apport2.20.11-0ubuntu27.9
 python3-apt2.0.0ubuntu0.20.04.1
-python3-aptdaemon1.1.1+bzr982-0ubuntu32.1
-python3-aptdaemon.gtk3widgets1.1.1+bzr982-0ubuntu32.1
+python3-aptdaemon1.1.1+bzr982-0ubuntu32.2
+python3-aptdaemon.gtk3widgets1.1.1+bzr982-0ubuntu32.2
 python3-blinker1.4+dfsg1-0.3ubuntu1
 python3-cairo1.16.2-2ubuntu2
 python3-certifi2019.11.28-1
@@ -761,7 +761,7 @@ update-notifier-common3.192.30
 upower0.99.11-1build2
 usb.ids2020.03.19-1
 usbutils1:012-2
-util-linux2.34-0.1ubuntu9
+util-linux2.34-0.1ubuntu9.1
 wireless-tools30~pre9-13ubuntu1
 wpasupplicant2:2.9-1ubuntu4.1
 x11-apps7.7+8
