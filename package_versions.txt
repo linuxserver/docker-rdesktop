@@ -20,7 +20,7 @@ bzip21.0.8-2
 ca-certificates20190110ubuntu1.1
 coreutils8.30-3ubuntu2
 cpp4:9.3.0-1ubuntu2
-cpp-99.3.0-10ubuntu2
+cpp-99.3.0-17ubuntu1~20.04
 curl7.68.0-1ubuntu2.2
 dash0.5.10.2-6
 dbus1.12.16-2ubuntu2.1
@@ -53,8 +53,8 @@ fonts-urw-base3520170801.1-3
 foomatic-db-compressed-ppds20200401-1
 frameworkintegration5.68.0-0ubuntu1
 gawk1:5.0.1+dfsg-1
-gcc-10-base10-20200411-0ubuntu1
-gcc-9-base9.3.0-10ubuntu2
+gcc-10-base10.2.0-5ubuntu1~20.04
+gcc-9-base9.3.0-17ubuntu1~20.04
 gdb9.2-0ubuntu1~20.04
 gdisk1.0.5-1
 genisoimage9:1.1.11-3.1ubuntu1
@@ -240,7 +240,7 @@ libfreetype62.10.1-2
 libfribidi01.0.8-2
 libfuse22.9.9-3
 libgbm120.0.8-0ubuntu1~20.04.1
-libgcc-s110-20200411-0ubuntu1
+libgcc-s110.2.0-5ubuntu1~20.04
 libgcrypt201.8.5-5ubuntu1
 libgdbm61.18.1-5
 libgdbm-compat41.18.1-5
@@ -263,7 +263,7 @@ libglx-mesa020.0.8-0ubuntu1~20.04.1
 libgme00.6.2-1build1
 libgmp102:6.2.0+dfsg-4
 libgnutls303.6.13-2ubuntu1.3
-libgomp110-20200411-0ubuntu1
+libgomp110.2.0-5ubuntu1~20.04
 libgpg-error01.37-1
 libgpgme111.13.1-7ubuntu2
 libgpgmepp61.13.1-7ubuntu2
@@ -559,12 +559,12 @@ libprotobuf-lite173.6.1.3-2ubuntu5
 libproxy1v50.4.15-10ubuntu1.1
 libpsl50.21.0-1ubuntu1
 libpthread-stubs0-dev0.4-1
-libpulse01:13.99.1-1ubuntu3.6
-libpulsedsp1:13.99.1-1ubuntu3.6
-libpulse-mainloop-glib01:13.99.1-1ubuntu3.6
-libpython3.83.8.2-1ubuntu1.2
-libpython3.8-minimal3.8.2-1ubuntu1.2
-libpython3.8-stdlib3.8.2-1ubuntu1.2
+libpulse01:13.99.1-1ubuntu3.7
+libpulsedsp1:13.99.1-1ubuntu3.7
+libpulse-mainloop-glib01:13.99.1-1ubuntu3.7
+libpython3.83.8.5-1~20.04
+libpython3.8-minimal3.8.5-1~20.04
+libpython3.8-stdlib3.8.5-1~20.04
 libpython3-stdlib3.8.2-0ubuntu2
 libqalculate202.8.2-1build3
 libqalculate20-data2.8.2-1build3
@@ -649,7 +649,7 @@ libssh2-11.8.0-2.1build1
 libssh-40.9.3-2ubuntu2.1
 libssh-gcrypt-40.9.3-2ubuntu2.1
 libssl1.11.1.1f-1ubuntu2
-libstdc++610-20200411-0ubuntu1
+libstdc++610.2.0-5ubuntu1~20.04
 libstemmer0d0+svn585-2
 libswresample37:4.2.4-1ubuntu0.1
 libswscale57:4.2.4-1ubuntu0.1
@@ -819,11 +819,11 @@ printer-driver-pnm2ppa1.13+nondbs-0ubuntu6
 procps2:3.3.16-1ubuntu2
 psmisc23.3-1
 publicsuffix20200303.0012-1
-pulseaudio1:13.99.1-1ubuntu3.6
-pulseaudio-utils1:13.99.1-1ubuntu3.6
+pulseaudio1:13.99.1-1ubuntu3.7
+pulseaudio-utils1:13.99.1-1ubuntu3.7
 python33.8.2-0ubuntu2
-python3.83.8.2-1ubuntu1.2
-python3.8-minimal3.8.2-1ubuntu1.2
+python3.83.8.5-1~20.04
+python3.8-minimal3.8.5-1~20.04
 python3-apport2.20.11-0ubuntu27.9
 python3-apt2.0.0ubuntu0.20.04.1
 python3-blinker1.4+dfsg1-0.3ubuntu1
@@ -864,7 +864,7 @@ python3-six1.14.0-2
 python3-software-properties0.98.9.2
 python3-talloc2.3.0-3ubuntu1
 python3-update-manager1:20.04.10.1
-python3-urllib31.25.8-2
+python3-urllib31.25.8-2ubuntu0.1
 python3-wadllib1.3.3-3build1
 python3-xkit0.5.0ubuntu4
 python-apt-common2.0.0ubuntu0.20.04.1
@@ -966,4 +966,4 @@ xtrans-dev1.4.0-1
 xutils1:7.7+19ubuntu14
 xz-utils5.2.4-1ubuntu1
 zip3.0-11build1
-zlib1g1:1.2.11.dfsg-2ubuntu1
+zlib1g1:1.2.11.dfsg-2ubuntu1.1
