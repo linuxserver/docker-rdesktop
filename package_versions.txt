@@ -12,7 +12,7 @@ bzip21.0.8-2
 ca-certificates20190110ubuntu1.1
 coreutils8.30-3ubuntu2
 cpp4:9.3.0-1ubuntu2
-cpp-99.3.0-10ubuntu2
+cpp-99.3.0-17ubuntu1~20.04
 curl7.68.0-1ubuntu2.2
 dash0.5.10.2-6
 dbus1.12.16-2ubuntu2.1
@@ -42,8 +42,8 @@ fonts-noto-hinted20200323-1build1~ubuntu20.04.1
 fonts-noto-ui-core20200323-1build1~ubuntu20.04.1
 fonts-ubuntu0.83-4ubuntu1
 gawk1:5.0.1+dfsg-1
-gcc-10-base10-20200411-0ubuntu1
-gcc-9-base9.3.0-10ubuntu2
+gcc-10-base10.2.0-5ubuntu1~20.04
+gcc-9-base9.3.0-17ubuntu1~20.04
 gir1.2-atk-1.02.35.1-1ubuntu2
 gir1.2-freedesktop1.64.1-1~ubuntu20.04.1
 gir1.2-gdkpixbuf-2.02.40.0+dfsg-3
@@ -160,7 +160,7 @@ libgarcon-1-00.6.4-1
 libgarcon-common0.6.4-1
 libgarcon-gtk3-1-00.6.4-1
 libgbm120.0.8-0ubuntu1~20.04.1
-libgcc-s110-20200411-0ubuntu1
+libgcc-s110.2.0-5ubuntu1~20.04
 libgcrypt201.8.5-5ubuntu1
 libgdbm61.18.1-5
 libgdk-pixbuf2.0-02.40.0+dfsg-3
@@ -178,7 +178,7 @@ libglx01.3.1-1ubuntu0.20.04.1
 libglx-mesa020.0.8-0ubuntu1~20.04.1
 libgmp102:6.2.0+dfsg-4
 libgnutls303.6.13-2ubuntu1.3
-libgomp110-20200411-0ubuntu1
+libgomp110.2.0-5ubuntu1~20.04
 libgpg-error01.37-1
 libgraphite2-31.3.13-11build1
 libgssapi3-heimdal7.7.0+dfsg-1ubuntu1
@@ -273,11 +273,11 @@ libprocps82:3.3.16-1ubuntu2
 libproxy1v50.4.15-10ubuntu1.1
 libpsl50.21.0-1ubuntu1
 libpthread-stubs0-dev0.4-1
-libpulse01:13.99.1-1ubuntu3.6
-libpulsedsp1:13.99.1-1ubuntu3.6
-libpulse-mainloop-glib01:13.99.1-1ubuntu3.6
-libpython3.8-minimal3.8.2-1ubuntu1.2
-libpython3.8-stdlib3.8.2-1ubuntu1.2
+libpulse01:13.99.1-1ubuntu3.7
+libpulsedsp1:13.99.1-1ubuntu3.7
+libpulse-mainloop-glib01:13.99.1-1ubuntu3.7
+libpython3.8-minimal3.8.5-1~20.04
+libpython3.8-stdlib3.8.5-1~20.04
 libpython3-stdlib3.8.2-0ubuntu2
 libqrencode44.0.2-2
 libreadline88.0-4
@@ -313,7 +313,7 @@ libss21.45.5-2ubuntu1
 libssh-40.9.3-2ubuntu2.1
 libssl1.11.1.1f-1ubuntu2
 libstartup-notification00.12-6
-libstdc++610-20200411-0ubuntu1
+libstdc++610.2.0-5ubuntu1~20.04
 libstemmer0d0+svn585-2
 libsystemd0245.4-4ubuntu3.2
 libtag1v51.11.1+dfsg.1-0.3ubuntu2
@@ -435,11 +435,11 @@ plymouth-theme-xubuntu-text20.04.2
 policykit-10.105-26ubuntu1
 procps2:3.3.16-1ubuntu2
 publicsuffix20200303.0012-1
-pulseaudio1:13.99.1-1ubuntu3.6
-pulseaudio-utils1:13.99.1-1ubuntu3.6
+pulseaudio1:13.99.1-1ubuntu3.7
+pulseaudio-utils1:13.99.1-1ubuntu3.7
 python33.8.2-0ubuntu2
-python3.83.8.2-1ubuntu1.2
-python3.8-minimal3.8.2-1ubuntu1.2
+python3.83.8.5-1~20.04
+python3.8-minimal3.8.5-1~20.04
 python3-apt2.0.0ubuntu0.20.04.1
 python3-cairo1.16.2-2ubuntu2
 python3-certifi2019.11.28-1
@@ -456,7 +456,7 @@ python3-requests2.22.0-2ubuntu1
 python3-requests-unixsocket0.2.0-2
 python3-six1.14.0-2
 python3-software-properties0.98.9.2
-python3-urllib31.25.8-2
+python3-urllib31.25.8-2ubuntu0.1
 python-apt-common2.0.0ubuntu0.20.04.1
 readline-common8.0-4
 ristretto0.10.0-1
@@ -545,4 +545,4 @@ xubuntu-default-settings20.04.4
 xubuntu-icon-theme20.04.2
 xubuntu-wallpapers20.04.2
 xutils1:7.7+19ubuntu14
-zlib1g1:1.2.11.dfsg-2ubuntu1
+zlib1g1:1.2.11.dfsg-2ubuntu1.1
