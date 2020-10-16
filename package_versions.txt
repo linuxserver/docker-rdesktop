@@ -33,7 +33,7 @@ elementary-xfce-icon-theme0.15-1
 exo-utils0.12.11-1ubuntu1
 fdisk2.34-0.1ubuntu9.1
 findutils4.7.0-1ubuntu1
-firefox81.0+build2-0ubuntu0.20.04.1
+firefox81.0.2+build1-0ubuntu0.20.04.1
 fontconfig2.13.1-2ubuntu3
 fontconfig-config2.13.1-2ubuntu3
 fonts-dejavu-core2.37-1
@@ -103,7 +103,7 @@ libavahi-client30.7-4ubuntu7
 libavahi-common30.7-4ubuntu7
 libavahi-common-data0.7-4ubuntu7
 libblkid12.34-0.1ubuntu9.1
-libbrotli11.0.7-6build1
+libbrotli11.0.7-6ubuntu0.1
 libbsd00.10.0-1
 libburn41.5.2-1
 libbz2-1.01.0.8-2
