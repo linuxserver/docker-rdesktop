@@ -171,7 +171,7 @@ libblockdev-part-err22.23-2ubuntu3
 libblockdev-swap22.23-2ubuntu3
 libblockdev-utils22.23-2ubuntu3
 libbluray21:1.2.0-1
-libbrotli11.0.7-6build1
+libbrotli11.0.7-6ubuntu0.1
 libbsd00.10.0-1
 libbz2-1.01.0.8-2
 libc62.31-0ubuntu9.1
@@ -296,8 +296,8 @@ libidn111.33-2.2ubuntu2
 libidn2-02.2.0-2
 libijs-0.350.35-15
 libilmbase242.3.0-6build1
-libinput101.15.5-1
-libinput-bin1.15.5-1
+libinput101.15.5-1ubuntu0.1
+libinput-bin1.15.5-1ubuntu0.1
 libip4tc21.8.4-3ubuntu2
 libisl220.22.1-1
 libiw3030~pre9-13ubuntu1
