@@ -26,8 +26,8 @@ caja-common1.24.0-1
 coreutils8.30-3ubuntu2
 cpp4:9.3.0-1ubuntu2
 cpp-99.3.0-17ubuntu1~20.04
-cryptsetup2:2.2.2-3ubuntu2.2
-cryptsetup-bin2:2.2.2-3ubuntu2.2
+cryptsetup2:2.2.2-3ubuntu2.3
+cryptsetup-bin2:2.2.2-3ubuntu2.3
 cups2.3.1-9ubuntu1.1
 cups-browsed1.27.4-1
 cups-client2.3.1-9ubuntu1.1
