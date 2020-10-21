@@ -61,7 +61,7 @@ e2fsprogs1.45.5-2ubuntu1
 emacsen-common3.0.4
 fdisk2.34-0.1ubuntu9.1
 findutils4.7.0-1ubuntu1
-firefox81.0+build2-0ubuntu0.20.04.1
+firefox81.0.2+build1-0ubuntu0.20.04.1
 fontconfig2.13.1-2ubuntu3
 fontconfig-config2.13.1-2ubuntu3
 fonts-dejavu-core2.37-1
@@ -177,7 +177,7 @@ libblockdev-part22.23-2ubuntu3
 libblockdev-part-err22.23-2ubuntu3
 libblockdev-swap22.23-2ubuntu3
 libblockdev-utils22.23-2ubuntu3
-libbrotli11.0.7-6build1
+libbrotli11.0.7-6ubuntu0.1
 libbsd00.10.0-1
 libbz2-1.01.0.8-2
 libc62.31-0ubuntu9.1
@@ -687,7 +687,7 @@ python3-debian0.1.36ubuntu1
 python3-defer1.0.6-2.1
 python3-distro1.4.0-1
 python3-distro-info0.23ubuntu1
-python3-distupgrade1:20.04.25
+python3-distupgrade1:20.04.28
 python3-entrypoints0.3-2ubuntu1
 python3-gi3.36.0-1
 python3-gi-cairo3.36.0-1
@@ -748,8 +748,8 @@ ubuntu-mate-wallpapers-common20.04.2
 ubuntu-mate-wallpapers-focal20.04.2
 ubuntu-mate-wallpapers-photos20.04.2
 ubuntu-mono19.04-0ubuntu3
-ubuntu-release-upgrader-core1:20.04.25
-ubuntu-release-upgrader-gtk1:20.04.25
+ubuntu-release-upgrader-core1:20.04.28
+ubuntu-release-upgrader-gtk1:20.04.28
 ucf3.0038+nmu1
 udev245.4-4ubuntu3.2
 udisks22.8.4-1ubuntu1
