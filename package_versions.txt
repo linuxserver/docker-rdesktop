@@ -29,7 +29,7 @@ dpkg1.19.0.5ubuntu2.3
 e2fsprogs1.44.1-1ubuntu1.3
 fdisk2.31.1-0.4ubuntu3.7
 findutils4.6.0+git+20170828-2
-firefox81.0+build2-0ubuntu0.18.04.1
+firefox81.0.2+build1-0ubuntu0.18.04.1
 fontconfig2.12.6-0ubuntu2
 fontconfig-config2.12.6-0ubuntu2
 fonts-dejavu-core2.37-1
@@ -216,8 +216,8 @@ libpulse01:11.1-1ubuntu7.10
 libpulsedsp1:11.1-1ubuntu7.10
 libpython2.7-minimal2.7.17-1~18.04ubuntu1.2
 libpython2.7-stdlib2.7.17-1~18.04ubuntu1.2
-libpython3.6-minimal3.6.9-1~18.04ubuntu1.1
-libpython3.6-stdlib3.6.9-1~18.04ubuntu1.1
+libpython3.6-minimal3.6.9-1~18.04ubuntu1.3
+libpython3.6-stdlib3.6.9-1~18.04ubuntu1.3
 libpython3-stdlib3.6.7-1~18.04
 libpython-stdlib2.7.15~rc1-1
 libreadline77.0-3
@@ -339,8 +339,8 @@ python2.7.15~rc1-1
 python2.72.7.17-1~18.04ubuntu1.2
 python2.7-minimal2.7.17-1~18.04ubuntu1.2
 python33.6.7-1~18.04
-python3.63.6.9-1~18.04ubuntu1.1
-python3.6-minimal3.6.9-1~18.04ubuntu1.1
+python3.63.6.9-1~18.04ubuntu1.3
+python3.6-minimal3.6.9-1~18.04ubuntu1.3
 python3-apt1.6.5ubuntu0.3
 python3-dbus1.2.6-1
 python3-gi3.26.1-2ubuntu1
@@ -379,8 +379,8 @@ xkb-data2.23.1-1ubuntu1.18.04.1
 xorg-sgml-doctools1:1.11-1
 xorgxrdp0.9.5-2
 xrdp0.9.5-2
-xserver-common2:1.19.6-1ubuntu4.6
-xserver-xorg-core2:1.19.6-1ubuntu4.6
+xserver-common2:1.19.6-1ubuntu4.7
+xserver-xorg-core2:1.19.6-1ubuntu4.7
 xterm330-1ubuntu2
 xtrans-dev1.3.5-1
 xutils1:7.7+19ubuntu7.1
