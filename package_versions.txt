@@ -43,7 +43,7 @@ drkonqi5.18.5-0ubuntu0.1
 e2fsprogs1.45.5-2ubuntu1
 fdisk2.34-0.1ubuntu9.1
 findutils4.7.0-1ubuntu1
-firefox81.0+build2-0ubuntu0.20.04.1
+firefox82.0+build2-0ubuntu0.20.04.1
 fontconfig2.13.1-2ubuntu3
 fontconfig-config2.13.1-2ubuntu3
 fonts-dejavu-core2.37-1
@@ -190,7 +190,7 @@ libcolorcorrect54:5.18.5-0ubuntu0.1
 libcolord21.4.4-2
 libcom-err21.45.5-2ubuntu1
 libcrypt11:4.4.10-10ubuntu4
-libcryptsetup122:2.2.2-3ubuntu2.2
+libcryptsetup122:2.2.2-3ubuntu2.3
 libcups22.3.1-9ubuntu1.1
 libcurl3-gnutls7.68.0-1ubuntu2.2
 libcurl47.68.0-1ubuntu2.2
@@ -236,7 +236,7 @@ libfftw3-single33.3.8-2ubuntu1
 libflac81.3.3-1build1
 libfontconfig12.13.1-2ubuntu3
 libfontenc11:1.1.4-0ubuntu1
-libfreetype62.10.1-2
+libfreetype62.10.1-2ubuntu0.1
 libfribidi01.0.8-2
 libfuse22.9.9-3
 libgbm120.0.8-0ubuntu1~20.04.1
@@ -824,7 +824,7 @@ pulseaudio-utils1:13.99.1-1ubuntu3.7
 python33.8.2-0ubuntu2
 python3.83.8.5-1~20.04
 python3.8-minimal3.8.5-1~20.04
-python3-apport2.20.11-0ubuntu27.9
+python3-apport2.20.11-0ubuntu27.10
 python3-apt2.0.0ubuntu0.20.04.1
 python3-blinker1.4+dfsg1-0.3ubuntu1
 python3-cairo1.16.2-2ubuntu2
@@ -838,7 +838,7 @@ python3-cryptography2.8-3
 python3-dbus1.2.16-1build1
 python3-distro1.4.0-1
 python3-distro-info0.23ubuntu1
-python3-distupgrade1:20.04.25
+python3-distupgrade1:20.04.28
 python3-entrypoints0.3-2ubuntu1
 python3-gi3.36.0-1
 python3-gi-cairo3.36.0-1
@@ -852,7 +852,7 @@ python3-lazr.uri1.0.3-4build1
 python3-minimal3.8.2-0ubuntu2
 python3-oauthlib3.1.0-1ubuntu2
 python3-pkg-resources45.2.0-1
-python3-problem-report2.20.11-0ubuntu27.9
+python3-problem-report2.20.11-0ubuntu27.10
 python3-psutil5.5.1-1ubuntu4
 python3-pyqt55.14.1+dfsg-3build1
 python3-requests2.22.0-2ubuntu1
@@ -923,8 +923,8 @@ tzdata2020a-0ubuntu0.20.04
 ubuntu-drivers-common1:0.8.4~0.20.04.3
 ubuntu-keyring2020.02.11.2
 ubuntu-mono19.04-0ubuntu3
-ubuntu-release-upgrader-core1:20.04.25
-ubuntu-release-upgrader-qt1:20.04.25
+ubuntu-release-upgrader-core1:20.04.28
+ubuntu-release-upgrader-qt1:20.04.28
 ucf3.0038+nmu1
 udev245.4-4ubuntu3.2
 udisks22.8.4-1ubuntu1
