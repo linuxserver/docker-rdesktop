@@ -9,7 +9,7 @@ bash5.0-6ubuntu1.1
 bsdmainutils11.1.2ubuntu3
 bsdutils1:2.34-0.1ubuntu9.1
 bzip21.0.8-2
-ca-certificates20190110ubuntu1.1
+ca-certificates20201027ubuntu0.20.04.1
 coreutils8.30-3ubuntu2
 cpp4:9.3.0-1ubuntu2
 cpp-99.3.0-17ubuntu1~20.04
@@ -25,7 +25,7 @@ debianutils4.9.1
 desktop-file-utils0.24-1ubuntu3
 diffutils1:3.7-3
 dirmngr2.2.19-3ubuntu2
-distro-info-data0.43ubuntu1.1
+distro-info-data0.43ubuntu1.4
 docker-ce-cli5:19.03.13~3-0~ubuntu-bionic
 dpkg1.19.7ubuntu3
 e2fsprogs1.45.5-2ubuntu1
@@ -265,7 +265,7 @@ libpcre2-8-010.34-7
 libpcre32:8.39-12build1
 libpipeline11.5.2-2build1
 libpixman-1-00.38.4-0ubuntu1
-libplymouth50.9.4git20200323-0ubuntu6
+libplymouth50.9.4git20200323-0ubuntu6.1
 libpng16-161.6.37-2
 libpolkit-agent-1-00.105-26ubuntu1
 libpolkit-gobject-1-00.105-26ubuntu1
@@ -427,9 +427,9 @@ passwd1:4.8.1-1ubuntu5.20.04
 pavucontrol4.0-1build1
 perl-base5.30.0-9build1
 pinentry-curses1.1.0-3build1
-plymouth0.9.4git20200323-0ubuntu6
-plymouth-label0.9.4git20200323-0ubuntu6
-plymouth-theme-ubuntu-text0.9.4git20200323-0ubuntu6
+plymouth0.9.4git20200323-0ubuntu6.1
+plymouth-label0.9.4git20200323-0ubuntu6.1
+plymouth-theme-ubuntu-text0.9.4git20200323-0ubuntu6.1
 plymouth-theme-xubuntu-logo20.04.2
 plymouth-theme-xubuntu-text20.04.2
 policykit-10.105-26ubuntu1
