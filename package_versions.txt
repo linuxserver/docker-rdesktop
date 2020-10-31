@@ -17,7 +17,7 @@ breeze-icon-theme4:5.44.0-0ubuntu1
 bsdmainutils11.1.2ubuntu1
 bsdutils1:2.31.1-0.4ubuntu3.7
 bzip21.0.6-8.1ubuntu0.2
-ca-certificates20190110~18.04.1
+ca-certificates20201027ubuntu0.18.04.1
 coreutils8.28-1ubuntu1
 cpp4:7.4.0-1ubuntu2.3
 cpp-77.5.0-3ubuntu1~18.04
@@ -31,7 +31,7 @@ debconf1.5.66ubuntu1
 debianutils4.8.4
 diffutils1:3.6-1
 dirmngr2.2.4-1ubuntu1.3
-distro-info-data0.37ubuntu0.7
+distro-info-data0.37ubuntu0.9
 docbook-xml4.5-8
 docbook-xsl1.79.1+dfsg-2
 docker-ce-cli5:19.03.13~3-0~ubuntu-bionic
@@ -520,7 +520,7 @@ libpci31:3.5.2-1ubuntu1.1
 libpciaccess00.14-1
 libpcre32:8.39-9
 libpcsclite11.8.23-1
-libperl5.265.26.1-6ubuntu0.3
+libperl5.265.26.1-6ubuntu0.5
 libphonon4qt5-44:4.10.0-2
 libpipeline11.5.0-1
 libpixman-1-00.34.0-2
@@ -784,9 +784,9 @@ oxygen-sounds4:5.12.8-0ubuntu0.1
 parted3.2-20ubuntu0.2
 passwd1:4.5-1ubuntu2
 pciutils1:3.5.2-1ubuntu1.1
-perl5.26.1-6ubuntu0.3
-perl-base5.26.1-6ubuntu0.3
-perl-modules-5.265.26.1-6ubuntu0.3
+perl5.26.1-6ubuntu0.5
+perl-base5.26.1-6ubuntu0.5
+perl-modules-5.265.26.1-6ubuntu0.5
 phonon4qt54:4.10.0-2
 phonon4qt5-backend-vlc0.10.1-2
 pinentry-curses1.1.0-1
@@ -882,7 +882,7 @@ software-properties-kde0.96.24.32.14
 sound-theme-freedesktop0.8-2ubuntu1
 spice-vdagent0.17.0-1ubuntu2
 ssl-cert1.0.39
-sudo1.8.21p2-3ubuntu1.2
+sudo1.8.21p2-3ubuntu1.3
 systemd237-3ubuntu10.42
 systemd-sysv237-3ubuntu10.42
 systemsettings4:5.12.8-0ubuntu0.1
