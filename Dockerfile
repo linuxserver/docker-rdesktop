@@ -1,4 +1,4 @@
-FROM lsiobase/rdesktop:bionic
+FROM ghcr.io/linuxserver/baseimage-rdesktop:bionic
 
 # set version label
 ARG BUILD_DATE
