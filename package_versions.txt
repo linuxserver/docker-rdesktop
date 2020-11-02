@@ -399,7 +399,7 @@ systemd-timesyncd245.4-4ubuntu3.2
 sysvinit-utils2.96-2.1ubuntu1
 tar1.30+dfsg-7
 terminator1.91-4ubuntu1
-tzdata2020a-0ubuntu0.20.04
+tzdata2020d-0ubuntu0.20.04
 ubuntu-keyring2020.02.11.2
 ubuntu-mono19.04-0ubuntu3
 ucf3.0038+nmu1
