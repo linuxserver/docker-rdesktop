@@ -470,7 +470,7 @@ libsigsegv22.12-1
 libslang22.3.1a-3ubuntu1
 libsm62:1.2.2-1
 libsmartcols12.31.1-0.4ubuntu3.7
-libsmbclient2:4.7.6+dfsg~ubuntu-0ubuntu2.20
+libsmbclient2:4.7.6+dfsg~ubuntu-0ubuntu2.21
 libsnapd-glib11.49-0ubuntu0.18.04.2
 libsndfile11.0.28-4ubuntu0.18.04.1
 libsnmp305.7.3+dfsg-1.8ubuntu3.6
@@ -520,7 +520,7 @@ libwayland-client01.16.0-1ubuntu1.1~18.04.3
 libwayland-cursor01.16.0-1ubuntu1.1~18.04.3
 libwayland-egl11.16.0-1ubuntu1.1~18.04.3
 libwayland-server01.16.0-1ubuntu1.1~18.04.3
-libwbclient02:4.7.6+dfsg~ubuntu-0ubuntu2.20
+libwbclient02:4.7.6+dfsg~ubuntu-0ubuntu2.21
 libwebkit2gtk-4.0-372.28.4-0ubuntu0.18.04.1
 libwebp60.6.1-2
 libwebpdemux20.6.1-2
@@ -702,7 +702,7 @@ python-psutil5.4.2-1ubuntu0.1
 python-talloc2.1.10-2ubuntu1
 readline-common7.0-3
 rfkill2.31.1-0.4ubuntu3.7
-samba-libs2:4.7.6+dfsg~ubuntu-0ubuntu2.20
+samba-libs2:4.7.6+dfsg~ubuntu-0ubuntu2.21
 sed4.4-2
 sensible-utils0.0.12
 session-migration0.3.3
@@ -718,7 +718,7 @@ systemd-sysv237-3ubuntu10.42
 sysvinit-utils2.88dsf-59.10ubuntu1
 tar1.29b-2ubuntu0.1
 terminator1.91-1
-tzdata2020a-0ubuntu0.18.04
+tzdata2020d-0ubuntu0.18.04
 ubuntu-drivers-common1:0.5.2.5
 ubuntu-keyring2018.09.18.1~18.04.0
 ubuntu-mate-artwork18.04.11
