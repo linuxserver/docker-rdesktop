@@ -1,4 +1,4 @@
-FROM lsiobase/rdesktop:focal
+FROM ghcr.io/linuxserver/baseimage-rdesktop:focal
 
 # set version label
 ARG BUILD_DATE
