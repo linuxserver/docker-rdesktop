@@ -1,8 +1,8 @@
-accountsservice0.6.55-0ubuntu12~20.04.2
+accountsservice0.6.55-0ubuntu12~20.04.4
 adduser3.118ubuntu2
 adwaita-icon-theme3.36.1-2ubuntu0.20.04.2
 alsa-base1.0.25+dfsg-0ubuntu5
-alsa-utils1.2.2-1ubuntu1
+alsa-utils1.2.2-1ubuntu2
 anacron2.3-29
 apt2.0.2ubuntu0.1
 aptdaemon1.1.1+bzr982-0ubuntu32.2
@@ -139,7 +139,7 @@ krb5-locales1.17-6ubuntu4
 language-selector-common0.204.2
 language-selector-gnome0.204.2
 libaa11.4p5-46
-libaccountsservice00.6.55-0ubuntu12~20.04.2
+libaccountsservice00.6.55-0ubuntu12~20.04.4
 libacl12.2.53-6
 libapparmor12.13.3-7ubuntu5.1
 libappindicator3-112.10.1+20.04.20200408.1-0ubuntu1
@@ -159,7 +159,7 @@ libatk1.0-02.35.1-1ubuntu2
 libatk1.0-data2.35.1-1ubuntu2
 libatk-bridge2.0-02.34.2-0ubuntu2~20.04.1
 libatkmm-1.6-1v52.28.0-2build1
-libatopology21.2.2-2.1ubuntu2
+libatopology21.2.2-2.1ubuntu2.1
 libatspi2.0-02.36.0-2
 libattr11:2.4.48-5
 libaudit11:2.8.5-2ubuntu6
@@ -679,7 +679,7 @@ python3-chardet3.0.4-4build1
 python3-click7.0-3
 python3-colorama0.4.3-1build1
 python3-configobj5.0.6-4
-python3-cryptography2.8-3
+python3-cryptography2.8-3ubuntu0.1
 python3-dateutil2.7.3-3ubuntu1
 python3-dbus1.2.16-1build1
 python3-debconf1.5.73
