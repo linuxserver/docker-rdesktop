@@ -246,7 +246,7 @@ libpam0g1.1.8-3.6ubuntu2.18.04.2
 libpam-modules1.1.8-3.6ubuntu2.18.04.2
 libpam-modules-bin1.1.8-3.6ubuntu2.18.04.2
 libpam-runtime1.1.8-3.6ubuntu2.18.04.2
-libpam-systemd237-3ubuntu10.42
+libpam-systemd237-3ubuntu10.43
 libpango-1.0-01.40.14-1ubuntu0.1
 libpangocairo-1.0-01.40.14-1ubuntu0.1
 libpangoft2-1.0-01.40.14-1ubuntu0.1
@@ -305,7 +305,7 @@ libss21.44.1-1ubuntu1.3
 libssl1.11.1.1-1ubuntu2.1~18.04.6
 libstartup-notification00.12-5
 libstdc++68.4.0-1ubuntu1~18.04
-libsystemd0237-3ubuntu10.42
+libsystemd0237-3ubuntu10.43
 libtag1v51.11.1+dfsg.1-0.2build2
 libtag1v5-vanilla1.11.1+dfsg.1-0.2build2
 libtagc01.11.1+dfsg.1-0.2build2
@@ -449,8 +449,8 @@ software-properties-common0.96.24.32.14
 sound-theme-freedesktop0.8-2ubuntu1
 ssl-cert1.0.39
 sudo1.8.21p2-3ubuntu1.3
-systemd237-3ubuntu10.42
-systemd-sysv237-3ubuntu10.42
+systemd237-3ubuntu10.43
+systemd-sysv237-3ubuntu10.43
 sysvinit-utils2.88dsf-59.10ubuntu1
 tar1.29b-2ubuntu0.1
 terminator1.91-1
