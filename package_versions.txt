@@ -29,7 +29,7 @@ dpkg1.19.7ubuntu3
 e2fsprogs1.45.5-2ubuntu1
 fdisk2.34-0.1ubuntu9.1
 findutils4.7.0-1ubuntu1
-firefox82.0+build2-0ubuntu0.20.04.1
+firefox82.0.2+build1-0ubuntu0.20.04.1
 fontconfig2.13.1-2ubuntu3
 fontconfig-config2.13.1-2ubuntu3
 fonts-dejavu-core2.37-1
@@ -70,8 +70,8 @@ libappstream40.12.10-2
 libapt-pkg6.02.0.2ubuntu0.1
 libargon2-10~20171227-0.2
 libasn1-8-heimdal7.7.0+dfsg-1ubuntu1
-libasound21.2.2-2.1ubuntu2
-libasound2-data1.2.2-2.1ubuntu2
+libasound21.2.2-2.1ubuntu2.1
+libasound2-data1.2.2-2.1ubuntu2.1
 libasound2-plugins1.2.2-1ubuntu1
 libassuan02.5.3-7ubuntu2
 libasyncns00.8-6
@@ -214,7 +214,7 @@ libpam0g1.3.1-5ubuntu4.1
 libpam-modules1.3.1-5ubuntu4.1
 libpam-modules-bin1.3.1-5ubuntu4.1
 libpam-runtime1.3.1-5ubuntu4.1
-libpam-systemd245.4-4ubuntu3.2
+libpam-systemd245.4-4ubuntu3.3
 libpango-1.0-01.44.7-2ubuntu4
 libpangocairo-1.0-01.44.7-2ubuntu4
 libpangoft2-1.0-01.44.7-2ubuntu4
@@ -270,7 +270,7 @@ libssl1.11.1.1f-1ubuntu2
 libstartup-notification00.12-6
 libstdc++610.2.0-5ubuntu1~20.04
 libstemmer0d0+svn585-2
-libsystemd0245.4-4ubuntu3.2
+libsystemd0245.4-4ubuntu3.3
 libtasn1-64.16.0-2
 libtdb11.4.2-3build1
 libthai00.1.28-3
@@ -278,7 +278,7 @@ libthai-data0.1.28-3
 libtiff54.1.0+git191117-2build1
 libtinfo66.2-0ubuntu2
 libuchardet00.0.6-3build1
-libudev1245.4-4ubuntu3.2
+libudev1245.4-4ubuntu3.3
 libunistring20.9.10-2
 libunwind81.2.1-9build1
 libutempter01.1.6-4
@@ -356,7 +356,7 @@ openbox3.6.1-9
 openssl1.1.1f-1ubuntu2
 packagekit1.1.13-2ubuntu1.1
 passwd1:4.8.1-1ubuntu5.20.04
-perl-base5.30.0-9build1
+perl-base5.30.0-9ubuntu0.2
 pinentry-curses1.1.0-3build1
 policykit-10.105-26ubuntu1
 procps2:3.3.16-1ubuntu2
@@ -389,16 +389,16 @@ shared-mime-info1.15-1
 software-properties-common0.98.9.2
 ssl-cert1.0.39
 sudo1.8.31-1ubuntu1.1
-systemd245.4-4ubuntu3.2
-systemd-sysv245.4-4ubuntu3.2
-systemd-timesyncd245.4-4ubuntu3.2
+systemd245.4-4ubuntu3.3
+systemd-sysv245.4-4ubuntu3.3
+systemd-timesyncd245.4-4ubuntu3.3
 sysvinit-utils2.96-2.1ubuntu1
 tar1.30+dfsg-7
 tzdata2020d-0ubuntu0.20.04
 ubuntu-keyring2020.02.11.2
 ubuntu-mono19.04-0ubuntu3
 ucf3.0038+nmu1
-udev245.4-4ubuntu3.2
+udev245.4-4ubuntu3.3
 util-linux2.34-0.1ubuntu9.1
 x11-apps7.7+8
 x11-common1:7.7+19ubuntu14
@@ -421,4 +421,4 @@ xserver-xorg-core2:1.20.8-2ubuntu2.4
 xterm353-1ubuntu1
 xtrans-dev1.4.0-1
 xutils1:7.7+19ubuntu14
-zlib1g1:1.2.11.dfsg-2ubuntu1.1
+zlib1g1:1.2.11.dfsg-2ubuntu1.2
