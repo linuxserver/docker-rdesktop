@@ -61,7 +61,7 @@ e2fsprogs1.45.5-2ubuntu1
 emacsen-common3.0.4
 fdisk2.34-0.1ubuntu9.1
 findutils4.7.0-1ubuntu1
-firefox82.0+build2-0ubuntu0.20.04.1
+firefox82.0.3+build1-0ubuntu0.20.04.1
 fontconfig2.13.1-2ubuntu3
 fontconfig-config2.13.1-2ubuntu3
 fonts-dejavu-core2.37-1
@@ -129,7 +129,7 @@ hicolor-icon-theme0.17-2
 hostname3.23
 humanity-icon-theme0.6.15
 hunspell-en-us1:2018.04.16-1
-im-config0.44-1ubuntu1.2
+im-config0.44-1ubuntu1.3
 init-system-helpers1.57
 inputattach1:1.7.0-1
 iso-codes4.4-1
@@ -148,8 +148,8 @@ libapt-pkg6.02.0.2ubuntu0.1
 libarchive133.4.0-2ubuntu1
 libargon2-10~20171227-0.2
 libasn1-8-heimdal7.7.0+dfsg-1ubuntu1
-libasound21.2.2-2.1ubuntu2
-libasound2-data1.2.2-2.1ubuntu2
+libasound21.2.2-2.1ubuntu2.1
+libasound2-data1.2.2-2.1ubuntu2.1
 libasound2-plugins1.2.2-1ubuntu1
 libaspell150.60.8-1build1
 libassuan02.5.3-7ubuntu2
@@ -234,7 +234,7 @@ libelf10.176-1.1build1
 libenchant-2-22.2.8-1
 libepoxy01.5.4-1
 libexempi82.5.1-1build1
-libexif120.6.21-6ubuntu0.3
+libexif120.6.21-6ubuntu0.4
 libexpat12.2.9-1build1
 libext2fs21.45.5-2ubuntu1
 libextutils-depends-perl0.8000-1
@@ -406,7 +406,7 @@ libpam0g1.3.1-5ubuntu4.1
 libpam-modules1.3.1-5ubuntu4.1
 libpam-modules-bin1.3.1-5ubuntu4.1
 libpam-runtime1.3.1-5ubuntu4.1
-libpam-systemd245.4-4ubuntu3.2
+libpam-systemd245.4-4ubuntu3.3
 libpango-1.0-01.44.7-2ubuntu4
 libpangocairo-1.0-01.44.7-2ubuntu4
 libpangoft2-1.0-01.44.7-2ubuntu4
@@ -488,7 +488,7 @@ libssl1.11.1.1f-1ubuntu2
 libstartup-notification00.12-6
 libstdc++610.2.0-5ubuntu1~20.04
 libstemmer0d0+svn585-2
-libsystemd0245.4-4ubuntu3.2
+libsystemd0245.4-4ubuntu3.3
 libtag1v51.11.1+dfsg.1-0.3ubuntu2
 libtag1v5-vanilla1.11.1+dfsg.1-0.3ubuntu2
 libtalloc22.3.0-3ubuntu1
@@ -504,7 +504,7 @@ libtinfo66.2-0ubuntu2
 libtwolame00.4.0-2
 libu2f-udev1.1.10-1
 libuchardet00.0.6-3build1
-libudev1245.4-4ubuntu3.2
+libudev1245.4-4ubuntu3.3
 libudisks2-02.8.4-1ubuntu1
 libunistring20.9.10-2
 libunwind81.2.1-9build1
@@ -667,7 +667,7 @@ pulseaudio-utils1:13.99.1-1ubuntu3.7
 python33.8.2-0ubuntu2
 python3.83.8.5-1~20.04
 python3.8-minimal3.8.5-1~20.04
-python3-apport2.20.11-0ubuntu27.10
+python3-apport2.20.11-0ubuntu27.11
 python3-apt2.0.0ubuntu0.20.04.1
 python3-aptdaemon1.1.1+bzr982-0ubuntu32.2
 python3-aptdaemon.gtk3widgets1.1.1+bzr982-0ubuntu32.2
@@ -701,7 +701,7 @@ python3-lazr.uri1.0.3-4build1
 python3-minimal3.8.2-0ubuntu2
 python3-oauthlib3.1.0-1ubuntu2
 python3-pkg-resources45.2.0-1
-python3-problem-report2.20.11-0ubuntu27.10
+python3-problem-report2.20.11-0ubuntu27.11
 python3-psutil5.5.1-1ubuntu4
 python3-requests2.22.0-2ubuntu1
 python3-requests-unixsocket0.2.0-2
@@ -725,12 +725,12 @@ shared-mime-info1.15-1
 software-properties-common0.98.9.2
 software-properties-gtk0.98.9.2
 sound-theme-freedesktop0.8-2ubuntu1
-spice-vdagent0.19.0-2
+spice-vdagent0.19.0-2ubuntu0.2
 ssl-cert1.0.39
 sudo1.8.31-1ubuntu1.1
-systemd245.4-4ubuntu3.2
-systemd-sysv245.4-4ubuntu3.2
-systemd-timesyncd245.4-4ubuntu3.2
+systemd245.4-4ubuntu3.3
+systemd-sysv245.4-4ubuntu3.3
+systemd-timesyncd245.4-4ubuntu3.3
 sysvinit-utils2.96-2.1ubuntu1
 tar1.30+dfsg-7
 terminator1.91-4ubuntu1
@@ -751,7 +751,7 @@ ubuntu-mono19.04-0ubuntu3
 ubuntu-release-upgrader-core1:20.04.28
 ubuntu-release-upgrader-gtk1:20.04.28
 ucf3.0038+nmu1
-udev245.4-4ubuntu3.2
+udev245.4-4ubuntu3.3
 udisks22.8.4-1ubuntu1
 unzip6.0-25ubuntu1
 update-manager1:20.04.10.1
@@ -798,4 +798,4 @@ yelp-xsl3.36.0-1
 zenity3.32.0-5
 zenity-common3.32.0-5
 zip3.0-11build1
-zlib1g1:1.2.11.dfsg-2ubuntu1.1
+zlib1g1:1.2.11.dfsg-2ubuntu1.2
