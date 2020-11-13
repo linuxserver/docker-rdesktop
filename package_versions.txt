@@ -33,7 +33,7 @@ elementary-xfce-icon-theme0.15-1
 exo-utils0.12.11-1ubuntu1
 fdisk2.34-0.1ubuntu9.1
 findutils4.7.0-1ubuntu1
-firefox82.0.2+build1-0ubuntu0.20.04.1
+firefox82.0.3+build1-0ubuntu0.20.04.1
 fontconfig2.13.1-2ubuntu3
 fontconfig-config2.13.1-2ubuntu3
 fonts-dejavu-core2.37-1
@@ -141,7 +141,7 @@ libegl11.3.1-1ubuntu0.20.04.1
 libegl-mesa020.0.8-0ubuntu1~20.04.1
 libelf10.176-1.1build1
 libepoxy01.5.4-1
-libexif120.6.21-6ubuntu0.3
+libexif120.6.21-6ubuntu0.4
 libexo-1-00.12.11-1ubuntu1
 libexo-2-00.12.11-1ubuntu1
 libexo-common0.12.11-1ubuntu1
@@ -265,7 +265,7 @@ libpcre2-8-010.34-7
 libpcre32:8.39-12build1
 libpipeline11.5.2-2build1
 libpixman-1-00.38.4-0ubuntu1
-libplymouth50.9.4git20200323-0ubuntu6.1
+libplymouth50.9.4git20200323-0ubuntu6.2
 libpng16-161.6.37-2
 libpolkit-agent-1-00.105-26ubuntu1
 libpolkit-gobject-1-00.105-26ubuntu1
@@ -427,9 +427,9 @@ passwd1:4.8.1-1ubuntu5.20.04
 pavucontrol4.0-1build1
 perl-base5.30.0-9ubuntu0.2
 pinentry-curses1.1.0-3build1
-plymouth0.9.4git20200323-0ubuntu6.1
-plymouth-label0.9.4git20200323-0ubuntu6.1
-plymouth-theme-ubuntu-text0.9.4git20200323-0ubuntu6.1
+plymouth0.9.4git20200323-0ubuntu6.2
+plymouth-label0.9.4git20200323-0ubuntu6.2
+plymouth-theme-ubuntu-text0.9.4git20200323-0ubuntu6.2
 plymouth-theme-xubuntu-logo20.04.2
 plymouth-theme-xubuntu-text20.04.2
 policykit-10.105-26ubuntu1
