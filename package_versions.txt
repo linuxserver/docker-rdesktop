@@ -32,7 +32,7 @@ e2fsprogs1.44.1-1ubuntu1.3
 exo-utils0.12.2-0ubuntu0.18.04.1
 fdisk2.31.1-0.4ubuntu3.7
 findutils4.6.0+git+20170828-2
-firefox82.0.3+build1-0ubuntu0.18.04.1
+firefox83.0+build2-0ubuntu0.18.04.2
 fontconfig2.12.6-0ubuntu2
 fontconfig-config2.12.6-0ubuntu2
 fonts-dejavu-core2.37-1
@@ -392,7 +392,7 @@ libxv12:1.0.11-1
 libxxf86dga12:1.1.4-1
 libxxf86vm11:1.1.4-1
 libzstd11.3.3+dfsg-2ubuntu1.1
-lightdm-gtk-greeter2.0.5-0ubuntu1
+lightdm-gtk-greeter2.0.5-0ubuntu2
 locales2.27-3ubuntu1.2
 login1:4.5-1ubuntu2
 lsb-base9.20170808ubuntu1
