@@ -43,7 +43,7 @@ drkonqi5.18.5-0ubuntu0.1
 e2fsprogs1.45.5-2ubuntu1
 fdisk2.34-0.1ubuntu9.1
 findutils4.7.0-1ubuntu1
-firefox82.0.3+build1-0ubuntu0.20.04.1
+firefox83.0+build2-0ubuntu0.20.04.1
 fontconfig2.13.1-2ubuntu3
 fontconfig-config2.13.1-2ubuntu3
 fonts-dejavu-core2.37-1
@@ -462,8 +462,8 @@ libkwinglutils124:5.18.5-0ubuntu0.1
 libkwinxrenderutils124:5.18.5-0ubuntu0.1
 libkworkspace5-54:5.18.5-0ubuntu0.1
 liblcms2-22.9-4
-libldap-2.4-22.4.49+dfsg-2ubuntu1.3
-libldap-common2.4.49+dfsg-2ubuntu1.3
+libldap-2.4-22.4.49+dfsg-2ubuntu1.4
+libldap-common2.4.49+dfsg-2ubuntu1.4
 libldb22:2.0.10-0ubuntu0.20.04.2
 liblirc-client00.10.1-6.1ubuntu1.1
 liblivemedia772020.01.19-1build1
@@ -861,7 +861,7 @@ python3-secretstorage2.3.1-2ubuntu1
 python3-simplejson3.16.0-2ubuntu2
 python3-sip4.19.21+dfsg-1build1
 python3-six1.14.0-2
-python3-software-properties0.98.9.2
+python3-software-properties0.98.9.3
 python3-talloc2.3.0-3ubuntu1
 python3-update-manager1:20.04.10.1
 python3-urllib31.25.8-2ubuntu0.1
@@ -906,8 +906,8 @@ sensible-utils0.0.12+nmu1
 sgml-base1.29.1
 sgml-data2.0.11
 shared-mime-info1.15-1
-software-properties-common0.98.9.2
-software-properties-qt0.98.9.2
+software-properties-common0.98.9.3
+software-properties-qt0.98.9.3
 sound-theme-freedesktop0.8-2ubuntu1
 spice-vdagent0.19.0-2ubuntu0.2
 ssl-cert1.0.39
