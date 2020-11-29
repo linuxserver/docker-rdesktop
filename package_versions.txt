@@ -80,7 +80,7 @@ gir1.2-gdkpixbuf-2.02.36.11-2
 gir1.2-glib-2.01.56.1-1
 gir1.2-goa-1.03.28.0-0ubuntu2.1
 gir1.2-gtk-3.03.22.30-1ubuntu4
-gir1.2-javascriptcoregtk-4.02.28.4-0ubuntu0.18.04.1
+gir1.2-javascriptcoregtk-4.02.30.3-0ubuntu0.18.04.1
 gir1.2-mate-panel1.20.1-3ubuntu1
 gir1.2-matepanelapplet-4.01.20.1-3ubuntu1
 gir1.2-packagekitglib-1.01.1.9-1ubuntu2.18.04.6
@@ -88,7 +88,7 @@ gir1.2-pango-1.01.40.14-1ubuntu0.1
 gir1.2-snapd-11.49-0ubuntu0.18.04.2
 gir1.2-soup-2.42.62.1-1ubuntu0.4
 gir1.2-vte-2.910.52.2-1ubuntu1~18.04.2
-gir1.2-webkit2-4.02.28.4-0ubuntu0.18.04.1
+gir1.2-webkit2-4.02.30.3-0ubuntu0.18.04.1
 glib-networking2.56.0-1ubuntu0.1
 glib-networking-common2.56.0-1ubuntu0.1
 glib-networking-services2.56.0-1ubuntu0.1
@@ -333,7 +333,7 @@ libisl190.19-1
 libiw3030~pre9-12ubuntu1
 libjack-jackd2-01.9.12~dfsg-2
 libjansson42.11-1
-libjavascriptcoregtk-4.0-182.28.4-0ubuntu0.18.04.1
+libjavascriptcoregtk-4.0-182.30.3-0ubuntu0.18.04.1
 libjbig02.1-3.1build1
 libjbig2dec00.13-6
 libjpeg88c-2ubuntu8
@@ -425,15 +425,15 @@ libpng16-161.6.34-1ubuntu0.18.04.2
 libpolkit-agent-1-00.105-20ubuntu0.18.04.5
 libpolkit-backend-1-00.105-20ubuntu0.18.04.5
 libpolkit-gobject-1-00.105-20ubuntu0.18.04.5
-libpoppler730.62.0-2ubuntu2.10
+libpoppler730.62.0-2ubuntu2.12
 libpopt01.16-11
 libprocps62:3.3.12-3ubuntu1.2
 libproxy1v50.4.15-1ubuntu0.1
 libpsl50.19.1-5build1
 libpthread-stubs0-dev0.3-4
-libpulse01:11.1-1ubuntu7.10
-libpulsedsp1:11.1-1ubuntu7.10
-libpulse-mainloop-glib01:11.1-1ubuntu7.10
+libpulse01:11.1-1ubuntu7.11
+libpulsedsp1:11.1-1ubuntu7.11
+libpulse-mainloop-glib01:11.1-1ubuntu7.11
 libpython2.72.7.17-1~18.04ubuntu1.2
 libpython2.7-minimal2.7.17-1~18.04ubuntu1.2
 libpython2.7-stdlib2.7.17-1~18.04ubuntu1.2
@@ -521,7 +521,7 @@ libwayland-cursor01.16.0-1ubuntu1.1~18.04.3
 libwayland-egl11.16.0-1ubuntu1.1~18.04.3
 libwayland-server01.16.0-1ubuntu1.1~18.04.3
 libwbclient02:4.7.6+dfsg~ubuntu-0ubuntu2.21
-libwebkit2gtk-4.0-372.28.4-0ubuntu0.18.04.1
+libwebkit2gtk-4.0-372.30.3-0ubuntu0.18.04.1
 libwebp60.6.1-2
 libwebpdemux20.6.1-2
 libwebpmux30.6.1-2
@@ -643,7 +643,7 @@ perl-modules-5.265.26.1-6ubuntu0.5
 pinentry-curses1.1.0-1
 policykit-10.105-20ubuntu0.18.04.5
 poppler-data0.4.8-2
-poppler-utils0.62.0-2ubuntu2.10
+poppler-utils0.62.0-2ubuntu2.12
 printer-driver-gutenprint5.2.13-2
 printer-driver-hpcups3.17.10+repack0-5
 printer-driver-pnm2ppa1.13+nondbs-0ubuntu6
@@ -651,8 +651,8 @@ printer-driver-postscript-hp3.17.10+repack0-5
 procps2:3.3.12-3ubuntu1.2
 psmisc23.1-1ubuntu0.1
 publicsuffix20180223.1310-1
-pulseaudio1:11.1-1ubuntu7.10
-pulseaudio-utils1:11.1-1ubuntu7.10
+pulseaudio1:11.1-1ubuntu7.11
+pulseaudio-utils1:11.1-1ubuntu7.11
 python2.7.15~rc1-1
 python2.72.7.17-1~18.04ubuntu1.2
 python2.7-minimal2.7.17-1~18.04ubuntu1.2
