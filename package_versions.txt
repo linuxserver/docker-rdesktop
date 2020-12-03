@@ -24,7 +24,7 @@ debianutils4.8.4
 diffutils1:3.6-1
 dirmngr2.2.4-1ubuntu1.3
 distro-info-data0.37ubuntu0.9
-docker-ce-cli5:19.03.13~3-0~ubuntu-bionic
+docker-ce-cli5:19.03.14~3-0~ubuntu-bionic
 dpkg1.19.0.5ubuntu2.3
 e2fsprogs1.44.1-1ubuntu1.3
 fdisk2.31.1-0.4ubuntu3.7
@@ -212,8 +212,8 @@ libprocps62:3.3.12-3ubuntu1.2
 libproxy1v50.4.15-1ubuntu0.1
 libpsl50.19.1-5build1
 libpthread-stubs0-dev0.3-4
-libpulse01:11.1-1ubuntu7.10
-libpulsedsp1:11.1-1ubuntu7.10
+libpulse01:11.1-1ubuntu7.11
+libpulsedsp1:11.1-1ubuntu7.11
 libpython2.7-minimal2.7.17-1~18.04ubuntu1.2
 libpython2.7-stdlib2.7.17-1~18.04ubuntu1.2
 libpython3.6-minimal3.6.9-1~18.04ubuntu1.3
@@ -333,8 +333,8 @@ perl-base5.26.1-6ubuntu0.5
 pinentry-curses1.1.0-1
 procps2:3.3.12-3ubuntu1.2
 publicsuffix20180223.1310-1
-pulseaudio1:11.1-1ubuntu7.10
-pulseaudio-utils1:11.1-1ubuntu7.10
+pulseaudio1:11.1-1ubuntu7.11
+pulseaudio-utils1:11.1-1ubuntu7.11
 python2.7.15~rc1-1
 python2.72.7.17-1~18.04ubuntu1.2
 python2.7-minimal2.7.17-1~18.04ubuntu1.2
@@ -379,8 +379,8 @@ xkb-data2.23.1-1ubuntu1.18.04.1
 xorg-sgml-doctools1:1.11-1
 xorgxrdp0.9.5-2
 xrdp0.9.5-2
-xserver-common2:1.19.6-1ubuntu4.7
-xserver-xorg-core2:1.19.6-1ubuntu4.7
+xserver-common2:1.19.6-1ubuntu4.8
+xserver-xorg-core2:1.19.6-1ubuntu4.8
 xterm330-1ubuntu2
 xtrans-dev1.3.5-1
 xutils1:7.7+19ubuntu7.1
