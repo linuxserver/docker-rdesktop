@@ -37,7 +37,7 @@ distro-info-data0.43ubuntu1.4
 dmidecode3.2-3
 docbook-xml4.5-9
 docbook-xsl1.79.1+dfsg-2
-docker-ce-cli5:19.03.13~3-0~ubuntu-bionic
+docker-ce-cli5:19.03.14~3-0~ubuntu-bionic
 dpkg1.19.7ubuntu3
 drkonqi5.18.5-0ubuntu0.1
 e2fsprogs1.45.5-2ubuntu1
@@ -632,7 +632,7 @@ libslang22.3.2-4
 libsm62:1.2.3-1
 libsmartcols12.34-0.1ubuntu9.1
 libsmbclient2:4.11.6+dfsg-0ubuntu1.6
-libsnapd-glib11.57-0ubuntu3
+libsnapd-glib11.58-0ubuntu0.20.04.0
 libsnappy1v51.1.8-1build1
 libsndfile11.0.28-7
 libsndio7.01.5.0-3
@@ -959,9 +959,9 @@ xorg-docs-core1:1.7.1-1.1
 xorg-sgml-doctools1:1.11-1
 xorgxrdp1:0.2.12-1
 xrdp0.9.12-1
-xserver-common2:1.20.8-2ubuntu2.4
+xserver-common2:1.20.8-2ubuntu2.6
 xserver-xorg1:7.7+19ubuntu14
-xserver-xorg-core2:1.20.8-2ubuntu2.4
+xserver-xorg-core2:1.20.8-2ubuntu2.6
 xtrans-dev1.4.0-1
 xutils1:7.7+19ubuntu14
 xz-utils5.2.4-1ubuntu1
