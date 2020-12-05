@@ -34,7 +34,7 @@ dirmngr2.2.4-1ubuntu1.3
 distro-info-data0.37ubuntu0.9
 docbook-xml4.5-8
 docbook-xsl1.79.1+dfsg-2
-docker-ce-cli5:19.03.13~3-0~ubuntu-bionic
+docker-ce-cli5:19.03.14~3-0~ubuntu-bionic
 dpkg1.19.0.5ubuntu2.3
 e2fsprogs1.44.1-1ubuntu1.3
 fdisk2.31.1-0.4ubuntu3.7
@@ -927,9 +927,9 @@ xorg-docs-core1:1.7.1-1.1
 xorg-sgml-doctools1:1.11-1
 xorgxrdp0.9.5-2
 xrdp0.9.5-2
-xserver-common2:1.19.6-1ubuntu4.7
+xserver-common2:1.19.6-1ubuntu4.8
 xserver-xorg1:7.7+19ubuntu7.1
-xserver-xorg-core2:1.19.6-1ubuntu4.7
+xserver-xorg-core2:1.19.6-1ubuntu4.8
 xtrans-dev1.3.5-1
 xutils1:7.7+19ubuntu7.1
 xz-utils5.2.2-1.3
