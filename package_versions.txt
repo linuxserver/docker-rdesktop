@@ -53,7 +53,7 @@ dictionaries-common1.27.2
 diffutils1:3.6-1
 dirmngr2.2.4-1ubuntu1.3
 distro-info-data0.37ubuntu0.9
-docker-ce-cli5:19.03.13~3-0~ubuntu-bionic
+docker-ce-cli5:19.03.14~3-0~ubuntu-bionic
 dpkg1.19.0.5ubuntu2.3
 e2fsprogs1.44.1-1ubuntu1.3
 emacsen-common2.0.8
@@ -671,7 +671,7 @@ python3-debconf1.5.66ubuntu1
 python3-debian0.1.32
 python3-defer1.0.6-2build1
 python3-distro-info0.18ubuntu0.18.04.1
-python3-distupgrade1:18.04.40
+python3-distupgrade1:18.04.41
 python3-gi3.26.1-2ubuntu1
 python3-httplib20.9.2+dfsg-1ubuntu0.2
 python3-idna2.6-1
@@ -732,8 +732,8 @@ ubuntu-mate-wallpapers-bionic18.04.11
 ubuntu-mate-wallpapers-common18.04.11
 ubuntu-mate-wallpapers-photos18.04.11
 ubuntu-mono16.10+18.04.20181005-0ubuntu1
-ubuntu-release-upgrader-core1:18.04.40
-ubuntu-release-upgrader-gtk1:18.04.40
+ubuntu-release-upgrader-core1:18.04.41
+ubuntu-release-upgrader-gtk1:18.04.41
 ubuntu-sounds0.13
 ucf3.0038
 udev237-3ubuntu10.43
@@ -772,9 +772,9 @@ xorg-docs-core1:1.7.1-1.1
 xorg-sgml-doctools1:1.11-1
 xorgxrdp0.9.5-2
 xrdp0.9.5-2
-xserver-common2:1.19.6-1ubuntu4.7
+xserver-common2:1.19.6-1ubuntu4.8
 xserver-xorg1:7.7+19ubuntu7.1
-xserver-xorg-core2:1.19.6-1ubuntu4.7
+xserver-xorg-core2:1.19.6-1ubuntu4.8
 xtrans-dev1.3.5-1
 xutils1:7.7+19ubuntu7.1
 xz-utils5.2.2-1.3
