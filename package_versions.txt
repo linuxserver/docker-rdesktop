@@ -5,8 +5,8 @@ alsa-base1.0.25+dfsg-0ubuntu5
 alsa-utils1.2.2-1ubuntu2
 anacron2.3-29
 apt2.0.2ubuntu0.1
-aptdaemon1.1.1+bzr982-0ubuntu32.2
-aptdaemon-data1.1.1+bzr982-0ubuntu32.2
+aptdaemon1.1.1+bzr982-0ubuntu32.3
+aptdaemon-data1.1.1+bzr982-0ubuntu32.3
 apt-transport-https2.0.2ubuntu0.1
 apturl0.5.2ubuntu19
 apturl-common0.5.2ubuntu19
@@ -55,7 +55,7 @@ dirmngr2.2.19-3ubuntu2
 distro-info-data0.43ubuntu1.4
 dmidecode3.2-3
 dmsetup2:1.02.167-1ubuntu1
-docker-ce-cli5:19.03.13~3-0~ubuntu-bionic
+docker-ce-cli5:19.03.14~3-0~ubuntu-bionic
 dpkg1.19.7ubuntu3
 e2fsprogs1.45.5-2ubuntu1
 emacsen-common3.0.4
@@ -80,7 +80,7 @@ ghostscript9.50~dfsg-5ubuntu4.2
 ghostscript-x9.50~dfsg-5ubuntu4.2
 gir1.2-atk-1.02.35.1-1ubuntu2
 gir1.2-freedesktop1.64.1-1~ubuntu20.04.1
-gir1.2-gdkpixbuf-2.02.40.0+dfsg-3
+gir1.2-gdkpixbuf-2.02.40.0+dfsg-3ubuntu0.1
 gir1.2-glib-2.01.64.1-1~ubuntu20.04.1
 gir1.2-goa-1.03.36.0-1ubuntu1
 gir1.2-gtk-3.03.24.20-0ubuntu1
@@ -260,8 +260,8 @@ libgdata220.17.12-1
 libgdata-common0.17.12-1
 libgdbm61.18.1-5
 libgdbm-compat41.18.1-5
-libgdk-pixbuf2.0-02.40.0+dfsg-3
-libgdk-pixbuf2.0-common2.40.0+dfsg-3
+libgdk-pixbuf2.0-02.40.0+dfsg-3ubuntu0.1
+libgdk-pixbuf2.0-common2.40.0+dfsg-3ubuntu0.1
 libgirepository-1.0-11.64.1-1~ubuntu20.04.1
 libgl11.3.1-1ubuntu0.20.04.1
 libgl1-mesa-dri20.0.8-0ubuntu1~20.04.1
@@ -413,8 +413,8 @@ libpangoft2-1.0-01.44.7-2ubuntu4
 libpangomm-1.4-1v52.42.0-2build1
 libpangoxft-1.0-01.44.7-2ubuntu4
 libpaper11.1.28
-libparted23.3-4
-libparted-fs-resize03.3-4
+libparted23.3-4ubuntu0.20.04.1
+libparted-fs-resize03.3-4ubuntu0.20.04.1
 libpci31:3.6.4-1
 libpciaccess00.16-0ubuntu1
 libpcre2-8-010.34-7
@@ -641,7 +641,7 @@ ncurses-bin6.2-0ubuntu2
 openprinting-ppds20200401-1
 openssl1.1.1f-1ubuntu2
 packagekit1.1.13-2ubuntu1.1
-parted3.3-4
+parted3.3-4ubuntu0.20.04.1
 passwd1:4.8.1-1ubuntu5.20.04
 patch2.7.6-6
 pavucontrol4.0-1build1
@@ -669,8 +669,8 @@ python3.83.8.5-1~20.04
 python3.8-minimal3.8.5-1~20.04
 python3-apport2.20.11-0ubuntu27.13
 python3-apt2.0.0ubuntu0.20.04.1
-python3-aptdaemon1.1.1+bzr982-0ubuntu32.2
-python3-aptdaemon.gtk3widgets1.1.1+bzr982-0ubuntu32.2
+python3-aptdaemon1.1.1+bzr982-0ubuntu32.3
+python3-aptdaemon.gtk3widgets1.1.1+bzr982-0ubuntu32.3
 python3-blinker1.4+dfsg1-0.3ubuntu1
 python3-cairo1.16.2-2ubuntu2
 python3-certifi2019.11.28-1
@@ -787,9 +787,9 @@ xorg-docs-core1:1.7.1-1.1
 xorg-sgml-doctools1:1.11-1
 xorgxrdp1:0.2.12-1
 xrdp0.9.12-1
-xserver-common2:1.20.8-2ubuntu2.4
+xserver-common2:1.20.8-2ubuntu2.6
 xserver-xorg1:7.7+19ubuntu14
-xserver-xorg-core2:1.20.8-2ubuntu2.4
+xserver-xorg-core2:1.20.8-2ubuntu2.6
 xtrans-dev1.4.0-1
 xutils1:7.7+19ubuntu14
 xz-utils5.2.4-1ubuntu1
