@@ -46,7 +46,7 @@ gcc-10-base10.2.0-5ubuntu1~20.04
 gcc-9-base9.3.0-17ubuntu1~20.04
 gir1.2-atk-1.02.35.1-1ubuntu2
 gir1.2-freedesktop1.64.1-1~ubuntu20.04.1
-gir1.2-gdkpixbuf-2.02.40.0+dfsg-3
+gir1.2-gdkpixbuf-2.02.40.0+dfsg-3ubuntu0.1
 gir1.2-glib-2.01.64.1-1~ubuntu20.04.1
 gir1.2-gtk-3.03.24.20-0ubuntu1
 gir1.2-packagekitglib-1.01.1.13-2ubuntu1.1
@@ -163,8 +163,8 @@ libgbm120.0.8-0ubuntu1~20.04.1
 libgcc-s110.2.0-5ubuntu1~20.04
 libgcrypt201.8.5-5ubuntu1
 libgdbm61.18.1-5
-libgdk-pixbuf2.0-02.40.0+dfsg-3
-libgdk-pixbuf2.0-common2.40.0+dfsg-3
+libgdk-pixbuf2.0-02.40.0+dfsg-3ubuntu0.1
+libgdk-pixbuf2.0-common2.40.0+dfsg-3ubuntu0.1
 libgirepository-1.0-11.64.1-1~ubuntu20.04.1
 libgl11.3.1-1ubuntu0.20.04.1
 libgl1-mesa-dri20.0.8-0ubuntu1~20.04.1
@@ -283,8 +283,8 @@ libqrencode44.0.2-2
 libreadline88.0-4
 librest-0.7-00.8.1-1
 libroken18-heimdal7.7.0+dfsg-1ubuntu1
-librsvg2-22.48.7-1ubuntu0.20.04.1
-librsvg2-common2.48.7-1ubuntu0.20.04.1
+librsvg2-22.48.9-1ubuntu0.20.04.1
+librsvg2-common2.48.9-1ubuntu0.20.04.1
 librtmp12.4+20151223.gitfa8646d.1-2build1
 libsamplerate00.1.9-2
 libsasl2-22.1.27+dfsg-2
