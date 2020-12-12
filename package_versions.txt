@@ -3,9 +3,9 @@ adwaita-icon-theme3.28.0-1ubuntu1
 alsa-base1.0.25+dfsg-0ubuntu5
 alsa-utils1.1.3-1ubuntu1
 anacron2.3-24
-apt1.6.12ubuntu0.1
-apt-transport-https1.6.12ubuntu0.1
-apt-utils1.6.12ubuntu0.1
+apt1.6.12ubuntu0.2
+apt-transport-https1.6.12ubuntu0.2
+apt-utils1.6.12ubuntu0.2
 baloo-kf55.44.0-0ubuntu1
 base-files10.1ubuntu2.10
 base-passwd3.5.44
@@ -21,7 +21,7 @@ ca-certificates20201027ubuntu0.18.04.1
 coreutils8.28-1ubuntu1
 cpp4:7.4.0-1ubuntu2.3
 cpp-77.5.0-3ubuntu1~18.04
-curl7.58.0-2ubuntu3.10
+curl7.58.0-2ubuntu3.12
 dash0.5.8-2.10
 dbus1.12.2-1ubuntu1.2
 dbus-x111.12.2-1ubuntu1.2
@@ -34,7 +34,7 @@ dirmngr2.2.4-1ubuntu1.3
 distro-info-data0.37ubuntu0.9
 docbook-xml4.5-8
 docbook-xsl1.79.1+dfsg-2
-docker-ce-cli5:19.03.14~3-0~ubuntu-bionic
+docker-ce-cli5:20.10.0~3-0~ubuntu-bionic
 dpkg1.19.0.5ubuntu2.3
 e2fsprogs1.44.1-1ubuntu1.3
 fdisk2.31.1-0.4ubuntu3.7
@@ -126,8 +126,8 @@ libacl12.2.52-3build1
 libapparmor12.12-4ubuntu5.1
 libappstream40.12.0-3ubuntu1
 libappstreamqt20.12.0-3ubuntu1
-libapt-inst2.01.6.12ubuntu0.1
-libapt-pkg5.01.6.12ubuntu0.1
+libapt-inst2.01.6.12ubuntu0.2
+libapt-pkg5.01.6.12ubuntu0.2
 libarchive133.2.2-3.1ubuntu0.6
 libargon2-00~20161029-1.1
 libaribb24-01.0.3-1
@@ -187,8 +187,8 @@ libcryptsetup122:2.0.2-1ubuntu1.2
 libcrystalhd31:0.0~git20110715.fdd2f19-12
 libcups22.2.7-1ubuntu2.8
 libcupsimage22.2.7-1ubuntu2.8
-libcurl3-gnutls7.58.0-2ubuntu3.10
-libcurl47.58.0-2ubuntu3.10
+libcurl3-gnutls7.58.0-2ubuntu3.12
+libcurl47.58.0-2ubuntu3.12
 libdatrie10.2.10-7
 libdb5.35.3.28-13.1ubuntu1.1
 libdbus-1-31.12.2-1ubuntu1.2
@@ -639,7 +639,7 @@ libss21.44.1-1ubuntu1.3
 libssh2-11.8.0-1
 libssh-40.8.0~20170825.94fa1e38-1ubuntu0.7
 libssh-gcrypt-40.8.0~20170825.94fa1e38-1ubuntu0.7
-libssl1.11.1.1-1ubuntu2.1~18.04.6
+libssl1.11.1.1-1ubuntu2.1~18.04.7
 libstdc++68.4.0-1ubuntu1~18.04
 libstemmer0d0+svn585-1build1
 libswresample27:3.4.8-0ubuntu0.2
@@ -779,7 +779,7 @@ multiarch-support2.27-3ubuntu1.3
 ncurses-base6.1-1ubuntu1.18.04
 ncurses-bin6.1-1ubuntu1.18.04
 openprinting-ppds20180306-1
-openssl1.1.1-1ubuntu2.1~18.04.6
+openssl1.1.1-1ubuntu2.1~18.04.7
 oxygen-sounds4:5.12.8-0ubuntu0.1
 parted3.2-20ubuntu0.2
 passwd1:4.5-1ubuntu2
@@ -813,7 +813,7 @@ python33.6.7-1~18.04
 python3.63.6.9-1~18.04ubuntu1.3
 python3.6-minimal3.6.9-1~18.04ubuntu1.3
 python3-apport2.20.9-0ubuntu7.20
-python3-apt1.6.5ubuntu0.3
+python3-apt1.6.5ubuntu0.4
 python3-certifi2018.1.18-2
 python3-chardet3.0.4-1
 python3-dbus1.2.6-1
@@ -831,7 +831,7 @@ python3-six1.11.0-2
 python3-software-properties0.96.24.32.14
 python3-urllib31.22-1ubuntu0.18.04.2
 python3-xkit0.5.0ubuntu2
-python-apt-common1.6.5ubuntu0.3
+python-apt-common1.6.5ubuntu0.4
 python-cairo1.16.2-1
 python-dbus1.2.6-1
 python-gi3.26.1-2ubuntu1
