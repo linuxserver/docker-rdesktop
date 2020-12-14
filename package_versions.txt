@@ -1,8 +1,8 @@
 adduser3.116ubuntu1
 adwaita-icon-theme3.28.0-1ubuntu1
-apt1.6.12ubuntu0.1
-apt-transport-https1.6.12ubuntu0.1
-apt-utils1.6.12ubuntu0.1
+apt1.6.12ubuntu0.2
+apt-transport-https1.6.12ubuntu0.2
+apt-utils1.6.12ubuntu0.2
 at-spi2-core2.28.0-1
 base-files10.1ubuntu2.10
 base-passwd3.5.44
@@ -14,7 +14,7 @@ ca-certificates20201027ubuntu0.18.04.1
 coreutils8.28-1ubuntu1
 cpp4:7.4.0-1ubuntu2.3
 cpp-77.5.0-3ubuntu1~18.04
-curl7.58.0-2ubuntu3.10
+curl7.58.0-2ubuntu3.12
 dash0.5.8-2.10
 dbus1.12.2-1ubuntu1.2
 dbus-x111.12.2-1ubuntu1.2
@@ -25,7 +25,7 @@ debianutils4.8.4
 diffutils1:3.6-1
 dirmngr2.2.4-1ubuntu1.3
 distro-info-data0.37ubuntu0.9
-docker-ce-cli5:19.03.14~3-0~ubuntu-bionic
+docker-ce-cli5:20.10.0~3-0~ubuntu-bionic
 dpkg1.19.0.5ubuntu2.3
 dunst1.3.0-2
 e2fsprogs1.44.1-1ubuntu1.3
@@ -81,8 +81,8 @@ libacl12.2.52-3build1
 libanyevent-i3-perl0.17-1
 libanyevent-perl7.140-2
 libapparmor12.12-4ubuntu5.1
-libapt-inst2.01.6.12ubuntu0.1
-libapt-pkg5.01.6.12ubuntu0.1
+libapt-inst2.01.6.12ubuntu0.2
+libapt-pkg5.01.6.12ubuntu0.2
 libasn1-8-heimdal7.5.0+dfsg-1
 libasound21.1.3-5ubuntu0.5
 libasound2-data1.1.3-5ubuntu0.5
@@ -119,7 +119,7 @@ libconfuse23.2.1+dfsg-4ubuntu0.1
 libconfuse-common3.2.1+dfsg-4ubuntu0.1
 libcroco30.6.12-2
 libcups22.2.7-1ubuntu2.8
-libcurl47.58.0-2ubuntu3.10
+libcurl47.58.0-2ubuntu3.12
 libdata-dump-perl1.23-1
 libdatrie10.2.10-7
 libdb5.35.3.28-13.1ubuntu1.1
@@ -306,7 +306,7 @@ libsoup-gnome2.4-12.62.1-1ubuntu0.4
 libspeexdsp11.2~rc1.2-1ubuntu2
 libsqlite3-03.22.0-1ubuntu0.4
 libss21.44.1-1ubuntu1.3
-libssl1.11.1.1-1ubuntu2.1~18.04.6
+libssl1.11.1.1-1ubuntu2.1~18.04.7
 libstartup-notification00.12-5
 libstdc++68.4.0-1ubuntu1~18.04
 libsystemd0237-3ubuntu10.42
@@ -413,7 +413,7 @@ multiarch-support2.27-3ubuntu1.3
 ncurses-base6.1-1ubuntu1.18.04
 ncurses-bin6.1-1ubuntu1.18.04
 netbase5.4
-openssl1.1.1-1ubuntu2.1~18.04.6
+openssl1.1.1-1ubuntu2.1~18.04.7
 passwd1:4.5-1ubuntu2
 perl5.26.1-6ubuntu0.5
 perl-base5.26.1-6ubuntu0.5
@@ -430,12 +430,12 @@ python2.7-minimal2.7.17-1~18.04ubuntu1.2
 python33.6.7-1~18.04
 python3.63.6.9-1~18.04ubuntu1.3
 python3.6-minimal3.6.9-1~18.04ubuntu1.3
-python3-apt1.6.5ubuntu0.3
+python3-apt1.6.5ubuntu0.4
 python3-dbus1.2.6-1
 python3-gi3.26.1-2ubuntu1
 python3-minimal3.6.7-1~18.04
 python3-software-properties0.96.24.32.14
-python-apt-common1.6.5ubuntu0.3
+python-apt-common1.6.5ubuntu0.4
 python-cairo1.16.2-1
 python-dbus1.2.6-1
 python-gi3.26.1-2ubuntu1
