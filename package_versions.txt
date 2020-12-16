@@ -59,7 +59,7 @@ e2fsprogs1.44.1-1ubuntu1.3
 emacsen-common2.0.8
 fdisk2.31.1-0.4ubuntu3.7
 findutils4.6.0+git+20170828-2
-firefox83.0+build2-0ubuntu0.18.04.2
+firefox84.0+build3-0ubuntu0.18.04.1
 fontconfig2.12.6-0ubuntu2
 fontconfig-config2.12.6-0ubuntu2
 fonts-dejavu-core2.37-1
@@ -659,7 +659,7 @@ python2.7-minimal2.7.17-1~18.04ubuntu1.2
 python33.6.7-1~18.04
 python3.63.6.9-1~18.04ubuntu1.3
 python3.6-minimal3.6.9-1~18.04ubuntu1.3
-python3-apport2.20.9-0ubuntu7.20
+python3-apport2.20.9-0ubuntu7.21
 python3-apt1.6.5ubuntu0.4
 python3-aptdaemon1.1.1+bzr982-0ubuntu19.5
 python3-aptdaemon.gtk3widgets1.1.1+bzr982-0ubuntu19.5
@@ -679,7 +679,7 @@ python3-minimal3.6.7-1~18.04
 python3-pexpect4.2.1-1
 python3-pil5.1.0-1ubuntu0.3
 python3-pkg-resources39.0.1-2
-python3-problem-report2.20.9-0ubuntu7.20
+python3-problem-report2.20.9-0ubuntu7.21
 python3-ptyprocess0.5.2-1
 python3-reportlab3.4.0-3ubuntu0.1
 python3-reportlab-accel3.4.0-3ubuntu0.1
@@ -738,7 +738,7 @@ ubuntu-sounds0.13
 ucf3.0038
 udev237-3ubuntu10.43
 udisks22.7.6-3ubuntu0.2
-unzip6.0-21ubuntu1
+unzip6.0-21ubuntu1.1
 update-manager1:18.04.11.13
 update-manager-core1:18.04.11.13
 update-notifier3.192.1.7
@@ -749,7 +749,7 @@ util-linux2.31.1-0.4ubuntu3.7
 wget1.19.4-1ubuntu2.2
 whiptail0.52.20-1ubuntu1
 wireless-tools30~pre9-12ubuntu1
-wpasupplicant2:2.6-15ubuntu2.5
+wpasupplicant2:2.6-15ubuntu2.6
 x11-apps7.7+6ubuntu1
 x11-common1:7.7+19ubuntu7.1
 x11proto-core-dev2018.4-4
