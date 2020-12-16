@@ -1,8 +1,8 @@
 adduser3.118ubuntu2
 adwaita-icon-theme3.36.1-2ubuntu0.20.04.2
-apt2.0.2ubuntu0.1
-apt-transport-https2.0.2ubuntu0.1
-apt-utils2.0.2ubuntu0.1
+apt2.0.2ubuntu0.2
+apt-transport-https2.0.2ubuntu0.2
+apt-utils2.0.2ubuntu0.2
 base-files11ubuntu5.2
 base-passwd3.5.47
 bash5.0-6ubuntu1.1
@@ -13,7 +13,7 @@ ca-certificates20201027ubuntu0.20.04.1
 coreutils8.30-3ubuntu2
 cpp4:9.3.0-1ubuntu2
 cpp-99.3.0-17ubuntu1~20.04
-curl7.68.0-1ubuntu2.2
+curl7.68.0-1ubuntu2.4
 dash0.5.10.2-6
 dbus1.12.16-2ubuntu2.1
 dbus-user-session1.12.16-2ubuntu2.1
@@ -26,14 +26,14 @@ desktop-file-utils0.24-1ubuntu3
 diffutils1:3.7-3
 dirmngr2.2.19-3ubuntu2
 distro-info-data0.43ubuntu1.4
-docker-ce-cli5:19.03.14~3-0~ubuntu-bionic
+docker-ce-cli5:20.10.0~3-0~ubuntu-bionic
 dpkg1.19.7ubuntu3
 e2fsprogs1.45.5-2ubuntu1
 elementary-xfce-icon-theme0.15-1
 exo-utils0.12.11-1ubuntu1
 fdisk2.34-0.1ubuntu9.1
 findutils4.7.0-1ubuntu1
-firefox83.0+build2-0ubuntu0.20.04.1
+firefox84.0+build3-0ubuntu0.20.04.1
 fontconfig2.13.1-2ubuntu3
 fontconfig-config2.13.1-2ubuntu3
 fonts-dejavu-core2.37-1
@@ -83,7 +83,7 @@ krb5-locales1.17-6ubuntu4.1
 libacl12.2.53-6
 libapparmor12.13.3-7ubuntu5.1
 libappstream40.12.10-2
-libapt-pkg6.02.0.2ubuntu0.1
+libapt-pkg6.02.0.2ubuntu0.2
 libargon2-10~20171227-0.2
 libasn1-8-heimdal7.7.0+dfsg-1ubuntu1
 libasound21.2.2-2.1ubuntu2.2
@@ -122,7 +122,7 @@ libcom-err21.45.5-2ubuntu1
 libcrypt11:4.4.10-10ubuntu4
 libcryptsetup122:2.2.2-3ubuntu2.3
 libcups22.3.1-9ubuntu1.1
-libcurl47.68.0-1ubuntu2.2
+libcurl47.68.0-1ubuntu2.4
 libdatrie10.2.12-3
 libdb5.35.3.28+dfsg1-0.6ubuntu2
 libdbus-1-31.12.16-2ubuntu2.1
@@ -311,7 +311,7 @@ libspeexdsp11.2~rc1.2-1.1ubuntu1
 libsqlite3-03.31.1-4ubuntu0.2
 libss21.45.5-2ubuntu1
 libssh-40.9.3-2ubuntu2.1
-libssl1.11.1.1f-1ubuntu2
+libssl1.11.1.1f-1ubuntu2.1
 libstartup-notification00.12-6
 libstdc++610.2.0-5ubuntu1~20.04
 libstemmer0d0+svn585-2
@@ -421,7 +421,7 @@ mousepad0.4.2-1
 ncurses-base6.2-0ubuntu2
 ncurses-bin6.2-0ubuntu2
 numix-gtk-theme2.6.7-5
-openssl1.1.1f-1ubuntu2
+openssl1.1.1f-1ubuntu2.1
 packagekit1.1.13-2ubuntu1.1
 passwd1:4.8.1-1ubuntu5.20.04
 pavucontrol4.0-1build1
@@ -440,7 +440,7 @@ pulseaudio-utils1:13.99.1-1ubuntu3.8
 python33.8.2-0ubuntu2
 python3.83.8.5-1~20.04
 python3.8-minimal3.8.5-1~20.04
-python3-apt2.0.0ubuntu0.20.04.1
+python3-apt2.0.0ubuntu0.20.04.2
 python3-cairo1.16.2-2ubuntu2
 python3-certifi2019.11.28-1
 python3-chardet3.0.4-4build1
@@ -457,7 +457,7 @@ python3-requests-unixsocket0.2.0-2
 python3-six1.14.0-2
 python3-software-properties0.98.9.3
 python3-urllib31.25.8-2ubuntu0.1
-python-apt-common2.0.0ubuntu0.20.04.1
+python-apt-common2.0.0ubuntu0.20.04.2
 readline-common8.0-4
 ristretto0.10.0-1
 sed4.7-1
