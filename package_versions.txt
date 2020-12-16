@@ -3,9 +3,9 @@ adwaita-icon-theme3.36.1-2ubuntu0.20.04.2
 alsa-base1.0.25+dfsg-0ubuntu5
 alsa-utils1.2.2-1ubuntu2
 anacron2.3-29
-apt2.0.2ubuntu0.1
-apt-transport-https2.0.2ubuntu0.1
-apt-utils2.0.2ubuntu0.1
+apt2.0.2ubuntu0.2
+apt-transport-https2.0.2ubuntu0.2
+apt-utils2.0.2ubuntu0.2
 baloo-kf55.68.0-0ubuntu1
 base-files11ubuntu5.2
 base-passwd3.5.47
@@ -21,7 +21,7 @@ ca-certificates20201027ubuntu0.20.04.1
 coreutils8.30-3ubuntu2
 cpp4:9.3.0-1ubuntu2
 cpp-99.3.0-17ubuntu1~20.04
-curl7.68.0-1ubuntu2.2
+curl7.68.0-1ubuntu2.4
 dash0.5.10.2-6
 dbus1.12.16-2ubuntu2.1
 dbus-x111.12.16-2ubuntu2.1
@@ -37,13 +37,13 @@ distro-info-data0.43ubuntu1.4
 dmidecode3.2-3
 docbook-xml4.5-9
 docbook-xsl1.79.1+dfsg-2
-docker-ce-cli5:19.03.14~3-0~ubuntu-bionic
+docker-ce-cli5:20.10.0~3-0~ubuntu-bionic
 dpkg1.19.7ubuntu3
 drkonqi5.18.5-0ubuntu0.1
 e2fsprogs1.45.5-2ubuntu1
 fdisk2.34-0.1ubuntu9.1
 findutils4.7.0-1ubuntu1
-firefox83.0+build2-0ubuntu0.20.04.1
+firefox84.0+build3-0ubuntu0.20.04.1
 fontconfig2.13.1-2ubuntu3
 fontconfig-config2.13.1-2ubuntu3
 fonts-dejavu-core2.37-1
@@ -133,7 +133,7 @@ libaom01.0.0.errata1-3build1
 libapparmor12.13.3-7ubuntu5.1
 libappstream40.12.10-2
 libappstreamqt20.12.10-2
-libapt-pkg6.02.0.2ubuntu0.1
+libapt-pkg6.02.0.2ubuntu0.2
 libarchive133.4.0-2ubuntu1
 libargon2-10~20171227-0.2
 libaribb24-01.0.3-2
@@ -193,7 +193,7 @@ libcrypt11:4.4.10-10ubuntu4
 libcryptsetup122:2.2.2-3ubuntu2.3
 libcups22.3.1-9ubuntu1.1
 libcurl3-gnutls7.68.0-1ubuntu2.4
-libcurl47.68.0-1ubuntu2.2
+libcurl47.68.0-1ubuntu2.4
 libdatrie10.2.12-3
 libdb5.35.3.28+dfsg1-0.6ubuntu2
 libdbus-1-31.12.16-2ubuntu2.1
@@ -224,7 +224,7 @@ libegl11.3.1-1ubuntu0.20.04.1
 libegl-mesa020.0.8-0ubuntu1~20.04.1
 libelf10.176-1.1build1
 libepoxy01.5.4-1
-libevdev21.9.0+dfsg-1
+libevdev21.9.0+dfsg-1ubuntu0.1
 libevent-2.1-72.1.11-stable-1
 libexpat12.2.9-1build1
 libext2fs21.45.5-2ubuntu1
@@ -296,8 +296,8 @@ libidn111.33-2.2ubuntu2
 libidn2-02.2.0-2
 libijs-0.350.35-15
 libilmbase242.3.0-6build1
-libinput101.15.5-1ubuntu0.1
-libinput-bin1.15.5-1ubuntu0.1
+libinput101.15.5-1ubuntu0.2
+libinput-bin1.15.5-1ubuntu0.2
 libip4tc21.8.4-3ubuntu2
 libisl220.22.1-1
 libiw3030~pre9-13ubuntu1
@@ -648,7 +648,7 @@ libss21.45.5-2ubuntu1
 libssh2-11.8.0-2.1build1
 libssh-40.9.3-2ubuntu2.1
 libssh-gcrypt-40.9.3-2ubuntu2.1
-libssl1.11.1.1f-1ubuntu2
+libssl1.11.1.1f-1ubuntu2.1
 libstdc++610.2.0-5ubuntu1~20.04
 libstemmer0d0+svn585-2
 libswresample37:4.2.4-1ubuntu0.1
@@ -792,7 +792,7 @@ ncurses-base6.2-0ubuntu2
 ncurses-bin6.2-0ubuntu2
 ocl-icd-libopencl12.2.11-1ubuntu1
 openprinting-ppds20200401-1
-openssl1.1.1f-1ubuntu2
+openssl1.1.1f-1ubuntu2.1
 oxygen-sounds4:5.18.4.1-0ubuntu1
 packagekit1.1.13-2ubuntu1.1
 parted3.3-4ubuntu0.20.04.1
@@ -824,8 +824,8 @@ pulseaudio-utils1:13.99.1-1ubuntu3.8
 python33.8.2-0ubuntu2
 python3.83.8.5-1~20.04
 python3.8-minimal3.8.5-1~20.04
-python3-apport2.20.11-0ubuntu27.13
-python3-apt2.0.0ubuntu0.20.04.1
+python3-apport2.20.11-0ubuntu27.14
+python3-apt2.0.0ubuntu0.20.04.2
 python3-blinker1.4+dfsg1-0.3ubuntu1
 python3-cairo1.16.2-2ubuntu2
 python3-certifi2019.11.28-1
@@ -852,7 +852,7 @@ python3-lazr.uri1.0.3-4build1
 python3-minimal3.8.2-0ubuntu2
 python3-oauthlib3.1.0-1ubuntu2
 python3-pkg-resources45.2.0-1
-python3-problem-report2.20.11-0ubuntu27.13
+python3-problem-report2.20.11-0ubuntu27.14
 python3-psutil5.5.1-1ubuntu4
 python3-pyqt55.14.1+dfsg-3build1
 python3-requests2.22.0-2ubuntu1
@@ -867,7 +867,7 @@ python3-update-manager1:20.04.10.1
 python3-urllib31.25.8-2ubuntu0.1
 python3-wadllib1.3.3-3build1
 python3-xkit0.5.0ubuntu4
-python-apt-common2.0.0ubuntu0.20.04.1
+python-apt-common2.0.0ubuntu0.20.04.2
 qdbus-qt55.12.8-0ubuntu1
 qml-module-org-kde-activities5.68.0-0ubuntu2
 qml-module-org-kde-draganddrop5.68.0-0ubuntu2
