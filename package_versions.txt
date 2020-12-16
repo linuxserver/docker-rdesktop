@@ -39,7 +39,7 @@ dpkg1.19.0.5ubuntu2.3
 e2fsprogs1.44.1-1ubuntu1.3
 fdisk2.31.1-0.4ubuntu3.7
 findutils4.6.0+git+20170828-2
-firefox83.0+build2-0ubuntu0.18.04.2
+firefox84.0+build3-0ubuntu0.18.04.1
 fontconfig2.12.6-0ubuntu2
 fontconfig-config2.12.6-0ubuntu2
 fonts-dejavu-core2.37-1
@@ -219,7 +219,7 @@ libegl1-mesa20.0.8-0ubuntu1~18.04.1
 libegl-mesa020.0.8-0ubuntu1~18.04.1
 libelf10.170-0.4ubuntu0.1
 libepoxy01.4.3-1
-libevdev21.5.8+dfsg-1
+libevdev21.5.8+dfsg-1ubuntu0.1
 libevent-2.1-62.1.8-stable-4build1
 libexpat12.2.5-3ubuntu0.2
 libext2fs21.44.1-1ubuntu1.3
@@ -290,8 +290,8 @@ libidn111.33-2.1ubuntu1.2
 libidn2-02.0.4-1.1ubuntu0.2
 libijs-0.350.35-13
 libilmbase122.2.0-11ubuntu2
-libinput101.10.4-1ubuntu0.18.04.1
-libinput-bin1.10.4-1ubuntu0.18.04.1
+libinput101.10.4-1ubuntu0.18.04.2
+libinput-bin1.10.4-1ubuntu0.18.04.2
 libip4tc01.6.1-2ubuntu2
 libisl190.19-1
 libiw3030~pre9-12ubuntu1
@@ -812,7 +812,7 @@ python2.7-minimal2.7.17-1~18.04ubuntu1.2
 python33.6.7-1~18.04
 python3.63.6.9-1~18.04ubuntu1.3
 python3.6-minimal3.6.9-1~18.04ubuntu1.3
-python3-apport2.20.9-0ubuntu7.20
+python3-apport2.20.9-0ubuntu7.21
 python3-apt1.6.5ubuntu0.4
 python3-certifi2018.1.18-2
 python3-chardet3.0.4-1
@@ -822,7 +822,7 @@ python3-httplib20.9.2+dfsg-1ubuntu0.2
 python3-idna2.6-1
 python3-minimal3.6.7-1~18.04
 python3-pkg-resources39.0.1-2
-python3-problem-report2.20.9-0ubuntu7.20
+python3-problem-report2.20.9-0ubuntu7.21
 python3-pyqt55.10.1+dfsg-1ubuntu2
 python3-requests2.18.4-2ubuntu0.1
 python3-requests-unixsocket0.1.5-3
@@ -896,7 +896,7 @@ ubuntu-mono16.10+18.04.20181005-0ubuntu1
 ucf3.0038
 udev237-3ubuntu10.43
 udisks22.7.6-3ubuntu0.2
-unzip6.0-21ubuntu1
+unzip6.0-21ubuntu1.1
 usbutils1:007-4build1
 util-linux2.31.1-0.4ubuntu3.7
 vlc-data3.0.8-0ubuntu18.04.1
@@ -904,7 +904,7 @@ vlc-plugin-base3.0.8-0ubuntu18.04.1
 vlc-plugin-video-output3.0.8-0ubuntu18.04.1
 whiptail0.52.20-1ubuntu1
 wireless-tools30~pre9-12ubuntu1
-wpasupplicant2:2.6-15ubuntu2.5
+wpasupplicant2:2.6-15ubuntu2.6
 x11-apps7.7+6ubuntu1
 x11-common1:7.7+19ubuntu7.1
 x11proto-core-dev2018.4-4
