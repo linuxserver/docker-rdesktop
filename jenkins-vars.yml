@@ -6,7 +6,6 @@ external_type: os
 release_type: prerelease
 release_tag: icewm-focal
 ls_branch: icewm-focal
-use_qemu: true
 repo_vars:
   - BUILD_VERSION_ARG = 'OS_VERSION'
   - LS_USER = 'linuxserver'
