@@ -61,7 +61,7 @@ e2fsprogs1.45.5-2ubuntu1
 emacsen-common3.0.4
 fdisk2.34-0.1ubuntu9.1
 findutils4.7.0-1ubuntu1
-firefox84.0+build3-0ubuntu0.20.04.1
+firefox84.0.2+build1-0ubuntu0.20.04.1
 fontconfig2.13.1-2ubuntu3
 fontconfig-config2.13.1-2ubuntu3
 fonts-dejavu-core2.37-1
@@ -159,7 +159,7 @@ libatk1.0-02.35.1-1ubuntu2
 libatk1.0-data2.35.1-1ubuntu2
 libatk-bridge2.0-02.34.2-0ubuntu2~20.04.1
 libatkmm-1.6-1v52.28.0-2build1
-libatopology21.2.2-2.1ubuntu2.2
+libatopology21.2.2-2.1ubuntu2.3
 libatspi2.0-02.36.0-2
 libattr11:2.4.48-5
 libaudit11:2.8.5-2ubuntu6
@@ -228,7 +228,7 @@ libdrm-nouveau22.4.101-2
 libdrm-radeon12.4.101-2
 libdv41.0.0-12
 libedit23.1-20191231-1
-libegl11.3.1-1ubuntu0.20.04.1
+libegl11.3.2-1~ubuntu0.20.04.1
 libegl-mesa020.0.8-0ubuntu1~20.04.1
 libelf10.176-1.1build1
 libenchant-2-22.2.8-1ubuntu0.20.04.1
@@ -263,10 +263,10 @@ libgdbm-compat41.18.1-5
 libgdk-pixbuf2.0-02.40.0+dfsg-3ubuntu0.1
 libgdk-pixbuf2.0-common2.40.0+dfsg-3ubuntu0.1
 libgirepository-1.0-11.64.1-1~ubuntu20.04.1
-libgl11.3.1-1ubuntu0.20.04.1
+libgl11.3.2-1~ubuntu0.20.04.1
 libgl1-mesa-dri20.0.8-0ubuntu1~20.04.1
 libglapi-mesa20.0.8-0ubuntu1~20.04.1
-libgles21.3.1-1ubuntu0.20.04.1
+libgles21.3.2-1~ubuntu0.20.04.1
 libglib2.0-02.64.3-1~ubuntu20.04.1
 libglib2.0-bin2.64.3-1~ubuntu20.04.1
 libglib2.0-data2.64.3-1~ubuntu20.04.1
@@ -274,8 +274,8 @@ libglibmm-2.4-1v52.64.2-1
 libglib-object-introspection-perl0.048-2build1
 libglib-perl3:1.329.2-1
 libglu1-mesa9.0.1-1build1
-libglvnd01.3.1-1ubuntu0.20.04.1
-libglx01.3.1-1ubuntu0.20.04.1
+libglvnd01.3.2-1~ubuntu0.20.04.1
+libglx01.3.2-1~ubuntu0.20.04.1
 libglx-mesa020.0.8-0ubuntu1~20.04.1
 libgmp102:6.2.0+dfsg-4
 libgnutls303.6.13-2ubuntu1.3
@@ -397,7 +397,7 @@ libnpth01.6-1
 libnspr42:4.25-1
 libnss32:3.49.1-1ubuntu1.5
 libogg01.3.4-0ubuntu1
-libopenjp2-72.3.1-1ubuntu4
+libopenjp2-72.3.1-1ubuntu4.20.04.1
 libopus01.3.1-0ubuntu1
 liborc-0.4-01:0.4.31-1
 libp11-kit00.23.20-1build1
@@ -522,7 +522,7 @@ libvpx61.8.2-1build1
 libvte-2.91-00.60.3-0ubuntu1~20.04
 libvte-2.91-common0.60.3-0ubuntu1~20.04
 libvulkan11.2.131.2-1
-libwavpack15.2.0-1
+libwavpack15.2.0-1ubuntu0.1
 libwayland-client01.18.0-1
 libwayland-cursor01.18.0-1
 libwayland-egl11.18.0-1
@@ -756,8 +756,8 @@ udisks22.8.4-1ubuntu1
 unzip6.0-25ubuntu1
 update-manager1:20.04.10.1
 update-manager-core1:20.04.10.1
-update-notifier3.192.30
-update-notifier-common3.192.30
+update-notifier3.192.30.3
+update-notifier-common3.192.30.3
 upower0.99.11-1build2
 usb.ids2020.03.19-1
 usbutils1:012-2
