@@ -39,7 +39,7 @@ dpkg1.19.0.5ubuntu2.3
 e2fsprogs1.44.1-1ubuntu1.3
 fdisk2.31.1-0.4ubuntu3.7
 findutils4.6.0+git+20170828-2
-firefox84.0+build3-0ubuntu0.18.04.1
+firefox84.0.2+build1-0ubuntu0.18.04.1
 fontconfig2.12.6-0ubuntu2
 fontconfig-config2.12.6-0ubuntu2
 fonts-dejavu-core2.37-1
@@ -53,8 +53,8 @@ gcc-8-base8.4.0-1ubuntu1~18.04
 gdb8.1.1-0ubuntu1
 gdisk1.0.3-1
 genisoimage9:1.1.11-3ubuntu2
-ghostscript9.26~dfsg+0-0ubuntu0.18.04.13
-ghostscript-x9.26~dfsg+0-0ubuntu0.18.04.13
+ghostscript9.26~dfsg+0-0ubuntu0.18.04.14
+ghostscript-x9.26~dfsg+0-0ubuntu0.18.04.14
 gir1.2-atk-1.02.28.1-1
 gir1.2-freedesktop1.56.1-1
 gir1.2-gdkpixbuf-2.02.36.11-2
@@ -265,8 +265,8 @@ libgps233.17-5
 libgrantlee-templates55.1.0-2
 libgraphite2-31.3.11-2
 libgroupsock82018.02.18-1
-libgs99.26~dfsg+0-0ubuntu0.18.04.13
-libgs9-common9.26~dfsg+0-0ubuntu0.18.04.13
+libgs99.26~dfsg+0-0ubuntu0.18.04.14
+libgs9-common9.26~dfsg+0-0ubuntu0.18.04.14
 libgsm11.0.13-4build1
 libgssapi3-heimdal7.5.0+dfsg-1
 libgssapi-krb5-21.16-2ubuntu0.2
@@ -496,7 +496,7 @@ libnspr42:4.18-1ubuntu1
 libnss32:3.35-2ubuntu2.12
 libnuma12.0.11-2.1ubuntu0.1
 libogg01.3.2-1
-libopenexr222.2.0-11.1ubuntu1.3
+libopenexr222.2.0-11.1ubuntu1.4
 libopenjp2-72.3.0-2build0.18.04.1
 libopenmpt00.3.6-1
 libopenmpt-modplug10.3.6-1
@@ -682,7 +682,7 @@ libvte-2.91-common0.52.2-1ubuntu1~18.04.2
 libvulkan11.1.70+dfsg1-1ubuntu0.18.04.1
 libwacom20.29-1
 libwacom-common0.29-1
-libwavpack15.1.0-2ubuntu1.4
+libwavpack15.1.0-2ubuntu1.5
 libwayland-client01.16.0-1ubuntu1.1~18.04.3
 libwayland-cursor01.16.0-1ubuntu1.1~18.04.3
 libwayland-egl11.16.0-1ubuntu1.1~18.04.3
