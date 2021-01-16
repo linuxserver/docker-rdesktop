@@ -352,7 +352,7 @@ pipeline {
         }
         stage('Build ARMHF') {
           agent {
-            label 'X86-64-MULTI'
+            label 'ARMHF'
           }
           steps {
             echo "Running on node: ${NODE_NAME}"
@@ -373,7 +373,7 @@ pipeline {
         }
         stage('Build ARM64') {
           agent {
-            label 'X86-64-MULTI'
+            label 'ARM64'
           }
           steps {
             echo "Running on node: ${NODE_NAME}"
