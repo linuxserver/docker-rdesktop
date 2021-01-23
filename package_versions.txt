@@ -246,7 +246,7 @@ libpam0g1.1.8-3.6ubuntu2.18.04.2
 libpam-modules1.1.8-3.6ubuntu2.18.04.2
 libpam-modules-bin1.1.8-3.6ubuntu2.18.04.2
 libpam-runtime1.1.8-3.6ubuntu2.18.04.2
-libpam-systemd237-3ubuntu10.43
+libpam-systemd237-3ubuntu10.44
 libpango-1.0-01.40.14-1ubuntu0.1
 libpangocairo-1.0-01.40.14-1ubuntu0.1
 libpangoft2-1.0-01.40.14-1ubuntu0.1
@@ -305,7 +305,7 @@ libss21.44.1-1ubuntu1.3
 libssl1.11.1.1-1ubuntu2.1~18.04.7
 libstartup-notification00.12-5
 libstdc++68.4.0-1ubuntu1~18.04
-libsystemd0237-3ubuntu10.43
+libsystemd0237-3ubuntu10.44
 libtag1v51.11.1+dfsg.1-0.2build2
 libtag1v5-vanilla1.11.1+dfsg.1-0.2build2
 libtagc01.11.1+dfsg.1-0.2build2
@@ -316,7 +316,7 @@ libthai-data0.1.27-2
 libthunarx-2-01.6.15-0ubuntu1.18.04.1
 libtiff54.0.9-5ubuntu0.3
 libtinfo56.1-1ubuntu1.18.04
-libudev1237-3ubuntu10.43
+libudev1237-3ubuntu10.44
 libunique-1.0-01.1.6-6
 libunistring20.9.9-0ubuntu2
 libupower-glib30.99.7-2ubuntu0.18.04.1
@@ -449,8 +449,8 @@ software-properties-common0.96.24.32.14
 sound-theme-freedesktop0.8-2ubuntu1
 ssl-cert1.0.39
 sudo1.8.21p2-3ubuntu1.3
-systemd237-3ubuntu10.43
-systemd-sysv237-3ubuntu10.43
+systemd237-3ubuntu10.44
+systemd-sysv237-3ubuntu10.44
 sysvinit-utils2.88dsf-59.10ubuntu1
 tar1.29b-2ubuntu0.2
 terminator1.91-1
@@ -462,7 +462,7 @@ tzdata2020f-0ubuntu0.18.04
 ubuntu-keyring2018.09.18.1~18.04.0
 ubuntu-mono16.10+18.04.20181005-0ubuntu1
 ucf3.0038
-udev237-3ubuntu10.43
+udev237-3ubuntu10.44
 util-linux2.31.1-0.4ubuntu3.7
 x11-apps7.7+6ubuntu1
 x11-common1:7.7+19ubuntu7.1
