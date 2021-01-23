@@ -249,14 +249,14 @@ libss21.44.1-1ubuntu1.3
 libssl1.11.1.1-1ubuntu2.1~18.04.7
 libstartup-notification00.12-5
 libstdc++68.4.0-1ubuntu1~18.04
-libsystemd0237-3ubuntu10.43
+libsystemd0237-3ubuntu10.44
 libtasn1-64.13-2
 libtdb11.3.15-2
 libthai00.1.27-2
 libthai-data0.1.27-2
 libtiff54.0.9-5ubuntu0.3
 libtinfo56.1-1ubuntu1.18.04
-libudev1237-3ubuntu10.43
+libudev1237-3ubuntu10.44
 libunistring20.9.9-0ubuntu2
 libutempter01.1.6-3
 libuuid12.31.1-0.4ubuntu3.7
@@ -361,7 +361,7 @@ tzdata2020f-0ubuntu0.18.04
 ubuntu-keyring2018.09.18.1~18.04.0
 ubuntu-mono16.10+18.04.20181005-0ubuntu1
 ucf3.0038
-udev237-3ubuntu10.43
+udev237-3ubuntu10.44
 util-linux2.31.1-0.4ubuntu3.7
 x11-apps7.7+6ubuntu1
 x11-common1:7.7+19ubuntu7.1
