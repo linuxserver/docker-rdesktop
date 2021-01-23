@@ -254,7 +254,7 @@ libpam0g1.3.1-5ubuntu4.1
 libpam-modules1.3.1-5ubuntu4.1
 libpam-modules-bin1.3.1-5ubuntu4.1
 libpam-runtime1.3.1-5ubuntu4.1
-libpam-systemd245.4-4ubuntu3.3
+libpam-systemd245.4-4ubuntu3.4
 libpango-1.0-01.44.7-2ubuntu4
 libpangocairo-1.0-01.44.7-2ubuntu4
 libpangoft2-1.0-01.44.7-2ubuntu4
@@ -315,7 +315,7 @@ libssl1.11.1.1f-1ubuntu2.1
 libstartup-notification00.12-6
 libstdc++610.2.0-5ubuntu1~20.04
 libstemmer0d0+svn585-2
-libsystemd0245.4-4ubuntu3.3
+libsystemd0245.4-4ubuntu3.4
 libtag1v51.11.1+dfsg.1-0.3ubuntu2
 libtag1v5-vanilla1.11.1+dfsg.1-0.3ubuntu2
 libtagc01.11.1+dfsg.1-0.3ubuntu2
@@ -327,7 +327,7 @@ libthunarx-3-01.8.14-0ubuntu1
 libtiff54.1.0+git191117-2build1
 libtinfo66.2-0ubuntu2
 libuchardet00.0.6-3build1
-libudev1245.4-4ubuntu3.3
+libudev1245.4-4ubuntu3.4
 libunistring20.9.10-2
 libunwind81.2.1-9build1
 libupower-glib30.99.11-1build2
@@ -468,11 +468,11 @@ software-properties-common0.98.9.3
 sound-theme-freedesktop0.8-2ubuntu1
 ssl-cert1.0.39
 sudo1.8.31-1ubuntu1.1
-systemd245.4-4ubuntu3.3
-systemd-sysv245.4-4ubuntu3.3
-systemd-timesyncd245.4-4ubuntu3.3
+systemd245.4-4ubuntu3.4
+systemd-sysv245.4-4ubuntu3.4
+systemd-timesyncd245.4-4ubuntu3.4
 sysvinit-utils2.96-2.1ubuntu1
-tar1.30+dfsg-7
+tar1.30+dfsg-7ubuntu0.20.04.1
 terminator1.91-4ubuntu1
 thunar1.8.14-0ubuntu1
 thunar-archive-plugin0.4.0-2
@@ -482,7 +482,7 @@ tzdata2020f-0ubuntu0.20.04.1
 ubuntu-keyring2020.02.11.2
 ubuntu-mono19.04-0ubuntu3
 ucf3.0038+nmu1
-udev245.4-4ubuntu3.3
+udev245.4-4ubuntu3.4
 util-linux2.34-0.1ubuntu9.1
 x11-apps7.7+8
 x11-common1:7.7+19ubuntu14
@@ -537,8 +537,8 @@ xkb-data2.29-2
 xorg-sgml-doctools1:1.11-1
 xorgxrdp1:0.2.12-1
 xrdp0.9.12-1
-xserver-common2:1.20.9-2ubuntu1.1~20.04.1
-xserver-xorg-core2:1.20.9-2ubuntu1.1~20.04.1
+xserver-common2:1.20.9-2ubuntu1.2~20.04.1
+xserver-xorg-core2:1.20.9-2ubuntu1.2~20.04.1
 xtrans-dev1.4.0-1
 xubuntu-artwork20.04.2
 xubuntu-default-settings20.04.4
