@@ -3,9 +3,9 @@ adwaita-icon-theme3.36.1-2ubuntu0.20.04.2
 alsa-base1.0.25+dfsg-0ubuntu5
 alsa-utils1.2.2-1ubuntu2
 anacron2.3-29
-apt2.0.2ubuntu0.2
-apt-transport-https2.0.2ubuntu0.2
-apt-utils2.0.2ubuntu0.2
+apt2.0.4
+apt-transport-https2.0.4
+apt-utils2.0.4
 baloo-kf55.68.0-0ubuntu1
 base-files11ubuntu5.2
 base-passwd3.5.47
@@ -133,7 +133,7 @@ libaom01.0.0.errata1-3build1
 libapparmor12.13.3-7ubuntu5.1
 libappstream40.12.10-2
 libappstreamqt20.12.10-2
-libapt-pkg6.02.0.2ubuntu0.2
+libapt-pkg6.02.0.4
 libarchive133.4.0-2ubuntu1
 libargon2-10~20171227-0.2
 libaribb24-01.0.3-2
@@ -559,9 +559,9 @@ libprotobuf-lite173.6.1.3-2ubuntu5
 libproxy1v50.4.15-10ubuntu1.2
 libpsl50.21.0-1ubuntu1
 libpthread-stubs0-dev0.4-1
-libpulse01:13.99.1-1ubuntu3.8
-libpulsedsp1:13.99.1-1ubuntu3.8
-libpulse-mainloop-glib01:13.99.1-1ubuntu3.8
+libpulse01:13.99.1-1ubuntu3.10
+libpulsedsp1:13.99.1-1ubuntu3.10
+libpulse-mainloop-glib01:13.99.1-1ubuntu3.10
 libpython3.83.8.5-1~20.04
 libpython3.8-minimal3.8.5-1~20.04
 libpython3.8-stdlib3.8.5-1~20.04
@@ -819,8 +819,8 @@ printer-driver-pnm2ppa1.13+nondbs-0ubuntu6
 procps2:3.3.16-1ubuntu2
 psmisc23.3-1
 publicsuffix20200303.0012-1
-pulseaudio1:13.99.1-1ubuntu3.8
-pulseaudio-utils1:13.99.1-1ubuntu3.8
+pulseaudio1:13.99.1-1ubuntu3.10
+pulseaudio-utils1:13.99.1-1ubuntu3.10
 python33.8.2-0ubuntu2
 python3.83.8.5-1~20.04
 python3.8-minimal3.8.5-1~20.04
@@ -863,7 +863,7 @@ python3-sip4.19.21+dfsg-1build1
 python3-six1.14.0-2
 python3-software-properties0.98.9.3
 python3-talloc2.3.0-3ubuntu1
-python3-update-manager1:20.04.10.3
+python3-update-manager1:20.04.10.5
 python3-urllib31.25.8-2ubuntu0.1
 python3-wadllib1.3.3-3build1
 python3-xkit0.5.0ubuntu4
@@ -911,7 +911,7 @@ software-properties-qt0.98.9.3
 sound-theme-freedesktop0.8-2ubuntu1
 spice-vdagent0.19.0-2ubuntu0.2
 ssl-cert1.0.39
-sudo1.8.31-1ubuntu1.1
+sudo1.8.31-1ubuntu1.2
 systemd245.4-4ubuntu3.4
 systemd-sysv245.4-4ubuntu3.4
 systemd-timesyncd245.4-4ubuntu3.4
@@ -920,7 +920,7 @@ sysvinit-utils2.96-2.1ubuntu1
 tar1.30+dfsg-7ubuntu0.20.04.1
 terminator1.91-4ubuntu1
 tzdata2020f-0ubuntu0.20.04.1
-ubuntu-drivers-common1:0.8.4~0.20.04.3
+ubuntu-drivers-common1:0.8.6.3~0.20.04.2
 ubuntu-keyring2020.02.11.2
 ubuntu-mono19.04-0ubuntu3
 ubuntu-release-upgrader-core1:20.04.30
