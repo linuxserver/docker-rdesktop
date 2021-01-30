@@ -144,8 +144,8 @@ libatk1.0-data2.28.1-1
 libatk-bridge2.0-02.26.2-1
 libatspi2.0-02.28.0-1
 libattr11:2.4.47-2build1
-libaudit11:2.8.2-1ubuntu1
-libaudit-common1:2.8.2-1ubuntu1
+libaudit11:2.8.2-1ubuntu1.1
+libaudit-common1:2.8.2-1ubuntu1.1
 libavahi-client30.7-3.1ubuntu1.2
 libavahi-common30.7-3.1ubuntu1.2
 libavahi-common-data0.7-3.1ubuntu1.2
@@ -882,7 +882,7 @@ software-properties-kde0.96.24.32.14
 sound-theme-freedesktop0.8-2ubuntu1
 spice-vdagent0.17.0-1ubuntu2.2
 ssl-cert1.0.39
-sudo1.8.21p2-3ubuntu1.3
+sudo1.8.21p2-3ubuntu1.4
 systemd237-3ubuntu10.44
 systemd-sysv237-3ubuntu10.44
 systemsettings4:5.12.8-0ubuntu0.1
