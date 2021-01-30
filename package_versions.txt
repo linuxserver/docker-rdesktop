@@ -1,8 +1,8 @@
 adduser3.118ubuntu2
 adwaita-icon-theme3.36.1-2ubuntu0.20.04.2
-apt2.0.2ubuntu0.2
-apt-transport-https2.0.2ubuntu0.2
-apt-utils2.0.2ubuntu0.2
+apt2.0.4
+apt-transport-https2.0.4
+apt-utils2.0.4
 base-files11ubuntu5.2
 base-passwd3.5.47
 bash5.0-6ubuntu1.1
@@ -83,7 +83,7 @@ krb5-locales1.17-6ubuntu4.1
 libacl12.2.53-6
 libapparmor12.13.3-7ubuntu5.1
 libappstream40.12.10-2
-libapt-pkg6.02.0.2ubuntu0.2
+libapt-pkg6.02.0.4
 libargon2-10~20171227-0.2
 libasn1-8-heimdal7.7.0+dfsg-1ubuntu1
 libasound21.2.2-2.1ubuntu2.3
@@ -273,9 +273,9 @@ libprocps82:3.3.16-1ubuntu2
 libproxy1v50.4.15-10ubuntu1.2
 libpsl50.21.0-1ubuntu1
 libpthread-stubs0-dev0.4-1
-libpulse01:13.99.1-1ubuntu3.8
-libpulsedsp1:13.99.1-1ubuntu3.8
-libpulse-mainloop-glib01:13.99.1-1ubuntu3.8
+libpulse01:13.99.1-1ubuntu3.10
+libpulsedsp1:13.99.1-1ubuntu3.10
+libpulse-mainloop-glib01:13.99.1-1ubuntu3.10
 libpython3.8-minimal3.8.5-1~20.04
 libpython3.8-stdlib3.8.5-1~20.04
 libpython3-stdlib3.8.2-0ubuntu2
@@ -435,8 +435,8 @@ plymouth-theme-xubuntu-text20.04.2
 policykit-10.105-26ubuntu1
 procps2:3.3.16-1ubuntu2
 publicsuffix20200303.0012-1
-pulseaudio1:13.99.1-1ubuntu3.8
-pulseaudio-utils1:13.99.1-1ubuntu3.8
+pulseaudio1:13.99.1-1ubuntu3.10
+pulseaudio-utils1:13.99.1-1ubuntu3.10
 python33.8.2-0ubuntu2
 python3.83.8.5-1~20.04
 python3.8-minimal3.8.5-1~20.04
@@ -467,7 +467,7 @@ shimmer-themes2.1.3
 software-properties-common0.98.9.3
 sound-theme-freedesktop0.8-2ubuntu1
 ssl-cert1.0.39
-sudo1.8.31-1ubuntu1.1
+sudo1.8.31-1ubuntu1.2
 systemd245.4-4ubuntu3.4
 systemd-sysv245.4-4ubuntu3.4
 systemd-timesyncd245.4-4ubuntu3.4
