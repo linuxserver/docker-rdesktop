@@ -22,7 +22,7 @@ bc1.07.1-2
 bsdmainutils11.1.2ubuntu1
 bsdutils1:2.31.1-0.4ubuntu3.7
 bzip21.0.6-8.1ubuntu0.2
-ca-certificates20201027ubuntu0.18.04.1
+ca-certificates20210119~18.04.1
 caja1.20.2-4ubuntu1
 caja-common1.20.2-4ubuntu1
 coreutils8.28-1ubuntu1
@@ -53,13 +53,13 @@ dictionaries-common1.27.2
 diffutils1:3.6-1
 dirmngr2.2.4-1ubuntu1.3
 distro-info-data0.37ubuntu0.9
-docker-ce-cli5:20.10.2~3-0~ubuntu-bionic
+docker-ce-cli5:20.10.3~3-0~ubuntu-bionic
 dpkg1.19.0.5ubuntu2.3
 e2fsprogs1.44.1-1ubuntu1.3
 emacsen-common2.0.8
 fdisk2.31.1-0.4ubuntu3.7
 findutils4.6.0+git+20170828-2
-firefox84.0.2+build1-0ubuntu0.18.04.1
+firefox85.0+build1-0ubuntu0.18.04.1
 fontconfig2.12.6-0ubuntu2
 fontconfig-config2.12.6-0ubuntu2
 fonts-dejavu-core2.37-1
@@ -659,7 +659,7 @@ python2.7-minimal2.7.17-1~18.04ubuntu1.2
 python33.6.7-1~18.04
 python3.63.6.9-1~18.04ubuntu1.3
 python3.6-minimal3.6.9-1~18.04ubuntu1.3
-python3-apport2.20.9-0ubuntu7.21
+python3-apport2.20.9-0ubuntu7.23
 python3-apt1.6.5ubuntu0.5
 python3-aptdaemon1.1.1+bzr982-0ubuntu19.5
 python3-aptdaemon.gtk3widgets1.1.1+bzr982-0ubuntu19.5
@@ -679,7 +679,7 @@ python3-minimal3.6.7-1~18.04
 python3-pexpect4.2.1-1
 python3-pil5.1.0-1ubuntu0.4
 python3-pkg-resources39.0.1-2
-python3-problem-report2.20.9-0ubuntu7.21
+python3-problem-report2.20.9-0ubuntu7.23
 python3-ptyprocess0.5.2-1
 python3-reportlab3.4.0-3ubuntu0.1
 python3-reportlab-accel3.4.0-3ubuntu0.1
@@ -718,7 +718,7 @@ systemd-sysv237-3ubuntu10.44
 sysvinit-utils2.88dsf-59.10ubuntu1
 tar1.29b-2ubuntu0.2
 terminator1.91-1
-tzdata2020f-0ubuntu0.18.04
+tzdata2021a-0ubuntu0.18.04
 ubuntu-drivers-common1:0.5.2.5
 ubuntu-keyring2018.09.18.1~18.04.0
 ubuntu-mate-artwork18.04.11
