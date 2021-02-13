@@ -32,7 +32,7 @@ e2fsprogs1.44.1-1ubuntu1.3
 exo-utils0.12.2-0ubuntu0.18.04.1
 fdisk2.31.1-0.4ubuntu3.7
 findutils4.6.0+git+20170828-2
-firefox85.0+build1-0ubuntu0.18.04.1
+firefox85.0.1+build1-0ubuntu0.18.04.1
 fontconfig2.12.6-0ubuntu2
 fontconfig-config2.12.6-0ubuntu2
 fonts-dejavu-core2.37-1
@@ -217,8 +217,8 @@ libkrb5-31.16-2ubuntu0.2
 libkrb5support01.16-2ubuntu0.2
 libksba81.3.5-2
 liblcms2-22.9-1ubuntu0.1
-libldap-2.4-22.4.45+dfsg-1ubuntu1.8
-libldap-common2.4.45+dfsg-1ubuntu1.8
+libldap-2.4-22.4.45+dfsg-1ubuntu1.9
+libldap-common2.4.45+dfsg-1ubuntu1.9
 liblightdm-gobject-1-01.26.0-0ubuntu1
 libllvm101:10.0.0-4ubuntu1~18.04.2
 liblocale-gettext-perl1.07-3build2
