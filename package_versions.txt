@@ -61,7 +61,7 @@ e2fsprogs1.45.5-2ubuntu1
 emacsen-common3.0.4
 fdisk2.34-0.1ubuntu9.1
 findutils4.7.0-1ubuntu1
-firefox85.0+build1-0ubuntu0.20.04.1
+firefox85.0.1+build1-0ubuntu0.20.04.1
 fontconfig2.13.1-2ubuntu3
 fontconfig-config2.13.1-2ubuntu3
 fonts-dejavu-core2.37-1
@@ -95,7 +95,7 @@ gir1.2-webkit2-4.02.30.3-0ubuntu0.20.04.1
 glib-networking2.64.2-1ubuntu0.1
 glib-networking-common2.64.2-1ubuntu0.1
 glib-networking-services2.64.2-1ubuntu0.1
-gnome-control-center-faces1:3.36.4-0ubuntu2
+gnome-control-center-faces1:3.36.5-0ubuntu1
 gnome-session-canberra0.30-7ubuntu1
 gnupg2.2.19-3ubuntu2
 gnupg22.2.19-3ubuntu2
@@ -350,8 +350,8 @@ libkrb5-31.17-6ubuntu4.1
 libkrb5support01.17-6ubuntu4.1
 libksba81.3.5-2
 liblcms2-22.9-4
-libldap-2.4-22.4.49+dfsg-2ubuntu1.5
-libldap-common2.4.49+dfsg-2ubuntu1.5
+libldap-2.4-22.4.49+dfsg-2ubuntu1.6
+libldap-common2.4.49+dfsg-2ubuntu1.6
 libldb22:2.0.10-0ubuntu0.20.04.2
 libllvm111:11.0.0-2~ubuntu20.04.1
 liblmdb00.9.24-1
@@ -763,7 +763,7 @@ usb.ids2020.03.19-1
 usbutils1:012-2
 util-linux2.34-0.1ubuntu9.1
 wireless-tools30~pre9-13ubuntu1
-wpasupplicant2:2.9-1ubuntu4.1
+wpasupplicant2:2.9-1ubuntu4.2
 x11-apps7.7+8
 x11-common1:7.7+19ubuntu14
 x11proto-core-dev2019.2-1ubuntu1
