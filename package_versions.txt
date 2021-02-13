@@ -43,7 +43,7 @@ drkonqi5.18.5-0ubuntu0.1
 e2fsprogs1.45.5-2ubuntu1
 fdisk2.34-0.1ubuntu9.1
 findutils4.7.0-1ubuntu1
-firefox85.0+build1-0ubuntu0.20.04.1
+firefox85.0.1+build1-0ubuntu0.20.04.1
 fontconfig2.13.1-2ubuntu3
 fontconfig-config2.13.1-2ubuntu3
 fonts-dejavu-core2.37-1
@@ -462,8 +462,8 @@ libkwinglutils124:5.18.5-0ubuntu0.1
 libkwinxrenderutils124:5.18.5-0ubuntu0.1
 libkworkspace5-54:5.18.5-0ubuntu0.1
 liblcms2-22.9-4
-libldap-2.4-22.4.49+dfsg-2ubuntu1.5
-libldap-common2.4.49+dfsg-2ubuntu1.5
+libldap-2.4-22.4.49+dfsg-2ubuntu1.6
+libldap-common2.4.49+dfsg-2ubuntu1.6
 libldb22:2.0.10-0ubuntu0.20.04.2
 liblirc-client00.10.1-6.1ubuntu1.1
 liblivemedia772020.01.19-1build1
@@ -936,7 +936,7 @@ vlc-data3.0.9.2-1
 vlc-plugin-base3.0.9.2-1
 vlc-plugin-video-output3.0.9.2-1
 wireless-tools30~pre9-13ubuntu1
-wpasupplicant2:2.9-1ubuntu4.1
+wpasupplicant2:2.9-1ubuntu4.2
 x11-apps7.7+8
 x11-common1:7.7+19ubuntu14
 x11proto-core-dev2019.2-1ubuntu1
