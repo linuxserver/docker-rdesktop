@@ -39,7 +39,7 @@ dpkg1.19.0.5ubuntu2.3
 e2fsprogs1.44.1-1ubuntu1.3
 fdisk2.31.1-0.4ubuntu3.7
 findutils4.6.0+git+20170828-2
-firefox85.0+build1-0ubuntu0.18.04.1
+firefox85.0.1+build1-0ubuntu0.18.04.1
 fontconfig2.12.6-0ubuntu2
 fontconfig-config2.12.6-0ubuntu2
 fonts-dejavu-core2.37-1
@@ -453,8 +453,8 @@ libkwinglutils114:5.12.9.1-0ubuntu0.1
 libkwinxrenderutils114:5.12.9.1-0ubuntu0.1
 libkworkspace5-54:5.12.9-0ubuntu0.1
 liblcms2-22.9-1ubuntu0.1
-libldap-2.4-22.4.45+dfsg-1ubuntu1.8
-libldap-common2.4.45+dfsg-1ubuntu1.8
+libldap-2.4-22.4.45+dfsg-1ubuntu1.9
+libldap-common2.4.45+dfsg-1ubuntu1.9
 libldb12:1.2.3-1ubuntu0.1
 liblirc-client00.10.0-2
 liblivemedia622018.02.18-1
@@ -904,7 +904,7 @@ vlc-plugin-base3.0.8-0ubuntu18.04.1
 vlc-plugin-video-output3.0.8-0ubuntu18.04.1
 whiptail0.52.20-1ubuntu1
 wireless-tools30~pre9-12ubuntu1
-wpasupplicant2:2.6-15ubuntu2.6
+wpasupplicant2:2.6-15ubuntu2.7
 x11-apps7.7+6ubuntu1
 x11-common1:7.7+19ubuntu7.1
 x11proto-core-dev2018.4-4
