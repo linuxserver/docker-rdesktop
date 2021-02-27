@@ -43,7 +43,7 @@ drkonqi5.18.5-0ubuntu0.1
 e2fsprogs1.45.5-2ubuntu1
 fdisk2.34-0.1ubuntu9.1
 findutils4.7.0-1ubuntu1
-firefox85.0.1+build1-0ubuntu0.20.04.1
+firefox86.0+build3-0ubuntu0.20.04.1
 fontconfig2.13.1-2ubuntu3
 fontconfig-config2.13.1-2ubuntu3
 fonts-dejavu-core2.37-1
@@ -62,7 +62,7 @@ ghostscript9.50~dfsg-5ubuntu4.2
 ghostscript-x9.50~dfsg-5ubuntu4.2
 gir1.2-atk-1.02.35.1-1ubuntu2
 gir1.2-freedesktop1.64.1-1~ubuntu20.04.1
-gir1.2-gdkpixbuf-2.02.40.0+dfsg-3ubuntu0.1
+gir1.2-gdkpixbuf-2.02.40.0+dfsg-3ubuntu0.2
 gir1.2-glib-2.01.64.1-1~ubuntu20.04.1
 gir1.2-gtk-3.03.24.20-0ubuntu1
 gir1.2-packagekitglib-1.01.1.13-2ubuntu1.1
@@ -244,8 +244,8 @@ libgcc-s110.2.0-5ubuntu1~20.04
 libgcrypt201.8.5-5ubuntu1
 libgdbm61.18.1-5
 libgdbm-compat41.18.1-5
-libgdk-pixbuf2.0-02.40.0+dfsg-3ubuntu0.1
-libgdk-pixbuf2.0-common2.40.0+dfsg-3ubuntu0.1
+libgdk-pixbuf2.0-02.40.0+dfsg-3ubuntu0.2
+libgdk-pixbuf2.0-common2.40.0+dfsg-3ubuntu0.2
 libgif75.1.9-1
 libgirepository-1.0-11.64.1-1~ubuntu20.04.1
 libgit2-280.28.4+dfsg.1-2
@@ -462,8 +462,8 @@ libkwinglutils124:5.18.5-0ubuntu0.1
 libkwinxrenderutils124:5.18.5-0ubuntu0.1
 libkworkspace5-54:5.18.5-0ubuntu0.1
 liblcms2-22.9-4
-libldap-2.4-22.4.49+dfsg-2ubuntu1.6
-libldap-common2.4.49+dfsg-2ubuntu1.6
+libldap-2.4-22.4.49+dfsg-2ubuntu1.7
+libldap-common2.4.49+dfsg-2ubuntu1.7
 libldb22:2.0.10-0ubuntu0.20.04.2
 liblirc-client00.10.1-6.1ubuntu1.1
 liblivemedia772020.01.19-1build1
@@ -562,9 +562,9 @@ libpthread-stubs0-dev0.4-1
 libpulse01:13.99.1-1ubuntu3.10
 libpulsedsp1:13.99.1-1ubuntu3.10
 libpulse-mainloop-glib01:13.99.1-1ubuntu3.10
-libpython3.83.8.5-1~20.04
-libpython3.8-minimal3.8.5-1~20.04
-libpython3.8-stdlib3.8.5-1~20.04
+libpython3.83.8.5-1~20.04.2
+libpython3.8-minimal3.8.5-1~20.04.2
+libpython3.8-stdlib3.8.5-1~20.04.2
 libpython3-stdlib3.8.2-0ubuntu2
 libqalculate202.8.2-1build3
 libqalculate20-data2.8.2-1build3
@@ -648,7 +648,7 @@ libss21.45.5-2ubuntu1
 libssh2-11.8.0-2.1build1
 libssh-40.9.3-2ubuntu2.1
 libssh-gcrypt-40.9.3-2ubuntu2.1
-libssl1.11.1.1f-1ubuntu2.1
+libssl1.11.1.1f-1ubuntu2.2
 libstdc++610.2.0-5ubuntu1~20.04
 libstemmer0d0+svn585-2
 libswresample37:4.2.4-1ubuntu0.1
@@ -664,7 +664,7 @@ libtevent00.10.1-4
 libthai00.1.28-3
 libthai-data0.1.28-3
 libtheora01.1.1+dfsg.1-15ubuntu2
-libtiff54.1.0+git191117-2build1
+libtiff54.1.0+git191117-2ubuntu0.20.04.1
 libtinfo66.2-0ubuntu2
 libtwolame00.4.0-2
 libu2f-udev1.1.10-1
@@ -792,7 +792,7 @@ ncurses-base6.2-0ubuntu2
 ncurses-bin6.2-0ubuntu2
 ocl-icd-libopencl12.2.11-1ubuntu1
 openprinting-ppds20200401-1
-openssl1.1.1f-1ubuntu2.1
+openssl1.1.1f-1ubuntu2.2
 oxygen-sounds4:5.18.4.1-0ubuntu1
 packagekit1.1.13-2ubuntu1.1
 parted3.3-4ubuntu0.20.04.1
@@ -822,8 +822,8 @@ publicsuffix20200303.0012-1
 pulseaudio1:13.99.1-1ubuntu3.10
 pulseaudio-utils1:13.99.1-1ubuntu3.10
 python33.8.2-0ubuntu2
-python3.83.8.5-1~20.04
-python3.8-minimal3.8.5-1~20.04
+python3.83.8.5-1~20.04.2
+python3.8-minimal3.8.5-1~20.04.2
 python3-apport2.20.11-0ubuntu27.16
 python3-apt2.0.0ubuntu0.20.04.4
 python3-blinker1.4+dfsg1-0.3ubuntu1
