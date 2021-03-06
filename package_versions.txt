@@ -37,7 +37,7 @@ distro-info-data0.43ubuntu1.4
 dmidecode3.2-3
 docbook-xml4.5-9
 docbook-xsl1.79.1+dfsg-2
-docker-ce-cli5:20.10.3~3-0~ubuntu-bionic
+docker-ce-cli5:20.10.5~3-0~ubuntu-bionic
 dpkg1.19.7ubuntu3
 drkonqi5.18.5-0ubuntu0.1
 e2fsprogs1.45.5-2ubuntu1
@@ -863,7 +863,7 @@ python3-sip4.19.21+dfsg-1build1
 python3-six1.14.0-2
 python3-software-properties0.98.9.4
 python3-talloc2.3.0-3ubuntu1
-python3-update-manager1:20.04.10.5
+python3-update-manager1:20.04.10.6
 python3-urllib31.25.8-2ubuntu0.1
 python3-wadllib1.3.3-3build1
 python3-xkit0.5.0ubuntu4
@@ -936,7 +936,7 @@ vlc-data3.0.9.2-1
 vlc-plugin-base3.0.9.2-1
 vlc-plugin-video-output3.0.9.2-1
 wireless-tools30~pre9-13ubuntu1
-wpasupplicant2:2.9-1ubuntu4.2
+wpasupplicant2:2.9-1ubuntu4.3
 x11-apps7.7+8
 x11-common1:7.7+19ubuntu14
 x11proto-core-dev2019.2-1ubuntu1
