@@ -34,7 +34,7 @@ dirmngr2.2.4-1ubuntu1.4
 distro-info-data0.37ubuntu0.9
 docbook-xml4.5-8
 docbook-xsl1.79.1+dfsg-2
-docker-ce-cli5:20.10.3~3-0~ubuntu-bionic
+docker-ce-cli5:20.10.5~3-0~ubuntu-bionic
 dpkg1.19.0.5ubuntu2.3
 e2fsprogs1.44.1-1ubuntu1.3
 fdisk2.31.1-0.4ubuntu3.7
@@ -545,9 +545,9 @@ libpthread-stubs0-dev0.3-4
 libpulse01:11.1-1ubuntu7.11
 libpulsedsp1:11.1-1ubuntu7.11
 libpulse-mainloop-glib01:11.1-1ubuntu7.11
-libpython2.72.7.17-1~18.04ubuntu1.5
-libpython2.7-minimal2.7.17-1~18.04ubuntu1.5
-libpython2.7-stdlib2.7.17-1~18.04ubuntu1.5
+libpython2.72.7.17-1~18.04ubuntu1.6
+libpython2.7-minimal2.7.17-1~18.04ubuntu1.6
+libpython2.7-stdlib2.7.17-1~18.04ubuntu1.6
 libpython3.63.6.9-1~18.04ubuntu1.4
 libpython3.6-minimal3.6.9-1~18.04ubuntu1.4
 libpython3.6-stdlib3.6.9-1~18.04ubuntu1.4
@@ -807,8 +807,8 @@ publicsuffix20180223.1310-1
 pulseaudio1:11.1-1ubuntu7.11
 pulseaudio-utils1:11.1-1ubuntu7.11
 python2.7.15~rc1-1
-python2.72.7.17-1~18.04ubuntu1.5
-python2.7-minimal2.7.17-1~18.04ubuntu1.5
+python2.72.7.17-1~18.04ubuntu1.6
+python2.7-minimal2.7.17-1~18.04ubuntu1.6
 python33.6.7-1~18.04
 python3.63.6.9-1~18.04ubuntu1.4
 python3.6-minimal3.6.9-1~18.04ubuntu1.4
@@ -904,7 +904,7 @@ vlc-plugin-base3.0.8-0ubuntu18.04.1
 vlc-plugin-video-output3.0.8-0ubuntu18.04.1
 whiptail0.52.20-1ubuntu1
 wireless-tools30~pre9-12ubuntu1
-wpasupplicant2:2.6-15ubuntu2.7
+wpasupplicant2:2.6-15ubuntu2.8
 x11-apps7.7+6ubuntu1
 x11-common1:7.7+19ubuntu7.1
 x11proto-core-dev2018.4-4
