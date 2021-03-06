@@ -24,7 +24,7 @@ debianutils4.9.1
 diffutils1:3.7-3
 dirmngr2.2.19-3ubuntu2.1
 distro-info-data0.43ubuntu1.4
-docker-ce-cli5:20.10.3~3-0~ubuntu-bionic
+docker-ce-cli5:20.10.5~3-0~ubuntu-bionic
 dpkg1.19.7ubuntu3
 e2fsprogs1.45.5-2ubuntu1
 fdisk2.34-0.1ubuntu9.1
@@ -234,8 +234,8 @@ libpthread-stubs0-dev0.4-1
 libpulse01:13.99.1-1ubuntu3.10
 libpulsedsp1:13.99.1-1ubuntu3.10
 libpython2.7-minimal2.7.18-1~20.04
-libpython3.8-minimal3.8.5-1~20.04
-libpython3.8-stdlib3.8.5-1~20.04
+libpython3.8-minimal3.8.5-1~20.04.2
+libpython3.8-stdlib3.8.5-1~20.04.2
 libpython3-stdlib3.8.2-0ubuntu2
 libreadline88.0-4
 librest-0.7-00.8.1-1
@@ -366,8 +366,8 @@ pulseaudio-utils1:13.99.1-1ubuntu3.10
 python2.7-minimal2.7.18-1~20.04
 python2-minimal2.7.17-2ubuntu4
 python33.8.2-0ubuntu2
-python3.83.8.5-1~20.04
-python3.8-minimal3.8.5-1~20.04
+python3.83.8.5-1~20.04.2
+python3.8-minimal3.8.5-1~20.04.2
 python3-apt2.0.0ubuntu0.20.04.4
 python3-certifi2019.11.28-1
 python3-chardet3.0.4-4build1
