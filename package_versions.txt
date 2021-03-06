@@ -55,7 +55,7 @@ dirmngr2.2.19-3ubuntu2.1
 distro-info-data0.43ubuntu1.4
 dmidecode3.2-3
 dmsetup2:1.02.167-1ubuntu1
-docker-ce-cli5:20.10.3~3-0~ubuntu-bionic
+docker-ce-cli5:20.10.5~3-0~ubuntu-bionic
 dpkg1.19.7ubuntu3
 e2fsprogs1.45.5-2ubuntu1
 emacsen-common3.0.4
@@ -710,7 +710,7 @@ python3-simplejson3.16.0-2ubuntu2
 python3-six1.14.0-2
 python3-software-properties0.98.9.4
 python3-talloc2.3.0-3ubuntu1
-python3-update-manager1:20.04.10.5
+python3-update-manager1:20.04.10.6
 python3-urllib31.25.8-2ubuntu0.1
 python3-wadllib1.3.3-3build1
 python3-xkit0.5.0ubuntu4
@@ -754,8 +754,8 @@ ucf3.0038+nmu1
 udev245.4-4ubuntu3.4
 udisks22.8.4-1ubuntu1
 unzip6.0-25ubuntu1
-update-manager1:20.04.10.5
-update-manager-core1:20.04.10.5
+update-manager1:20.04.10.6
+update-manager-core1:20.04.10.6
 update-notifier3.192.30.5
 update-notifier-common3.192.30.5
 upower0.99.11-1build2
@@ -763,7 +763,7 @@ usb.ids2020.03.19-1
 usbutils1:012-2
 util-linux2.34-0.1ubuntu9.1
 wireless-tools30~pre9-13ubuntu1
-wpasupplicant2:2.9-1ubuntu4.2
+wpasupplicant2:2.9-1ubuntu4.3
 x11-apps7.7+8
 x11-common1:7.7+19ubuntu14
 x11proto-core-dev2019.2-1ubuntu1
