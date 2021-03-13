@@ -265,9 +265,9 @@ libgirepository-1.0-11.56.1-1
 libgl11.0.0-2ubuntu2.3
 libgl1-mesa-dri20.0.8-0ubuntu1~18.04.1
 libglapi-mesa20.0.8-0ubuntu1~18.04.1
-libglib2.0-02.56.4-0ubuntu0.18.04.6
-libglib2.0-bin2.56.4-0ubuntu0.18.04.6
-libglib2.0-data2.56.4-0ubuntu0.18.04.6
+libglib2.0-02.56.4-0ubuntu0.18.04.7
+libglib2.0-bin2.56.4-0ubuntu0.18.04.7
+libglib2.0-data2.56.4-0ubuntu0.18.04.7
 libglibmm-2.4-1v52.56.0-1
 libglib-object-introspection-perl0.044-2
 libglib-perl3:1.326-1build1
@@ -582,7 +582,7 @@ libxxf86dga12:1.1.4-1
 libxxf86vm11:1.1.4-1
 libyaml-0-20.1.7-2ubuntu3
 libyelp03.26.0-1ubuntu2
-libzstd11.3.3+dfsg-2ubuntu1.1
+libzstd11.3.3+dfsg-2ubuntu1.2
 linux-sound-base1.0.25+dfsg-0ubuntu5
 locales2.27-3ubuntu1.4
 login1:4.5-1ubuntu2
@@ -677,7 +677,7 @@ python3-httplib20.9.2+dfsg-1ubuntu0.3
 python3-idna2.6-1
 python3-minimal3.6.7-1~18.04
 python3-pexpect4.2.1-1
-python3-pil5.1.0-1ubuntu0.4
+python3-pil5.1.0-1ubuntu0.5
 python3-pkg-resources39.0.1-2
 python3-problem-report2.20.9-0ubuntu7.23
 python3-ptyprocess0.5.2-1
