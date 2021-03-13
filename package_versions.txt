@@ -267,9 +267,9 @@ libgl11.3.2-1~ubuntu0.20.04.1
 libgl1-mesa-dri20.2.6-0ubuntu0.20.04.1
 libglapi-mesa20.2.6-0ubuntu0.20.04.1
 libgles21.3.2-1~ubuntu0.20.04.1
-libglib2.0-02.64.6-1~ubuntu20.04.1
-libglib2.0-bin2.64.6-1~ubuntu20.04.1
-libglib2.0-data2.64.6-1~ubuntu20.04.1
+libglib2.0-02.64.6-1~ubuntu20.04.2
+libglib2.0-bin2.64.6-1~ubuntu20.04.2
+libglib2.0-data2.64.6-1~ubuntu20.04.2
 libglibmm-2.4-1v52.64.2-1
 libglib-object-introspection-perl0.048-2build1
 libglib-perl3:1.329.2-1
@@ -588,7 +588,7 @@ libxxf86dga12:1.1.5-0ubuntu1
 libxxf86vm11:1.1.4-1build1
 libyaml-0-20.2.2-1
 libyelp03.36.0-1
-libzstd11.4.4+dfsg-3
+libzstd11.4.4+dfsg-3ubuntu0.1
 linux-sound-base1.0.25+dfsg-0ubuntu5
 locales2.31-0ubuntu9.2
 login1:4.8.1-1ubuntu5.20.04
