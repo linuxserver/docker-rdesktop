@@ -248,7 +248,7 @@ libgl11.0.0-2ubuntu2.3
 libgl1-mesa-dri20.0.8-0ubuntu1~18.04.1
 libglapi-mesa20.0.8-0ubuntu1~18.04.1
 libgles21.0.0-2ubuntu2.3
-libglib2.0-02.56.4-0ubuntu0.18.04.7
+libglib2.0-02.56.4-0ubuntu0.18.04.8
 libglu1-mesa9.0.0-2.1build1
 libglvnd01.0.0-2ubuntu2.3
 libglx01.0.0-2ubuntu2.3
@@ -508,7 +508,7 @@ libpam0g1.1.8-3.6ubuntu2.18.04.2
 libpam-modules1.1.8-3.6ubuntu2.18.04.2
 libpam-modules-bin1.1.8-3.6ubuntu2.18.04.2
 libpam-runtime1.1.8-3.6ubuntu2.18.04.2
-libpam-systemd237-3ubuntu10.44
+libpam-systemd237-3ubuntu10.45
 libpango-1.0-01.40.14-1ubuntu0.1
 libpangocairo-1.0-01.40.14-1ubuntu0.1
 libpangoft2-1.0-01.40.14-1ubuntu0.1
@@ -644,7 +644,7 @@ libstdc++68.4.0-1ubuntu1~18.04
 libstemmer0d0+svn585-1build1
 libswresample27:3.4.8-0ubuntu0.2
 libswscale47:3.4.8-0ubuntu0.2
-libsystemd0237-3ubuntu10.44
+libsystemd0237-3ubuntu10.45
 libtag1v51.11.1+dfsg.1-0.2build2
 libtag1v5-vanilla1.11.1+dfsg.1-0.2build2
 libtalloc22.1.10-2ubuntu1
@@ -883,8 +883,8 @@ sound-theme-freedesktop0.8-2ubuntu1
 spice-vdagent0.17.0-1ubuntu2.2
 ssl-cert1.0.39
 sudo1.8.21p2-3ubuntu1.4
-systemd237-3ubuntu10.44
-systemd-sysv237-3ubuntu10.44
+systemd237-3ubuntu10.45
+systemd-sysv237-3ubuntu10.45
 systemsettings4:5.12.8-0ubuntu0.1
 sysvinit-utils2.88dsf-59.10ubuntu1
 tar1.29b-2ubuntu0.2
