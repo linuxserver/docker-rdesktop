@@ -175,9 +175,9 @@ libgirepository-1.0-11.64.1-1~ubuntu20.04.1
 libgl11.3.2-1~ubuntu0.20.04.1
 libgl1-mesa-dri20.2.6-0ubuntu0.20.04.1
 libglapi-mesa20.2.6-0ubuntu0.20.04.1
-libglib2.0-02.64.6-1~ubuntu20.04.2
-libglib2.0-bin2.64.6-1~ubuntu20.04.2
-libglib2.0-data2.64.6-1~ubuntu20.04.2
+libglib2.0-02.64.6-1~ubuntu20.04.3
+libglib2.0-bin2.64.6-1~ubuntu20.04.3
+libglib2.0-data2.64.6-1~ubuntu20.04.3
 libglvnd01.3.2-1~ubuntu0.20.04.1
 libglx01.3.2-1~ubuntu0.20.04.1
 libglx-mesa020.2.6-0ubuntu0.20.04.1
