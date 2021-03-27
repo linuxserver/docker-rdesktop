@@ -39,7 +39,7 @@ dpkg1.19.0.5ubuntu2.3
 e2fsprogs1.44.1-1ubuntu1.3
 fdisk2.31.1-0.4ubuntu3.7
 findutils4.6.0+git+20170828-2
-firefox86.0+build3-0ubuntu0.18.04.1
+firefox87.0+build3-0ubuntu0.18.04.2
 fontconfig2.12.6-0ubuntu2
 fontconfig-config2.12.6-0ubuntu2
 fonts-dejavu-core2.37-1
@@ -455,7 +455,7 @@ libkworkspace5-54:5.12.9-0ubuntu0.1
 liblcms2-22.9-1ubuntu0.1
 libldap-2.4-22.4.45+dfsg-1ubuntu1.10
 libldap-common2.4.45+dfsg-1ubuntu1.10
-libldb12:1.2.3-1ubuntu0.1
+libldb12:1.2.3-1ubuntu0.2
 liblirc-client00.10.0-2
 liblivemedia622018.02.18-1
 libllvm101:10.0.0-4ubuntu1~18.04.2
@@ -659,7 +659,7 @@ libtiff54.0.9-5ubuntu0.4
 libtinfo56.1-1ubuntu1.18.04
 libtwolame00.3.13-3
 libu2f-udev1.1.4-1ubuntu0.1
-libudev1237-3ubuntu10.44
+libudev1237-3ubuntu10.45
 libudisks2-02.7.6-3ubuntu0.2
 libunistring20.9.9-0ubuntu2
 libupnp61:1.6.24-4
@@ -816,6 +816,8 @@ python3-apport2.20.9-0ubuntu7.23
 python3-apt1.6.5ubuntu0.5
 python3-certifi2018.1.18-2
 python3-chardet3.0.4-1
+python3-click6.7-3
+python3-colorama0.3.7-1
 python3-dbus1.2.6-1
 python3-gi3.26.1-2ubuntu1
 python3-httplib20.9.2+dfsg-1ubuntu0.3
@@ -890,11 +892,11 @@ sysvinit-utils2.88dsf-59.10ubuntu1
 tar1.29b-2ubuntu0.2
 terminator1.91-1
 tzdata2021a-0ubuntu0.18.04
-ubuntu-drivers-common1:0.5.2.5
+ubuntu-drivers-common1:0.8.6.3~0.18.04.1
 ubuntu-keyring2018.09.18.1~18.04.0
 ubuntu-mono16.10+18.04.20181005-0ubuntu1
 ucf3.0038
-udev237-3ubuntu10.44
+udev237-3ubuntu10.45
 udisks22.7.6-3ubuntu0.2
 unzip6.0-21ubuntu1.1
 usbutils1:007-4build1
