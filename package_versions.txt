@@ -31,7 +31,7 @@ dunst1.3.0-2
 e2fsprogs1.44.1-1ubuntu1.3
 fdisk2.31.1-0.4ubuntu3.7
 findutils4.6.0+git+20170828-2
-firefox86.0+build3-0ubuntu0.18.04.1
+firefox87.0+build3-0ubuntu0.18.04.2
 fontconfig2.12.6-0ubuntu2
 fontconfig-config2.12.6-0ubuntu2
 fonts-dejavu-core2.37-1
@@ -309,7 +309,7 @@ libss21.44.1-1ubuntu1.3
 libssl1.11.1.1-1ubuntu2.1~18.04.8
 libstartup-notification00.12-5
 libstdc++68.4.0-1ubuntu1~18.04
-libsystemd0237-3ubuntu10.44
+libsystemd0237-3ubuntu10.45
 libtasn1-64.13-2
 libtdb11.3.15-2
 libtext-iconv-perl1.7-5build6
@@ -321,7 +321,7 @@ libtimedate-perl2.3000-2
 libtinfo56.1-1ubuntu1.18.04
 libtry-tiny-perl0.30-1
 libtypes-serialiser-perl1.0-1
-libudev1237-3ubuntu10.44
+libudev1237-3ubuntu10.45
 libunistring20.9.9-0ubuntu2
 liburi-perl1.73-1
 libuuid12.31.1-0.4ubuntu3.7
@@ -458,7 +458,7 @@ tzdata2021a-0ubuntu0.18.04
 ubuntu-keyring2018.09.18.1~18.04.0
 ubuntu-mono16.10+18.04.20181005-0ubuntu1
 ucf3.0038
-udev237-3ubuntu10.44
+udev237-3ubuntu10.45
 util-linux2.31.1-0.4ubuntu3.7
 x11-apps7.7+6ubuntu1
 x11-common1:7.7+19ubuntu7.1
