@@ -21,7 +21,7 @@ ca-certificates20210119~20.04.1
 coreutils8.30-3ubuntu2
 cpp4:9.3.0-1ubuntu2
 cpp-99.3.0-17ubuntu1~20.04
-curl7.68.0-1ubuntu2.4
+curl7.68.0-1ubuntu2.5
 dash0.5.10.2-6
 dbus1.12.16-2ubuntu2.1
 dbus-x111.12.16-2ubuntu2.1
@@ -192,8 +192,8 @@ libcom-err21.45.5-2ubuntu1
 libcrypt11:4.4.10-10ubuntu4
 libcryptsetup122:2.2.2-3ubuntu2.3
 libcups22.3.1-9ubuntu1.1
-libcurl3-gnutls7.68.0-1ubuntu2.4
-libcurl47.68.0-1ubuntu2.4
+libcurl3-gnutls7.68.0-1ubuntu2.5
+libcurl47.68.0-1ubuntu2.5
 libdatrie10.2.12-3
 libdb5.35.3.28+dfsg1-0.6ubuntu2
 libdbus-1-31.12.16-2ubuntu2.1
@@ -509,7 +509,7 @@ libnspr42:4.25-1
 libnss32:3.49.1-1ubuntu1.5
 libnuma12.0.12-1
 libogg01.3.4-0ubuntu1
-libopenexr242.3.0-6ubuntu0.3
+libopenexr242.3.0-6ubuntu0.5
 libopenjp2-72.3.1-1ubuntu4.20.04.1
 libopenmpt00.4.11-1build1
 libopenmpt-modplug10.4.11-1build1
@@ -648,7 +648,7 @@ libss21.45.5-2ubuntu1
 libssh2-11.8.0-2.1build1
 libssh-40.9.3-2ubuntu2.1
 libssh-gcrypt-40.9.3-2ubuntu2.1
-libssl1.11.1.1f-1ubuntu2.2
+libssl1.11.1.1f-1ubuntu2.3
 libstdc++610.2.0-5ubuntu1~20.04
 libstemmer0d0+svn585-2
 libswresample37:4.2.4-1ubuntu0.1
@@ -792,7 +792,7 @@ ncurses-base6.2-0ubuntu2
 ncurses-bin6.2-0ubuntu2
 ocl-icd-libopencl12.2.11-1ubuntu1
 openprinting-ppds20200401-1
-openssl1.1.1f-1ubuntu2.2
+openssl1.1.1f-1ubuntu2.3
 oxygen-sounds4:5.18.4.1-0ubuntu1
 packagekit1.1.13-2ubuntu1.1
 parted3.3-4ubuntu0.20.04.1
