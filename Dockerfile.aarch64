@@ -1,4 +1,4 @@
-FROM ghcr.io/linuxserver/baseimage-rdesktop:arm54v8-alpine
+FROM ghcr.io/linuxserver/baseimage-rdesktop:arm64v8-alpine
 
 # set version label
 ARG BUILD_DATE
