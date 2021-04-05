@@ -29,6 +29,7 @@ development_versions_items:
   - { tag: "openbox-bionic", desc: "Openbox Bionic" }
   - { tag: "icewm-focal", desc: "IceWM Focal" }
   - { tag: "icewm-bionic", desc: "IceWM Bionic" }
+  - { tag: "alpine", desc: "XFCE Alpine" }
 
 # container parameters
 privileged: "optional"
@@ -68,5 +69,6 @@ app_setup_block: |
 
 # changelog
 changelogs:
+  - { date: "05.04.21:", desc: "Add Alpine flavor." }
   - { date: "06.04.20:", desc: "Start PulseAudio in images to support audio" }
   - { date: "28.02.20:", desc: "Initial Releases" }

@@ -75,6 +75,7 @@ This image provides various versions that are available via tags. `latest` tag u
 | openbox-bionic | Openbox Bionic |
 | icewm-focal | IceWM Focal |
 | icewm-bionic | IceWM Bionic |
+| alpine | XFCE Alpine |
 
 ## Usage
 
@@ -258,5 +259,6 @@ Once registered you can define the dockerfile to use with `-f Dockerfile.aarch64
 
 ## Versions
 
+* **05.04.21:** - Add Alpine flavor.
 * **06.04.20:** - Start PulseAudio in images to support audio
 * **28.02.20:** - Initial Releases
