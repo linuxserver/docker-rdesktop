@@ -29,6 +29,7 @@ development_versions_items:
   - { tag: "openbox-bionic", desc: "Openbox Bionic" }
   - { tag: "icewm-focal", desc: "IceWM Focal" }
   - { tag: "icewm-bionic", desc: "IceWM Bionic" }
+  - { tag: "alpine", desc: "XFCE Alpine" }
 
 # container parameters
 privileged: "optional"

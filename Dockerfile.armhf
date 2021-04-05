@@ -1,4 +1,4 @@
-FROM ghcr.io/linuxserver/baseimage-rdesktop:arm32v7-focal
+FROM ghcr.io/linuxserver/baseimage-rdesktop:arm32v7-alpine
 
 # set version label
 ARG BUILD_DATE
@@ -8,21 +8,21 @@ LABEL maintainer="thelamer"
 
 RUN \
  echo "**** install packages ****" && \
- apt-get update && \
- DEBIAN_FRONTEND=noninteractive \
- apt-get install --no-install-recommends -y \
-	firefox \
-	pavucontrol \
-	terminator \
+ apk add --no-cache \
+	faenza-icon-theme \
+	faenza-icon-theme-xfce4-appfinder \
+	faenza-icon-theme-xfce4-panel \
+	font-noto \
+	midori \
+	mousepad \
+	setxkbmap \
+	thunar-volman \
 	xfce4 \
-	xfce4-goodies \
-	xubuntu-default-settings \
-	xubuntu-icon-theme && \
+	xfce4-terminal && \
+ apk add --no-cache --repository=http://dl-cdn.alpinelinux.org/alpine/edge/testing \
+	xfce4-pulseaudio-plugin && \
  echo "**** cleanup ****" && \
- apt-get autoclean && \
  rm -rf \
-        /var/lib/apt/lists/* \
-        /var/tmp/* \
         /tmp/*
 
 # add local files
