@@ -1,7 +1,7 @@
 adduser3.116ubuntu1
 adwaita-icon-theme3.28.0-1ubuntu1
 apt1.6.12ubuntu0.2
-apt-transport-https1.6.12ubuntu0.2
+apt-transport-https1.6.13
 apt-utils1.6.12ubuntu0.2
 at-spi2-core2.28.0-1
 base-files10.1ubuntu2.10
@@ -455,7 +455,7 @@ sysvinit-utils2.88dsf-59.10ubuntu1
 tar1.29b-2ubuntu0.2
 terminator1.91-1
 tzdata2021a-0ubuntu0.18.04
-ubuntu-keyring2018.09.18.1~18.04.0
+ubuntu-keyring2018.09.18.1~18.04.2
 ubuntu-mono16.10+18.04.20181005-0ubuntu1
 ucf3.0038
 udev237-3ubuntu10.45
