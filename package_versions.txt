@@ -8,7 +8,7 @@ anacron2.3-24
 apt1.6.12ubuntu0.2
 aptdaemon1.1.1+bzr982-0ubuntu19.5
 aptdaemon-data1.1.1+bzr982-0ubuntu19.5
-apt-transport-https1.6.12ubuntu0.2
+apt-transport-https1.6.13
 apturl0.5.2ubuntu14.2
 apturl-common0.5.2ubuntu14.2
 apt-utils1.6.12ubuntu0.2
@@ -722,7 +722,7 @@ tar1.29b-2ubuntu0.2
 terminator1.91-1
 tzdata2021a-0ubuntu0.18.04
 ubuntu-drivers-common1:0.8.6.3~0.18.04.1
-ubuntu-keyring2018.09.18.1~18.04.0
+ubuntu-keyring2018.09.18.1~18.04.2
 ubuntu-mate-artwork18.04.11
 ubuntu-mate-core1.225
 ubuntu-mate-default-settings18.04.17
