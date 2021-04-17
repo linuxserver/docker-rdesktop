@@ -1,8 +1,8 @@
 adduser3.118ubuntu2
 adwaita-icon-theme3.36.1-2ubuntu0.20.04.2
-apt2.0.4
+apt2.0.5
 apt-transport-https2.0.5
-apt-utils2.0.4
+apt-utils2.0.5
 at-spi2-core2.36.0-2
 base-files11ubuntu5.3
 base-passwd3.5.47
@@ -25,7 +25,7 @@ debianutils4.9.1
 diffutils1:3.7-3
 dirmngr2.2.19-3ubuntu2.1
 distro-info-data0.43ubuntu1.4
-docker-ce-cli5:20.10.5~3-0~ubuntu-bionic
+docker-ce-cli5:20.10.6~3-0~ubuntu-bionic
 dpkg1.19.7ubuntu3
 dunst1.4.1-1
 e2fsprogs1.45.5-2ubuntu1
@@ -83,7 +83,7 @@ libanyevent-i3-perl0.17-1
 libanyevent-perl7.170-1
 libapparmor12.13.3-7ubuntu5.1
 libappstream40.12.10-2
-libapt-pkg6.02.0.4
+libapt-pkg6.02.0.5
 libargon2-10~20171227-0.2
 libasn1-8-heimdal7.7.0+dfsg-1ubuntu1
 libasound21.2.2-2.1ubuntu2.3
@@ -507,8 +507,8 @@ xkb-data2.29-2
 xorg-sgml-doctools1:1.11-1
 xorgxrdp1:0.2.12-1
 xrdp0.9.12-1
-xserver-common2:1.20.9-2ubuntu1.2~20.04.1
-xserver-xorg-core2:1.20.9-2ubuntu1.2~20.04.1
+xserver-common2:1.20.9-2ubuntu1.2~20.04.2
+xserver-xorg-core2:1.20.9-2ubuntu1.2~20.04.2
 xtrans-dev1.4.0-1
 xul-ext-ubufox3.4-0ubuntu1.17.10.1
 xutils1:7.7+19ubuntu14
