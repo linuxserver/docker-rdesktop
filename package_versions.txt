@@ -3,9 +3,9 @@ adwaita-icon-theme3.36.1-2ubuntu0.20.04.2
 alsa-base1.0.25+dfsg-0ubuntu5
 alsa-utils1.2.2-1ubuntu2
 anacron2.3-29
-apt2.0.4
+apt2.0.5
 apt-transport-https2.0.5
-apt-utils2.0.4
+apt-utils2.0.5
 baloo-kf55.68.0-0ubuntu1
 base-files11ubuntu5.3
 base-passwd3.5.47
@@ -37,7 +37,7 @@ distro-info-data0.43ubuntu1.4
 dmidecode3.2-3
 docbook-xml4.5-9
 docbook-xsl1.79.1+dfsg-2
-docker-ce-cli5:20.10.5~3-0~ubuntu-bionic
+docker-ce-cli5:20.10.6~3-0~ubuntu-bionic
 dpkg1.19.7ubuntu3
 drkonqi5.18.5-0ubuntu0.1
 e2fsprogs1.45.5-2ubuntu1
@@ -133,7 +133,7 @@ libaom01.0.0.errata1-3build1
 libapparmor12.13.3-7ubuntu5.1
 libappstream40.12.10-2
 libappstreamqt20.12.10-2
-libapt-pkg6.02.0.4
+libapt-pkg6.02.0.5
 libarchive133.4.0-2ubuntu1
 libargon2-10~20171227-0.2
 libaribb24-01.0.3-2
@@ -311,7 +311,7 @@ libjpeg-turbo82.0.3-0ubuntu1.20.04.1
 libjson-c40.13.1+dfsg-7ubuntu0.3
 libjson-glib-1.0-01.4.4-2ubuntu2
 libjson-glib-1.0-common1.4.4-2ubuntu2
-libjs-underscore1.9.1~dfsg-1
+libjs-underscore1.9.1~dfsg-1ubuntu0.20.04.1
 libk5crypto31.17-6ubuntu4.1
 libkate10.4.1-11build1
 libkdecorations2-5v54:5.18.4.1-0ubuntu1
@@ -531,7 +531,7 @@ libpaper11.1.28
 libparted23.3-4ubuntu0.20.04.1
 libparted-fs-resize03.3-4ubuntu0.20.04.1
 libpcap0.81.9.1-3
-libpci31:3.6.4-1
+libpci31:3.6.4-1ubuntu0.20.04.1
 libpciaccess00.16-0ubuntu1
 libpcre2-16-010.34-7
 libpcre2-8-010.34-7
@@ -798,7 +798,7 @@ packagekit1.1.13-2ubuntu1.1
 parted3.3-4ubuntu0.20.04.1
 passwd1:4.8.1-1ubuntu5.20.04
 pci.ids0.0~2020.03.20-1
-pciutils1:3.6.4-1
+pciutils1:3.6.4-1ubuntu0.20.04.1
 perl5.30.0-9ubuntu0.2
 perl-base5.30.0-9ubuntu0.2
 perl-modules-5.305.30.0-9ubuntu0.2
@@ -959,9 +959,9 @@ xorg-docs-core1:1.7.1-1.1
 xorg-sgml-doctools1:1.11-1
 xorgxrdp1:0.2.12-1
 xrdp0.9.12-1
-xserver-common2:1.20.9-2ubuntu1.2~20.04.1
+xserver-common2:1.20.9-2ubuntu1.2~20.04.2
 xserver-xorg1:7.7+19ubuntu14
-xserver-xorg-core2:1.20.9-2ubuntu1.2~20.04.1
+xserver-xorg-core2:1.20.9-2ubuntu1.2~20.04.2
 xtrans-dev1.4.0-1
 xutils1:7.7+19ubuntu14
 xz-utils5.2.4-1ubuntu1
