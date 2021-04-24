@@ -188,7 +188,7 @@ libharfbuzz0b1.7.2-1ubuntu1
 libhcrypto4-heimdal7.5.0+dfsg-1
 libheimbase1-heimdal7.5.0+dfsg-1
 libheimntlm0-heimdal7.5.0+dfsg-1
-libhogweed43.4-1
+libhogweed43.4-1ubuntu0.1
 libhtml-format-perl2.12-1
 libhtml-form-perl6.03-1
 libhtml-parser-perl3.72-3build1
@@ -243,7 +243,7 @@ libnet-dbus-perl1.1.0-4build2
 libnet-http-perl6.17-1
 libnet-smtp-ssl-perl1.04-1
 libnet-ssleay-perl1.84-1ubuntu0.2
-libnettle63.4-1
+libnettle63.4-1ubuntu0.1
 libnghttp2-141.30.0-1ubuntu1
 libnl-3-2003.2.29-0ubuntu3
 libnl-genl-3-2003.2.29-0ubuntu3
@@ -290,7 +290,7 @@ libsamplerate00.1.9-1
 libsasl2-22.1.27~101-g0780600+dfsg-3ubuntu2.3
 libsasl2-modules2.1.27~101-g0780600+dfsg-3ubuntu2.3
 libsasl2-modules-db2.1.27~101-g0780600+dfsg-3ubuntu2.3
-libseccomp22.4.3-1ubuntu3.18.04.3
+libseccomp22.5.1-1ubuntu1~18.04.1
 libselinux12.7-2build2
 libsemanage12.7-2build2
 libsemanage-common2.7-2build2
@@ -309,7 +309,7 @@ libss21.44.1-1ubuntu1.3
 libssl1.11.1.1-1ubuntu2.1~18.04.9
 libstartup-notification00.12-5
 libstdc++68.4.0-1ubuntu1~18.04
-libsystemd0237-3ubuntu10.45
+libsystemd0237-3ubuntu10.46
 libtasn1-64.13-2
 libtdb11.3.15-2
 libtext-iconv-perl1.7-5build6
@@ -321,7 +321,7 @@ libtimedate-perl2.3000-2
 libtinfo56.1-1ubuntu1.18.04
 libtry-tiny-perl0.30-1
 libtypes-serialiser-perl1.0-1
-libudev1237-3ubuntu10.45
+libudev1237-3ubuntu10.46
 libunistring20.9.9-0ubuntu2
 liburi-perl1.73-1
 libuuid12.31.1-0.4ubuntu3.7
@@ -458,7 +458,7 @@ tzdata2021a-0ubuntu0.18.04
 ubuntu-keyring2018.09.18.1~18.04.2
 ubuntu-mono16.10+18.04.20181005-0ubuntu1
 ucf3.0038
-udev237-3ubuntu10.45
+udev237-3ubuntu10.46
 util-linux2.31.1-0.4ubuntu3.7
 x11-apps7.7+6ubuntu1
 x11-common1:7.7+19ubuntu7.1
