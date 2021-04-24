@@ -181,7 +181,7 @@ libbrotli11.0.7-6ubuntu0.1
 libbsd00.10.0-1
 libbz2-1.01.0.8-2
 libc62.31-0ubuntu9.2
-libcaca00.99.beta19-2.1ubuntu1
+libcaca00.99.beta19-2.1ubuntu1.20.04.1
 libcairo21.16.0-4ubuntu1
 libcairo-gobject21.16.0-4ubuntu1
 libcairo-gobject-perl1.005-2
@@ -315,7 +315,7 @@ libharfbuzz-icu02.6.4-1ubuntu4
 libhcrypto4-heimdal7.7.0+dfsg-1ubuntu1
 libheimbase1-heimdal7.7.0+dfsg-1ubuntu1
 libheimntlm0-heimdal7.7.0+dfsg-1ubuntu1
-libhogweed53.5.1+really3.5.1-2
+libhogweed53.5.1+really3.5.1-2ubuntu0.1
 libhpmud03.20.3+dfsg0-2
 libhunspell-1.7-01.7.0-2build2
 libhx509-5-heimdal7.7.0+dfsg-1ubuntu1
@@ -386,7 +386,7 @@ libmtp-runtime1.1.17-3
 libmysqlclient218.0.23-0ubuntu0.20.04.1
 libncurses66.2-0ubuntu2
 libncursesw66.2-0ubuntu2
-libnettle73.5.1+really3.5.1-2
+libnettle73.5.1+really3.5.1-2ubuntu0.1
 libnfs134.0.0-1
 libnghttp2-141.40.0-1build1
 libnl-3-2003.4.0-1
@@ -430,7 +430,7 @@ libpolkit-gobject-1-00.105-26ubuntu1
 libpoppler970.86.1-0ubuntu1
 libpoppler-cpp0v50.86.1-0ubuntu1
 libpopt01.16-14
-libprocps82:3.3.16-1ubuntu2
+libprocps82:3.3.16-1ubuntu2.1
 libproxy1v50.4.15-10ubuntu1.2
 libpsl50.21.0-1ubuntu1
 libpthread-stubs0-dev0.4-1
@@ -456,7 +456,7 @@ libsamplerate00.1.9-2
 libsasl2-22.1.27+dfsg-2
 libsasl2-modules2.1.27+dfsg-2
 libsasl2-modules-db2.1.27+dfsg-2
-libseccomp22.4.3-1ubuntu3.20.04.3
+libseccomp22.5.1-1ubuntu1~20.04.1
 libsecret-1-00.20.3-0ubuntu1
 libsecret-common0.20.3-0ubuntu1
 libselinux13.0-1build2
@@ -659,7 +659,7 @@ printer-driver-gutenprint5.3.3-4
 printer-driver-hpcups3.20.3+dfsg0-2
 printer-driver-pnm2ppa1.13+nondbs-0ubuntu6
 printer-driver-postscript-hp3.20.3+dfsg0-2
-procps2:3.3.16-1ubuntu2
+procps2:3.3.16-1ubuntu2.1
 psmisc23.3-1
 publicsuffix20200303.0012-1
 pulseaudio1:13.99.1-1ubuntu3.10
@@ -687,7 +687,7 @@ python3-debian0.1.36ubuntu1
 python3-defer1.0.6-2.1
 python3-distro1.4.0-1
 python3-distro-info0.23ubuntu1
-python3-distupgrade1:20.04.31
+python3-distupgrade1:20.04.32
 python3-entrypoints0.3-2ubuntu1
 python3-gi3.36.0-1
 python3-gi-cairo3.36.0-1
@@ -748,8 +748,8 @@ ubuntu-mate-wallpapers-common20.04.2
 ubuntu-mate-wallpapers-focal20.04.2
 ubuntu-mate-wallpapers-photos20.04.2
 ubuntu-mono19.04-0ubuntu3
-ubuntu-release-upgrader-core1:20.04.31
-ubuntu-release-upgrader-gtk1:20.04.31
+ubuntu-release-upgrader-core1:20.04.32
+ubuntu-release-upgrader-gtk1:20.04.32
 ucf3.0038+nmu1
 udev245.4-4ubuntu3.6
 udisks22.8.4-1ubuntu1
