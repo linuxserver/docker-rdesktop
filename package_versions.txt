@@ -168,7 +168,7 @@ libbrotli11.0.3-1ubuntu1.3
 libbsd00.8.7-1ubuntu0.1
 libbz2-1.01.0.6-8.1ubuntu0.2
 libc62.27-3ubuntu1.4
-libcaca00.99.beta19-2ubuntu0.18.04.1
+libcaca00.99.beta19-2ubuntu0.18.04.2
 libcairo21.15.10-2ubuntu0.1
 libcairo-gobject21.15.10-2ubuntu0.1
 libcanberra00.30-5ubuntu1
@@ -279,7 +279,7 @@ libharfbuzz0b1.7.2-1ubuntu1
 libhcrypto4-heimdal7.5.0+dfsg-1
 libheimbase1-heimdal7.5.0+dfsg-1
 libheimntlm0-heimdal7.5.0+dfsg-1
-libhogweed43.4-1
+libhogweed43.4-1ubuntu0.1
 libhttp-parser2.7.12.7.1-2
 libhx509-5-heimdal7.5.0+dfsg-1
 libhyphen02.8.8-5
@@ -485,7 +485,7 @@ libmtp91.1.13-1
 libmtp-common1.1.13-1
 libncurses56.1-1ubuntu1.18.04
 libncursesw56.1-1ubuntu1.18.04
-libnettle63.4-1
+libnettle63.4-1ubuntu0.1
 libnewt0.520.52.20-1ubuntu1
 libnfs112.0.0-1~exp1
 libnghttp2-141.30.0-1ubuntu1
@@ -609,7 +609,7 @@ libsasl2-modules-db2.1.27~101-g0780600+dfsg-3ubuntu2.3
 libscim8v51.4.18-2
 libsdl1.2debian1.2.15+dfsg2-0.1ubuntu0.1
 libsdl-image1.21.2.12-8ubuntu0.1
-libseccomp22.4.3-1ubuntu3.18.04.3
+libseccomp22.5.1-1ubuntu1~18.04.1
 libsecret-1-00.18.6-1
 libsecret-common0.18.6-1
 libselinux12.7-2build2
@@ -659,7 +659,7 @@ libtiff54.0.9-5ubuntu0.4
 libtinfo56.1-1ubuntu1.18.04
 libtwolame00.3.13-3
 libu2f-udev1.1.4-1ubuntu0.1
-libudev1237-3ubuntu10.45
+libudev1237-3ubuntu10.46
 libudisks2-02.7.6-3ubuntu0.2
 libunistring20.9.9-0ubuntu2
 libupnp61:1.6.24-4
@@ -896,7 +896,7 @@ ubuntu-drivers-common1:0.8.6.3~0.18.04.1
 ubuntu-keyring2018.09.18.1~18.04.2
 ubuntu-mono16.10+18.04.20181005-0ubuntu1
 ucf3.0038
-udev237-3ubuntu10.45
+udev237-3ubuntu10.46
 udisks22.7.6-3ubuntu0.2
 unzip6.0-21ubuntu1.1
 usbutils1:007-4build1
