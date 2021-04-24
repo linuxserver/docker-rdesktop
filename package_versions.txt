@@ -198,7 +198,7 @@ libharfbuzz0b2.6.4-1ubuntu4
 libhcrypto4-heimdal7.7.0+dfsg-1ubuntu1
 libheimbase1-heimdal7.7.0+dfsg-1ubuntu1
 libheimntlm0-heimdal7.7.0+dfsg-1ubuntu1
-libhogweed53.5.1+really3.5.1-2
+libhogweed53.5.1+really3.5.1-2ubuntu0.1
 libhtml-format-perl2.12-1
 libhtml-form-perl6.07-1
 libhtml-parser-perl3.72-5
@@ -257,7 +257,7 @@ libnet-dbus-perl1.2.0-1
 libnet-http-perl6.19-1
 libnet-smtp-ssl-perl1.04-1
 libnet-ssleay-perl1.88-2ubuntu1
-libnettle73.5.1+really3.5.1-2
+libnettle73.5.1+really3.5.1-2ubuntu0.1
 libnghttp2-141.40.0-1build1
 libnl-3-2003.4.0-1
 libnl-genl-3-2003.4.0-1
@@ -286,7 +286,7 @@ libpixman-1-00.38.4-0ubuntu1
 libpng16-161.6.37-2
 libpolkit-agent-1-00.105-26ubuntu1
 libpolkit-gobject-1-00.105-26ubuntu1
-libprocps82:3.3.16-1ubuntu2
+libprocps82:3.3.16-1ubuntu2.1
 libproxy1v50.4.15-10ubuntu1.2
 libpsl50.21.0-1ubuntu1
 libpthread-stubs0-dev0.4-1
@@ -305,7 +305,7 @@ libsamplerate00.1.9-2
 libsasl2-22.1.27+dfsg-2
 libsasl2-modules2.1.27+dfsg-2
 libsasl2-modules-db2.1.27+dfsg-2
-libseccomp22.4.3-1ubuntu3.20.04.3
+libseccomp22.5.1-1ubuntu1~20.04.1
 libselinux13.0-1build2
 libsemanage13.0-1build2
 libsemanage-common3.0-1build2
@@ -445,7 +445,7 @@ perl-modules-5.305.30.0-9ubuntu0.2
 perl-openssl-defaults4
 pinentry-curses1.1.0-3build1
 policykit-10.105-26ubuntu1
-procps2:3.3.16-1ubuntu2
+procps2:3.3.16-1ubuntu2.1
 publicsuffix20200303.0012-1
 pulseaudio1:13.99.1-1ubuntu3.10
 pulseaudio-utils1:13.99.1-1ubuntu3.10
