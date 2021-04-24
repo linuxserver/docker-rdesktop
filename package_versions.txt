@@ -10,7 +10,7 @@ atkmm-2.28.0-r1
 avahi-libs-0.8-r2
 bash-5.1.0-r0
 brotli-libs-1.0.9-r3
-busybox-1.32.1-r5
+busybox-1.32.1-r6
 ca-certificates-20191127-r5
 ca-certificates-bundle-20191127-r5
 cairo-1.16.0-r2
@@ -40,7 +40,7 @@ faenza-icon-theme-thunar-1.3.1-r6
 faenza-icon-theme-xfce4-appfinder-1.3.1-r6
 faenza-icon-theme-xfce4-panel-1.3.1-r6
 faenza-icon-theme-xterm-1.3.1-r6
-firefox-87.0-r0
+firefox-88.0-r0
 flac-1.3.3-r0
 font-alias-1.0.3-r1
 font-cursor-misc-1.0.3-r1
@@ -53,7 +53,7 @@ fuse-2.9.9-r1
 fuse-common-3.10.2-r0
 garcon-0.8.0-r0
 gdk-pixbuf-2.42.4-r0
-glib-2.66.7-r1
+glib-2.66.8-r0
 glibmm-2.64.5-r0
 gmp-6.2.1-r0
 gnutls-3.7.1-r0
@@ -160,12 +160,12 @@ mesa-gl-20.3.3-r0
 mesa-glapi-20.3.3-r0
 mkfontscale-1.2.1-r1
 mousepad-0.5.2-r0
-mozjs78-78.8.0-r0
+mozjs78-78.10.0-r0
 musl-1.2.2-r0
 musl-utils-1.2.2-r0
 ncurses-libs-6.2_p20210109-r0
 ncurses-terminfo-base-6.2_p20210109-r0
-nettle-3.7-r0
+nettle-3.7.2-r0
 nghttp2-libs-1.42.0-r1
 nspr-4.29-r0
 nss-3.63-r1
@@ -198,7 +198,7 @@ sound-theme-freedesktop-0.8-r0
 soxr-0.1.3-r2
 speexdsp-1.2.0-r0
 sqlite-libs-3.34.1-r0
-ssl_client-1.32.1-r5
+ssl_client-1.32.1-r6
 startup-notification-0.12-r4
 sudo-1.9.5p2-r0
 tdb-libs-1.4.3-r0
