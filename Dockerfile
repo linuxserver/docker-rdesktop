@@ -14,7 +14,7 @@ RUN \
 	firefox \
 	i3 \
 	i3status \
-	terminator && \
+	xterm && \
  echo "**** cleanup ****" && \
  apt-get autoclean && \
  rm -rf \
