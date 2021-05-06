@@ -11,9 +11,10 @@ RUN \
  apt-get update && \
  DEBIAN_FRONTEND=noninteractive \
  apt-get install --no-install-recommends -y \
+	featherpad \
 	firefox \
 	icewm-experimental \
-	terminator && \
+	xterm && \
  echo "**** cleanup ****" && \
  apt-get autoclean && \
  rm -rf \
