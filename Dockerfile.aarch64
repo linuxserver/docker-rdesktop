@@ -12,11 +12,10 @@ RUN \
 	faenza-icon-theme \
 	faenza-icon-theme-xfce4-appfinder \
 	faenza-icon-theme-xfce4-panel \
-	firefox \
+	firefox-esr \
 	font-noto \
 	mousepad \
-	setxkbmap \
-	thunar-volman \
+	thunar \
 	xfce4 \
 	xfce4-terminal && \
  apk add --no-cache --repository=http://dl-cdn.alpinelinux.org/alpine/edge/testing \
