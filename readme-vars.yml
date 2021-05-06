@@ -69,6 +69,7 @@ app_setup_block: |
 
 # changelog
 changelogs:
+  - { date: "05.05.21:", desc: "Reduce default packages to their flavor specific basics." }
   - { date: "05.04.21:", desc: "Add Alpine flavor." }
   - { date: "06.04.20:", desc: "Start PulseAudio in images to support audio" }
   - { date: "28.02.20:", desc: "Initial Releases" }
