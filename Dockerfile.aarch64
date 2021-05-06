@@ -14,8 +14,8 @@ RUN \
 	firefox \
 	mate-applets \
 	mate-applet-brisk-menu \
-	pavucontrol \
-	terminator \
+	mate-terminal \
+	pluma \
 	ubuntu-mate-artwork \
 	ubuntu-mate-default-settings \
 	ubuntu-mate-desktop \
