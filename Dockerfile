@@ -12,10 +12,9 @@ RUN \
  DEBIAN_FRONTEND=noninteractive \
  apt-get install --no-install-recommends -y \
 	firefox \
-	pavucontrol \
-	terminator \
+	mousepad \
+	xfce4-terminal \
 	xfce4 \
-	xfce4-goodies \
 	xubuntu-default-settings \
 	xubuntu-icon-theme && \
  echo "**** cleanup ****" && \
