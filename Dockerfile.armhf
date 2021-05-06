@@ -11,10 +11,12 @@ RUN \
  apt-get update && \
  DEBIAN_FRONTEND=noninteractive \
  apt-get install --no-install-recommends -y \
+	dolphin \
 	firefox \
+	kate \
 	kmix \
-	kubuntu-desktop \
-	terminator && \
+	konsole \
+	kubuntu-desktop && \
  echo "**** cleanup ****" && \
  apt-get autoclean && \
  rm -rf \
