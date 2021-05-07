@@ -80,11 +80,14 @@ gir1.2-gdkpixbuf-2.02.36.11-2
 gir1.2-glib-2.01.56.1-1
 gir1.2-goa-1.03.28.0-0ubuntu2.1
 gir1.2-gtk-3.03.22.30-1ubuntu4
+gir1.2-gtksource-3.03.24.7-1
 gir1.2-javascriptcoregtk-4.02.30.6-0ubuntu0.18.04.1
 gir1.2-mate-panel1.20.1-3ubuntu1
 gir1.2-matepanelapplet-4.01.20.1-3ubuntu1
 gir1.2-packagekitglib-1.01.1.9-1ubuntu2.18.04.6
 gir1.2-pango-1.01.40.14-1ubuntu0.1
+gir1.2-peas-1.01.22.0-2
+gir1.2-pluma-1.01.20.1-3ubuntu1
 gir1.2-snapd-11.49-0ubuntu0.18.04.2
 gir1.2-soup-2.42.62.1-1ubuntu0.4
 gir1.2-vte-2.910.52.2-1ubuntu1~18.04.2
@@ -156,7 +159,6 @@ libatasmart40.19-4
 libatk1.0-02.28.1-1
 libatk1.0-data2.28.1-1
 libatk-bridge2.0-02.26.2-1
-libatkmm-1.6-1v52.24.2-3
 libatspi2.0-02.28.0-1
 libattr11:2.4.47-2build1
 libaudit11:2.8.2-1ubuntu1.1
@@ -182,7 +184,6 @@ libcaca00.99.beta19-2ubuntu0.18.04.2
 libcairo21.15.10-2ubuntu0.1
 libcairo-gobject21.15.10-2ubuntu0.1
 libcairo-gobject-perl1.004-2build3
-libcairomm-1.0-1v51.12.2-3
 libcairo-perl1.106-2build2
 libcaja-extension11.20.2-4ubuntu1
 libcanberra00.30-5ubuntu1
@@ -268,7 +269,6 @@ libglapi-mesa20.0.8-0ubuntu1~18.04.1
 libglib2.0-02.56.4-0ubuntu0.18.04.8
 libglib2.0-bin2.56.4-0ubuntu0.18.04.8
 libglib2.0-data2.56.4-0ubuntu0.18.04.8
-libglibmm-2.4-1v52.56.0-1
 libglib-object-introspection-perl0.044-2
 libglib-perl3:1.326-1build1
 libglu1-mesa9.0.0-2.1build1
@@ -300,7 +300,6 @@ libgtk2.0-common2.24.32-1ubuntu1
 libgtk-3-03.22.30-1ubuntu4
 libgtk-3-common3.22.30-1ubuntu4
 libgtk3-perl0.032-1
-libgtkmm-3.0-1v53.22.2-2
 libgtksourceview-3.0-13.24.7-1
 libgtksourceview-3.0-common3.24.7-1
 libgtop-2.0-112.38.0-2ubuntu0.18.04.1
@@ -404,11 +403,10 @@ libpam0g1.1.8-3.6ubuntu2.18.04.2
 libpam-modules1.1.8-3.6ubuntu2.18.04.2
 libpam-modules-bin1.1.8-3.6ubuntu2.18.04.2
 libpam-runtime1.1.8-3.6ubuntu2.18.04.2
-libpam-systemd237-3ubuntu10.46
+libpam-systemd237-3ubuntu10.47
 libpango-1.0-01.40.14-1ubuntu0.1
 libpangocairo-1.0-01.40.14-1ubuntu0.1
 libpangoft2-1.0-01.40.14-1ubuntu0.1
-libpangomm-1.4-1v52.40.1-4
 libpangoxft-1.0-01.40.14-1ubuntu0.1
 libpaper11.1.24+nmu5ubuntu1
 libparted23.2-20ubuntu0.2
@@ -417,6 +415,9 @@ libpci31:3.5.2-1ubuntu1.1
 libpciaccess00.14-1
 libpcre32:8.39-9
 libpcsclite11.8.23-1
+libpeas-1.0-01.22.0-2
+libpeas-1.0-python2loader1.22.0-2
+libpeas-common1.22.0-2
 libperl5.265.26.1-6ubuntu0.5
 libpipeline11.5.0-1
 libpixman-1-00.34.0-2
@@ -437,6 +438,7 @@ libpulse-mainloop-glib01:11.1-1ubuntu7.11
 libpython2.72.7.17-1~18.04ubuntu1.6
 libpython2.7-minimal2.7.17-1~18.04ubuntu1.6
 libpython2.7-stdlib2.7.17-1~18.04ubuntu1.6
+libpython3.63.6.9-1~18.04ubuntu1.4
 libpython3.6-minimal3.6.9-1~18.04ubuntu1.4
 libpython3.6-stdlib3.6.9-1~18.04ubuntu1.4
 libpython3-stdlib3.6.7-1~18.04
@@ -465,7 +467,6 @@ libsemanage-common2.7-2build2
 libsensors41:3.4.0-4
 libsepol12.7-1
 libshout32.4.1-2build1
-libsigc++-2.0-0v52.10.0-2
 libsigsegv22.12-1
 libslang22.3.1a-3ubuntu1
 libsm62:1.2.2-1
@@ -485,7 +486,7 @@ libssl1.0.01.0.2n-1ubuntu5.6
 libssl1.11.1.1-1ubuntu2.1~18.04.9
 libstartup-notification00.12-5
 libstdc++68.4.0-1ubuntu1~18.04
-libsystemd0237-3ubuntu10.46
+libsystemd0237-3ubuntu10.47
 libtag1v51.11.1+dfsg.1-0.2build2
 libtag1v5-vanilla1.11.1+dfsg.1-0.2build2
 libtalloc22.1.10-2ubuntu1
@@ -637,12 +638,13 @@ openssl1.1.1-1ubuntu2.1~18.04.9
 parted3.2-20ubuntu0.2
 passwd1:4.5-1ubuntu2
 patch2.7.6-2ubuntu1.1
-pavucontrol3.0-4
 pciutils1:3.5.2-1ubuntu1.1
 perl5.26.1-6ubuntu0.5
 perl-base5.26.1-6ubuntu0.5
 perl-modules-5.265.26.1-6ubuntu0.5
 pinentry-curses1.1.0-1
+pluma1.20.1-3ubuntu1
+pluma-common1.20.1-3ubuntu1
 policykit-10.105-20ubuntu0.18.04.5
 poppler-data0.4.8-2
 poppler-utils0.62.0-2ubuntu2.12
@@ -696,13 +698,9 @@ python3-urllib31.22-1ubuntu0.18.04.2
 python3-xkit0.5.0ubuntu2
 python3-yaml3.12-1build2
 python-apt-common1.6.5ubuntu0.5
-python-cairo1.16.2-1
-python-dbus1.2.6-1
 python-gi3.26.1-2ubuntu1
-python-gi-cairo3.26.1-2ubuntu1
 python-mate-menu1.20.0-2
 python-minimal2.7.15~rc1-1
-python-psutil5.4.2-1ubuntu0.1
 python-talloc2.1.10-2ubuntu1
 readline-common7.0-3
 rfkill2.31.1-0.4ubuntu3.7
@@ -717,11 +715,10 @@ sound-theme-freedesktop0.8-2ubuntu1
 spice-vdagent0.17.0-1ubuntu2.2
 ssl-cert1.0.39
 sudo1.8.21p2-3ubuntu1.4
-systemd237-3ubuntu10.46
-systemd-sysv237-3ubuntu10.46
+systemd237-3ubuntu10.47
+systemd-sysv237-3ubuntu10.47
 sysvinit-utils2.88dsf-59.10ubuntu1
 tar1.29b-2ubuntu0.2
-terminator1.91-1
 tzdata2021a-0ubuntu0.18.04
 ubuntu-drivers-common1:0.8.6.3~0.18.04.1
 ubuntu-keyring2018.09.18.1~18.04.2
