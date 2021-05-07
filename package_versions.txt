@@ -1,7 +1,7 @@
 adduser3.118ubuntu2
 adwaita-icon-theme3.36.1-2ubuntu0.20.04.2
 alsa-base1.0.25+dfsg-0ubuntu5
-alsa-utils1.2.2-1ubuntu2
+alsa-utils1.2.2-1ubuntu2.1
 anacron2.3-29
 apt2.0.5
 apt-transport-https2.0.5
@@ -18,6 +18,7 @@ bsdmainutils11.1.2ubuntu3
 bsdutils1:2.34-0.1ubuntu9.1
 bzip21.0.8-2
 ca-certificates20210119~20.04.1
+catdoc1:0.95-4.1
 coreutils8.30-3ubuntu2
 cpp4:9.3.0-1ubuntu2
 cpp-99.3.0-17ubuntu1~20.04
@@ -38,6 +39,7 @@ dmidecode3.2-3
 docbook-xml4.5-9
 docbook-xsl1.79.1+dfsg-2
 docker-ce-cli5:20.10.6~3-0~ubuntu-bionic
+dolphin4:19.12.3-0ubuntu1
 dpkg1.19.7ubuntu3
 drkonqi5.18.5-0ubuntu0.1
 e2fsprogs1.45.5-2ubuntu1
@@ -60,14 +62,8 @@ gdisk1.0.5-1
 genisoimage9:1.1.11-3.1ubuntu1
 ghostscript9.50~dfsg-5ubuntu4.2
 ghostscript-x9.50~dfsg-5ubuntu4.2
-gir1.2-atk-1.02.35.1-1ubuntu2
-gir1.2-freedesktop1.64.1-1~ubuntu20.04.1
-gir1.2-gdkpixbuf-2.02.40.0+dfsg-3ubuntu0.2
 gir1.2-glib-2.01.64.1-1~ubuntu20.04.1
-gir1.2-gtk-3.03.24.20-0ubuntu1
 gir1.2-packagekitglib-1.01.1.13-2ubuntu1.1
-gir1.2-pango-1.01.44.7-2ubuntu4
-gir1.2-vte-2.910.60.3-0ubuntu1~20.04
 glib-networking2.64.2-1ubuntu0.1
 glib-networking-common2.64.2-1ubuntu0.1
 glib-networking-services2.64.2-1ubuntu0.1
@@ -95,6 +91,8 @@ init-system-helpers1.57
 inputattach1:1.7.0-1
 iso-codes4.4-1
 kactivitymanagerd5.18.4.1-0ubuntu1
+kate4:19.12.3-0ubuntu1
+kate5-data4:19.12.3-0ubuntu1
 kde-cli-tools4:5.18.4.1-0ubuntu1
 kde-cli-tools-data4:5.18.4.1-0ubuntu1
 kded55.68.0-0ubuntu1
@@ -112,12 +110,15 @@ kio-extras-data4:19.12.3a-0ubuntu2
 kmenuedit4:5.18.4.1-0ubuntu1
 kmix4:19.12.3-0ubuntu1
 kmod27-1ubuntu2
+konsole4:19.12.3-0ubuntu1
+konsole-kpart4:19.12.3-0ubuntu1
 kpackagetool55.68.0-0ubuntu1
 krb5-locales1.17-6ubuntu4.1
 ksysguard4:5.18.4.1-0ubuntu1
 ksysguardd4:5.18.4.1-0ubuntu1
 ksysguard-data4:5.18.4.1-0ubuntu1
 ktexteditor-data5.68.0-0ubuntu1
+ktexteditor-katepart5.68.0-0ubuntu1
 kubuntu-desktop1.398
 kubuntu-settings-desktop1:20.04.9
 kwayland-data4:5.68.0-0ubuntu1
@@ -148,7 +149,7 @@ libatasmart40.19-5
 libatk1.0-02.35.1-1ubuntu2
 libatk1.0-data2.35.1-1ubuntu2
 libatk-bridge2.0-02.34.2-0ubuntu2~20.04.1
-libatopology21.2.2-2.1ubuntu2.3
+libatopology21.2.2-2.1ubuntu2.4
 libatspi2.0-02.36.0-2
 libattr11:2.4.48-5
 libaudit11:2.8.5-2ubuntu6
@@ -207,6 +208,7 @@ libdebconfclient00.251ubuntu1
 libdebconf-kde11.0.3-3
 libdevmapper1.02.12:1.02.167-1ubuntu1
 libdmtx0b0.7.5-3
+libdolphinvcs54:19.12.3-0ubuntu1
 libdouble-conversion33.1.5-4ubuntu1
 libdrm22.4.102-1ubuntu1~20.04.1
 libdrm-amdgpu12.4.102-1ubuntu1~20.04.1
@@ -225,8 +227,10 @@ libegl11.3.2-1~ubuntu0.20.04.1
 libegl-mesa020.2.6-0ubuntu0.20.04.1
 libelf10.176-1.1build1
 libepoxy01.5.4-1
+libepub00.2.2-4ubuntu2
 libevdev21.9.0+dfsg-1ubuntu0.1
 libevent-2.1-72.1.11-stable-1
+libexiv2-270.27.2-8ubuntu2
 libexpat12.2.9-1build1
 libext2fs21.45.5-2ubuntu1
 libfaad22.9.1-1
@@ -328,6 +332,8 @@ libkf5authcore55.68.0-0ubuntu1
 libkf5auth-data5.68.0-0ubuntu1
 libkf5baloo55.68.0-0ubuntu1
 libkf5balooengine55.68.0-0ubuntu1
+libkf5baloowidgets54:19.12.3-0ubuntu1
+libkf5baloowidgets-data4:19.12.3-0ubuntu1
 libkf5bluezqt65.68.0-0ubuntu1
 libkf5bluezqt-data5.68.0-0ubuntu1
 libkf5bookmarks55.68.0-0ubuntu1
@@ -357,6 +363,7 @@ libkf5emoticons55.68.0-0ubuntu1
 libkf5emoticons-bin5.68.0-0ubuntu1
 libkf5emoticons-data5.68.0-0ubuntu1
 libkf5filemetadata35.68.0-0ubuntu1
+libkf5filemetadata-bin5.68.0-0ubuntu1
 libkf5filemetadata-data5.68.0-0ubuntu1
 libkf5globalaccel55.68.0-0ubuntu1
 libkf5globalaccel-bin5.68.0-0ubuntu1
@@ -528,7 +535,6 @@ libpam-systemd245.4-4ubuntu3.6
 libpango-1.0-01.44.7-2ubuntu4
 libpangocairo-1.0-01.44.7-2ubuntu4
 libpangoft2-1.0-01.44.7-2ubuntu4
-libpangoxft-1.0-01.44.7-2ubuntu4
 libpaper11.1.28
 libparted23.3-4ubuntu0.20.04.1
 libparted-fs-resize03.3-4ubuntu0.20.04.1
@@ -550,6 +556,8 @@ libpng16-161.6.37-2
 libpolkit-agent-1-00.105-26ubuntu1
 libpolkit-gobject-1-00.105-26ubuntu1
 libpolkit-qt5-1-10.113.0-0ubuntu2
+libpoppler970.86.1-0ubuntu1
+libpoppler-qt5-10.86.1-0ubuntu1
 libpopt01.16-14
 libpostproc557:4.2.4-1ubuntu0.1
 libpowerdevilcore24:5.18.4.1-0ubuntu1
@@ -690,11 +698,9 @@ libvorbis0a1.3.6-2ubuntu1
 libvorbisenc21.3.6-2ubuntu1
 libvorbisfile31.3.6-2ubuntu1
 libvpx61.8.2-1build1
-libvte-2.91-00.60.3-0ubuntu1~20.04
-libvte-2.91-common0.60.3-0ubuntu1~20.04
 libvulkan11.2.131.2-1
-libwacom21.3-2ubuntu1
-libwacom-common1.3-2ubuntu1
+libwacom21.3-2ubuntu3
+libwacom-common1.3-2ubuntu3
 libwavpack15.2.0-1ubuntu0.1
 libwayland-client01.18.0-1
 libwayland-cursor01.18.0-1
@@ -776,11 +782,12 @@ libxvidcore42:1.3.7-1
 libxxf86dga12:1.1.5-0ubuntu1
 libxxf86vm11:1.1.4-1build1
 libyaml-0-20.2.2-1
+libzip51.5.1-0ubuntu1
 libzstd11.4.4+dfsg-3ubuntu0.1
 libzvbi00.2.35-17
 libzvbi-common0.2.35-17
 linux-sound-base1.0.25+dfsg-0ubuntu5
-locales2.31-0ubuntu9.3
+locales2.31-0ubuntu9.2
 login1:4.8.1-1ubuntu5.20.04
 logsave1.45.5-2ubuntu1
 lsb-base11.1.0ubuntu2
@@ -827,16 +834,14 @@ pulseaudio-utils1:13.99.1-1ubuntu3.10
 python33.8.2-0ubuntu2
 python3.83.8.5-1~20.04.2
 python3.8-minimal3.8.5-1~20.04.2
-python3-apport2.20.11-0ubuntu27.16
+python3-apport2.20.11-0ubuntu27.17
 python3-apt2.0.0ubuntu0.20.04.4
 python3-blinker1.4+dfsg1-0.3ubuntu1
-python3-cairo1.16.2-2ubuntu2
 python3-certifi2019.11.28-1
 python3-cffi-backend1.14.0-1build1
 python3-chardet3.0.4-4build1
 python3-click7.0-3
 python3-colorama0.4.3-1build1
-python3-configobj5.0.6-4
 python3-cryptography2.8-3ubuntu0.1
 python3-dbus1.2.16-1build1
 python3-distro1.4.0-1
@@ -844,7 +849,6 @@ python3-distro-info0.23ubuntu1
 python3-distupgrade1:20.04.32
 python3-entrypoints0.3-2ubuntu1
 python3-gi3.36.0-1
-python3-gi-cairo3.36.0-1
 python3-httplib20.14.0-1ubuntu1
 python3-idna2.8-1
 python3-jwt1.7.1-2ubuntu2
@@ -855,8 +859,7 @@ python3-lazr.uri1.0.3-4build1
 python3-minimal3.8.2-0ubuntu2
 python3-oauthlib3.1.0-1ubuntu2
 python3-pkg-resources45.2.0-1
-python3-problem-report2.20.11-0ubuntu27.16
-python3-psutil5.5.1-1ubuntu4
+python3-problem-report2.20.11-0ubuntu27.17
 python3-pyqt55.14.1+dfsg-3build1
 python3-requests2.22.0-2ubuntu1
 python3-requests-unixsocket0.2.0-2
@@ -866,7 +869,7 @@ python3-sip4.19.21+dfsg-1build1
 python3-six1.14.0-2
 python3-software-properties0.98.9.4
 python3-talloc2.3.0-3ubuntu1
-python3-update-manager1:20.04.10.6
+python3-update-manager1:20.04.10.7
 python3-urllib31.25.8-2ubuntu0.1
 python3-wadllib1.3.3-3build1
 python3-xkit0.5.0ubuntu4
@@ -921,7 +924,6 @@ systemd-timesyncd245.4-4ubuntu3.6
 systemsettings4:5.18.4.1-0ubuntu1
 sysvinit-utils2.96-2.1ubuntu1
 tar1.30+dfsg-7ubuntu0.20.04.1
-terminator1.91-4ubuntu1
 tzdata2021a-0ubuntu0.20.04
 ubuntu-drivers-common1:0.8.6.5~0.20.04.1
 ubuntu-keyring2020.02.11.4
