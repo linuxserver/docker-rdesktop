@@ -35,12 +35,11 @@ exo-libs-4.16.0-r0
 expat-2.2.10-r1
 faenza-icon-theme-1.3.1-r6
 faenza-icon-theme-bash-1.3.1-r6
-faenza-icon-theme-firefox-1.3.1-r6
 faenza-icon-theme-thunar-1.3.1-r6
 faenza-icon-theme-xfce4-appfinder-1.3.1-r6
 faenza-icon-theme-xfce4-panel-1.3.1-r6
 faenza-icon-theme-xterm-1.3.1-r6
-firefox-88.0-r0
+firefox-esr-78.10.0-r0
 flac-1.3.3-r0
 font-alias-1.0.3-r1
 font-cursor-misc-1.0.3-r1
@@ -194,7 +193,6 @@ readline-8.1.0-r0
 runc-1.0.0_rc93-r0
 s6-ipcserver-2.10.0.0-r0
 scanelf-1.2.8-r0
-setxkbmap-1.3.2-r0
 shadow-4.8.1-r0
 shared-mime-info-2.0-r0
 skalibs-2.10.0.0-r0
