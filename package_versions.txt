@@ -2,7 +2,7 @@ accountsservice0.6.55-0ubuntu12~20.04.4
 adduser3.118ubuntu2
 adwaita-icon-theme3.36.1-2ubuntu0.20.04.2
 alsa-base1.0.25+dfsg-0ubuntu5
-alsa-utils1.2.2-1ubuntu2
+alsa-utils1.2.2-1ubuntu2.1
 anacron2.3-29
 apt2.0.5
 aptdaemon1.1.1+bzr982-0ubuntu32.3
@@ -84,10 +84,13 @@ gir1.2-gdkpixbuf-2.02.40.0+dfsg-3ubuntu0.2
 gir1.2-glib-2.01.64.1-1~ubuntu20.04.1
 gir1.2-goa-1.03.36.0-1ubuntu1
 gir1.2-gtk-3.03.24.20-0ubuntu1
+gir1.2-gtksource-3.03.24.11-2
 gir1.2-javascriptcoregtk-4.02.30.6-0ubuntu0.20.04.1
 gir1.2-matemenu-2.01.24.0-1
 gir1.2-packagekitglib-1.01.1.13-2ubuntu1.1
 gir1.2-pango-1.01.44.7-2ubuntu4
+gir1.2-peas-1.01.26.0-2
+gir1.2-pluma-1.01.24.0-1
 gir1.2-snapd-11.58-0ubuntu0.20.04.0
 gir1.2-soup-2.42.70.0-1
 gir1.2-vte-2.910.60.3-0ubuntu1~20.04
@@ -158,8 +161,7 @@ libatasmart40.19-5
 libatk1.0-02.35.1-1ubuntu2
 libatk1.0-data2.35.1-1ubuntu2
 libatk-bridge2.0-02.34.2-0ubuntu2~20.04.1
-libatkmm-1.6-1v52.28.0-2build1
-libatopology21.2.2-2.1ubuntu2.3
+libatopology21.2.2-2.1ubuntu2.4
 libatspi2.0-02.36.0-2
 libattr11:2.4.48-5
 libaudit11:2.8.5-2ubuntu6
@@ -185,7 +187,6 @@ libcaca00.99.beta19-2.1ubuntu1.20.04.1
 libcairo21.16.0-4ubuntu1
 libcairo-gobject21.16.0-4ubuntu1
 libcairo-gobject-perl1.005-2
-libcairomm-1.0-1v51.12.2-4build1
 libcairo-perl1.107-1
 libcaja-extension11.24.0-1
 libcanberra00.30-7ubuntu1
@@ -232,6 +233,7 @@ libedit23.1-20191231-1
 libegl11.3.2-1~ubuntu0.20.04.1
 libegl-mesa020.2.6-0ubuntu0.20.04.1
 libelf10.176-1.1build1
+libenchant1c2a1.6.0-11.3build1
 libenchant-2-22.2.8-1ubuntu0.20.04.1
 libepoxy01.5.4-1
 libexempi82.5.1-1build1
@@ -272,7 +274,6 @@ libgles21.3.2-1~ubuntu0.20.04.1
 libglib2.0-02.64.6-1~ubuntu20.04.3
 libglib2.0-bin2.64.6-1~ubuntu20.04.3
 libglib2.0-data2.64.6-1~ubuntu20.04.3
-libglibmm-2.4-1v52.64.2-1
 libglib-object-introspection-perl0.048-2build1
 libglib-perl3:1.329.2-1
 libglu1-mesa9.0.1-1build1
@@ -303,7 +304,6 @@ libgtk-3-03.24.20-0ubuntu1
 libgtk-3-common3.24.20-0ubuntu1
 libgtk3-perl0.037-1
 libgtk-layer-shell00.1.0-3
-libgtkmm-3.0-1v53.24.2-1build1
 libgtksourceview-3.0-13.24.11-2
 libgtksourceview-3.0-common3.24.11-2
 libgtop-2.0-112.40.0-2
@@ -412,7 +412,6 @@ libpam-systemd245.4-4ubuntu3.6
 libpango-1.0-01.44.7-2ubuntu4
 libpangocairo-1.0-01.44.7-2ubuntu4
 libpangoft2-1.0-01.44.7-2ubuntu4
-libpangomm-1.4-1v52.42.0-2build1
 libpangoxft-1.0-01.44.7-2ubuntu4
 libpaper11.1.28
 libparted23.3-4ubuntu0.20.04.1
@@ -422,6 +421,8 @@ libpciaccess00.16-0ubuntu1
 libpcre2-8-010.34-7
 libpcre32:8.39-12build1
 libpcsclite11.8.26-3
+libpeas-1.0-01.26.0-2
+libpeas-common1.26.0-2
 libperl5.305.30.0-9ubuntu0.2
 libpipeline11.5.2-2build1
 libpixman-1-00.38.4-0ubuntu1
@@ -468,7 +469,6 @@ libsensors51:3.6.0-2ubuntu1
 libsensors-config1:3.6.0-2ubuntu1
 libsepol13.0-1
 libshout32.4.3-1
-libsigc++-2.0-0v52.10.2-1build1
 libsigsegv22.12-2
 libslang22.3.2-4
 libsm62:1.2.3-1
@@ -592,7 +592,7 @@ libyaml-0-20.2.2-1
 libyelp03.36.0-1
 libzstd11.4.4+dfsg-3ubuntu0.1
 linux-sound-base1.0.25+dfsg-0ubuntu5
-locales2.31-0ubuntu9.3
+locales2.31-0ubuntu9.2
 login1:4.8.1-1ubuntu5.20.04
 logsave1.45.5-2ubuntu1
 lsb-base11.1.0ubuntu2
@@ -647,7 +647,6 @@ packagekit1.1.13-2ubuntu1.1
 parted3.3-4ubuntu0.20.04.1
 passwd1:4.8.1-1ubuntu5.20.04
 patch2.7.6-6
-pavucontrol4.0-1build1
 pci.ids0.0~2020.03.20-1
 pciutils1:3.6.4-1ubuntu0.20.04.1
 perl5.30.0-9ubuntu0.2
@@ -655,6 +654,8 @@ perl-base5.30.0-9ubuntu0.2
 perl-modules-5.305.30.0-9ubuntu0.2
 pinentry-curses1.1.0-3build1
 pkg-config0.29.1-0ubuntu4
+pluma1.24.0-1
+pluma-common1.24.0-1
 policykit-10.105-26ubuntu1
 poppler-data0.4.9-2
 poppler-utils0.86.1-0ubuntu1
@@ -670,18 +671,16 @@ pulseaudio-utils1:13.99.1-1ubuntu3.10
 python33.8.2-0ubuntu2
 python3.83.8.5-1~20.04.2
 python3.8-minimal3.8.5-1~20.04.2
-python3-apport2.20.11-0ubuntu27.16
+python3-apport2.20.11-0ubuntu27.17
 python3-apt2.0.0ubuntu0.20.04.4
 python3-aptdaemon1.1.1+bzr982-0ubuntu32.3
 python3-aptdaemon.gtk3widgets1.1.1+bzr982-0ubuntu32.3
 python3-blinker1.4+dfsg1-0.3ubuntu1
-python3-cairo1.16.2-2ubuntu2
 python3-certifi2019.11.28-1
 python3-cffi-backend1.14.0-1build1
 python3-chardet3.0.4-4build1
 python3-click7.0-3
 python3-colorama0.4.3-1build1
-python3-configobj5.0.6-4
 python3-cryptography2.8-3ubuntu0.1
 python3-dateutil2.7.3-3ubuntu1
 python3-dbus1.2.16-1build1
@@ -693,7 +692,6 @@ python3-distro-info0.23ubuntu1
 python3-distupgrade1:20.04.32
 python3-entrypoints0.3-2ubuntu1
 python3-gi3.36.0-1
-python3-gi-cairo3.36.0-1
 python3-httplib20.14.0-1ubuntu1
 python3-idna2.8-1
 python3-jwt1.7.1-2ubuntu2
@@ -704,8 +702,7 @@ python3-lazr.uri1.0.3-4build1
 python3-minimal3.8.2-0ubuntu2
 python3-oauthlib3.1.0-1ubuntu2
 python3-pkg-resources45.2.0-1
-python3-problem-report2.20.11-0ubuntu27.16
-python3-psutil5.5.1-1ubuntu4
+python3-problem-report2.20.11-0ubuntu27.17
 python3-requests2.22.0-2ubuntu1
 python3-requests-unixsocket0.2.0-2
 python3-secretstorage2.3.1-2ubuntu1
@@ -713,7 +710,7 @@ python3-simplejson3.16.0-2ubuntu2
 python3-six1.14.0-2
 python3-software-properties0.98.9.4
 python3-talloc2.3.0-3ubuntu1
-python3-update-manager1:20.04.10.6
+python3-update-manager1:20.04.10.7
 python3-urllib31.25.8-2ubuntu0.1
 python3-wadllib1.3.3-3build1
 python3-xkit0.5.0ubuntu4
@@ -736,7 +733,6 @@ systemd-sysv245.4-4ubuntu3.6
 systemd-timesyncd245.4-4ubuntu3.6
 sysvinit-utils2.96-2.1ubuntu1
 tar1.30+dfsg-7ubuntu0.20.04.1
-terminator1.91-4ubuntu1
 tzdata2021a-0ubuntu0.20.04
 ubuntu-drivers-common1:0.8.6.5~0.20.04.1
 ubuntu-keyring2020.02.11.4
@@ -757,8 +753,8 @@ ucf3.0038+nmu1
 udev245.4-4ubuntu3.6
 udisks22.8.4-1ubuntu1
 unzip6.0-25ubuntu1
-update-manager1:20.04.10.6
-update-manager-core1:20.04.10.6
+update-manager1:20.04.10.7
+update-manager-core1:20.04.10.7
 update-notifier3.192.30.7
 update-notifier-common3.192.30.7
 upower0.99.11-1build2
