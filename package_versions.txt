@@ -18,6 +18,7 @@ bsdmainutils11.1.2ubuntu1
 bsdutils1:2.31.1-0.4ubuntu3.7
 bzip21.0.6-8.1ubuntu0.2
 ca-certificates20210119~18.04.1
+catdoc1:0.95-4.1
 coreutils8.28-1ubuntu1
 cpp4:7.4.0-1ubuntu2.3
 cpp-77.5.0-3ubuntu1~18.04
@@ -35,6 +36,7 @@ distro-info-data0.37ubuntu0.10
 docbook-xml4.5-8
 docbook-xsl1.79.1+dfsg-2
 docker-ce-cli5:20.10.6~3-0~ubuntu-bionic
+dolphin4:17.12.3-0ubuntu1
 dpkg1.19.0.5ubuntu2.3
 e2fsprogs1.44.1-1ubuntu1.3
 fdisk2.31.1-0.4ubuntu3.7
@@ -55,13 +57,7 @@ gdisk1.0.3-1
 genisoimage9:1.1.11-3ubuntu2
 ghostscript9.26~dfsg+0-0ubuntu0.18.04.14
 ghostscript-x9.26~dfsg+0-0ubuntu0.18.04.14
-gir1.2-atk-1.02.28.1-1
-gir1.2-freedesktop1.56.1-1
-gir1.2-gdkpixbuf-2.02.36.11-2
 gir1.2-glib-2.01.56.1-1
-gir1.2-gtk-3.03.22.30-1ubuntu4
-gir1.2-pango-1.01.40.14-1ubuntu0.1
-gir1.2-vte-2.910.52.2-1ubuntu1~18.04.2
 glib-networking2.56.0-1ubuntu0.1
 glib-networking-common2.56.0-1ubuntu0.1
 glib-networking-services2.56.0-1ubuntu0.1
@@ -89,6 +85,8 @@ init-system-helpers1.51
 inputattach1:1.6.0-2
 iso-codes3.79-1
 kactivitymanagerd5.12.8-0ubuntu0.1
+kate4:17.12.3-0ubuntu1
+kate5-data4:17.12.3-0ubuntu1
 kde-cli-tools4:5.12.8-0ubuntu0.1
 kde-cli-tools-data4:5.12.8-0ubuntu0.1
 kded55.44.0-0ubuntu1
@@ -106,12 +104,15 @@ kio-extras-data4:17.12.3-0ubuntu2
 kmenuedit4:5.12.8-0ubuntu0.1
 kmix4:17.12.3-0ubuntu1
 kmod24-1ubuntu3.5
+konsole4:17.12.3-1ubuntu1
+konsole-kpart4:17.12.3-1ubuntu1
 kpackagetool55.44.0-0ubuntu1
 krb5-locales1.16-2ubuntu0.2
 ksysguard4:5.12.9-0ubuntu0.1
 ksysguardd4:5.12.9-0ubuntu0.1
 ksysguard-data4:5.12.9-0ubuntu0.1
 ktexteditor-data5.44.0-0ubuntu2
+ktexteditor-katepart5.44.0-0ubuntu2
 kubuntu-desktop1.370
 kwayland-data4:5.44.0-0ubuntu1
 kwin4:5.12.9.1-0ubuntu0.1
@@ -200,6 +201,7 @@ libdconf10.26.0-2ubuntu3
 libdebconfclient00.213ubuntu1
 libdevmapper1.02.12:1.02.145-4.1ubuntu3.18.04.3
 libdmtx0a0.7.4-2
+libdolphinvcs54:17.12.3-0ubuntu1
 libdouble-conversion12.0.1-4ubuntu1
 libdrm22.4.101-2~18.04.1
 libdrm-amdgpu12.4.101-2~18.04.1
@@ -219,8 +221,10 @@ libegl1-mesa20.0.8-0ubuntu1~18.04.1
 libegl-mesa020.0.8-0ubuntu1~18.04.1
 libelf10.170-0.4ubuntu0.1
 libepoxy01.4.3-1
+libepub00.2.2-4ubuntu1
 libevdev21.5.8+dfsg-1ubuntu0.1
 libevent-2.1-62.1.8-stable-4build1
+libexiv2-140.25-3.1ubuntu0.18.04.5
 libexpat12.2.5-3ubuntu0.2
 libext2fs21.44.1-1ubuntu1.3
 libfaad22.8.8-1
@@ -318,6 +322,9 @@ libkf5auth55.44.0-0ubuntu1
 libkf5auth-data5.44.0-0ubuntu1
 libkf5baloo55.44.0-0ubuntu1
 libkf5balooengine55.44.0-0ubuntu1
+libkf5baloowidgets54:17.12.3-0ubuntu1
+libkf5baloowidgets-bin4:17.12.3-0ubuntu1
+libkf5baloowidgets-data4:17.12.3-0ubuntu1
 libkf5bluezqt65.44.0-0ubuntu1
 libkf5bluezqt-data5.44.0-0ubuntu1
 libkf5bookmarks55.44.0-0ubuntu1
@@ -346,6 +353,7 @@ libkf5emoticons55.44.0-0ubuntu1
 libkf5emoticons-bin5.44.0-0ubuntu1
 libkf5emoticons-data5.44.0-0ubuntu1
 libkf5filemetadata35.44.0-0ubuntu1
+libkf5filemetadata-bin5.44.0-0ubuntu1
 libkf5filemetadata-data5.44.0-0ubuntu1
 libkf5globalaccel55.44.0-0ubuntu1
 libkf5globalaccel-bin5.44.0-0ubuntu1
@@ -508,11 +516,10 @@ libpam0g1.1.8-3.6ubuntu2.18.04.2
 libpam-modules1.1.8-3.6ubuntu2.18.04.2
 libpam-modules-bin1.1.8-3.6ubuntu2.18.04.2
 libpam-runtime1.1.8-3.6ubuntu2.18.04.2
-libpam-systemd237-3ubuntu10.46
+libpam-systemd237-3ubuntu10.47
 libpango-1.0-01.40.14-1ubuntu0.1
 libpangocairo-1.0-01.40.14-1ubuntu0.1
 libpangoft2-1.0-01.40.14-1ubuntu0.1
-libpangoxft-1.0-01.40.14-1ubuntu0.1
 libpaper11.1.24+nmu5ubuntu1
 libparted23.2-20ubuntu0.2
 libparted-fs-resize03.2-20ubuntu0.2
@@ -531,6 +538,8 @@ libpolkit-agent-1-00.105-20ubuntu0.18.04.5
 libpolkit-backend-1-00.105-20ubuntu0.18.04.5
 libpolkit-gobject-1-00.105-20ubuntu0.18.04.5
 libpolkit-qt5-1-10.112.0-5
+libpoppler730.62.0-2ubuntu2.12
+libpoppler-qt5-10.62.0-2ubuntu2.12
 libpopt01.16-11
 libpostproc547:3.4.8-0ubuntu0.2
 libpowerdevilcore24:5.12.8-0ubuntu0.1
@@ -552,7 +561,6 @@ libpython3.63.6.9-1~18.04ubuntu1.4
 libpython3.6-minimal3.6.9-1~18.04ubuntu1.4
 libpython3.6-stdlib3.6.9-1~18.04ubuntu1.4
 libpython3-stdlib3.6.7-1~18.04
-libpython-stdlib2.7.15~rc1-1
 libqalculate60.9.10-1
 libqalculate6-data0.9.10-1
 libqapt33.0.4-0ubuntu1
@@ -645,7 +653,7 @@ libstdc++68.4.0-1ubuntu1~18.04
 libstemmer0d0+svn585-1build1
 libswresample27:3.4.8-0ubuntu0.2
 libswscale47:3.4.8-0ubuntu0.2
-libsystemd0237-3ubuntu10.46
+libsystemd0237-3ubuntu10.47
 libtag1v51.11.1+dfsg.1-0.2build2
 libtag1v5-vanilla1.11.1+dfsg.1-0.2build2
 libtalloc22.1.10-2ubuntu1
@@ -678,8 +686,6 @@ libvorbis0a1.3.5-4.2
 libvorbisenc21.3.5-4.2
 libvorbisfile31.3.5-4.2
 libvpx51.7.0-3ubuntu0.18.04.1
-libvte-2.91-00.52.2-1ubuntu1~18.04.2
-libvte-2.91-common0.52.2-1ubuntu1~18.04.2
 libvulkan11.1.70+dfsg1-1ubuntu0.18.04.1
 libwacom20.29-1
 libwacom-common0.29-1
@@ -763,6 +769,7 @@ libxvidcore42:1.3.5-1
 libxxf86dga12:1.1.4-1
 libxxf86vm11:1.1.4-1
 libyaml-0-20.1.7-2ubuntu3
+libzip41.1.2-1.1
 libzstd11.3.3+dfsg-2ubuntu1.2
 libzvbi00.2.35-13
 libzvbi-common0.2.35-13
@@ -808,9 +815,6 @@ procps2:3.3.12-3ubuntu1.2
 publicsuffix20180223.1310-1
 pulseaudio1:11.1-1ubuntu7.11
 pulseaudio-utils1:11.1-1ubuntu7.11
-python2.7.15~rc1-1
-python2.72.7.17-1~18.04ubuntu1.6
-python2.7-minimal2.7.17-1~18.04ubuntu1.6
 python33.6.7-1~18.04
 python3.63.6.9-1~18.04ubuntu1.4
 python3.6-minimal3.6.9-1~18.04ubuntu1.4
@@ -836,12 +840,6 @@ python3-software-properties0.96.24.32.14
 python3-urllib31.22-1ubuntu0.18.04.2
 python3-xkit0.5.0ubuntu2
 python-apt-common1.6.5ubuntu0.5
-python-cairo1.16.2-1
-python-dbus1.2.6-1
-python-gi3.26.1-2ubuntu1
-python-gi-cairo3.26.1-2ubuntu1
-python-minimal2.7.15~rc1-1
-python-psutil5.4.2-1ubuntu0.1
 python-talloc2.1.10-2ubuntu1
 qapt-batch3.0.4-0ubuntu1
 qdbus-qt55.9.5-0ubuntu1
@@ -887,12 +885,11 @@ sound-theme-freedesktop0.8-2ubuntu1
 spice-vdagent0.17.0-1ubuntu2.2
 ssl-cert1.0.39
 sudo1.8.21p2-3ubuntu1.4
-systemd237-3ubuntu10.46
-systemd-sysv237-3ubuntu10.46
+systemd237-3ubuntu10.47
+systemd-sysv237-3ubuntu10.47
 systemsettings4:5.12.8-0ubuntu0.1
 sysvinit-utils2.88dsf-59.10ubuntu1
 tar1.29b-2ubuntu0.2
-terminator1.91-1
 tzdata2021a-0ubuntu0.18.04
 ubuntu-drivers-common1:0.8.6.3~0.18.04.1
 ubuntu-keyring2018.09.18.1~18.04.2
