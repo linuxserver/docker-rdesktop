@@ -32,7 +32,7 @@ e2fsprogs1.44.1-1ubuntu1.3
 exo-utils0.12.2-0ubuntu0.18.04.1
 fdisk2.31.1-0.4ubuntu3.7
 findutils4.6.0+git+20170828-2
-firefox88.0+build2-0ubuntu0.18.04.2
+firefox88.0.1+build1-0ubuntu0.18.04.2
 fontconfig2.12.6-0ubuntu2
 fontconfig-config2.12.6-0ubuntu2
 fonts-dejavu-core2.37-1
@@ -287,7 +287,7 @@ libthai-data0.1.27-2
 libthunarx-2-01.6.15-0ubuntu1.18.04.1
 libtiff54.0.9-5ubuntu0.4
 libtinfo56.1-1ubuntu1.18.04
-libudev1237-3ubuntu10.46
+libudev1237-3ubuntu10.47
 libunistring20.9.9-0ubuntu2
 libupower-glib30.99.7-2ubuntu0.18.04.1
 libuuid12.31.1-0.4ubuntu3.7
@@ -417,7 +417,7 @@ tzdata2021a-0ubuntu0.18.04
 ubuntu-keyring2018.09.18.1~18.04.2
 ubuntu-mono16.10+18.04.20181005-0ubuntu1
 ucf3.0038
-udev237-3ubuntu10.46
+udev237-3ubuntu10.47
 util-linux2.31.1-0.4ubuntu3.7
 x11-apps7.7+6ubuntu1
 x11-common1:7.7+19ubuntu7.1
