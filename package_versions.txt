@@ -284,7 +284,7 @@ libgsm11.0.18-2
 libgssapi3-heimdal7.7.0+dfsg-1ubuntu1
 libgssapi-krb5-21.17-6ubuntu4.1
 libgstreamer1.0-01.16.2-2
-libgstreamer-plugins-base1.0-01.16.2-4
+libgstreamer-plugins-base1.0-01.16.2-4ubuntu0.1
 libgtk-3-03.24.20-0ubuntu1
 libgtk-3-common3.24.20-0ubuntu1
 libgudev-1.0-01:233-1
@@ -867,7 +867,7 @@ python3-secretstorage2.3.1-2ubuntu1
 python3-simplejson3.16.0-2ubuntu2
 python3-sip4.19.21+dfsg-1build1
 python3-six1.14.0-2
-python3-software-properties0.98.9.4
+python3-software-properties0.98.9.5
 python3-talloc2.3.0-3ubuntu1
 python3-update-manager1:20.04.10.7
 python3-urllib31.25.8-2ubuntu0.1
@@ -912,8 +912,8 @@ sensible-utils0.0.12+nmu1
 sgml-base1.29.1
 sgml-data2.0.11
 shared-mime-info1.15-1
-software-properties-common0.98.9.4
-software-properties-qt0.98.9.4
+software-properties-common0.98.9.5
+software-properties-qt0.98.9.5
 sound-theme-freedesktop0.8-2ubuntu1
 spice-vdagent0.19.0-2ubuntu0.2
 ssl-cert1.0.39
