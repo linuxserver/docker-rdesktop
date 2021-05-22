@@ -275,7 +275,7 @@ libgsm11.0.13-4build1
 libgssapi3-heimdal7.5.0+dfsg-1
 libgssapi-krb5-21.16-2ubuntu0.2
 libgstreamer1.0-01.14.5-0ubuntu1~18.04.2
-libgstreamer-plugins-base1.0-01.14.5-0ubuntu1~18.04.2
+libgstreamer-plugins-base1.0-01.14.5-0ubuntu1~18.04.3
 libgtk-3-03.22.30-1ubuntu4
 libgtk-3-common3.22.30-1ubuntu4
 libgudev-1.0-01:232-2
