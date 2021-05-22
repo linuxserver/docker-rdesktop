@@ -111,8 +111,8 @@ gpg-wks-server2.2.4-1ubuntu1.4
 grep3.1-2build1
 groff-base1.22.3-10
 gsettings-desktop-schemas3.28.0-1ubuntu1
-gstreamer1.0-alsa1.14.5-0ubuntu1~18.04.2
-gstreamer1.0-plugins-base1.14.5-0ubuntu1~18.04.2
+gstreamer1.0-alsa1.14.5-0ubuntu1~18.04.3
+gstreamer1.0-plugins-base1.14.5-0ubuntu1~18.04.3
 gstreamer1.0-plugins-good1.14.5-0ubuntu1~18.04.2
 gstreamer1.0-pulseaudio1.14.5-0ubuntu1~18.04.2
 gtk2-engines1:2.20.2-5
@@ -292,8 +292,8 @@ libgs9-common9.26~dfsg+0-0ubuntu0.18.04.14
 libgssapi3-heimdal7.5.0+dfsg-1
 libgssapi-krb5-21.16-2ubuntu0.2
 libgstreamer1.0-01.14.5-0ubuntu1~18.04.2
-libgstreamer-gl1.0-01.14.5-0ubuntu1~18.04.2
-libgstreamer-plugins-base1.0-01.14.5-0ubuntu1~18.04.2
+libgstreamer-gl1.0-01.14.5-0ubuntu1~18.04.3
+libgstreamer-plugins-base1.0-01.14.5-0ubuntu1~18.04.3
 libgstreamer-plugins-good1.0-01.14.5-0ubuntu1~18.04.2
 libgtk2.0-02.24.32-1ubuntu1
 libgtk2.0-common2.24.32-1ubuntu1
@@ -683,7 +683,7 @@ python3-httplib20.9.2+dfsg-1ubuntu0.3
 python3-idna2.6-1
 python3-minimal3.6.7-1~18.04
 python3-pexpect4.2.1-1
-python3-pil5.1.0-1ubuntu0.5
+python3-pil5.1.0-1ubuntu0.6
 python3-pkg-resources39.0.1-2
 python3-problem-report2.20.9-0ubuntu7.23
 python3-ptyprocess0.5.2-1
