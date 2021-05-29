@@ -291,7 +291,7 @@ libspeexdsp11.2~rc1.2-1.1ubuntu1
 libsqlite3-03.31.1-4ubuntu0.2
 libss21.45.5-2ubuntu1
 libssh-40.9.3-2ubuntu2.1
-libssl1.11.1.1f-1ubuntu2.3
+libssl1.11.1.1f-1ubuntu2.4
 libstartup-notification00.12-6
 libstdc++610.2.0-5ubuntu1~20.04
 libstemmer0d0+svn585-2
@@ -325,10 +325,10 @@ libwind0-heimdal7.7.0+dfsg-1ubuntu1
 libwnck-3-03.36.0-1
 libwnck-3-common3.36.0-1
 libwrap07.6.q-30
-libx11-62:1.6.9-2ubuntu1.1
-libx11-data2:1.6.9-2ubuntu1.1
-libx11-dev2:1.6.9-2ubuntu1.1
-libx11-xcb12:1.6.9-2ubuntu1.1
+libx11-62:1.6.9-2ubuntu1.2
+libx11-data2:1.6.9-2ubuntu1.2
+libx11-dev2:1.6.9-2ubuntu1.2
+libx11-xcb12:1.6.9-2ubuntu1.2
 libxau61:1.0.9-0ubuntu1
 libxau-dev1:1.0.9-0ubuntu1
 libxaw72:1.0.13-1
@@ -397,7 +397,7 @@ ncurses-base6.2-0ubuntu2
 ncurses-bin6.2-0ubuntu2
 numix-gtk-theme2.6.7-5
 openssh-client1:8.2p1-4ubuntu0.2
-openssl1.1.1f-1ubuntu2.3
+openssl1.1.1f-1ubuntu2.4
 packagekit1.1.13-2ubuntu1.1
 passwd1:4.8.1-1ubuntu5.20.04
 perl-base5.30.0-9ubuntu0.2
