@@ -282,10 +282,10 @@ libwayland-server01.16.0-1ubuntu1.1~18.04.3
 libwebrtc-audio-processing10.3-1
 libwind0-heimdal7.5.0+dfsg-1
 libwrap07.6.q-27
-libx11-62:1.6.4-3ubuntu0.3
-libx11-data2:1.6.4-3ubuntu0.3
-libx11-dev2:1.6.4-3ubuntu0.3
-libx11-xcb12:1.6.4-3ubuntu0.3
+libx11-62:1.6.4-3ubuntu0.4
+libx11-data2:1.6.4-3ubuntu0.4
+libx11-dev2:1.6.4-3ubuntu0.4
+libx11-xcb12:1.6.4-3ubuntu0.4
 libxau61:1.0.8-1ubuntu1
 libxau-dev1:1.0.8-1ubuntu1
 libxaw72:1.0.13-1
