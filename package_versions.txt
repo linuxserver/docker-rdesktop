@@ -306,10 +306,10 @@ libwnck-3-03.24.1-2
 libwnck-3-common3.24.1-2
 libwnck-common1:2.30.7-5.1ubuntu1
 libwrap07.6.q-27
-libx11-62:1.6.4-3ubuntu0.3
-libx11-data2:1.6.4-3ubuntu0.3
-libx11-dev2:1.6.4-3ubuntu0.3
-libx11-xcb12:1.6.4-3ubuntu0.3
+libx11-62:1.6.4-3ubuntu0.4
+libx11-data2:1.6.4-3ubuntu0.4
+libx11-dev2:1.6.4-3ubuntu0.4
+libx11-xcb12:1.6.4-3ubuntu0.4
 libxau61:1.0.8-1ubuntu1
 libxau-dev1:1.0.8-1ubuntu1
 libxaw72:1.0.13-1
