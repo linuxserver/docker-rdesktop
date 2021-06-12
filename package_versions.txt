@@ -481,7 +481,7 @@ liblmdb00.9.24-1
 liblocale-gettext-perl1.07-4
 libltdl72.4.6-14
 liblua5.2-05.2.4-1.1build3
-liblz4-11.9.2-2
+liblz4-11.9.2-2ubuntu0.20.04.1
 liblzma55.2.4-1ubuntu1
 libmad00.15.1b-10ubuntu1
 libmagic11:5.38-4
@@ -527,10 +527,10 @@ liborc-0.4-01:0.4.31-1
 libp11-kit00.23.20-1ubuntu0.1
 libpackagekit-glib2-181.1.13-2ubuntu1.1
 libpackagekitqt5-11.0.2-1
-libpam0g1.3.1-5ubuntu4.1
-libpam-modules1.3.1-5ubuntu4.1
-libpam-modules-bin1.3.1-5ubuntu4.1
-libpam-runtime1.3.1-5ubuntu4.1
+libpam0g1.3.1-5ubuntu4.2
+libpam-modules1.3.1-5ubuntu4.2
+libpam-modules-bin1.3.1-5ubuntu4.2
+libpam-runtime1.3.1-5ubuntu4.2
 libpam-systemd245.4-4ubuntu3.6
 libpango-1.0-01.44.7-2ubuntu4
 libpangocairo-1.0-01.44.7-2ubuntu4
@@ -553,8 +553,8 @@ libpixman-1-00.38.4-0ubuntu1
 libplacebo71.7.0-2
 libplasma-geolocation-interface54:5.18.5-0ubuntu0.1
 libpng16-161.6.37-2
-libpolkit-agent-1-00.105-26ubuntu1
-libpolkit-gobject-1-00.105-26ubuntu1
+libpolkit-agent-1-00.105-26ubuntu1.1
+libpolkit-gobject-1-00.105-26ubuntu1.1
 libpolkit-qt5-1-10.113.0-0ubuntu2
 libpoppler970.86.1-0ubuntu1
 libpoppler-qt5-10.86.1-0ubuntu1
@@ -820,7 +820,7 @@ plasma-desktop-data4:5.18.5-0ubuntu0.1
 plasma-framework5.68.0-0ubuntu1
 plasma-integration5.18.4.1-0ubuntu2
 plasma-workspace4:5.18.5-0ubuntu0.1
-policykit-10.105-26ubuntu1
+policykit-10.105-26ubuntu1.1
 polkit-kde-agent-14:5.18.4.1-0ubuntu1
 poppler-data0.4.9-2
 powerdevil4:5.18.4.1-0ubuntu1
