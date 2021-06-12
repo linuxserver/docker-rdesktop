@@ -129,7 +129,7 @@ libappstream40.12.0-3ubuntu1
 libappstreamqt20.12.0-3ubuntu1
 libapt-inst2.01.6.13
 libapt-pkg5.01.6.13
-libarchive133.2.2-3.1ubuntu0.6
+libarchive133.2.2-3.1ubuntu0.7
 libargon2-00~20161029-1.1
 libaribb24-01.0.3-1
 libasn1-8-heimdal7.5.0+dfsg-1
@@ -471,7 +471,7 @@ liblmdb00.9.21-1ubuntu0.1
 liblocale-gettext-perl1.07-3build2
 libltdl72.4.6-2
 liblua5.2-05.2.4-1.1build1
-liblz4-10.0~r131-2ubuntu3
+liblz4-10.0~r131-2ubuntu3.1
 liblzma55.2.2-1.3
 liblzo2-22.08-1.2
 libmad00.15.1b-9ubuntu18.04.1
@@ -512,10 +512,10 @@ libopus01.1.2-1ubuntu1
 liborc-0.4-01:0.4.28-1
 libp11-kit00.23.9-2ubuntu0.1
 libpackagekitqt5-11.0.1-1
-libpam0g1.1.8-3.6ubuntu2.18.04.2
-libpam-modules1.1.8-3.6ubuntu2.18.04.2
-libpam-modules-bin1.1.8-3.6ubuntu2.18.04.2
-libpam-runtime1.1.8-3.6ubuntu2.18.04.2
+libpam0g1.1.8-3.6ubuntu2.18.04.3
+libpam-modules1.1.8-3.6ubuntu2.18.04.3
+libpam-modules-bin1.1.8-3.6ubuntu2.18.04.3
+libpam-runtime1.1.8-3.6ubuntu2.18.04.3
 libpam-systemd237-3ubuntu10.47
 libpango-1.0-01.40.14-1ubuntu0.1
 libpangocairo-1.0-01.40.14-1ubuntu0.1
