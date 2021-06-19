@@ -31,7 +31,7 @@ dunst1.4.1-1
 e2fsprogs1.45.5-2ubuntu1
 fdisk2.34-0.1ubuntu9.1
 findutils4.7.0-1ubuntu1
-firefox89.0+build2-0ubuntu0.20.04.2
+firefox89.0.1+build1-0ubuntu0.20.04.1
 fontconfig2.13.1-2ubuntu3
 fontconfig-config2.13.1-2ubuntu3
 fonts-dejavu-core2.37-1
@@ -235,7 +235,7 @@ libpam0g1.3.1-5ubuntu4.2
 libpam-modules1.3.1-5ubuntu4.2
 libpam-modules-bin1.3.1-5ubuntu4.2
 libpam-runtime1.3.1-5ubuntu4.2
-libpam-systemd245.4-4ubuntu3.6
+libpam-systemd245.4-4ubuntu3.7
 libpango-1.0-01.44.7-2ubuntu4
 libpangocairo-1.0-01.44.7-2ubuntu4
 libpangoft2-1.0-01.44.7-2ubuntu4
@@ -290,7 +290,7 @@ libssl1.11.1.1f-1ubuntu2.4
 libstartup-notification00.12-6
 libstdc++610.2.0-5ubuntu1~20.04
 libstemmer0d0+svn585-2
-libsystemd0245.4-4ubuntu3.6
+libsystemd0245.4-4ubuntu3.7
 libtasn1-64.16.0-2
 libtdb11.4.2-3build1
 libthai00.1.28-3
@@ -299,7 +299,7 @@ libtiff54.1.0+git191117-2ubuntu0.20.04.1
 libtinfo66.2-0ubuntu2
 libtypes-serialiser-perl1.0-1
 libuchardet00.0.6-3build1
-libudev1245.4-4ubuntu3.6
+libudev1245.4-4ubuntu3.7
 libunistring20.9.10-2
 libunwind81.2.1-9build1
 libutempter01.1.6-4
@@ -425,16 +425,16 @@ sound-theme-freedesktop0.8-2ubuntu1
 ssl-cert1.0.39
 suckless-tools44-1
 sudo1.8.31-1ubuntu1.2
-systemd245.4-4ubuntu3.6
-systemd-sysv245.4-4ubuntu3.6
-systemd-timesyncd245.4-4ubuntu3.6
+systemd245.4-4ubuntu3.7
+systemd-sysv245.4-4ubuntu3.7
+systemd-timesyncd245.4-4ubuntu3.7
 sysvinit-utils2.96-2.1ubuntu1
 tar1.30+dfsg-7ubuntu0.20.04.1
 tzdata2021a-0ubuntu0.20.04
 ubuntu-keyring2020.02.11.4
 ubuntu-mono19.04-0ubuntu3
 ucf3.0038+nmu1
-udev245.4-4ubuntu3.6
+udev245.4-4ubuntu3.7
 util-linux2.34-0.1ubuntu9.1
 x11-apps7.7+8
 x11-common1:7.7+19ubuntu14
