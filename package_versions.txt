@@ -61,7 +61,7 @@ e2fsprogs1.45.5-2ubuntu1
 emacsen-common3.0.4
 fdisk2.34-0.1ubuntu9.1
 findutils4.7.0-1ubuntu1
-firefox89.0+build2-0ubuntu0.20.04.2
+firefox89.0.1+build1-0ubuntu0.20.04.1
 fontconfig2.13.1-2ubuntu3
 fontconfig-config2.13.1-2ubuntu3
 fonts-dejavu-core2.37-1
@@ -408,7 +408,7 @@ libpam0g1.3.1-5ubuntu4.2
 libpam-modules1.3.1-5ubuntu4.2
 libpam-modules-bin1.3.1-5ubuntu4.2
 libpam-runtime1.3.1-5ubuntu4.2
-libpam-systemd245.4-4ubuntu3.6
+libpam-systemd245.4-4ubuntu3.7
 libpango-1.0-01.44.7-2ubuntu4
 libpangocairo-1.0-01.44.7-2ubuntu4
 libpangoft2-1.0-01.44.7-2ubuntu4
@@ -460,8 +460,8 @@ libsasl2-22.1.27+dfsg-2
 libsasl2-modules2.1.27+dfsg-2
 libsasl2-modules-db2.1.27+dfsg-2
 libseccomp22.5.1-1ubuntu1~20.04.1
-libsecret-1-00.20.3-0ubuntu1
-libsecret-common0.20.3-0ubuntu1
+libsecret-1-00.20.4-0ubuntu1
+libsecret-common0.20.4-0ubuntu1
 libselinux13.0-1build2
 libsemanage13.0-1build2
 libsemanage-common3.0-1build2
@@ -473,7 +473,7 @@ libsigsegv22.12-2
 libslang22.3.2-4
 libsm62:1.2.3-1
 libsmartcols12.34-0.1ubuntu9.1
-libsmbclient2:4.11.6+dfsg-0ubuntu1.8
+libsmbclient2:4.11.6+dfsg-0ubuntu1.9
 libsnapd-glib11.58-0ubuntu0.20.04.0
 libsndfile11.0.28-7
 libsnmp355.8+dfsg-2ubuntu2.3
@@ -490,7 +490,7 @@ libssl1.11.1.1f-1ubuntu2.4
 libstartup-notification00.12-6
 libstdc++610.2.0-5ubuntu1~20.04
 libstemmer0d0+svn585-2
-libsystemd0245.4-4ubuntu3.6
+libsystemd0245.4-4ubuntu3.7
 libtag1v51.11.1+dfsg.1-0.3ubuntu2
 libtag1v5-vanilla1.11.1+dfsg.1-0.3ubuntu2
 libtalloc22.3.0-3ubuntu1
@@ -506,7 +506,7 @@ libtinfo66.2-0ubuntu2
 libtwolame00.4.0-2
 libu2f-udev1.1.10-1
 libuchardet00.0.6-3build1
-libudev1245.4-4ubuntu3.6
+libudev1245.4-4ubuntu3.7
 libudisks2-02.8.4-1ubuntu1
 libunistring20.9.10-2
 libunwind81.2.1-9build1
@@ -529,7 +529,7 @@ libwayland-client01.18.0-1
 libwayland-cursor01.18.0-1
 libwayland-egl11.18.0-1
 libwayland-server01.18.0-1
-libwbclient02:4.11.6+dfsg-0ubuntu1.8
+libwbclient02:4.11.6+dfsg-0ubuntu1.9
 libwebkit2gtk-4.0-372.32.0-0ubuntu0.20.04.1
 libwebp60.6.1-2ubuntu0.20.04.1
 libwebpdemux20.6.1-2ubuntu0.20.04.1
@@ -718,7 +718,7 @@ python3-yaml5.3.1-1ubuntu0.1
 python-apt-common2.0.0ubuntu0.20.04.5
 readline-common8.0-4
 rfkill2.34-0.1ubuntu9.1
-samba-libs2:4.11.6+dfsg-0ubuntu1.8
+samba-libs2:4.11.6+dfsg-0ubuntu1.9
 sed4.7-1
 sensible-utils0.0.12+nmu1
 shared-mime-info1.15-1
@@ -728,9 +728,9 @@ sound-theme-freedesktop0.8-2ubuntu1
 spice-vdagent0.19.0-2ubuntu0.2
 ssl-cert1.0.39
 sudo1.8.31-1ubuntu1.2
-systemd245.4-4ubuntu3.6
-systemd-sysv245.4-4ubuntu3.6
-systemd-timesyncd245.4-4ubuntu3.6
+systemd245.4-4ubuntu3.7
+systemd-sysv245.4-4ubuntu3.7
+systemd-timesyncd245.4-4ubuntu3.7
 sysvinit-utils2.96-2.1ubuntu1
 tar1.30+dfsg-7ubuntu0.20.04.1
 tzdata2021a-0ubuntu0.20.04
@@ -750,7 +750,7 @@ ubuntu-mono19.04-0ubuntu3
 ubuntu-release-upgrader-core1:20.04.33
 ubuntu-release-upgrader-gtk1:20.04.33
 ucf3.0038+nmu1
-udev245.4-4ubuntu3.6
+udev245.4-4ubuntu3.7
 udisks22.8.4-1ubuntu1
 unzip6.0-25ubuntu1
 update-manager1:20.04.10.7
