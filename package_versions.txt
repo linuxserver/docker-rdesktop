@@ -55,7 +55,7 @@ fonts-urw-base3520170801.1-3
 foomatic-db-compressed-ppds20200401-1
 frameworkintegration5.68.0-0ubuntu1
 gawk1:5.0.1+dfsg-1
-gcc-10-base10.2.0-5ubuntu1~20.04
+gcc-10-base10.3.0-1ubuntu1~20.04
 gcc-9-base9.3.0-17ubuntu1~20.04
 gdb9.2-0ubuntu1~20.04
 gdisk1.0.5-1
@@ -246,7 +246,7 @@ libfreetype62.10.1-2ubuntu0.1
 libfribidi01.0.8-2
 libfuse22.9.9-3
 libgbm120.2.6-0ubuntu0.20.04.1
-libgcc-s110.2.0-5ubuntu1~20.04
+libgcc-s110.3.0-1ubuntu1~20.04
 libgcrypt201.8.5-5ubuntu1
 libgdbm61.18.1-5
 libgdbm-compat41.18.1-5
@@ -269,7 +269,7 @@ libglx-mesa020.2.6-0ubuntu0.20.04.1
 libgme00.6.2-1build1
 libgmp102:6.2.0+dfsg-4
 libgnutls303.6.13-2ubuntu1.3
-libgomp110.2.0-5ubuntu1~20.04
+libgomp110.3.0-1ubuntu1~20.04
 libgpg-error01.37-1
 libgpgme111.13.1-7ubuntu2
 libgpgmepp61.13.1-7ubuntu2
@@ -569,9 +569,9 @@ libprotobuf-lite173.6.1.3-2ubuntu5
 libproxy1v50.4.15-10ubuntu1.2
 libpsl50.21.0-1ubuntu1
 libpthread-stubs0-dev0.4-1
-libpulse01:13.99.1-1ubuntu3.10
-libpulsedsp1:13.99.1-1ubuntu3.10
-libpulse-mainloop-glib01:13.99.1-1ubuntu3.10
+libpulse01:13.99.1-1ubuntu3.11
+libpulsedsp1:13.99.1-1ubuntu3.11
+libpulse-mainloop-glib01:13.99.1-1ubuntu3.11
 libpython3.83.8.5-1~20.04.3
 libpython3.8-minimal3.8.5-1~20.04.3
 libpython3.8-stdlib3.8.5-1~20.04.3
@@ -659,7 +659,7 @@ libssh2-11.8.0-2.1build1
 libssh-40.9.3-2ubuntu2.1
 libssh-gcrypt-40.9.3-2ubuntu2.1
 libssl1.11.1.1f-1ubuntu2.4
-libstdc++610.2.0-5ubuntu1~20.04
+libstdc++610.3.0-1ubuntu1~20.04
 libstemmer0d0+svn585-2
 libswresample37:4.2.4-1ubuntu0.1
 libswscale57:4.2.4-1ubuntu0.1
@@ -765,7 +765,7 @@ libxinerama12:1.1.4-2
 libxkbcommon00.10.0-1
 libxkbcommon-x11-00.10.0-1
 libxkbfile11:1.1.0-1
-libxml22.9.10+dfsg-5
+libxml22.9.10+dfsg-5ubuntu0.20.04.1
 libxml2-utils2.9.10+dfsg-5ubuntu0.20.04.1
 libxmu62:1.1.3-0ubuntu1
 libxmuu12:1.1.3-0ubuntu1
@@ -829,8 +829,8 @@ printer-driver-pnm2ppa1.13+nondbs-0ubuntu6
 procps2:3.3.16-1ubuntu2.1
 psmisc23.3-1
 publicsuffix20200303.0012-1
-pulseaudio1:13.99.1-1ubuntu3.10
-pulseaudio-utils1:13.99.1-1ubuntu3.10
+pulseaudio1:13.99.1-1ubuntu3.11
+pulseaudio-utils1:13.99.1-1ubuntu3.11
 python33.8.2-0ubuntu2
 python3.83.8.5-1~20.04.3
 python3.8-minimal3.8.5-1~20.04.3
