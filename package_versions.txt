@@ -30,7 +30,7 @@ e2fsprogs1.44.1-1ubuntu1.3
 fdisk2.31.1-0.4ubuntu3.7
 featherpad0.8-1
 findutils4.6.0+git+20170828-2
-firefox89.0.1+build1-0ubuntu0.18.04.1
+firefox89.0.2+build1-0ubuntu0.18.04.1
 fontconfig2.12.6-0ubuntu2
 fontconfig-config2.12.6-0ubuntu2
 fonts-dejavu-core2.37-1
@@ -155,7 +155,7 @@ libharfbuzz0b1.7.2-1ubuntu1
 libhcrypto4-heimdal7.5.0+dfsg-1
 libheimbase1-heimdal7.5.0+dfsg-1
 libheimntlm0-heimdal7.5.0+dfsg-1
-libhogweed43.4-1ubuntu0.1
+libhogweed43.4.1-0ubuntu0.18.04.1
 libhx509-5-heimdal7.5.0+dfsg-1
 libice62:1.0.9-2
 libicu6060.2-3ubuntu3.1
@@ -193,7 +193,7 @@ libmpfr64.0.1-1
 libmtdev11.1.5-1ubuntu3
 libncurses56.1-1ubuntu1.18.04
 libncursesw56.1-1ubuntu1.18.04
-libnettle63.4-1ubuntu0.1
+libnettle63.4.1-0ubuntu0.18.04.1
 libnghttp2-141.30.0-1ubuntu1
 libnpth01.5-3
 libobrender32v53.6.1-7ubuntu0.1
@@ -265,7 +265,7 @@ libssl1.0.01.0.2n-1ubuntu5.6
 libssl1.11.1.1-1ubuntu2.1~18.04.9
 libstartup-notification00.12-5
 libstdc++68.4.0-1ubuntu1~18.04
-libsystemd0237-3ubuntu10.47
+libsystemd0237-3ubuntu10.48
 libtasn1-64.13-2
 libtdb11.3.15-2
 libthai00.1.27-2
