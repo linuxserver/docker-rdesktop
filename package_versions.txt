@@ -41,7 +41,7 @@ dpkg1.19.0.5ubuntu2.3
 e2fsprogs1.44.1-1ubuntu1.3
 fdisk2.31.1-0.4ubuntu3.7
 findutils4.6.0+git+20170828-2
-firefox89.0.1+build1-0ubuntu0.18.04.1
+firefox89.0.2+build1-0ubuntu0.18.04.1
 fontconfig2.12.6-0ubuntu2
 fontconfig-config2.12.6-0ubuntu2
 fonts-dejavu-core2.37-1
@@ -283,7 +283,7 @@ libharfbuzz0b1.7.2-1ubuntu1
 libhcrypto4-heimdal7.5.0+dfsg-1
 libheimbase1-heimdal7.5.0+dfsg-1
 libheimntlm0-heimdal7.5.0+dfsg-1
-libhogweed43.4-1ubuntu0.1
+libhogweed43.4.1-0ubuntu0.18.04.1
 libhttp-parser2.7.12.7.1-2
 libhx509-5-heimdal7.5.0+dfsg-1
 libhyphen02.8.8-5
@@ -493,7 +493,7 @@ libmtp91.1.13-1
 libmtp-common1.1.13-1
 libncurses56.1-1ubuntu1.18.04
 libncursesw56.1-1ubuntu1.18.04
-libnettle63.4-1ubuntu0.1
+libnettle63.4.1-0ubuntu0.18.04.1
 libnewt0.520.52.20-1ubuntu1
 libnfs112.0.0-1~exp1
 libnghttp2-141.30.0-1ubuntu1
