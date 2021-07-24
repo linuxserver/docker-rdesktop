@@ -76,7 +76,7 @@ grep3.1-2build1
 groff-base1.22.3-10
 gsettings-desktop-schemas3.28.0-1ubuntu1
 gtk-update-icon-cache3.22.30-1ubuntu4
-gzip1.6-5ubuntu1
+gzip1.6-5ubuntu1.1
 hicolor-icon-theme0.17-2
 hostname3.20
 humanity-icon-theme0.6.15
@@ -133,8 +133,8 @@ libarchive133.2.2-3.1ubuntu0.7
 libargon2-00~20161029-1.1
 libaribb24-01.0.3-1
 libasn1-8-heimdal7.5.0+dfsg-1
-libasound21.1.3-5ubuntu0.5
-libasound2-data1.1.3-5ubuntu0.5
+libasound21.1.3-5ubuntu0.6
+libasound2-data1.1.3-5ubuntu0.6
 libasound2-plugins1.1.1-1ubuntu1
 libass91:0.14.0-1
 libassuan02.5.1-2
@@ -188,7 +188,7 @@ libcryptsetup122:2.0.2-1ubuntu1.2
 libcrystalhd31:0.0~git20110715.fdd2f19-12
 libcups22.2.7-1ubuntu2.8
 libcupsimage22.2.7-1ubuntu2.8
-libcurl3-gnutls7.58.0-2ubuntu3.13
+libcurl3-gnutls7.58.0-2ubuntu3.14
 libcurl47.58.0-2ubuntu3.13
 libdatrie10.2.10-7
 libdb5.35.3.28-13.1ubuntu1.1
@@ -516,7 +516,7 @@ libpam0g1.1.8-3.6ubuntu2.18.04.3
 libpam-modules1.1.8-3.6ubuntu2.18.04.3
 libpam-modules-bin1.1.8-3.6ubuntu2.18.04.3
 libpam-runtime1.1.8-3.6ubuntu2.18.04.3
-libpam-systemd237-3ubuntu10.48
+libpam-systemd237-3ubuntu10.50
 libpango-1.0-01.40.14-1ubuntu0.1
 libpangocairo-1.0-01.40.14-1ubuntu0.1
 libpangoft2-1.0-01.40.14-1ubuntu0.1
@@ -653,7 +653,7 @@ libstdc++68.4.0-1ubuntu1~18.04
 libstemmer0d0+svn585-1build1
 libswresample27:3.4.8-0ubuntu0.2
 libswscale47:3.4.8-0ubuntu0.2
-libsystemd0237-3ubuntu10.48
+libsystemd0237-3ubuntu10.50
 libtag1v51.11.1+dfsg.1-0.2build2
 libtag1v5-vanilla1.11.1+dfsg.1-0.2build2
 libtalloc22.1.10-2ubuntu1
@@ -668,7 +668,7 @@ libtiff54.0.9-5ubuntu0.4
 libtinfo56.1-1ubuntu1.18.04
 libtwolame00.3.13-3
 libu2f-udev1.1.4-1ubuntu0.1
-libudev1237-3ubuntu10.48
+libudev1237-3ubuntu10.50
 libudisks2-02.7.6-3ubuntu0.2
 libunistring20.9.9-0ubuntu2
 libupnp61:1.6.24-4
@@ -885,8 +885,8 @@ sound-theme-freedesktop0.8-2ubuntu1
 spice-vdagent0.17.0-1ubuntu2.2
 ssl-cert1.0.39
 sudo1.8.21p2-3ubuntu1.4
-systemd237-3ubuntu10.48
-systemd-sysv237-3ubuntu10.48
+systemd237-3ubuntu10.50
+systemd-sysv237-3ubuntu10.50
 systemsettings4:5.12.8-0ubuntu0.1
 sysvinit-utils2.88dsf-59.10ubuntu1
 tar1.29b-2ubuntu0.2
@@ -895,7 +895,7 @@ ubuntu-drivers-common1:0.8.6.3~0.18.04.1
 ubuntu-keyring2018.09.18.1~18.04.2
 ubuntu-mono16.10+18.04.20181005-0ubuntu1
 ucf3.0038
-udev237-3ubuntu10.48
+udev237-3ubuntu10.50
 udisks22.7.6-3ubuntu0.2
 unzip6.0-21ubuntu1.1
 usbutils1:007-4build1
