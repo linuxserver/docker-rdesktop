@@ -22,7 +22,7 @@ catdoc1:0.95-4.1
 coreutils8.30-3ubuntu2
 cpp4:9.3.0-1ubuntu2
 cpp-99.3.0-17ubuntu1~20.04
-curl7.68.0-1ubuntu2.5
+curl7.68.0-1ubuntu2.6
 dash0.5.10.2-6
 dbus1.12.16-2ubuntu2.1
 dbus-x111.12.16-2ubuntu2.1
@@ -195,7 +195,7 @@ libcrypt11:4.4.10-10ubuntu4
 libcryptsetup122:2.2.2-3ubuntu2.3
 libcups22.3.1-9ubuntu1.1
 libcurl3-gnutls7.68.0-1ubuntu2.6
-libcurl47.68.0-1ubuntu2.5
+libcurl47.68.0-1ubuntu2.6
 libdatrie10.2.12-3
 libdb5.35.3.28+dfsg1-0.6ubuntu2
 libdbus-1-31.12.16-2ubuntu2.1
@@ -259,9 +259,9 @@ libgl11.3.2-1~ubuntu0.20.04.1
 libgl1-mesa-dri20.2.6-0ubuntu0.20.04.1
 libglapi-mesa20.2.6-0ubuntu0.20.04.1
 libgles21.3.2-1~ubuntu0.20.04.1
-libglib2.0-02.64.6-1~ubuntu20.04.3
-libglib2.0-bin2.64.6-1~ubuntu20.04.3
-libglib2.0-data2.64.6-1~ubuntu20.04.3
+libglib2.0-02.64.6-1~ubuntu20.04.4
+libglib2.0-bin2.64.6-1~ubuntu20.04.4
+libglib2.0-data2.64.6-1~ubuntu20.04.4
 libglu1-mesa9.0.1-1build1
 libglvnd01.3.2-1~ubuntu0.20.04.1
 libglx01.3.2-1~ubuntu0.20.04.1
@@ -644,7 +644,7 @@ libsmartcols12.34-0.1ubuntu9.1
 libsmbclient2:4.11.6+dfsg-0ubuntu1.9
 libsnapd-glib11.58-0ubuntu0.20.04.0
 libsnappy1v51.1.8-1build1
-libsndfile11.0.28-7
+libsndfile11.0.28-7ubuntu0.1
 libsndio7.01.5.0-3
 libsoup2.4-12.70.0-1
 libsoup-gnome2.4-12.70.0-1
