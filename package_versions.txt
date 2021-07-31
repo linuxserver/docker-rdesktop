@@ -12,7 +12,7 @@ apt-transport-https1.6.14
 apturl0.5.2ubuntu14.2
 apturl-common0.5.2ubuntu14.2
 apt-utils1.6.14
-aspell0.60.7~20110707-4ubuntu0.1
+aspell0.60.7~20110707-4ubuntu0.2
 aspell-en2017.08.24-0-0.1
 at-spi2-core2.28.0-1
 base-files10.1ubuntu2.10
@@ -40,7 +40,7 @@ cups-ipp-utils2.2.7-1ubuntu2.8
 cups-pk-helper0.2.6-1ubuntu1.2
 cups-ppdc2.2.7-1ubuntu2.8
 cups-server-common2.2.7-1ubuntu2.8
-curl7.58.0-2ubuntu3.13
+curl7.58.0-2ubuntu3.14
 dash0.5.8-2.10
 dbus1.12.2-1ubuntu1.2
 dbus-x111.12.2-1ubuntu1.2
@@ -81,7 +81,7 @@ gir1.2-glib-2.01.56.1-1
 gir1.2-goa-1.03.28.0-0ubuntu2.1
 gir1.2-gtk-3.03.22.30-1ubuntu4
 gir1.2-gtksource-3.03.24.7-1
-gir1.2-javascriptcoregtk-4.02.32.0-0ubuntu0.18.04.1
+gir1.2-javascriptcoregtk-4.02.32.3-0ubuntu0.18.04.1
 gir1.2-mate-panel1.20.1-3ubuntu1
 gir1.2-matepanelapplet-4.01.20.1-3ubuntu1
 gir1.2-packagekitglib-1.01.1.9-1ubuntu2.18.04.6
@@ -91,7 +91,7 @@ gir1.2-pluma-1.01.20.1-3ubuntu1
 gir1.2-snapd-11.49-0ubuntu0.18.04.2
 gir1.2-soup-2.42.62.1-1ubuntu0.4
 gir1.2-vte-2.910.52.2-1ubuntu1~18.04.2
-gir1.2-webkit2-4.02.32.0-0ubuntu0.18.04.1
+gir1.2-webkit2-4.02.32.3-0ubuntu0.18.04.1
 glib-networking2.56.0-1ubuntu0.1
 glib-networking-common2.56.0-1ubuntu0.1
 glib-networking-services2.56.0-1ubuntu0.1
@@ -152,7 +152,7 @@ libasn1-8-heimdal7.5.0+dfsg-1
 libasound21.1.3-5ubuntu0.6
 libasound2-data1.1.3-5ubuntu0.6
 libasound2-plugins1.1.1-1ubuntu1
-libaspell150.60.7~20110707-4ubuntu0.1
+libaspell150.60.7~20110707-4ubuntu0.2
 libassuan02.5.1-2
 libasyncns00.8-6
 libatasmart40.19-4
@@ -212,7 +212,7 @@ libcupsimage22.2.7-1ubuntu2.8
 libcupsmime12.2.7-1ubuntu2.8
 libcupsppdc12.2.7-1ubuntu2.8
 libcurl3-gnutls7.58.0-2ubuntu3.14
-libcurl47.58.0-2ubuntu3.13
+libcurl47.58.0-2ubuntu3.14
 libdatrie10.2.10-7
 libdb5.35.3.28-13.1ubuntu1.1
 libdbus-1-31.12.2-1ubuntu1.2
@@ -332,7 +332,7 @@ libisl190.19-1
 libiw3030~pre9-12ubuntu1
 libjack-jackd2-01.9.12~dfsg-2
 libjansson42.11-1
-libjavascriptcoregtk-4.0-182.32.0-0ubuntu0.18.04.1
+libjavascriptcoregtk-4.0-182.32.3-0ubuntu0.18.04.1
 libjbig02.1-3.1build1
 libjbig2dec00.13-6
 libjpeg88c-2ubuntu8
@@ -443,7 +443,7 @@ libpython3.6-minimal3.6.9-1~18.04ubuntu1.4
 libpython3.6-stdlib3.6.9-1~18.04ubuntu1.4
 libpython3-stdlib3.6.7-1~18.04
 libpython-stdlib2.7.15~rc1-1
-libqpdf218.0.2-3
+libqpdf218.0.2-3ubuntu0.1
 libraw1394-112.1.2-1
 libreadline77.0-3
 librest-0.7-00.8.0-2
@@ -473,7 +473,7 @@ libsm62:1.2.2-1
 libsmartcols12.31.1-0.4ubuntu3.7
 libsmbclient2:4.7.6+dfsg~ubuntu-0ubuntu2.23
 libsnapd-glib11.49-0ubuntu0.18.04.2
-libsndfile11.0.28-4ubuntu0.18.04.1
+libsndfile11.0.28-4ubuntu0.18.04.2
 libsnmp305.7.3+dfsg-1.8ubuntu3.6
 libsnmp-base5.7.3+dfsg-1.8ubuntu3.6
 libsoup2.4-12.62.1-1ubuntu0.4
@@ -523,7 +523,7 @@ libwayland-cursor01.16.0-1ubuntu1.1~18.04.3
 libwayland-egl11.16.0-1ubuntu1.1~18.04.3
 libwayland-server01.16.0-1ubuntu1.1~18.04.3
 libwbclient02:4.7.6+dfsg~ubuntu-0ubuntu2.23
-libwebkit2gtk-4.0-372.32.0-0ubuntu0.18.04.1
+libwebkit2gtk-4.0-372.32.3-0ubuntu0.18.04.1
 libwebp60.6.1-2ubuntu0.18.04.1
 libwebpdemux20.6.1-2ubuntu0.18.04.1
 libwebpmux30.6.1-2ubuntu0.18.04.1
