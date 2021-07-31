@@ -40,7 +40,7 @@ cups-ipp-utils2.3.1-9ubuntu1.1
 cups-pk-helper0.2.6-1ubuntu3
 cups-ppdc2.3.1-9ubuntu1.1
 cups-server-common2.3.1-9ubuntu1.1
-curl7.68.0-1ubuntu2.5
+curl7.68.0-1ubuntu2.6
 dash0.5.10.2-6
 dbus1.12.16-2ubuntu2.1
 dbus-x111.12.16-2ubuntu2.1
@@ -85,7 +85,7 @@ gir1.2-glib-2.01.64.1-1~ubuntu20.04.1
 gir1.2-goa-1.03.36.1-0ubuntu1
 gir1.2-gtk-3.03.24.20-0ubuntu1
 gir1.2-gtksource-3.03.24.11-2
-gir1.2-javascriptcoregtk-4.02.32.0-0ubuntu0.20.04.1
+gir1.2-javascriptcoregtk-4.02.32.3-0ubuntu0.20.04.1
 gir1.2-matemenu-2.01.24.0-1
 gir1.2-packagekitglib-1.01.1.13-2ubuntu1.1
 gir1.2-pango-1.01.44.7-2ubuntu4
@@ -94,7 +94,7 @@ gir1.2-pluma-1.01.24.0-1
 gir1.2-snapd-11.58-0ubuntu0.20.04.0
 gir1.2-soup-2.42.70.0-1
 gir1.2-vte-2.910.60.3-0ubuntu1~20.04
-gir1.2-webkit2-4.02.32.0-0ubuntu0.20.04.1
+gir1.2-webkit2-4.02.32.3-0ubuntu0.20.04.1
 glib-networking2.64.2-1ubuntu0.1
 glib-networking-common2.64.2-1ubuntu0.1
 glib-networking-services2.64.2-1ubuntu0.1
@@ -154,7 +154,7 @@ libasn1-8-heimdal7.7.0+dfsg-1ubuntu1
 libasound21.2.2-2.1ubuntu2.4
 libasound2-data1.2.2-2.1ubuntu2.4
 libasound2-plugins1.2.2-1ubuntu1
-libaspell150.60.8-1build1
+libaspell150.60.8-1ubuntu0.1
 libassuan02.5.3-7ubuntu2
 libasyncns00.8-6
 libatasmart40.19-5
@@ -211,7 +211,7 @@ libcrypt11:4.4.10-10ubuntu4
 libcryptsetup122:2.2.2-3ubuntu2.3
 libcups22.3.1-9ubuntu1.1
 libcupsfilters11.27.4-1
-libcurl47.68.0-1ubuntu2.5
+libcurl47.68.0-1ubuntu2.6
 libdatrie10.2.12-3
 libdb5.35.3.28+dfsg1-0.6ubuntu2
 libdbus-1-31.12.16-2ubuntu2.1
@@ -271,9 +271,9 @@ libgl11.3.2-1~ubuntu0.20.04.1
 libgl1-mesa-dri20.2.6-0ubuntu0.20.04.1
 libglapi-mesa20.2.6-0ubuntu0.20.04.1
 libgles21.3.2-1~ubuntu0.20.04.1
-libglib2.0-02.64.6-1~ubuntu20.04.3
-libglib2.0-bin2.64.6-1~ubuntu20.04.3
-libglib2.0-data2.64.6-1~ubuntu20.04.3
+libglib2.0-02.64.6-1~ubuntu20.04.4
+libglib2.0-bin2.64.6-1~ubuntu20.04.4
+libglib2.0-data2.64.6-1~ubuntu20.04.4
 libglib-object-introspection-perl0.048-2build1
 libglib-perl3:1.329.2-1
 libglu1-mesa9.0.1-1build1
@@ -336,7 +336,7 @@ libisl220.22.1-1
 libiw3030~pre9-13ubuntu1
 libjack-jackd2-01.9.12~dfsg-2ubuntu2
 libjansson42.12-1build1
-libjavascriptcoregtk-4.0-182.32.0-0ubuntu0.20.04.1
+libjavascriptcoregtk-4.0-182.32.3-0ubuntu0.20.04.1
 libjbig02.1-3.1build1
 libjbig2dec00.18-1ubuntu1
 libjpeg88c-2ubuntu8
@@ -385,7 +385,7 @@ libmpg123-01.25.13-1
 libmtp91.1.17-3
 libmtp-common1.1.17-3
 libmtp-runtime1.1.17-3
-libmysqlclient218.0.25-0ubuntu0.20.04.1
+libmysqlclient218.0.26-0ubuntu0.20.04.2
 libncurses66.2-0ubuntu2
 libncursesw66.2-0ubuntu2
 libnettle73.5.1+really3.5.1-2ubuntu0.2
@@ -444,7 +444,7 @@ libpython3.83.8.10-0ubuntu1~20.04
 libpython3.8-minimal3.8.10-0ubuntu1~20.04
 libpython3.8-stdlib3.8.10-0ubuntu1~20.04
 libpython3-stdlib3.8.2-0ubuntu2
-libqpdf269.1.1-1build1
+libqpdf269.1.1-1ubuntu0.1
 libraw1394-112.1.2-1
 librda00.0.5-1
 librda-common0.0.5-1
@@ -475,7 +475,7 @@ libsm62:1.2.3-1
 libsmartcols12.34-0.1ubuntu9.1
 libsmbclient2:4.11.6+dfsg-0ubuntu1.9
 libsnapd-glib11.58-0ubuntu0.20.04.0
-libsndfile11.0.28-7
+libsndfile11.0.28-7ubuntu0.1
 libsnmp355.8+dfsg-2ubuntu2.3
 libsnmp-base5.8+dfsg-2ubuntu2.3
 libsoup2.4-12.70.0-1
@@ -530,7 +530,7 @@ libwayland-cursor01.18.0-1
 libwayland-egl11.18.0-1
 libwayland-server01.18.0-1
 libwbclient02:4.11.6+dfsg-0ubuntu1.9
-libwebkit2gtk-4.0-372.32.0-0ubuntu0.20.04.1
+libwebkit2gtk-4.0-372.32.3-0ubuntu0.20.04.1
 libwebp60.6.1-2ubuntu0.20.04.1
 libwebpdemux20.6.1-2ubuntu0.20.04.1
 libwebrtc-audio-processing10.3.1-0ubuntu3
