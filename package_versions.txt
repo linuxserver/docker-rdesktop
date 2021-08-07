@@ -35,13 +35,13 @@ dirmngr2.2.4-1ubuntu1.4
 distro-info-data0.37ubuntu0.10
 docbook-xml4.5-8
 docbook-xsl1.79.1+dfsg-2
-docker-ce-cli5:20.10.7~3-0~ubuntu-bionic
+docker-ce-cli5:20.10.8~3-0~ubuntu-bionic
 dolphin4:17.12.3-0ubuntu1
 dpkg1.19.0.5ubuntu2.3
 e2fsprogs1.44.1-1ubuntu1.3
 fdisk2.31.1-0.4ubuntu3.7
 findutils4.6.0+git+20170828-2
-firefox90.0+build1-0ubuntu0.18.04.1
+firefox90.0.2+build1-0ubuntu0.18.04.1
 fontconfig2.12.6-0ubuntu2
 fontconfig-config2.12.6-0ubuntu2
 fonts-dejavu-core2.37-1
@@ -224,7 +224,7 @@ libepoxy01.4.3-1
 libepub00.2.2-4ubuntu1
 libevdev21.5.8+dfsg-1ubuntu0.1
 libevent-2.1-62.1.8-stable-4build1
-libexiv2-140.25-3.1ubuntu0.18.04.9
+libexiv2-140.25-3.1ubuntu0.18.04.10
 libexpat12.2.5-3ubuntu0.2
 libext2fs21.44.1-1ubuntu1.3
 libfaad22.8.8-1
