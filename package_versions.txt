@@ -32,7 +32,7 @@ e2fsprogs1.44.1-1ubuntu1.3
 exo-utils0.12.2-0ubuntu0.18.04.1
 fdisk2.31.1-0.4ubuntu3.7
 findutils4.6.0+git+20170828-2
-firefox90.0.2+build1-0ubuntu0.18.04.1
+firefox91.0+build2-0ubuntu0.18.04.1
 fontconfig2.12.6-0ubuntu2
 fontconfig-config2.12.6-0ubuntu2
 fonts-dejavu-core2.37-1
@@ -268,7 +268,7 @@ libsigsegv22.12-1
 libslang22.3.1a-3ubuntu1
 libsm62:1.2.2-1
 libsmartcols12.31.1-0.4ubuntu3.7
-libsnapd-glib11.49-0ubuntu0.18.04.2
+libsnapd-glib11.58-0ubuntu0.18.04.0
 libsndfile11.0.28-4ubuntu0.18.04.2
 libsoup2.4-12.62.1-1ubuntu0.4
 libsoup-gnome2.4-12.62.1-1ubuntu0.4
