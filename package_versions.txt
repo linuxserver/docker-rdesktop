@@ -41,7 +41,7 @@ dpkg1.19.0.5ubuntu2.3
 e2fsprogs1.44.1-1ubuntu1.3
 fdisk2.31.1-0.4ubuntu3.7
 findutils4.6.0+git+20170828-2
-firefox90.0.2+build1-0ubuntu0.18.04.1
+firefox91.0+build2-0ubuntu0.18.04.1
 fontconfig2.12.6-0ubuntu2
 fontconfig-config2.12.6-0ubuntu2
 fonts-dejavu-core2.37-1
@@ -633,7 +633,7 @@ libslang22.3.1a-3ubuntu1
 libsm62:1.2.2-1
 libsmartcols12.31.1-0.4ubuntu3.7
 libsmbclient2:4.7.6+dfsg~ubuntu-0ubuntu2.23
-libsnapd-glib11.49-0ubuntu0.18.04.2
+libsnapd-glib11.58-0ubuntu0.18.04.0
 libsnappy1v51.1.7-1
 libsndfile11.0.28-4ubuntu0.18.04.2
 libsndio6.11.1.0-3
