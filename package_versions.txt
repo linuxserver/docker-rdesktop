@@ -59,7 +59,7 @@ e2fsprogs1.44.1-1ubuntu1.3
 emacsen-common2.0.8
 fdisk2.31.1-0.4ubuntu3.7
 findutils4.6.0+git+20170828-2
-firefox90.0.2+build1-0ubuntu0.18.04.1
+firefox91.0+build2-0ubuntu0.18.04.1
 fontconfig2.12.6-0ubuntu2
 fontconfig-config2.12.6-0ubuntu2
 fonts-dejavu-core2.37-1
@@ -88,7 +88,7 @@ gir1.2-packagekitglib-1.01.1.9-1ubuntu2.18.04.6
 gir1.2-pango-1.01.40.14-1ubuntu0.1
 gir1.2-peas-1.01.22.0-2
 gir1.2-pluma-1.01.20.1-3ubuntu1
-gir1.2-snapd-11.49-0ubuntu0.18.04.2
+gir1.2-snapd-11.58-0ubuntu0.18.04.0
 gir1.2-soup-2.42.62.1-1ubuntu0.4
 gir1.2-vte-2.910.52.2-1ubuntu1~18.04.2
 gir1.2-webkit2-4.02.32.3-0ubuntu0.18.04.1
@@ -472,7 +472,7 @@ libslang22.3.1a-3ubuntu1
 libsm62:1.2.2-1
 libsmartcols12.31.1-0.4ubuntu3.7
 libsmbclient2:4.7.6+dfsg~ubuntu-0ubuntu2.23
-libsnapd-glib11.49-0ubuntu0.18.04.2
+libsnapd-glib11.58-0ubuntu0.18.04.0
 libsndfile11.0.28-4ubuntu0.18.04.2
 libsnmp305.7.3+dfsg-1.8ubuntu3.6
 libsnmp-base5.7.3+dfsg-1.8ubuntu3.6
