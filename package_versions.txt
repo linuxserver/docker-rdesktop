@@ -32,7 +32,7 @@ debconf1.5.66ubuntu1
 debianutils4.8.4
 diffutils1:3.6-1
 dirmngr2.2.4-1ubuntu1.4
-distro-info-data0.37ubuntu0.10
+distro-info-data0.37ubuntu0.11
 docbook-xml4.5-8
 docbook-xsl1.79.1+dfsg-2
 docker-ce-cli5:20.10.8~3-0~ubuntu-bionic
@@ -41,7 +41,7 @@ dpkg1.19.0.5ubuntu2.3
 e2fsprogs1.44.1-1ubuntu1.3
 fdisk2.31.1-0.4ubuntu3.7
 findutils4.6.0+git+20170828-2
-firefox91.0+build2-0ubuntu0.18.04.1
+firefox91.0.1+build1-0ubuntu0.18.04.1
 fontconfig2.12.6-0ubuntu2
 fontconfig-config2.12.6-0ubuntu2
 fonts-dejavu-core2.37-1
@@ -224,7 +224,7 @@ libepoxy01.4.3-1
 libepub00.2.2-4ubuntu1
 libevdev21.5.8+dfsg-1ubuntu0.1
 libevent-2.1-62.1.8-stable-4build1
-libexiv2-140.25-3.1ubuntu0.18.04.10
+libexiv2-140.25-3.1ubuntu0.18.04.11
 libexpat12.2.5-3ubuntu0.2
 libext2fs21.44.1-1ubuntu1.3
 libfaad22.8.8-1
@@ -516,7 +516,7 @@ libpam0g1.1.8-3.6ubuntu2.18.04.3
 libpam-modules1.1.8-3.6ubuntu2.18.04.3
 libpam-modules-bin1.1.8-3.6ubuntu2.18.04.3
 libpam-runtime1.1.8-3.6ubuntu2.18.04.3
-libpam-systemd237-3ubuntu10.50
+libpam-systemd237-3ubuntu10.51
 libpango-1.0-01.40.14-1ubuntu0.1
 libpangocairo-1.0-01.40.14-1ubuntu0.1
 libpangoft2-1.0-01.40.14-1ubuntu0.1
@@ -648,12 +648,12 @@ libssh2-11.8.0-1
 libssh-40.8.0~20170825.94fa1e38-1ubuntu0.7
 libssh-gcrypt-40.8.0~20170825.94fa1e38-1ubuntu0.7
 libssl1.0.01.0.2n-1ubuntu5.6
-libssl1.11.1.1-1ubuntu2.1~18.04.9
+libssl1.11.1.1-1ubuntu2.1~18.04.10
 libstdc++68.4.0-1ubuntu1~18.04
 libstemmer0d0+svn585-1build1
 libswresample27:3.4.8-0ubuntu0.2
 libswscale47:3.4.8-0ubuntu0.2
-libsystemd0237-3ubuntu10.50
+libsystemd0237-3ubuntu10.51
 libtag1v51.11.1+dfsg.1-0.2build2
 libtag1v5-vanilla1.11.1+dfsg.1-0.2build2
 libtalloc22.1.10-2ubuntu1
@@ -668,7 +668,7 @@ libtiff54.0.9-5ubuntu0.4
 libtinfo56.1-1ubuntu1.18.04
 libtwolame00.3.13-3
 libu2f-udev1.1.4-1ubuntu0.1
-libudev1237-3ubuntu10.50
+libudev1237-3ubuntu10.51
 libudisks2-02.7.6-3ubuntu0.2
 libunistring20.9.9-0ubuntu2
 libupnp61:1.6.24-4
@@ -787,8 +787,8 @@ multiarch-support2.27-3ubuntu1.4
 ncurses-base6.1-1ubuntu1.18.04
 ncurses-bin6.1-1ubuntu1.18.04
 openprinting-ppds20180306-1
-openssh-client1:7.6p1-4ubuntu0.3
-openssl1.1.1-1ubuntu2.1~18.04.9
+openssh-client1:7.6p1-4ubuntu0.5
+openssl1.1.1-1ubuntu2.1~18.04.10
 oxygen-sounds4:5.12.8-0ubuntu0.1
 parted3.2-20ubuntu0.2
 passwd1:4.5-1ubuntu2
@@ -885,8 +885,8 @@ sound-theme-freedesktop0.8-2ubuntu1
 spice-vdagent0.17.0-1ubuntu2.2
 ssl-cert1.0.39
 sudo1.8.21p2-3ubuntu1.4
-systemd237-3ubuntu10.50
-systemd-sysv237-3ubuntu10.50
+systemd237-3ubuntu10.51
+systemd-sysv237-3ubuntu10.51
 systemsettings4:5.12.8-0ubuntu0.1
 sysvinit-utils2.88dsf-59.10ubuntu1
 tar1.29b-2ubuntu0.2
@@ -895,7 +895,7 @@ ubuntu-drivers-common1:0.8.6.3~0.18.04.1
 ubuntu-keyring2018.09.18.1~18.04.2
 ubuntu-mono16.10+18.04.20181005-0ubuntu1
 ucf3.0038
-udev237-3ubuntu10.50
+udev237-3ubuntu10.51
 udisks22.7.6-3ubuntu0.2
 unzip6.0-21ubuntu1.1
 usbutils1:007-4build1
