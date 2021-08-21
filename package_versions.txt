@@ -161,7 +161,7 @@ mesa-gl-20.3.3-r0
 mesa-glapi-20.3.3-r0
 mkfontscale-1.2.1-r1
 mousepad-0.5.2-r0
-mozjs78-78.12.0-r0
+mozjs78-78.13.0-r0
 musl-1.2.2-r1
 musl-utils-1.2.2-r1
 ncurses-libs-6.2_p20210109-r0
