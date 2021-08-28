@@ -7,7 +7,7 @@ apt2.0.6
 apt-transport-https2.0.6
 apt-utils2.0.6
 baloo-kf55.68.0-0ubuntu1
-base-files11ubuntu5.3
+base-files11ubuntu5.4
 base-passwd3.5.47
 bash5.0-6ubuntu1.1
 bc1.07.1-2build1
@@ -45,7 +45,7 @@ drkonqi5.18.5-0ubuntu0.1
 e2fsprogs1.45.5-2ubuntu1
 fdisk2.34-0.1ubuntu9.1
 findutils4.7.0-1ubuntu1
-firefox91.0.1+build1-0ubuntu0.20.04.1
+firefox91.0.2+build1-0ubuntu0.20.04.1
 fontconfig2.13.1-2ubuntu3
 fontconfig-config2.13.1-2ubuntu3
 fonts-dejavu-core2.37-1
@@ -641,7 +641,7 @@ libsigsegv22.12-2
 libslang22.3.2-4
 libsm62:1.2.3-1
 libsmartcols12.34-0.1ubuntu9.1
-libsmbclient2:4.11.6+dfsg-0ubuntu1.9
+libsmbclient2:4.11.6+dfsg-0ubuntu1.10
 libsnapd-glib11.58-0ubuntu0.20.04.0
 libsnappy1v51.1.8-1build1
 libsndfile11.0.28-7ubuntu0.1
@@ -657,7 +657,7 @@ libsrt11.4.0-1build1
 libss21.45.5-2ubuntu1
 libssh2-11.8.0-2.1build1
 libssh-40.9.3-2ubuntu2.1
-libssh-gcrypt-40.9.3-2ubuntu2.1
+libssh-gcrypt-40.9.3-2ubuntu2.2
 libssl1.11.1.1f-1ubuntu2.5
 libstdc++610.3.0-1ubuntu1~20.04
 libstemmer0d0+svn585-2
@@ -706,7 +706,7 @@ libwayland-client01.18.0-1
 libwayland-cursor01.18.0-1
 libwayland-egl11.18.0-1
 libwayland-server01.18.0-1
-libwbclient02:4.11.6+dfsg-0ubuntu1.9
+libwbclient02:4.11.6+dfsg-0ubuntu1.10
 libweather-ion74:5.18.5-0ubuntu0.1
 libwebp60.6.1-2ubuntu0.20.04.1
 libwebpdemux20.6.1-2ubuntu0.20.04.1
@@ -905,7 +905,7 @@ qml-module-qtquick-window25.12.8-0ubuntu1
 qtchooser66-2build1
 readline-common8.0-4
 rfkill2.34-0.1ubuntu9.1
-samba-libs2:4.11.6+dfsg-0ubuntu1.9
+samba-libs2:4.11.6+dfsg-0ubuntu1.10
 sddm-theme-breeze4:5.18.5-0ubuntu0.1
 sed4.7-1
 sensible-utils0.0.12+nmu1
