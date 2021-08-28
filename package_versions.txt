@@ -3,7 +3,7 @@ adwaita-icon-theme3.36.1-2ubuntu0.20.04.2
 apt2.0.6
 apt-transport-https2.0.6
 apt-utils2.0.6
-base-files11ubuntu5.3
+base-files11ubuntu5.4
 base-passwd3.5.47
 bash5.0-6ubuntu1.1
 bsdmainutils11.1.2ubuntu3
@@ -33,7 +33,7 @@ elementary-xfce-icon-theme0.15-1
 exo-utils0.12.11-1ubuntu1.20.04.1
 fdisk2.34-0.1ubuntu9.1
 findutils4.7.0-1ubuntu1
-firefox91.0.1+build1-0ubuntu0.20.04.1
+firefox91.0.2+build1-0ubuntu0.20.04.1
 fontconfig2.13.1-2ubuntu3
 fontconfig-config2.13.1-2ubuntu3
 fonts-dejavu-core2.37-1
