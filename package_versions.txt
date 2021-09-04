@@ -647,8 +647,8 @@ libss21.44.1-1ubuntu1.3
 libssh2-11.8.0-1
 libssh-40.8.0~20170825.94fa1e38-1ubuntu0.7
 libssh-gcrypt-40.8.0~20170825.94fa1e38-1ubuntu0.7
-libssl1.0.01.0.2n-1ubuntu5.6
-libssl1.11.1.1-1ubuntu2.1~18.04.10
+libssl1.0.01.0.2n-1ubuntu5.7
+libssl1.11.1.1-1ubuntu2.1~18.04.13
 libstdc++68.4.0-1ubuntu1~18.04
 libstemmer0d0+svn585-1build1
 libswresample27:3.4.8-0ubuntu0.2
@@ -788,7 +788,7 @@ ncurses-base6.1-1ubuntu1.18.04
 ncurses-bin6.1-1ubuntu1.18.04
 openprinting-ppds20180306-1
 openssh-client1:7.6p1-4ubuntu0.5
-openssl1.1.1-1ubuntu2.1~18.04.10
+openssl1.1.1-1ubuntu2.1~18.04.13
 oxygen-sounds4:5.12.8-0ubuntu0.1
 parted3.2-20ubuntu0.2
 passwd1:4.5-1ubuntu2
