@@ -482,8 +482,8 @@ libspeex11.2~rc1.2-1ubuntu2
 libspeexdsp11.2~rc1.2-1ubuntu2
 libsqlite3-03.22.0-1ubuntu0.4
 libss21.44.1-1ubuntu1.3
-libssl1.0.01.0.2n-1ubuntu5.6
-libssl1.11.1.1-1ubuntu2.1~18.04.10
+libssl1.0.01.0.2n-1ubuntu5.7
+libssl1.11.1.1-1ubuntu2.1~18.04.13
 libstartup-notification00.12-5
 libstdc++68.4.0-1ubuntu1~18.04
 libsystemd0237-3ubuntu10.51
@@ -634,7 +634,7 @@ ncurses-base6.1-1ubuntu1.18.04
 ncurses-bin6.1-1ubuntu1.18.04
 openprinting-ppds20180306-1
 openssh-client1:7.6p1-4ubuntu0.5
-openssl1.1.1-1ubuntu2.1~18.04.10
+openssl1.1.1-1ubuntu2.1~18.04.13
 parted3.2-20ubuntu0.2
 passwd1:4.5-1ubuntu2
 patch2.7.6-2ubuntu1.1
