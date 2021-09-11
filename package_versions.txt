@@ -61,7 +61,7 @@ e2fsprogs1.45.5-2ubuntu1
 emacsen-common3.0.4
 fdisk2.34-0.1ubuntu9.1
 findutils4.7.0-1ubuntu1
-firefox91.0.2+build1-0ubuntu0.20.04.1
+firefox92.0+build3-0ubuntu0.20.04.1
 fontconfig2.13.1-2ubuntu3
 fontconfig-config2.13.1-2ubuntu3
 fonts-dejavu-core2.37-1
@@ -76,8 +76,8 @@ gcc-9-base9.3.0-17ubuntu1~20.04
 gdisk1.0.5-1
 genisoimage9:1.1.11-3.1ubuntu1
 gettext-base0.19.8.1-10build1
-ghostscript9.50~dfsg-5ubuntu4.2
-ghostscript-x9.50~dfsg-5ubuntu4.2
+ghostscript9.50~dfsg-5ubuntu4.3
+ghostscript-x9.50~dfsg-5ubuntu4.3
 gir1.2-atk-1.02.35.1-1ubuntu2
 gir1.2-freedesktop1.64.1-1~ubuntu20.04.1
 gir1.2-gdkpixbuf-2.02.40.0+dfsg-3ubuntu0.2
@@ -259,7 +259,7 @@ libgcc-s110.3.0-1ubuntu1~20.04
 libgck-1-03.36.0-2build1
 libgcr-base-3-13.36.0-2build1
 libgcrypt201.8.5-5ubuntu1
-libgd32.2.5-5.2ubuntu2
+libgd32.2.5-5.2ubuntu2.1
 libgdata220.17.12-1
 libgdata-common0.17.12-1
 libgdbm61.18.1-5
@@ -290,8 +290,8 @@ libgphoto2-62.5.25-0ubuntu0.1
 libgphoto2-port122.5.25-0ubuntu0.1
 libgpm21.20.7-5
 libgraphite2-31.3.13-11build1
-libgs99.50~dfsg-5ubuntu4.2
-libgs9-common9.50~dfsg-5ubuntu4.2
+libgs99.50~dfsg-5ubuntu4.3
+libgs9-common9.50~dfsg-5ubuntu4.3
 libgssapi3-heimdal7.7.0+dfsg-1ubuntu1
 libgssapi-krb5-21.17-6ubuntu4.1
 libgstreamer1.0-01.16.2-2
@@ -672,7 +672,7 @@ python33.8.2-0ubuntu2
 python3.83.8.10-0ubuntu1~20.04
 python3.8-minimal3.8.10-0ubuntu1~20.04
 python3-apport2.20.11-0ubuntu27.18
-python3-apt2.0.0ubuntu0.20.04.5
+python3-apt2.0.0ubuntu0.20.04.6
 python3-aptdaemon1.1.1+bzr982-0ubuntu32.3
 python3-aptdaemon.gtk3widgets1.1.1+bzr982-0ubuntu32.3
 python3-blinker1.4+dfsg1-0.3ubuntu1
@@ -715,7 +715,7 @@ python3-urllib31.25.8-2ubuntu0.1
 python3-wadllib1.3.3-3build1
 python3-xkit0.5.0ubuntu4
 python3-yaml5.3.1-1ubuntu0.1
-python-apt-common2.0.0ubuntu0.20.04.5
+python-apt-common2.0.0ubuntu0.20.04.6
 readline-common8.0-4
 rfkill2.34-0.1ubuntu9.1
 samba-libs2:4.11.6+dfsg-0ubuntu1.10
