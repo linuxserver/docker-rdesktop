@@ -260,5 +260,6 @@ Once registered you can define the dockerfile to use with `-f Dockerfile.aarch64
 
 ## Versions
 
+* **11.09.21:** - Update repo for xfce4-pulseaudio-plugin
 * **06.04.20:** - Start PulseAudio in images to support audio
 * **28.02.20:** - Initial Releases
