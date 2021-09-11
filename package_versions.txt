@@ -59,7 +59,7 @@ e2fsprogs1.44.1-1ubuntu1.3
 emacsen-common2.0.8
 fdisk2.31.1-0.4ubuntu3.7
 findutils4.6.0+git+20170828-2
-firefox91.0.2+build1-0ubuntu0.18.04.1
+firefox92.0+build3-0ubuntu0.18.04.1
 fontconfig2.12.6-0ubuntu2
 fontconfig-config2.12.6-0ubuntu2
 fonts-dejavu-core2.37-1
@@ -255,7 +255,7 @@ libgcc11:8.4.0-1ubuntu1~18.04
 libgck-1-03.28.0-1
 libgcr-base-3-13.28.0-1
 libgcrypt201.8.1-4ubuntu1.2
-libgd32.2.5-4ubuntu0.4
+libgd32.2.5-4ubuntu0.5
 libgdata220.17.9-2
 libgdata-common0.17.9-2
 libgdbm51.14.1-6
