@@ -142,7 +142,7 @@ libfribidi01.0.8-2
 libfuse22.9.9-3
 libgbm121.0.3-0ubuntu0.3~20.04.1
 libgcc-s110.3.0-1ubuntu1~20.04
-libgcrypt201.8.5-5ubuntu1
+libgcrypt201.8.5-5ubuntu1.1
 libgdbm61.18.1-5
 libgdk-pixbuf2.0-02.40.0+dfsg-3ubuntu0.2
 libgdk-pixbuf2.0-common2.40.0+dfsg-3ubuntu0.2
@@ -291,7 +291,7 @@ libtasn1-64.16.0-2
 libtdb11.4.2-3build1
 libthai00.1.28-3
 libthai-data0.1.28-3
-libtiff54.1.0+git191117-2ubuntu0.20.04.1
+libtiff54.1.0+git191117-2ubuntu0.20.04.2
 libtinfo66.2-0ubuntu2
 libuchardet00.0.6-3build1
 libudev1245.4-4ubuntu3.13
