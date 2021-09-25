@@ -13,7 +13,7 @@ ca-certificates20210119~18.04.1
 coreutils8.28-1ubuntu1
 cpp4:7.4.0-1ubuntu2.3
 cpp-77.5.0-3ubuntu1~18.04
-curl7.58.0-2ubuntu3.15
+curl7.58.0-2ubuntu3.16
 dash0.5.8-2.10
 dbus1.12.2-1ubuntu1.2
 dbus-x111.12.2-1ubuntu1.2
@@ -102,7 +102,7 @@ libcolord21.3.3-2build1
 libcom-err21.44.1-1ubuntu1.3
 libcroco30.6.12-2
 libcups22.2.7-1ubuntu2.8
-libcurl47.58.0-2ubuntu3.15
+libcurl47.58.0-2ubuntu3.16
 libdatrie10.2.10-7
 libdb5.35.3.28-13.1ubuntu1.1
 libdbus-1-31.12.2-1ubuntu1.2
@@ -134,7 +134,7 @@ libfreetype62.8.1-2ubuntu2.1
 libfuse22.9.7-1ubuntu1
 libgbm120.0.8-0ubuntu1~18.04.1
 libgcc11:8.4.0-1ubuntu1~18.04
-libgcrypt201.8.1-4ubuntu1.2
+libgcrypt201.8.1-4ubuntu1.3
 libgdbm51.14.1-6
 libgdk-pixbuf2.0-02.36.11-2
 libgdk-pixbuf2.0-common2.36.11-2
@@ -147,7 +147,7 @@ libglvnd01.0.0-2ubuntu2.3
 libglx01.0.0-2ubuntu2.3
 libglx-mesa020.0.8-0ubuntu1~18.04.1
 libgmp102:6.1.2+dfsg-2
-libgnutls303.5.18-1ubuntu1.4
+libgnutls303.5.18-1ubuntu1.5
 libgpg-error01.27-6
 libgraphite2-31.3.11-2
 libgssapi3-heimdal7.5.0+dfsg-1
@@ -260,7 +260,7 @@ libss21.44.1-1ubuntu1.3
 libssl1.0.01.0.2n-1ubuntu5.7
 libssl1.11.1.1-1ubuntu2.1~18.04.13
 libstdc++68.4.0-1ubuntu1~18.04
-libsystemd0237-3ubuntu10.51
+libsystemd0237-3ubuntu10.52
 libtasn1-64.13-2
 libtdb11.3.15-2
 libthai00.1.27-2
