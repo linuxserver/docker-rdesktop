@@ -22,7 +22,7 @@ catdoc1:0.95-4.1
 coreutils8.28-1ubuntu1
 cpp4:7.4.0-1ubuntu2.3
 cpp-77.5.0-3ubuntu1~18.04
-curl7.58.0-2ubuntu3.15
+curl7.58.0-2ubuntu3.16
 dash0.5.8-2.10
 dbus1.12.2-1ubuntu1.2
 dbus-x111.12.2-1ubuntu1.2
@@ -188,8 +188,8 @@ libcryptsetup122:2.0.2-1ubuntu1.2
 libcrystalhd31:0.0~git20110715.fdd2f19-12
 libcups22.2.7-1ubuntu2.8
 libcupsimage22.2.7-1ubuntu2.8
-libcurl3-gnutls7.58.0-2ubuntu3.15
-libcurl47.58.0-2ubuntu3.15
+libcurl3-gnutls7.58.0-2ubuntu3.16
+libcurl47.58.0-2ubuntu3.16
 libdatrie10.2.10-7
 libdb5.35.3.28-13.1ubuntu1.1
 libdbus-1-31.12.2-1ubuntu1.2
@@ -240,7 +240,7 @@ libfribidi00.19.7-2
 libfuse22.9.7-1ubuntu1
 libgbm120.0.8-0ubuntu1~18.04.1
 libgcc11:8.4.0-1ubuntu1~18.04
-libgcrypt201.8.1-4ubuntu1.2
+libgcrypt201.8.1-4ubuntu1.3
 libgdbm51.14.1-6
 libgdbm-compat41.14.1-6
 libgdk-pixbuf2.0-02.36.11-2
@@ -259,7 +259,7 @@ libglx01.0.0-2ubuntu2.3
 libglx-mesa020.0.8-0ubuntu1~18.04.1
 libgme00.6.2-1
 libgmp102:6.1.2+dfsg-2
-libgnutls303.5.18-1ubuntu1.4
+libgnutls303.5.18-1ubuntu1.5
 libgomp18.4.0-1ubuntu1~18.04
 libgpg-error01.27-6
 libgpgme111.10.0-1ubuntu2
