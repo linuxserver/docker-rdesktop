@@ -22,7 +22,7 @@ bc1.07.1-2
 bsdmainutils11.1.2ubuntu1
 bsdutils1:2.31.1-0.4ubuntu3.7
 bzip21.0.6-8.1ubuntu0.2
-ca-certificates20210119~18.04.1
+ca-certificates20210119~18.04.2
 caja1.20.2-4ubuntu1
 caja-common1.20.2-4ubuntu1
 coreutils8.28-1ubuntu1
