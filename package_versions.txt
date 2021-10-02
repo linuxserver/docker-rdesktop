@@ -20,7 +20,7 @@ bsdmainutils11.1.2ubuntu3
 bsdutils1:2.34-0.1ubuntu9.1
 bubblewrap0.4.0-1ubuntu4
 bzip21.0.8-2
-ca-certificates20210119~20.04.1
+ca-certificates20210119~20.04.2
 caja1.24.0-1
 caja-common1.24.0-1
 coreutils8.30-3ubuntu2
@@ -52,6 +52,7 @@ desktop-file-utils0.24-1ubuntu3
 dictionaries-common1.28.1
 diffutils1:3.7-3
 dirmngr2.2.19-3ubuntu2.1
+distro-info0.23ubuntu1
 distro-info-data0.43ubuntu1.6
 dmidecode3.2-3
 dmsetup2:1.02.167-1ubuntu1
@@ -222,16 +223,16 @@ libdconf10.36.0-1
 libdebconfclient00.251ubuntu1
 libdevmapper1.02.12:1.02.167-1ubuntu1
 libdpkg-perl1.19.7ubuntu3
-libdrm22.4.105-3~20.04.1
-libdrm-amdgpu12.4.105-3~20.04.1
-libdrm-common2.4.105-3~20.04.1
-libdrm-intel12.4.105-3~20.04.1
-libdrm-nouveau22.4.105-3~20.04.1
-libdrm-radeon12.4.105-3~20.04.1
+libdrm22.4.105-3~20.04.2
+libdrm-amdgpu12.4.105-3~20.04.2
+libdrm-common2.4.105-3~20.04.2
+libdrm-intel12.4.105-3~20.04.2
+libdrm-nouveau22.4.105-3~20.04.2
+libdrm-radeon12.4.105-3~20.04.2
 libdv41.0.0-12
 libedit23.1-20191231-1
 libegl11.3.2-1~ubuntu0.20.04.1
-libegl-mesa021.0.3-0ubuntu0.3~20.04.1
+libegl-mesa021.0.3-0ubuntu0.3~20.04.2
 libelf10.176-1.1build1
 libenchant1c2a1.6.0-11.3build1
 libenchant-2-22.2.8-1ubuntu0.20.04.1
@@ -254,7 +255,7 @@ libfreetype62.10.1-2ubuntu0.1
 libfribidi01.0.8-2
 libfuse22.9.9-3
 libgail-3-03.24.20-0ubuntu1
-libgbm121.0.3-0ubuntu0.3~20.04.1
+libgbm121.0.3-0ubuntu0.3~20.04.2
 libgcc-s110.3.0-1ubuntu1~20.04
 libgck-1-03.36.0-2build1
 libgcr-base-3-13.36.0-2build1
@@ -268,8 +269,8 @@ libgdk-pixbuf2.0-02.40.0+dfsg-3ubuntu0.2
 libgdk-pixbuf2.0-common2.40.0+dfsg-3ubuntu0.2
 libgirepository-1.0-11.64.1-1~ubuntu20.04.1
 libgl11.3.2-1~ubuntu0.20.04.1
-libgl1-mesa-dri21.0.3-0ubuntu0.3~20.04.1
-libglapi-mesa21.0.3-0ubuntu0.3~20.04.1
+libgl1-mesa-dri21.0.3-0ubuntu0.3~20.04.2
+libglapi-mesa21.0.3-0ubuntu0.3~20.04.2
 libgles21.3.2-1~ubuntu0.20.04.1
 libglib2.0-02.64.6-1~ubuntu20.04.4
 libglib2.0-bin2.64.6-1~ubuntu20.04.4
@@ -279,7 +280,7 @@ libglib-perl3:1.329.2-1
 libglu1-mesa9.0.1-1build1
 libglvnd01.3.2-1~ubuntu0.20.04.1
 libglx01.3.2-1~ubuntu0.20.04.1
-libglx-mesa021.0.3-0ubuntu0.3~20.04.1
+libglx-mesa021.0.3-0ubuntu0.3~20.04.2
 libgmp102:6.2.0+dfsg-4
 libgnutls303.6.13-2ubuntu1.6
 libgoa-1.0-0b3.36.1-0ubuntu1
@@ -385,7 +386,7 @@ libmpg123-01.25.13-1
 libmtp91.1.17-3
 libmtp-common1.1.17-3
 libmtp-runtime1.1.17-3
-libmysqlclient218.0.26-0ubuntu0.20.04.2
+libmysqlclient218.0.26-0ubuntu0.20.04.3
 libncurses66.2-0ubuntu2
 libncursesw66.2-0ubuntu2
 libnettle73.5.1+really3.5.1-2ubuntu0.2
@@ -433,7 +434,7 @@ libpolkit-gobject-1-00.105-26ubuntu1.1
 libpoppler970.86.1-0ubuntu1
 libpoppler-cpp0v50.86.1-0ubuntu1
 libpopt01.16-14
-libprocps82:3.3.16-1ubuntu2.2
+libprocps82:3.3.16-1ubuntu2.3
 libproxy1v50.4.15-10ubuntu1.2
 libpsl50.21.0-1ubuntu1
 libpthread-stubs0-dev0.4-1
@@ -663,7 +664,7 @@ printer-driver-gutenprint5.3.3-4
 printer-driver-hpcups3.20.3+dfsg0-2
 printer-driver-pnm2ppa1.13+nondbs-0ubuntu6
 printer-driver-postscript-hp3.20.3+dfsg0-2
-procps2:3.3.16-1ubuntu2.2
+procps2:3.3.16-1ubuntu2.3
 psmisc23.3-1
 publicsuffix20200303.0012-1
 pulseaudio1:13.99.1-1ubuntu3.11
@@ -710,7 +711,7 @@ python3-simplejson3.16.0-2ubuntu2
 python3-six1.14.0-2
 python3-software-properties0.98.9.5
 python3-talloc2.3.0-3ubuntu1
-python3-update-manager1:20.04.10.7
+python3-update-manager1:20.04.10.9
 python3-urllib31.25.8-2ubuntu0.1
 python3-wadllib1.3.3-3build1
 python3-xkit0.5.0ubuntu4
@@ -734,6 +735,7 @@ systemd-timesyncd245.4-4ubuntu3.13
 sysvinit-utils2.96-2.1ubuntu1
 tar1.30+dfsg-7ubuntu0.20.04.1
 tzdata2021a-0ubuntu0.20.04
+ubuntu-advantage-tools27.2.2~20.04.1
 ubuntu-drivers-common1:0.9.0~0.20.04.1
 ubuntu-keyring2020.02.11.4
 ubuntu-mate-artwork20.04.2
@@ -753,8 +755,8 @@ ucf3.0038+nmu1
 udev245.4-4ubuntu3.13
 udisks22.8.4-1ubuntu2
 unzip6.0-25ubuntu1
-update-manager1:20.04.10.7
-update-manager-core1:20.04.10.7
+update-manager1:20.04.10.9
+update-manager-core1:20.04.10.9
 update-notifier3.192.30.9
 update-notifier-common3.192.30.9
 upower0.99.11-1build2
