@@ -24,14 +24,14 @@ debconf1.5.66ubuntu1
 debianutils4.8.4
 diffutils1:3.6-1
 dirmngr2.2.4-1ubuntu1.4
-distro-info-data0.37ubuntu0.11
-docker-ce-cli5:20.10.8~3-0~ubuntu-bionic
+distro-info-data0.37ubuntu0.12
+docker-ce-cli5:20.10.9~3-0~ubuntu-bionic
 dpkg1.19.0.5ubuntu2.3
 dunst1.3.0-2
 e2fsprogs1.44.1-1ubuntu1.3
 fdisk2.31.1-0.4ubuntu3.7
 findutils4.6.0+git+20170828-2
-firefox92.0+build3-0ubuntu0.18.04.1
+firefox93.0+build1-0ubuntu0.18.04.1
 fontconfig2.12.6-0ubuntu2
 fontconfig-config2.12.6-0ubuntu2
 fonts-dejavu-core2.37-1
