@@ -413,7 +413,7 @@ sysvinit-utils2.88dsf-59.10ubuntu1
 tar1.29b-2ubuntu0.2
 thunar1.6.15-0ubuntu1.18.04.1
 thunar-data1.6.15-0ubuntu1.18.04.1
-tzdata2021a-0ubuntu0.18.04
+tzdata2021a-2ubuntu0.18.04
 ubuntu-keyring2018.09.18.1~18.04.2
 ubuntu-mono16.10+18.04.20181005-0ubuntu1
 ucf3.0038
