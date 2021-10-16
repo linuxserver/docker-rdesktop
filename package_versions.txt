@@ -719,7 +719,7 @@ systemd237-3ubuntu10.52
 systemd-sysv237-3ubuntu10.52
 sysvinit-utils2.88dsf-59.10ubuntu1
 tar1.29b-2ubuntu0.2
-tzdata2021a-0ubuntu0.18.04
+tzdata2021a-2ubuntu0.18.04
 ubuntu-drivers-common1:0.8.6.3~0.18.04.2
 ubuntu-keyring2018.09.18.1~18.04.2
 ubuntu-mate-artwork18.04.11
