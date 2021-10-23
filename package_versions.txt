@@ -32,7 +32,7 @@ debconf1.5.66ubuntu1
 debianutils4.8.4
 diffutils1:3.6-1
 dirmngr2.2.4-1ubuntu1.4
-distro-info-data0.37ubuntu0.12
+distro-info-data0.37ubuntu0.13
 docbook-xml4.5-8
 docbook-xsl1.79.1+dfsg-2
 docker-ce-cli5:20.10.9~3-0~ubuntu-bionic
@@ -169,7 +169,7 @@ libbrotli11.0.3-1ubuntu1.3
 libbsd00.8.7-1ubuntu0.1
 libbz2-1.01.0.6-8.1ubuntu0.2
 libc62.27-3ubuntu1.4
-libcaca00.99.beta19-2ubuntu0.18.04.2
+libcaca00.99.beta19-2ubuntu0.18.04.3
 libcairo21.15.10-2ubuntu0.1
 libcairo-gobject21.15.10-2ubuntu0.1
 libcanberra00.30-5ubuntu1
