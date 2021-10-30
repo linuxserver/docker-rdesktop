@@ -35,7 +35,7 @@ dirmngr2.2.4-1ubuntu1.4
 distro-info-data0.37ubuntu0.13
 docbook-xml4.5-8
 docbook-xsl1.79.1+dfsg-2
-docker-ce-cli5:20.10.9~3-0~ubuntu-bionic
+docker-ce-cli5:20.10.10~3-0~ubuntu-bionic
 dolphin4:17.12.3-0ubuntu1
 dpkg1.19.0.5ubuntu2.3
 e2fsprogs1.44.1-1ubuntu1.3
@@ -818,7 +818,7 @@ pulseaudio-utils1:11.1-1ubuntu7.11
 python33.6.7-1~18.04
 python3.63.6.9-1~18.04ubuntu1.4
 python3.6-minimal3.6.9-1~18.04ubuntu1.4
-python3-apport2.20.9-0ubuntu7.26
+python3-apport2.20.9-0ubuntu7.27
 python3-apt1.6.5ubuntu0.7
 python3-certifi2018.1.18-2
 python3-chardet3.0.4-1
@@ -830,7 +830,7 @@ python3-httplib20.9.2+dfsg-1ubuntu0.3
 python3-idna2.6-1
 python3-minimal3.6.7-1~18.04
 python3-pkg-resources39.0.1-2
-python3-problem-report2.20.9-0ubuntu7.26
+python3-problem-report2.20.9-0ubuntu7.27
 python3-pyqt55.10.1+dfsg-1ubuntu2
 python3-requests2.18.4-2ubuntu0.1
 python3-requests-unixsocket0.1.5-3
