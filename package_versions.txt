@@ -35,7 +35,7 @@ dirmngr2.2.4-1ubuntu1.4
 distro-info-data0.37ubuntu0.13
 docbook-xml4.5-8
 docbook-xsl1.79.1+dfsg-2
-docker-ce-cli5:20.10.10~3-0~ubuntu-bionic
+docker-ce-cli5:20.10.11~3-0~ubuntu-bionic
 dolphin4:17.12.3-0ubuntu1
 dpkg1.19.0.5ubuntu2.3
 e2fsprogs1.44.1-1ubuntu1.3
@@ -504,7 +504,7 @@ libnspr42:4.18-1ubuntu1
 libnss32:3.35-2ubuntu2.12
 libnuma12.0.11-2.1ubuntu0.1
 libogg01.3.2-1
-libopenexr222.2.0-11.1ubuntu1.8
+libopenexr222.2.0-11.1ubuntu1.9
 libopenjp2-72.3.0-2build0.18.04.1
 libopenmpt00.3.6-1
 libopenmpt-modplug10.3.6-1
