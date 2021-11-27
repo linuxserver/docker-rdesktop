@@ -77,8 +77,8 @@ gcc-9-base9.3.0-17ubuntu1~20.04
 gdisk1.0.5-1
 genisoimage9:1.1.11-3.1ubuntu1
 gettext-base0.19.8.1-10build1
-ghostscript9.50~dfsg-5ubuntu4.3
-ghostscript-x9.50~dfsg-5ubuntu4.3
+ghostscript9.50~dfsg-5ubuntu4.4
+ghostscript-x9.50~dfsg-5ubuntu4.4
 gir1.2-atk-1.02.35.1-1ubuntu2
 gir1.2-freedesktop1.64.1-1~ubuntu20.04.1
 gir1.2-gdkpixbuf-2.02.40.0+dfsg-3ubuntu0.2
@@ -232,7 +232,7 @@ libdrm-radeon12.4.105-3~20.04.2
 libdv41.0.0-12
 libedit23.1-20191231-1
 libegl11.3.2-1~ubuntu0.20.04.1
-libegl-mesa021.0.3-0ubuntu0.3~20.04.3
+libegl-mesa021.0.3-0ubuntu0.3~20.04.4
 libelf10.176-1.1build1
 libenchant1c2a1.6.0-11.3build1
 libenchant-2-22.2.8-1ubuntu0.20.04.1
@@ -255,7 +255,7 @@ libfreetype62.10.1-2ubuntu0.1
 libfribidi01.0.8-2
 libfuse22.9.9-3
 libgail-3-03.24.20-0ubuntu1
-libgbm121.0.3-0ubuntu0.3~20.04.3
+libgbm121.0.3-0ubuntu0.3~20.04.4
 libgcc-s110.3.0-1ubuntu1~20.04
 libgck-1-03.36.0-2build1
 libgcr-base-3-13.36.0-2build1
@@ -269,8 +269,8 @@ libgdk-pixbuf2.0-02.40.0+dfsg-3ubuntu0.2
 libgdk-pixbuf2.0-common2.40.0+dfsg-3ubuntu0.2
 libgirepository-1.0-11.64.1-1~ubuntu20.04.1
 libgl11.3.2-1~ubuntu0.20.04.1
-libgl1-mesa-dri21.0.3-0ubuntu0.3~20.04.3
-libglapi-mesa21.0.3-0ubuntu0.3~20.04.3
+libgl1-mesa-dri21.0.3-0ubuntu0.3~20.04.4
+libglapi-mesa21.0.3-0ubuntu0.3~20.04.4
 libgles21.3.2-1~ubuntu0.20.04.1
 libglib2.0-02.64.6-1~ubuntu20.04.4
 libglib2.0-bin2.64.6-1~ubuntu20.04.4
@@ -280,7 +280,7 @@ libglib-perl3:1.329.2-1
 libglu1-mesa9.0.1-1build1
 libglvnd01.3.2-1~ubuntu0.20.04.1
 libglx01.3.2-1~ubuntu0.20.04.1
-libglx-mesa021.0.3-0ubuntu0.3~20.04.3
+libglx-mesa021.0.3-0ubuntu0.3~20.04.4
 libgmp102:6.2.0+dfsg-4
 libgnutls303.6.13-2ubuntu1.6
 libgoa-1.0-0b3.36.1-0ubuntu1
@@ -291,8 +291,8 @@ libgphoto2-62.5.25-0ubuntu0.1
 libgphoto2-port122.5.25-0ubuntu0.1
 libgpm21.20.7-5
 libgraphite2-31.3.13-11build1
-libgs99.50~dfsg-5ubuntu4.3
-libgs9-common9.50~dfsg-5ubuntu4.3
+libgs99.50~dfsg-5ubuntu4.4
+libgs9-common9.50~dfsg-5ubuntu4.4
 libgssapi3-heimdal7.7.0+dfsg-1ubuntu1
 libgssapi-krb5-21.17-6ubuntu4.1
 libgstreamer1.0-01.16.2-2
@@ -324,7 +324,7 @@ libhunspell-1.7-01.7.0-2build2
 libhx509-5-heimdal7.7.0+dfsg-1ubuntu1
 libhyphen02.8.8-7
 libice62:1.0.10-0ubuntu1
-libicu6666.1-2ubuntu2
+libicu6666.1-2ubuntu2.1
 libidn111.33-2.2ubuntu2
 libidn2-02.2.0-2
 libido3-0.1-013.10.0+17.04.20161028-0ubuntu2
@@ -474,7 +474,7 @@ libsigsegv22.12-2
 libslang22.3.2-4
 libsm62:1.2.3-1
 libsmartcols12.34-0.1ubuntu9.1
-libsmbclient2:4.13.14+dfsg-0ubuntu0.20.04.1
+libsmbclient2:4.13.14+dfsg-0ubuntu0.20.04.2
 libsnapd-glib11.58-0ubuntu0.20.04.0
 libsndfile11.0.28-7ubuntu0.1
 libsnmp355.8+dfsg-2ubuntu2.3
@@ -530,7 +530,7 @@ libwayland-client01.18.0-1
 libwayland-cursor01.18.0-1
 libwayland-egl11.18.0-1
 libwayland-server01.18.0-1
-libwbclient02:4.13.14+dfsg-0ubuntu0.20.04.1
+libwbclient02:4.13.14+dfsg-0ubuntu0.20.04.2
 libwebkit2gtk-4.0-372.34.1-0ubuntu0.20.04.1
 libwebp60.6.1-2ubuntu0.20.04.1
 libwebpdemux20.6.1-2ubuntu0.20.04.1
@@ -720,7 +720,7 @@ python3-yaml5.3.1-1ubuntu0.1
 python-apt-common2.0.0ubuntu0.20.04.6
 readline-common8.0-4
 rfkill2.34-0.1ubuntu9.1
-samba-libs2:4.13.14+dfsg-0ubuntu0.20.04.1
+samba-libs2:4.13.14+dfsg-0ubuntu0.20.04.2
 sed4.7-1
 sensible-utils0.0.12+nmu1
 shared-mime-info1.15-1
