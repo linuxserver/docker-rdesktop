@@ -632,7 +632,7 @@ libsigsegv22.12-1
 libslang22.3.1a-3ubuntu1
 libsm62:1.2.2-1
 libsmartcols12.31.1-0.4ubuntu3.7
-libsmbclient2:4.7.6+dfsg~ubuntu-0ubuntu2.23
+libsmbclient2:4.7.6+dfsg~ubuntu-0ubuntu2.24
 libsnapd-glib11.58-0ubuntu0.18.04.0
 libsnappy1v51.1.7-1
 libsndfile11.0.28-4ubuntu0.18.04.2
@@ -694,7 +694,7 @@ libwayland-client01.16.0-1ubuntu1.1~18.04.3
 libwayland-cursor01.16.0-1ubuntu1.1~18.04.3
 libwayland-egl11.16.0-1ubuntu1.1~18.04.3
 libwayland-server01.16.0-1ubuntu1.1~18.04.3
-libwbclient02:4.7.6+dfsg~ubuntu-0ubuntu2.23
+libwbclient02:4.7.6+dfsg~ubuntu-0ubuntu2.24
 libweather-ion74:5.12.9-0ubuntu0.1
 libwebp60.6.1-2ubuntu0.18.04.1
 libwebpdemux20.6.1-2ubuntu0.18.04.1
@@ -836,7 +836,7 @@ python3-requests2.18.4-2ubuntu0.1
 python3-requests-unixsocket0.1.5-3
 python3-sip4.19.7+dfsg-1ubuntu0.1
 python3-six1.11.0-2
-python3-software-properties0.96.24.32.14
+python3-software-properties0.96.24.32.18
 python3-urllib31.22-1ubuntu0.18.04.2
 python3-xkit0.5.0ubuntu2
 python-apt-common1.6.5ubuntu0.7
@@ -872,15 +872,15 @@ qml-module-qtquick-window25.9.5-0ubuntu1.1
 qtchooser64-ga1b6736-5
 readline-common7.0-3
 rfkill2.31.1-0.4ubuntu3.7
-samba-libs2:4.7.6+dfsg~ubuntu-0ubuntu2.23
+samba-libs2:4.7.6+dfsg~ubuntu-0ubuntu2.24
 sddm-theme-breeze4:5.12.9-0ubuntu0.1
 sed4.4-2
 sensible-utils0.0.12
 sgml-base1.29
 sgml-data2.0.10
 shared-mime-info1.9-2
-software-properties-common0.96.24.32.14
-software-properties-kde0.96.24.32.14
+software-properties-common0.96.24.32.18
+software-properties-kde0.96.24.32.18
 sound-theme-freedesktop0.8-2ubuntu1
 spice-vdagent0.17.0-1ubuntu2.2
 ssl-cert1.0.39
