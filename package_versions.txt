@@ -62,7 +62,7 @@ e2fsprogs1.45.5-2ubuntu1
 emacsen-common3.0.4
 fdisk2.34-0.1ubuntu9.1
 findutils4.7.0-1ubuntu1
-firefox94.0+build3-0ubuntu0.20.04.1
+firefox95.0+build1-0ubuntu0.20.04.1
 fontconfig2.13.1-2ubuntu3
 fontconfig-config2.13.1-2ubuntu3
 fonts-dejavu-core2.37-1
@@ -438,9 +438,9 @@ libprocps82:3.3.16-1ubuntu2.3
 libproxy1v50.4.15-10ubuntu1.2
 libpsl50.21.0-1ubuntu1
 libpthread-stubs0-dev0.4-1
-libpulse01:13.99.1-1ubuntu3.12
-libpulsedsp1:13.99.1-1ubuntu3.12
-libpulse-mainloop-glib01:13.99.1-1ubuntu3.12
+libpulse01:13.99.1-1ubuntu3.13
+libpulsedsp1:13.99.1-1ubuntu3.13
+libpulse-mainloop-glib01:13.99.1-1ubuntu3.13
 libpython3.83.8.10-0ubuntu1~20.04.1
 libpython3.8-minimal3.8.10-0ubuntu1~20.04.1
 libpython3.8-stdlib3.8.10-0ubuntu1~20.04.1
@@ -474,7 +474,7 @@ libsigsegv22.12-2
 libslang22.3.2-4
 libsm62:1.2.3-1
 libsmartcols12.34-0.1ubuntu9.1
-libsmbclient2:4.13.14+dfsg-0ubuntu0.20.04.2
+libsmbclient2:4.13.14+dfsg-0ubuntu0.20.04.3
 libsnapd-glib11.58-0ubuntu0.20.04.0
 libsndfile11.0.28-7ubuntu0.1
 libsnmp355.8+dfsg-2ubuntu2.3
@@ -530,7 +530,7 @@ libwayland-client01.18.0-1
 libwayland-cursor01.18.0-1
 libwayland-egl11.18.0-1
 libwayland-server01.18.0-1
-libwbclient02:4.13.14+dfsg-0ubuntu0.20.04.2
+libwbclient02:4.13.14+dfsg-0ubuntu0.20.04.3
 libwebkit2gtk-4.0-372.34.1-0ubuntu0.20.04.1
 libwebp60.6.1-2ubuntu0.20.04.1
 libwebpdemux20.6.1-2ubuntu0.20.04.1
@@ -667,8 +667,8 @@ printer-driver-postscript-hp3.20.3+dfsg0-2
 procps2:3.3.16-1ubuntu2.3
 psmisc23.3-1
 publicsuffix20200303.0012-1
-pulseaudio1:13.99.1-1ubuntu3.12
-pulseaudio-utils1:13.99.1-1ubuntu3.12
+pulseaudio1:13.99.1-1ubuntu3.13
+pulseaudio-utils1:13.99.1-1ubuntu3.13
 python33.8.2-0ubuntu2
 python3.83.8.10-0ubuntu1~20.04.1
 python3.8-minimal3.8.10-0ubuntu1~20.04.1
@@ -720,7 +720,7 @@ python3-yaml5.3.1-1ubuntu0.1
 python-apt-common2.0.0ubuntu0.20.04.6
 readline-common8.0-4
 rfkill2.34-0.1ubuntu9.1
-samba-libs2:4.13.14+dfsg-0ubuntu0.20.04.2
+samba-libs2:4.13.14+dfsg-0ubuntu0.20.04.3
 sed4.7-1
 sensible-utils0.0.12+nmu1
 shared-mime-info1.15-1
@@ -736,7 +736,7 @@ systemd-timesyncd245.4-4ubuntu3.13
 sysvinit-utils2.96-2.1ubuntu1
 tar1.30+dfsg-7ubuntu0.20.04.1
 tzdata2021e-0ubuntu0.20.04
-ubuntu-advantage-tools27.4.1~20.04.1
+ubuntu-advantage-tools27.4.2~20.04.1
 ubuntu-drivers-common1:0.9.0~0.20.04.1
 ubuntu-keyring2020.02.11.4
 ubuntu-mate-artwork20.04.2
