@@ -35,7 +35,7 @@ dirmngr2.2.4-1ubuntu1.4
 distro-info-data0.37ubuntu0.13
 docbook-xml4.5-8
 docbook-xsl1.79.1+dfsg-2
-docker-ce-cli5:20.10.11~3-0~ubuntu-bionic
+docker-ce-cli5:20.10.12~3-0~ubuntu-bionic
 dolphin4:17.12.3-0ubuntu1
 dpkg1.19.0.5ubuntu2.3
 e2fsprogs1.44.1-1ubuntu1.3
@@ -252,7 +252,7 @@ libgl11.0.0-2ubuntu2.3
 libgl1-mesa-dri20.0.8-0ubuntu1~18.04.1
 libglapi-mesa20.0.8-0ubuntu1~18.04.1
 libgles21.0.0-2ubuntu2.3
-libglib2.0-02.56.4-0ubuntu0.18.04.8
+libglib2.0-02.56.4-0ubuntu0.18.04.9
 libglu1-mesa9.0.0-2.1build1
 libglvnd01.0.0-2ubuntu2.3
 libglx01.0.0-2ubuntu2.3
@@ -557,9 +557,9 @@ libpulse-mainloop-glib01:11.1-1ubuntu7.11
 libpython2.72.7.17-1~18.04ubuntu1.6
 libpython2.7-minimal2.7.17-1~18.04ubuntu1.6
 libpython2.7-stdlib2.7.17-1~18.04ubuntu1.6
-libpython3.63.6.9-1~18.04ubuntu1.4
-libpython3.6-minimal3.6.9-1~18.04ubuntu1.4
-libpython3.6-stdlib3.6.9-1~18.04ubuntu1.4
+libpython3.63.6.9-1~18.04ubuntu1.6
+libpython3.6-minimal3.6.9-1~18.04ubuntu1.6
+libpython3.6-stdlib3.6.9-1~18.04ubuntu1.6
 libpython3-stdlib3.6.7-1~18.04
 libqalculate60.9.10-1
 libqalculate6-data0.9.10-1
@@ -632,7 +632,7 @@ libsigsegv22.12-1
 libslang22.3.1a-3ubuntu1
 libsm62:1.2.2-1
 libsmartcols12.31.1-0.4ubuntu3.7
-libsmbclient2:4.7.6+dfsg~ubuntu-0ubuntu2.26
+libsmbclient2:4.7.6+dfsg~ubuntu-0ubuntu2.27
 libsnapd-glib11.58-0ubuntu0.18.04.0
 libsnappy1v51.1.7-1
 libsndfile11.0.28-4ubuntu0.18.04.2
@@ -648,7 +648,7 @@ libssh2-11.8.0-1
 libssh-40.8.0~20170825.94fa1e38-1ubuntu0.7
 libssh-gcrypt-40.8.0~20170825.94fa1e38-1ubuntu0.7
 libssl1.0.01.0.2n-1ubuntu5.7
-libssl1.11.1.1-1ubuntu2.1~18.04.13
+libssl1.11.1.1-1ubuntu2.1~18.04.14
 libstdc++68.4.0-1ubuntu1~18.04
 libstemmer0d0+svn585-1build1
 libswresample27:3.4.8-0ubuntu0.2
@@ -694,7 +694,7 @@ libwayland-client01.16.0-1ubuntu1.1~18.04.3
 libwayland-cursor01.16.0-1ubuntu1.1~18.04.3
 libwayland-egl11.16.0-1ubuntu1.1~18.04.3
 libwayland-server01.16.0-1ubuntu1.1~18.04.3
-libwbclient02:4.7.6+dfsg~ubuntu-0ubuntu2.26
+libwbclient02:4.7.6+dfsg~ubuntu-0ubuntu2.27
 libweather-ion74:5.12.9-0ubuntu0.1
 libwebp60.6.1-2ubuntu0.18.04.1
 libwebpdemux20.6.1-2ubuntu0.18.04.1
@@ -788,7 +788,7 @@ ncurses-base6.1-1ubuntu1.18.04
 ncurses-bin6.1-1ubuntu1.18.04
 openprinting-ppds20180306-1
 openssh-client1:7.6p1-4ubuntu0.5
-openssl1.1.1-1ubuntu2.1~18.04.13
+openssl1.1.1-1ubuntu2.1~18.04.14
 oxygen-sounds4:5.12.8-0ubuntu0.1
 parted3.2-20ubuntu0.2
 passwd1:4.5-1ubuntu2
@@ -816,8 +816,8 @@ publicsuffix20180223.1310-1
 pulseaudio1:11.1-1ubuntu7.11
 pulseaudio-utils1:11.1-1ubuntu7.11
 python33.6.7-1~18.04
-python3.63.6.9-1~18.04ubuntu1.4
-python3.6-minimal3.6.9-1~18.04ubuntu1.4
+python3.63.6.9-1~18.04ubuntu1.6
+python3.6-minimal3.6.9-1~18.04ubuntu1.6
 python3-apport2.20.9-0ubuntu7.27
 python3-apt1.6.5ubuntu0.7
 python3-certifi2018.1.18-2
@@ -872,7 +872,7 @@ qml-module-qtquick-window25.9.5-0ubuntu1.1
 qtchooser64-ga1b6736-5
 readline-common7.0-3
 rfkill2.31.1-0.4ubuntu3.7
-samba-libs2:4.7.6+dfsg~ubuntu-0ubuntu2.26
+samba-libs2:4.7.6+dfsg~ubuntu-0ubuntu2.27
 sddm-theme-breeze4:5.12.9-0ubuntu0.1
 sed4.4-2
 sensible-utils0.0.12
@@ -928,9 +928,9 @@ xorg-docs-core1:1.7.1-1.1
 xorg-sgml-doctools1:1.11-1
 xorgxrdp0.9.5-2
 xrdp0.9.5-2
-xserver-common2:1.19.6-1ubuntu4.9
+xserver-common2:1.19.6-1ubuntu4.10
 xserver-xorg1:7.7+19ubuntu7.1
-xserver-xorg-core2:1.19.6-1ubuntu4.9
+xserver-xorg-core2:1.19.6-1ubuntu4.10
 xtrans-dev1.3.5-1
 xutils1:7.7+19ubuntu7.1
 xz-utils5.2.2-1.3
