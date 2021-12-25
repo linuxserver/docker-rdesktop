@@ -62,7 +62,7 @@ e2fsprogs1.45.5-2ubuntu1
 emacsen-common3.0.4
 fdisk2.34-0.1ubuntu9.1
 findutils4.7.0-1ubuntu1
-firefox95.0+build1-0ubuntu0.20.04.1
+firefox95.0.1+build2-0ubuntu0.20.04.1
 fontconfig2.13.1-2ubuntu3
 fontconfig-config2.13.1-2ubuntu3
 fonts-dejavu-core2.37-1
@@ -460,7 +460,7 @@ libsamplerate00.1.9-2
 libsasl2-22.1.27+dfsg-2
 libsasl2-modules2.1.27+dfsg-2
 libsasl2-modules-db2.1.27+dfsg-2
-libseccomp22.5.1-1ubuntu1~20.04.1
+libseccomp22.5.1-1ubuntu1~20.04.2
 libsecret-1-00.20.4-0ubuntu1
 libsecret-common0.20.4-0ubuntu1
 libselinux13.0-1build2
