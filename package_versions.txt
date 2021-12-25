@@ -41,7 +41,7 @@ dpkg1.19.0.5ubuntu2.3
 e2fsprogs1.44.1-1ubuntu1.3
 fdisk2.31.1-0.4ubuntu3.7
 findutils4.6.0+git+20170828-2
-firefox95.0+build1-0ubuntu0.18.04.1
+firefox95.0.1+build2-0ubuntu0.18.04.1
 fontconfig2.12.6-0ubuntu2
 fontconfig-config2.12.6-0ubuntu2
 fonts-dejavu-core2.37-1
@@ -617,7 +617,7 @@ libsasl2-modules-db2.1.27~101-g0780600+dfsg-3ubuntu2.3
 libscim8v51.4.18-2
 libsdl1.2debian1.2.15+dfsg2-0.1ubuntu0.1
 libsdl-image1.21.2.12-8ubuntu0.1
-libseccomp22.5.1-1ubuntu1~18.04.1
+libseccomp22.5.1-1ubuntu1~18.04.2
 libsecret-1-00.18.6-1
 libsecret-common0.18.6-1
 libselinux12.7-2build2
