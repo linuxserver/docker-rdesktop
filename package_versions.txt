@@ -516,7 +516,7 @@ libpam0g1.1.8-3.6ubuntu2.18.04.3
 libpam-modules1.1.8-3.6ubuntu2.18.04.3
 libpam-modules-bin1.1.8-3.6ubuntu2.18.04.3
 libpam-runtime1.1.8-3.6ubuntu2.18.04.3
-libpam-systemd237-3ubuntu10.52
+libpam-systemd237-3ubuntu10.53
 libpango-1.0-01.40.14-1ubuntu0.1
 libpangocairo-1.0-01.40.14-1ubuntu0.1
 libpangoft2-1.0-01.40.14-1ubuntu0.1
@@ -653,7 +653,7 @@ libstdc++68.4.0-1ubuntu1~18.04
 libstemmer0d0+svn585-1build1
 libswresample27:3.4.8-0ubuntu0.2
 libswscale47:3.4.8-0ubuntu0.2
-libsystemd0237-3ubuntu10.52
+libsystemd0237-3ubuntu10.53
 libtag1v51.11.1+dfsg.1-0.2build2
 libtag1v5-vanilla1.11.1+dfsg.1-0.2build2
 libtalloc22.1.10-2ubuntu1
@@ -668,7 +668,7 @@ libtiff54.0.9-5ubuntu0.4
 libtinfo56.1-1ubuntu1.18.04
 libtwolame00.3.13-3
 libu2f-udev1.1.4-1ubuntu0.1
-libudev1237-3ubuntu10.52
+libudev1237-3ubuntu10.53
 libudisks2-02.7.6-3ubuntu0.2
 libunistring20.9.9-0ubuntu2
 libupnp61:1.6.24-4
@@ -885,8 +885,8 @@ sound-theme-freedesktop0.8-2ubuntu1
 spice-vdagent0.17.0-1ubuntu2.2
 ssl-cert1.0.39
 sudo1.8.21p2-3ubuntu1.4
-systemd237-3ubuntu10.52
-systemd-sysv237-3ubuntu10.52
+systemd237-3ubuntu10.53
+systemd-sysv237-3ubuntu10.53
 systemsettings4:5.12.8-0ubuntu0.1
 sysvinit-utils2.88dsf-59.10ubuntu1
 tar1.29b-2ubuntu0.2
@@ -895,7 +895,7 @@ ubuntu-drivers-common1:0.8.6.3~0.18.04.2
 ubuntu-keyring2018.09.18.1~18.04.2
 ubuntu-mono16.10+18.04.20181005-0ubuntu1
 ucf3.0038
-udev237-3ubuntu10.52
+udev237-3ubuntu10.53
 udisks22.7.6-3ubuntu0.2
 unzip6.0-21ubuntu1.1
 usbutils1:007-4build1
