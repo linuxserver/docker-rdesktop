@@ -403,7 +403,7 @@ libpam0g1.1.8-3.6ubuntu2.18.04.3
 libpam-modules1.1.8-3.6ubuntu2.18.04.3
 libpam-modules-bin1.1.8-3.6ubuntu2.18.04.3
 libpam-runtime1.1.8-3.6ubuntu2.18.04.3
-libpam-systemd237-3ubuntu10.52
+libpam-systemd237-3ubuntu10.53
 libpango-1.0-01.40.14-1ubuntu0.1
 libpangocairo-1.0-01.40.14-1ubuntu0.1
 libpangoft2-1.0-01.40.14-1ubuntu0.1
@@ -486,7 +486,7 @@ libssl1.0.01.0.2n-1ubuntu5.7
 libssl1.11.1.1-1ubuntu2.1~18.04.14
 libstartup-notification00.12-5
 libstdc++68.4.0-1ubuntu1~18.04
-libsystemd0237-3ubuntu10.52
+libsystemd0237-3ubuntu10.53
 libtag1v51.11.1+dfsg.1-0.2build2
 libtag1v5-vanilla1.11.1+dfsg.1-0.2build2
 libtalloc22.1.10-2ubuntu1
@@ -501,7 +501,7 @@ libtiff54.0.9-5ubuntu0.4
 libtinfo56.1-1ubuntu1.18.04
 libtwolame00.3.13-3
 libu2f-udev1.1.4-1ubuntu0.1
-libudev1237-3ubuntu10.52
+libudev1237-3ubuntu10.53
 libudisks2-02.7.6-3ubuntu0.2
 libunistring20.9.9-0ubuntu2
 libupower-glib30.99.7-2ubuntu0.18.04.1
@@ -715,8 +715,8 @@ sound-theme-freedesktop0.8-2ubuntu1
 spice-vdagent0.17.0-1ubuntu2.2
 ssl-cert1.0.39
 sudo1.8.21p2-3ubuntu1.4
-systemd237-3ubuntu10.52
-systemd-sysv237-3ubuntu10.52
+systemd237-3ubuntu10.53
+systemd-sysv237-3ubuntu10.53
 sysvinit-utils2.88dsf-59.10ubuntu1
 tar1.29b-2ubuntu0.2
 tzdata2021e-0ubuntu0.18.04
@@ -737,7 +737,7 @@ ubuntu-release-upgrader-core1:18.04.45
 ubuntu-release-upgrader-gtk1:18.04.45
 ubuntu-sounds0.13
 ucf3.0038
-udev237-3ubuntu10.52
+udev237-3ubuntu10.53
 udisks22.7.6-3ubuntu0.2
 unzip6.0-21ubuntu1.1
 update-manager1:18.04.11.13
