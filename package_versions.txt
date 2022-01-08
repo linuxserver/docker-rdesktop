@@ -276,7 +276,7 @@ libthai-data0.1.27-2
 libtiff54.0.9-5ubuntu0.4
 libtinfo56.1-1ubuntu1.18.04
 libtypes-serialiser-perl1.0-1
-libudev1237-3ubuntu10.52
+libudev1237-3ubuntu10.53
 libunistring20.9.9-0ubuntu2
 libutempter01.1.6-3
 libuuid12.31.1-0.4ubuntu3.7
@@ -395,7 +395,7 @@ tzdata2021e-0ubuntu0.18.04
 ubuntu-keyring2018.09.18.1~18.04.2
 ubuntu-mono16.10+18.04.20181005-0ubuntu1
 ucf3.0038
-udev237-3ubuntu10.52
+udev237-3ubuntu10.53
 util-linux2.31.1-0.4ubuntu3.7
 x11-apps7.7+6ubuntu1
 x11-common1:7.7+19ubuntu7.1
