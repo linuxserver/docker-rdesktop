@@ -30,7 +30,7 @@ e2fsprogs1.44.1-1ubuntu1.3
 fdisk2.31.1-0.4ubuntu3.7
 featherpad0.8-1
 findutils4.6.0+git+20170828-2
-firefox95.0.1+build2-0ubuntu0.18.04.1
+firefox96.0+build2-0ubuntu0.18.04.1
 fontconfig2.12.6-0ubuntu2
 fontconfig-config2.12.6-0ubuntu2
 fonts-dejavu-core2.37-1
@@ -260,7 +260,7 @@ libss21.44.1-1ubuntu1.3
 libssl1.0.01.0.2n-1ubuntu5.7
 libssl1.11.1.1-1ubuntu2.1~18.04.14
 libstdc++68.4.0-1ubuntu1~18.04
-libsystemd0237-3ubuntu10.52
+libsystemd0237-3ubuntu10.53
 libtasn1-64.13-2
 libtdb11.3.15-2
 libthai00.1.27-2
