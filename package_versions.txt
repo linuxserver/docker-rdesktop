@@ -32,7 +32,7 @@ e2fsprogs1.44.1-1ubuntu1.3
 exo-utils0.12.2-0ubuntu0.18.04.1
 fdisk2.31.1-0.4ubuntu3.7
 findutils4.6.0+git+20170828-2
-firefox95.0.1+build2-0ubuntu0.18.04.1
+firefox96.0+build2-0ubuntu0.18.04.1
 fontconfig2.12.6-0ubuntu2
 fontconfig-config2.12.6-0ubuntu2
 fonts-dejavu-core2.37-1
