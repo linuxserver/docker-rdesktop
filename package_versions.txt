@@ -41,7 +41,7 @@ dpkg1.19.0.5ubuntu2.3
 e2fsprogs1.44.1-1ubuntu1.3
 fdisk2.31.1-0.4ubuntu3.7
 findutils4.6.0+git+20170828-2
-firefox95.0.1+build2-0ubuntu0.18.04.1
+firefox96.0+build2-0ubuntu0.18.04.1
 fontconfig2.12.6-0ubuntu2
 fontconfig-config2.12.6-0ubuntu2
 fonts-dejavu-core2.37-1
@@ -55,8 +55,8 @@ gcc-8-base8.4.0-1ubuntu1~18.04
 gdb8.1.1-0ubuntu1
 gdisk1.0.3-1
 genisoimage9:1.1.11-3ubuntu2
-ghostscript9.26~dfsg+0-0ubuntu0.18.04.14
-ghostscript-x9.26~dfsg+0-0ubuntu0.18.04.14
+ghostscript9.26~dfsg+0-0ubuntu0.18.04.15
+ghostscript-x9.26~dfsg+0-0ubuntu0.18.04.15
 gir1.2-glib-2.01.56.1-1
 glib-networking2.56.0-1ubuntu0.1
 glib-networking-common2.56.0-1ubuntu0.1
@@ -269,8 +269,8 @@ libgps233.17-5
 libgrantlee-templates55.1.0-2
 libgraphite2-31.3.11-2
 libgroupsock82018.02.18-1
-libgs99.26~dfsg+0-0ubuntu0.18.04.14
-libgs9-common9.26~dfsg+0-0ubuntu0.18.04.14
+libgs99.26~dfsg+0-0ubuntu0.18.04.15
+libgs9-common9.26~dfsg+0-0ubuntu0.18.04.15
 libgsm11.0.13-4build1
 libgssapi3-heimdal7.5.0+dfsg-1
 libgssapi-krb5-21.16-2ubuntu0.2
