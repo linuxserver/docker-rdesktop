@@ -228,7 +228,7 @@ libqt5dbus55.9.5+dfsg-0ubuntu2.6
 libqt5gui55.9.5+dfsg-0ubuntu2.6
 libqt5network55.9.5+dfsg-0ubuntu2.6
 libqt5printsupport55.9.5+dfsg-0ubuntu2.6
-libqt5svg55.9.5-0ubuntu1
+libqt5svg55.9.5-0ubuntu1.1
 libqt5widgets55.9.5+dfsg-0ubuntu2.6
 libqt5x11extras55.9.5-0ubuntu1
 libreadline77.0-3
