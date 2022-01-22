@@ -57,7 +57,7 @@ frameworkintegration5.68.0-0ubuntu1
 gawk1:5.0.1+dfsg-1
 gcc-10-base10.3.0-1ubuntu1~20.04
 gcc-9-base9.3.0-17ubuntu1~20.04
-gdb9.2-0ubuntu1~20.04
+gdb9.2-0ubuntu1~20.04.1
 gdisk1.0.5-1
 genisoimage9:1.1.11-3.1ubuntu1
 ghostscript9.50~dfsg-5ubuntu4.5
