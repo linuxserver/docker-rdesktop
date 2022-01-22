@@ -590,7 +590,7 @@ libqt5script55.9.5+dfsg-0ubuntu1
 libqt5sensors55.9.5-0ubuntu1
 libqt5sql55.9.5+dfsg-0ubuntu2.6
 libqt5sql5-sqlite5.9.5+dfsg-0ubuntu2.6
-libqt5svg55.9.5-0ubuntu1
+libqt5svg55.9.5-0ubuntu1.1
 libqt5test55.9.5+dfsg-0ubuntu2.6
 libqt5texttospeech55.9.5-0ubuntu1
 libqt5webchannel55.9.5-0ubuntu1
