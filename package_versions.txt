@@ -249,8 +249,8 @@ libpipeline11.5.2-2build1
 libpixman-1-00.38.4-0ubuntu1
 libplymouth50.9.4git20200323-0ubuntu6.2
 libpng16-161.6.37-2
-libpolkit-agent-1-00.105-26ubuntu1.1
-libpolkit-gobject-1-00.105-26ubuntu1.1
+libpolkit-agent-1-00.105-26ubuntu1.2
+libpolkit-gobject-1-00.105-26ubuntu1.2
 libprocps82:3.3.16-1ubuntu2.3
 libproxy1v50.4.15-10ubuntu1.2
 libpsl50.21.0-1ubuntu1
@@ -407,7 +407,7 @@ plymouth-label0.9.4git20200323-0ubuntu6.2
 plymouth-theme-ubuntu-text0.9.4git20200323-0ubuntu6.2
 plymouth-theme-xubuntu-logo20.04.2
 plymouth-theme-xubuntu-text20.04.2
-policykit-10.105-26ubuntu1.1
+policykit-10.105-26ubuntu1.2
 procps2:3.3.16-1ubuntu2.3
 publicsuffix20200303.0012-1
 pulseaudio1:13.99.1-1ubuntu3.13
