@@ -236,7 +236,7 @@ libpipeline11.5.0-1
 libpixman-1-00.34.0-2
 libplymouth40.9.3-1ubuntu7.18.04.2
 libpng16-161.6.34-1ubuntu0.18.04.2
-libpolkit-gobject-1-00.105-20ubuntu0.18.04.5
+libpolkit-gobject-1-00.105-20ubuntu0.18.04.6
 libpopt01.16-11
 libprocps62:3.3.12-3ubuntu1.2
 libproxy1v50.4.15-1ubuntu0.2
