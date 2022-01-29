@@ -534,9 +534,9 @@ libpixman-1-00.34.0-2
 libplacebo40.4.0-2
 libplasma-geolocation-interface54:5.12.9-0ubuntu0.1
 libpng16-161.6.34-1ubuntu0.18.04.2
-libpolkit-agent-1-00.105-20ubuntu0.18.04.5
-libpolkit-backend-1-00.105-20ubuntu0.18.04.5
-libpolkit-gobject-1-00.105-20ubuntu0.18.04.5
+libpolkit-agent-1-00.105-20ubuntu0.18.04.6
+libpolkit-backend-1-00.105-20ubuntu0.18.04.6
+libpolkit-gobject-1-00.105-20ubuntu0.18.04.6
 libpolkit-qt5-1-10.112.0-5
 libpoppler730.62.0-2ubuntu2.12
 libpoppler-qt5-10.62.0-2ubuntu2.12
@@ -805,7 +805,7 @@ plasma-framework5.44.0-0ubuntu3
 plasma-integration5.12.7-0ubuntu0.1
 plasma-look-and-feel-org-kde-breezedark-desktop4:5.12.8-0ubuntu0.1
 plasma-workspace4:5.12.9-0ubuntu0.1
-policykit-10.105-20ubuntu0.18.04.5
+policykit-10.105-20ubuntu0.18.04.6
 polkit-kde-agent-14:5.12.7-0ubuntu0.1
 poppler-data0.4.8-2
 powerdevil4:5.12.8-0ubuntu0.1
