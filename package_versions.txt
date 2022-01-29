@@ -423,9 +423,9 @@ libpipeline11.5.0-1
 libpixman-1-00.34.0-2
 libplist32.0.0-2ubuntu1
 libpng16-161.6.34-1ubuntu0.18.04.2
-libpolkit-agent-1-00.105-20ubuntu0.18.04.5
-libpolkit-backend-1-00.105-20ubuntu0.18.04.5
-libpolkit-gobject-1-00.105-20ubuntu0.18.04.5
+libpolkit-agent-1-00.105-20ubuntu0.18.04.6
+libpolkit-backend-1-00.105-20ubuntu0.18.04.6
+libpolkit-gobject-1-00.105-20ubuntu0.18.04.6
 libpoppler730.62.0-2ubuntu2.12
 libpopt01.16-11
 libprocps62:3.3.12-3ubuntu1.2
@@ -645,7 +645,7 @@ perl-modules-5.265.26.1-6ubuntu0.5
 pinentry-curses1.1.0-1
 pluma1.20.1-3ubuntu1
 pluma-common1.20.1-3ubuntu1
-policykit-10.105-20ubuntu0.18.04.5
+policykit-10.105-20ubuntu0.18.04.6
 poppler-data0.4.8-2
 poppler-utils0.62.0-2ubuntu2.12
 printer-driver-gutenprint5.2.13-2
