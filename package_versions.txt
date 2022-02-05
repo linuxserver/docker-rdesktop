@@ -471,7 +471,7 @@ libsigsegv22.12-1
 libslang22.3.1a-3ubuntu1
 libsm62:1.2.2-1
 libsmartcols12.31.1-0.4ubuntu3.7
-libsmbclient2:4.7.6+dfsg~ubuntu-0ubuntu2.27
+libsmbclient2:4.7.6+dfsg~ubuntu-0ubuntu2.28
 libsnapd-glib11.58-0ubuntu0.18.04.0
 libsndfile11.0.28-4ubuntu0.18.04.2
 libsnmp305.7.3+dfsg-1.8ubuntu3.6
@@ -522,7 +522,7 @@ libwayland-client01.16.0-1ubuntu1.1~18.04.3
 libwayland-cursor01.16.0-1ubuntu1.1~18.04.3
 libwayland-egl11.16.0-1ubuntu1.1~18.04.3
 libwayland-server01.16.0-1ubuntu1.1~18.04.3
-libwbclient02:4.7.6+dfsg~ubuntu-0ubuntu2.27
+libwbclient02:4.7.6+dfsg~ubuntu-0ubuntu2.28
 libwebkit2gtk-4.0-372.32.4-0ubuntu0.18.04.1
 libwebp60.6.1-2ubuntu0.18.04.1
 libwebpdemux20.6.1-2ubuntu0.18.04.1
@@ -587,7 +587,7 @@ libyelp03.26.0-1ubuntu2
 libzstd11.3.3+dfsg-2ubuntu1.2
 linux-sound-base1.0.25+dfsg-0ubuntu5
 locales2.27-3ubuntu1.4
-login1:4.5-1ubuntu2
+login1:4.5-1ubuntu2.2
 lsb-base9.20170808ubuntu1
 lsb-release9.20170808ubuntu1
 man-db2.8.3-2ubuntu0.1
@@ -636,7 +636,7 @@ openprinting-ppds20180306-1
 openssh-client1:7.6p1-4ubuntu0.5
 openssl1.1.1-1ubuntu2.1~18.04.14
 parted3.2-20ubuntu0.2
-passwd1:4.5-1ubuntu2
+passwd1:4.5-1ubuntu2.2
 patch2.7.6-2ubuntu1.1
 pciutils1:3.5.2-1ubuntu1.1
 perl5.26.1-6ubuntu0.5
@@ -704,7 +704,7 @@ python-minimal2.7.15~rc1-1
 python-talloc2.1.10-2ubuntu1
 readline-common7.0-3
 rfkill2.31.1-0.4ubuntu3.7
-samba-libs2:4.7.6+dfsg~ubuntu-0ubuntu2.27
+samba-libs2:4.7.6+dfsg~ubuntu-0ubuntu2.28
 sed4.4-2
 sensible-utils0.0.12
 session-migration0.3.3
