@@ -640,7 +640,7 @@ libsndio6.11.1.0-3
 libsoup2.4-12.62.1-1ubuntu0.4
 libsoup-gnome2.4-12.62.1-1ubuntu0.4
 libsoxr00.1.2-3
-libspeex11.2~rc1.2-1ubuntu2
+libspeex11.2~rc1.2-1ubuntu2.1
 libspeexdsp11.2~rc1.2-1ubuntu2
 libsqlite3-03.22.0-1ubuntu0.4
 libss21.44.1-1ubuntu1.3
