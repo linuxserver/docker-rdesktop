@@ -478,7 +478,7 @@ libsnmp305.7.3+dfsg-1.8ubuntu3.6
 libsnmp-base5.7.3+dfsg-1.8ubuntu3.6
 libsoup2.4-12.62.1-1ubuntu0.4
 libsoup-gnome2.4-12.62.1-1ubuntu0.4
-libspeex11.2~rc1.2-1ubuntu2
+libspeex11.2~rc1.2-1ubuntu2.1
 libspeexdsp11.2~rc1.2-1ubuntu2
 libsqlite3-03.22.0-1ubuntu0.4
 libss21.44.1-1ubuntu1.3
