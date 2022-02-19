@@ -30,7 +30,7 @@ e2fsprogs1.44.1-1ubuntu1.3
 fdisk2.31.1-0.4ubuntu3.7
 featherpad0.8-1
 findutils4.6.0+git+20170828-2
-firefox96.0+build2-0ubuntu0.18.04.1
+firefox97.0+build2-0ubuntu0.18.04.1
 fontconfig2.12.6-0ubuntu2
 fontconfig-config2.12.6-0ubuntu2
 fonts-dejavu-core2.37-1
@@ -258,7 +258,7 @@ libsnapd-glib11.58-0ubuntu0.18.04.0
 libsndfile11.0.28-4ubuntu0.18.04.2
 libsoup2.4-12.62.1-1ubuntu0.4
 libsoup-gnome2.4-12.62.1-1ubuntu0.4
-libspeexdsp11.2~rc1.2-1ubuntu2
+libspeexdsp11.2~rc1.2-1ubuntu2.1
 libsqlite3-03.22.0-1ubuntu0.4
 libss21.44.1-1ubuntu1.3
 libssl1.0.01.0.2n-1ubuntu5.7
@@ -353,7 +353,7 @@ ncurses-base6.1-1ubuntu1.18.04
 ncurses-bin6.1-1ubuntu1.18.04
 obconf1:2.0.4+git20150213-2
 openbox3.6.1-7ubuntu0.1
-openssh-client1:7.6p1-4ubuntu0.5
+openssh-client1:7.6p1-4ubuntu0.6
 openssl1.1.1-1ubuntu2.1~18.04.14
 passwd1:4.5-1ubuntu2.2
 perl-base5.26.1-6ubuntu0.5
