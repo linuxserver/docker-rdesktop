@@ -231,7 +231,7 @@ libepub00.2.2-4ubuntu2
 libevdev21.9.0+dfsg-1ubuntu0.1
 libevent-2.1-72.1.11-stable-1
 libexiv2-270.27.2-8ubuntu2.7
-libexpat12.2.9-1build1
+libexpat12.2.9-1ubuntu0.2
 libext2fs21.45.5-2ubuntu1
 libfaad22.9.1-1
 libfam02.7.0-17.3build2
