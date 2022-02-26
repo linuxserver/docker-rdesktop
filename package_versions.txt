@@ -124,7 +124,7 @@ libegl-mesa021.2.6-0ubuntu0.1~20.04.1
 libelf10.176-1.1build1
 libepoxy01.5.4-1
 libevdev21.9.0+dfsg-1ubuntu0.1
-libexpat12.2.9-1build1
+libexpat12.2.9-1ubuntu0.2
 libext2fs21.45.5-2ubuntu1
 libfdisk12.34-0.1ubuntu9.3
 libffi73.3-4
