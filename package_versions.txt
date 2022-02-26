@@ -138,7 +138,7 @@ libelf10.176-1.1build1
 libepoxy01.5.4-1
 libev41:4.31-1
 libev-perl4.32-1
-libexpat12.2.9-1build1
+libexpat12.2.9-1ubuntu0.2
 libext2fs21.45.5-2ubuntu1
 libfdisk12.34-0.1ubuntu9.3
 libffi73.3-4
