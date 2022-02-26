@@ -9,7 +9,7 @@ at-spi2-core-2.42.0-r0
 atk-2.36.0-r0
 atkmm-2.28.0-r1
 avahi-libs-0.8-r5
-bash-5.1.8-r0
+bash-5.1.16-r0
 brotli-libs-1.0.9-r5
 bubblewrap-0.5.0-r0
 busybox-1.34.1-r4
@@ -36,7 +36,7 @@ encodings-1.0.5-r0
 eudev-libs-3.2.11_pre1-r0
 exo-4.16.2-r0
 exo-libs-4.16.2-r0
-expat-2.4.4-r0
+expat-2.4.5-r0
 faenza-icon-theme-1.3.1-r6
 faenza-icon-theme-bash-1.3.1-r6
 faenza-icon-theme-thunar-1.3.1-r6
@@ -47,7 +47,7 @@ ffmpeg-libs-4.4.1-r2
 ffmpegthumbnailer-2.2.2-r2
 fftw-single-libs-3.3.10-r0
 firefox-esr-91.6.0-r0
-flac-1.3.3-r0
+flac-1.3.4-r0
 font-alias-1.0.4-r0
 font-cursor-misc-1.0.3-r1
 font-misc-misc-1.1.2-r1
@@ -89,7 +89,7 @@ keybinder3-0.3.2-r2
 lame-3.100-r0
 lcms2-2.12-r1
 libacl-2.2.53-r0
-libarchive-3.5.2-r0
+libarchive-3.6.0-r0
 libass-0.15.2-r0
 libasyncns-0.8-r1
 libattr-2.5.1-r1
