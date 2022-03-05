@@ -7,22 +7,26 @@ LABEL build_version="Linuxserver.io version:- ${VERSION} Build-date:- ${BUILD_DA
 LABEL maintainer="thelamer"
 
 RUN \
- echo "**** install packages ****" && \
- apt-get update && \
- DEBIAN_FRONTEND=noninteractive \
- apt-get install --no-install-recommends -y \
-	firefox \
-	mousepad \
-	xfce4-terminal \
-	xfce4 \
-	xubuntu-default-settings \
-	xubuntu-icon-theme && \
- echo "**** cleanup ****" && \
- apt-get autoclean && \
- rm -rf \
-        /var/lib/apt/lists/* \
-        /var/tmp/* \
-        /tmp/*
+  echo "**** install packages ****" && \
+  apt-get update && \
+  DEBIAN_FRONTEND=noninteractive \
+  apt-get install --no-install-recommends -y \
+    firefox \
+    mousepad \
+    xfce4-terminal \
+    xfce4 \
+    xubuntu-default-settings \
+    xubuntu-icon-theme && \
+  echo "**** cleanup ****" && \
+  apt-get autoclean && \
+  rm -rf \
+    /var/lib/apt/lists/* \
+    /var/tmp/* \
+    /tmp/*
 
 # add local files
 COPY /root /
+
+# ports and volumes
+EXPOSE 3389
+VOLUME /config
