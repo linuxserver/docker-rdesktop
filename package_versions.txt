@@ -238,7 +238,7 @@ libenchant1c2a1.6.0-11.1
 libepoxy01.4.3-1
 libexempi32.4.5-2
 libexif120.6.21-4ubuntu0.6
-libexpat12.2.5-3ubuntu0.2
+libexpat12.2.5-3ubuntu0.4
 libext2fs21.44.1-1ubuntu1.3
 libfdisk12.31.1-0.4ubuntu3.7
 libffi63.2.1-8
@@ -455,9 +455,9 @@ libsamplerate00.1.9-1
 libsane11.0.27-1~experimental3ubuntu2.4
 libsane-common1.0.27-1~experimental3ubuntu2.4
 libsane-hpaio3.17.10+repack0-5
-libsasl2-22.1.27~101-g0780600+dfsg-3ubuntu2.3
-libsasl2-modules2.1.27~101-g0780600+dfsg-3ubuntu2.3
-libsasl2-modules-db2.1.27~101-g0780600+dfsg-3ubuntu2.3
+libsasl2-22.1.27~101-g0780600+dfsg-3ubuntu2.4
+libsasl2-modules2.1.27~101-g0780600+dfsg-3ubuntu2.4
+libsasl2-modules-db2.1.27~101-g0780600+dfsg-3ubuntu2.4
 libseccomp22.5.1-1ubuntu1~18.04.2
 libsecret-1-00.18.6-1
 libsecret-common0.18.6-1
@@ -580,6 +580,7 @@ libxss11:1.2.2-1
 libxt61:1.1.5-1
 libxtst62:1.2.3-1
 libxv12:1.0.11-1
+libxvmc12:1.0.10-1
 libxxf86dga12:1.1.4-1
 libxxf86vm11:1.1.4-1
 libyaml-0-20.1.7-2ubuntu3
@@ -629,7 +630,7 @@ mawk1.3.3-17ubuntu3
 menu-xdg0.5
 mime-support3.60ubuntu1
 mount2.31.1-0.4ubuntu3.7
-multiarch-support2.27-3ubuntu1.4
+multiarch-support2.27-3ubuntu1.5
 ncurses-base6.1-1ubuntu1.18.04
 ncurses-bin6.1-1ubuntu1.18.04
 openprinting-ppds20180306-1
@@ -776,6 +777,10 @@ xrdp0.9.5-2
 xserver-common2:1.19.6-1ubuntu4.10
 xserver-xorg1:7.7+19ubuntu7.1
 xserver-xorg-core2:1.19.6-1ubuntu4.10
+xserver-xorg-video-amdgpu18.0.1-1
+xserver-xorg-video-ati1:18.0.1-1
+xserver-xorg-video-intel2:2.99.917+git20171229-1
+xserver-xorg-video-radeon1:18.0.1-1
 xtrans-dev1.3.5-1
 xutils1:7.7+19ubuntu7.1
 xz-utils5.2.2-1.3
