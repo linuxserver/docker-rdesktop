@@ -131,7 +131,7 @@ libexo-1-00.12.2-0ubuntu0.18.04.1
 libexo-2-00.12.2-0ubuntu0.18.04.1
 libexo-common0.12.2-0ubuntu0.18.04.1
 libexo-helpers0.12.2-0ubuntu0.18.04.1
-libexpat12.2.5-3ubuntu0.2
+libexpat12.2.5-3ubuntu0.4
 libext2fs21.44.1-1ubuntu1.3
 libfdisk12.31.1-0.4ubuntu3.7
 libffi63.2.1-8
@@ -255,9 +255,9 @@ librsvg2-22.40.20-2ubuntu0.2
 librsvg2-common2.40.20-2ubuntu0.2
 librtmp12.4+20151223.gitfa8646d.1-1
 libsamplerate00.1.9-1
-libsasl2-22.1.27~101-g0780600+dfsg-3ubuntu2.3
-libsasl2-modules2.1.27~101-g0780600+dfsg-3ubuntu2.3
-libsasl2-modules-db2.1.27~101-g0780600+dfsg-3ubuntu2.3
+libsasl2-22.1.27~101-g0780600+dfsg-3ubuntu2.4
+libsasl2-modules2.1.27~101-g0780600+dfsg-3ubuntu2.4
+libsasl2-modules-db2.1.27~101-g0780600+dfsg-3ubuntu2.4
 libseccomp22.5.1-1ubuntu1~18.04.2
 libselinux12.7-2build2
 libsemanage12.7-2build2
@@ -355,9 +355,11 @@ libxrandr22:1.5.1-1
 libxrender11:0.9.10-1
 libxres12:1.2.0-2
 libxshmfence11.3-1
+libxss11:1.2.2-1
 libxt61:1.1.5-1
 libxtst62:1.2.3-1
 libxv12:1.0.11-1
+libxvmc12:1.0.10-1
 libxxf86dga12:1.1.4-1
 libxxf86vm11:1.1.4-1
 libzstd11.3.3+dfsg-2ubuntu1.2
@@ -371,7 +373,7 @@ mawk1.3.3-17ubuntu3
 mime-support3.60ubuntu1
 mount2.31.1-0.4ubuntu3.7
 mousepad0.4.0-4ubuntu1
-multiarch-support2.27-3ubuntu1.4
+multiarch-support2.27-3ubuntu1.5
 ncurses-base6.1-1ubuntu1.18.04
 ncurses-bin6.1-1ubuntu1.18.04
 numix-gtk-theme2.6.7-3
@@ -447,6 +449,10 @@ xorgxrdp0.9.5-2
 xrdp0.9.5-2
 xserver-common2:1.19.6-1ubuntu4.10
 xserver-xorg-core2:1.19.6-1ubuntu4.10
+xserver-xorg-video-amdgpu18.0.1-1
+xserver-xorg-video-ati1:18.0.1-1
+xserver-xorg-video-intel2:2.99.917+git20171229-1
+xserver-xorg-video-radeon1:18.0.1-1
 xtrans-dev1.3.5-1
 xubuntu-artwork18.04.5
 xubuntu-default-settings18.04.6
