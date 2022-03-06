@@ -24,16 +24,16 @@ pipeline {
     DOCKERHUB_IMAGE = 'linuxserver/rdesktop'
     DEV_DOCKERHUB_IMAGE = 'lsiodev/rdesktop'
     PR_DOCKERHUB_IMAGE = 'lspipepr/rdesktop'
-    DIST_IMAGE = 'ubuntu'
-    MULTIARCH='true'
-    CI='true'
-    CI_WEB='false'
-    CI_PORT='3389'
-    CI_SSL='false'
-    CI_DELAY='30'
-    CI_DOCKERENV='TZ=US/Pacific'
-    CI_AUTH='user:password'
-    CI_WEBPATH=''
+    DIST_IMAGE = 'alpine'
+    MULTIARCH = 'true'
+    CI = 'true'
+    CI_WEB = 'false'
+    CI_PORT = '3000'
+    CI_SSL = 'false'
+    CI_DELAY = '30'
+    CI_DOCKERENV = 'TZ=US/Pacific'
+    CI_AUTH = 'user:password'
+    CI_WEBPATH = ''
   }
   stages {
     // Setup all the basic environment variables needed for the build
@@ -450,7 +450,7 @@ pipeline {
           --label \"org.opencontainers.image.licenses=GPL-3.0-only\" \
           --label \"org.opencontainers.image.ref.name=${COMMIT_SHA}\" \
           --label \"org.opencontainers.image.title=Rdesktop\" \
-          --label \"org.opencontainers.image.description=[Rdesktop](http://xrdp.org/) - Ubuntu based containers containing full desktop environments in officially supported flavors accessible via RDP.  \" \
+          --label \"org.opencontainers.image.description=[Rdesktop](http://xrdp.org/) - Containers containing full desktop environments in many popular flavors for Alpine, Ubuntu, Arch, and Fedora accessible via RDP.  \" \
           --no-cache --pull -t ${IMAGE}:${META_TAG} \
           --build-arg ${BUILD_VERSION_ARG}=${EXT_RELEASE} --build-arg VERSION=\"${VERSION_TAG}\" --build-arg BUILD_DATE=${GITHUB_DATE} ."
       }
@@ -480,7 +480,7 @@ pipeline {
               --label \"org.opencontainers.image.licenses=GPL-3.0-only\" \
               --label \"org.opencontainers.image.ref.name=${COMMIT_SHA}\" \
               --label \"org.opencontainers.image.title=Rdesktop\" \
-              --label \"org.opencontainers.image.description=[Rdesktop](http://xrdp.org/) - Ubuntu based containers containing full desktop environments in officially supported flavors accessible via RDP.  \" \
+              --label \"org.opencontainers.image.description=[Rdesktop](http://xrdp.org/) - Containers containing full desktop environments in many popular flavors for Alpine, Ubuntu, Arch, and Fedora accessible via RDP.  \" \
               --no-cache --pull -t ${IMAGE}:amd64-${META_TAG} \
               --build-arg ${BUILD_VERSION_ARG}=${EXT_RELEASE} --build-arg VERSION=\"${VERSION_TAG}\" --build-arg BUILD_DATE=${GITHUB_DATE} ."
           }
@@ -507,7 +507,7 @@ pipeline {
               --label \"org.opencontainers.image.licenses=GPL-3.0-only\" \
               --label \"org.opencontainers.image.ref.name=${COMMIT_SHA}\" \
               --label \"org.opencontainers.image.title=Rdesktop\" \
-              --label \"org.opencontainers.image.description=[Rdesktop](http://xrdp.org/) - Ubuntu based containers containing full desktop environments in officially supported flavors accessible via RDP.  \" \
+              --label \"org.opencontainers.image.description=[Rdesktop](http://xrdp.org/) - Containers containing full desktop environments in many popular flavors for Alpine, Ubuntu, Arch, and Fedora accessible via RDP.  \" \
               --no-cache --pull -f Dockerfile.armhf -t ${IMAGE}:arm32v7-${META_TAG} \
               --build-arg ${BUILD_VERSION_ARG}=${EXT_RELEASE} --build-arg VERSION=\"${VERSION_TAG}\" --build-arg BUILD_DATE=${GITHUB_DATE} ."
             sh "docker tag ${IMAGE}:arm32v7-${META_TAG} ghcr.io/linuxserver/lsiodev-buildcache:arm32v7-${COMMIT_SHA}-${BUILD_NUMBER}"
@@ -541,7 +541,7 @@ pipeline {
               --label \"org.opencontainers.image.licenses=GPL-3.0-only\" \
               --label \"org.opencontainers.image.ref.name=${COMMIT_SHA}\" \
               --label \"org.opencontainers.image.title=Rdesktop\" \
-              --label \"org.opencontainers.image.description=[Rdesktop](http://xrdp.org/) - Ubuntu based containers containing full desktop environments in officially supported flavors accessible via RDP.  \" \
+              --label \"org.opencontainers.image.description=[Rdesktop](http://xrdp.org/) - Containers containing full desktop environments in many popular flavors for Alpine, Ubuntu, Arch, and Fedora accessible via RDP.  \" \
               --no-cache --pull -f Dockerfile.aarch64 -t ${IMAGE}:arm64v8-${META_TAG} \
               --build-arg ${BUILD_VERSION_ARG}=${EXT_RELEASE} --build-arg VERSION=\"${VERSION_TAG}\" --build-arg BUILD_DATE=${GITHUB_DATE} ."
             sh "docker tag ${IMAGE}:arm64v8-${META_TAG} ghcr.io/linuxserver/lsiodev-buildcache:arm64v8-${COMMIT_SHA}-${BUILD_NUMBER}"
