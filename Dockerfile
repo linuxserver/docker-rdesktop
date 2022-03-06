@@ -1,4 +1,4 @@
-FROM ghcr.io/linuxserver/baseimage-rdesktop:focal
+FROM ghcr.io/linuxserver/baseimage-rdesktop:fedora
 
 # set version label
 ARG BUILD_DATE
@@ -7,22 +7,24 @@ LABEL build_version="Linuxserver.io version:- ${VERSION} Build-date:- ${BUILD_DA
 LABEL maintainer="thelamer"
 
 RUN \
- echo "**** install packages ****" && \
- apt-get update && \
- DEBIAN_FRONTEND=noninteractive \
- apt-get install --no-install-recommends -y \
-	firefox \
-	mousepad \
-	xfce4-terminal \
-	xfce4 \
-	xubuntu-default-settings \
-	xubuntu-icon-theme && \
- echo "**** cleanup ****" && \
- apt-get autoclean && \
- rm -rf \
-        /var/lib/apt/lists/* \
-        /var/tmp/* \
-        /tmp/*
+  echo "**** install packages ****" && \
+  dnf install -y --setopt=install_weak_deps=False --best \
+    firefox \
+    leafpad \
+    obconf-qt \
+    openbox \
+    xterm && \
+  echo "**** openbox tweaks ****" && \
+  ln -s /usr/bin/obconf-qt /usr/bin/obconf && \
+  echo "**** cleanup ****" && \
+  dnf autoremove -y && \
+  dnf clean all && \
+  rm -rf \
+    /tmp/*
 
 # add local files
 COPY /root /
+
+# ports and volumes
+EXPOSE 3389
+VOLUME /config
