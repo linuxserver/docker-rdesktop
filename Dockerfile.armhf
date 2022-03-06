@@ -1,28 +1,28 @@
-FROM ghcr.io/linuxserver/baseimage-rdesktop:arm32v7-focal
+FROM ghcr.io/linuxserver/baseimage-rdesktop:arm32v7-alpine
 
 # set version label
 ARG BUILD_DATE
 ARG VERSION
+ARG I3_VERSION
 LABEL build_version="Linuxserver.io version:- ${VERSION} Build-date:- ${BUILD_DATE}"
 LABEL maintainer="thelamer"
 
+
 RUN \
- echo "**** install packages ****" && \
- apt-get update && \
- DEBIAN_FRONTEND=noninteractive \
- apt-get install --no-install-recommends -y \
-	firefox \
-	mousepad \
-	xfce4-terminal \
-	xfce4 \
-	xubuntu-default-settings \
-	xubuntu-icon-theme && \
- echo "**** cleanup ****" && \
- apt-get autoclean && \
- rm -rf \
-        /var/lib/apt/lists/* \
-        /var/tmp/* \
-        /tmp/*
+  echo "**** install packages ****" && \
+  apk add --no-cache \
+    firefox \
+    font-noto \
+    i3status \
+    i3wm \
+    xterm && \
+  echo "**** cleanup ****" && \
+  rm -rf \
+    /tmp/*
 
 # add local files
 COPY /root /
+
+# ports and volumes
+EXPOSE 3389
+VOLUME /config
