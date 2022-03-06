@@ -1,493 +1,422 @@
-adduser3.118ubuntu2
-adwaita-icon-theme3.36.1-2ubuntu0.20.04.2
-apt2.0.6
-apt-transport-https2.0.6
-apt-utils2.0.6
-base-files11ubuntu5.4
-base-passwd3.5.47
-bash5.0-6ubuntu1.1
-bsdmainutils11.1.2ubuntu3
-bsdutils1:2.34-0.1ubuntu9.3
-bzip21.0.8-2
-ca-certificates20210119~20.04.2
-coreutils8.30-3ubuntu2
-cpp4:9.3.0-1ubuntu2
-cpp-99.3.0-17ubuntu1~20.04
-curl7.68.0-1ubuntu2.7
-dash0.5.10.2-6
-dbus1.12.16-2ubuntu2.1
-dbus-user-session1.12.16-2ubuntu2.1
-dbus-x111.12.16-2ubuntu2.1
-dconf-gsettings-backend0.36.0-1
-dconf-service0.36.0-1
-debconf1.5.73
-debianutils4.9.1
-desktop-file-utils0.24-1ubuntu3
-diffutils1:3.7-3
-dirmngr2.2.19-3ubuntu2.1
-distro-info-data0.43ubuntu1.9
-docker-ce-cli5:20.10.12~3-0~ubuntu-bionic
-dpkg1.19.7ubuntu3
-e2fsprogs1.45.5-2ubuntu1
-elementary-xfce-icon-theme0.15-1
-exo-utils0.12.11-1ubuntu1.20.04.1
-fdisk2.34-0.1ubuntu9.3
-findutils4.7.0-1ubuntu1
-firefox97.0+build2-0ubuntu0.20.04.1
-fontconfig2.13.1-2ubuntu3
-fontconfig-config2.13.1-2ubuntu3
-fonts-dejavu-core2.37-1
-fonts-noto-core20200323-1build1~ubuntu20.04.1
-fonts-noto-hinted20200323-1build1~ubuntu20.04.1
-fonts-noto-ui-core20200323-1build1~ubuntu20.04.1
-fonts-ubuntu0.83-4ubuntu1
-gawk1:5.0.1+dfsg-1
-gcc-10-base10.3.0-1ubuntu1~20.04
-gcc-9-base9.3.0-17ubuntu1~20.04
-gir1.2-glib-2.01.64.1-1~ubuntu20.04.1
-gir1.2-packagekitglib-1.01.1.13-2ubuntu1.1
-glib-networking2.64.2-1ubuntu0.1
-glib-networking-common2.64.2-1ubuntu0.1
-glib-networking-services2.64.2-1ubuntu0.1
-gnupg2.2.19-3ubuntu2.1
-gnupg22.2.19-3ubuntu2.1
-gnupg-l10n2.2.19-3ubuntu2.1
-gnupg-utils2.2.19-3ubuntu2.1
-gpg2.2.19-3ubuntu2.1
-gpg-agent2.2.19-3ubuntu2.1
-gpgconf2.2.19-3ubuntu2.1
-gpgsm2.2.19-3ubuntu2.1
-gpgv2.2.19-3ubuntu2.1
-gpg-wks-client2.2.19-3ubuntu2.1
-gpg-wks-server2.2.19-3ubuntu2.1
-grep3.4-1
-greybird-gtk-theme3.22.12-0ubuntu1
-groff-base1.22.4-4build1
-gsettings-desktop-schemas3.36.0-1ubuntu1
-gtk2-engines-murrine0.98.2-3
-gtk-update-icon-cache3.24.20-0ubuntu1.1
-gzip1.10-0ubuntu4
-hicolor-icon-theme0.17-2
-hostname3.23
-humanity-icon-theme0.6.15
-init-system-helpers1.57
-iso-codes4.4-1
-keyboard-configuration1.194ubuntu3
-krb5-locales1.17-6ubuntu4.1
-libacl12.2.53-6
-libapparmor12.13.3-7ubuntu5.1
-libappstream40.12.10-2
-libapt-pkg6.02.0.6
-libargon2-10~20171227-0.2
-libasn1-8-heimdal7.7.0+dfsg-1ubuntu1
-libasound21.2.2-2.1ubuntu2.5
-libasound2-data1.2.2-2.1ubuntu2.5
-libasound2-plugins1.2.2-1ubuntu1
-libassuan02.5.3-7ubuntu2
-libasyncns00.8-6
-libatk1.0-02.35.1-1ubuntu2
-libatk1.0-data2.35.1-1ubuntu2
-libatk-bridge2.0-02.34.2-0ubuntu2~20.04.1
-libatspi2.0-02.36.0-2
-libattr11:2.4.48-5
-libaudit11:2.8.5-2ubuntu6
-libaudit-common1:2.8.5-2ubuntu6
-libavahi-client30.7-4ubuntu7.1
-libavahi-common30.7-4ubuntu7.1
-libavahi-common-data0.7-4ubuntu7.1
-libblkid12.34-0.1ubuntu9.3
-libbrotli11.0.7-6ubuntu0.1
-libbsd00.10.0-1
-libbz2-1.01.0.8-2
-libc62.31-0ubuntu9.2
-libcairo21.16.0-4ubuntu1
-libcairo-gobject21.16.0-4ubuntu1
-libcap21:2.32-1
-libcap2-bin1:2.32-1
-libcap-ng00.7.9-2.1build1
-libc-bin2.31-0ubuntu9.2
-libcbor0.60.6.0-0ubuntu1
-libcolord21.4.4-2
-libcom-err21.45.5-2ubuntu1
-libcrypt11:4.4.10-10ubuntu4
-libcryptsetup122:2.2.2-3ubuntu2.4
-libcups22.3.1-9ubuntu1.1
-libcurl47.68.0-1ubuntu2.7
-libdatrie10.2.12-3
-libdb5.35.3.28+dfsg1-0.6ubuntu2
-libdbus-1-31.12.16-2ubuntu2.1
-libdbus-glib-1-20.110-5fakssync1
-libdconf10.36.0-1
-libdebconfclient00.251ubuntu1
-libdevmapper1.02.12:1.02.167-1ubuntu1
-libdrm22.4.107-8ubuntu1~20.04.1
-libdrm-amdgpu12.4.107-8ubuntu1~20.04.1
-libdrm-common2.4.107-8ubuntu1~20.04.1
-libdrm-intel12.4.107-8ubuntu1~20.04.1
-libdrm-nouveau22.4.107-8ubuntu1~20.04.1
-libdrm-radeon12.4.107-8ubuntu1~20.04.1
-libedit23.1-20191231-1
-libegl11.3.2-1~ubuntu0.20.04.1
-libegl-mesa021.2.6-0ubuntu0.1~20.04.1
-libelf10.176-1.1build1
-libepoxy01.5.4-1
-libexif120.6.21-6ubuntu0.4
-libexo-2-00.12.11-1ubuntu1.20.04.1
-libexo-common0.12.11-1ubuntu1.20.04.1
-libexo-helpers0.12.11-1ubuntu1.20.04.1
-libexpat12.2.9-1ubuntu0.2
-libext2fs21.45.5-2ubuntu1
-libfdisk12.34-0.1ubuntu9.3
-libffi73.3-4
-libfido2-11.3.1-1ubuntu2
-libflac81.3.3-1build1
-libfontconfig12.13.1-2ubuntu3
-libfontenc11:1.1.4-0ubuntu1
-libfreetype62.10.1-2ubuntu0.1
-libfribidi01.0.8-2
-libfuse22.9.9-3
-libgarcon-1-00.6.4-1
-libgarcon-common0.6.4-1
-libgarcon-gtk3-1-00.6.4-1
-libgbm121.2.6-0ubuntu0.1~20.04.1
-libgcc-s110.3.0-1ubuntu1~20.04
-libgcrypt201.8.5-5ubuntu1.1
-libgdbm61.18.1-5
-libgdk-pixbuf2.0-02.40.0+dfsg-3ubuntu0.2
-libgdk-pixbuf2.0-common2.40.0+dfsg-3ubuntu0.2
-libgirepository-1.0-11.64.1-1~ubuntu20.04.1
-libgl11.3.2-1~ubuntu0.20.04.1
-libgl1-mesa-dri21.2.6-0ubuntu0.1~20.04.1
-libglapi-mesa21.2.6-0ubuntu0.1~20.04.1
-libglib2.0-02.64.6-1~ubuntu20.04.4
-libglib2.0-bin2.64.6-1~ubuntu20.04.4
-libglib2.0-data2.64.6-1~ubuntu20.04.4
-libglvnd01.3.2-1~ubuntu0.20.04.1
-libglx01.3.2-1~ubuntu0.20.04.1
-libglx-mesa021.2.6-0ubuntu0.1~20.04.1
-libgmp102:6.2.0+dfsg-4
-libgnutls303.6.13-2ubuntu1.6
-libgomp110.3.0-1ubuntu1~20.04
-libgpg-error01.37-1
-libgraphite2-31.3.13-11build1
-libgssapi3-heimdal7.7.0+dfsg-1ubuntu1
-libgssapi-krb5-21.17-6ubuntu4.1
-libgstreamer1.0-01.16.2-2
-libgstreamer-plugins-base1.0-01.16.2-4ubuntu0.1
-libgtk2.0-02.24.32-4ubuntu4
-libgtk2.0-common2.24.32-4ubuntu4
-libgtk-3-03.24.20-0ubuntu1.1
-libgtk-3-common3.24.20-0ubuntu1.1
-libgtksourceview-3.0-13.24.11-2
-libgtksourceview-3.0-common3.24.11-2
-libgudev-1.0-01:233-1
-libharfbuzz0b2.6.4-1ubuntu4
-libhcrypto4-heimdal7.7.0+dfsg-1ubuntu1
-libheimbase1-heimdal7.7.0+dfsg-1ubuntu1
-libheimntlm0-heimdal7.7.0+dfsg-1ubuntu1
-libhogweed53.5.1+really3.5.1-2ubuntu0.2
-libhx509-5-heimdal7.7.0+dfsg-1ubuntu1
-libice62:1.0.10-0ubuntu1
-libicu6666.1-2ubuntu2.1
-libidn2-02.2.0-2
-libindicator3-716.10.0+18.04.20180321.1-0ubuntu4
-libip4tc21.8.4-3ubuntu2
-libisl220.22.1-1
-libjack-jackd2-01.9.12~dfsg-2ubuntu2
-libjbig02.1-3.1build1
-libjpeg88c-2ubuntu8
-libjpeg-turbo82.0.3-0ubuntu1.20.04.1
-libjson-c40.13.1+dfsg-7ubuntu0.3
-libjson-glib-1.0-01.4.4-2ubuntu2
-libjson-glib-1.0-common1.4.4-2ubuntu2
-libk5crypto31.17-6ubuntu4.1
-libkeybinder-3.0-00.3.2-1ubuntu1
-libkeyutils11.6-6ubuntu1
-libkmod227-1ubuntu2
-libkrb5-26-heimdal7.7.0+dfsg-1ubuntu1
-libkrb5-31.17-6ubuntu4.1
-libkrb5support01.17-6ubuntu4.1
-libksba81.3.5-2
-liblcms2-22.9-4
-libldap-2.4-22.4.49+dfsg-2ubuntu1.8
-libldap-common2.4.49+dfsg-2ubuntu1.8
-liblightdm-gobject-1-01.30.0-0ubuntu4~20.04.2
-libllvm121:12.0.0-3ubuntu1~20.04.4
-liblmdb00.9.24-1
-liblocale-gettext-perl1.07-4
-libltdl72.4.6-14
-liblz4-11.9.2-2ubuntu0.20.04.1
-liblzma55.2.4-1ubuntu1
-libmount12.34-0.1ubuntu9.3
-libmpc31.1.0-1
-libmpdec22.4.2-3
-libmpfr64.0.2-1
-libncurses66.2-0ubuntu2
-libncursesw66.2-0ubuntu2
-libnettle73.5.1+really3.5.1-2ubuntu0.2
-libnewt0.520.52.21-4ubuntu2
-libnghttp2-141.40.0-1build1
-libnotify40.7.9-1ubuntu2
-libnpth01.6-1
-libogg01.3.4-0ubuntu1
-libopus01.3.1-0ubuntu1
-liborc-0.4-01:0.4.31-1
-libp11-kit00.23.20-1ubuntu0.1
-libpackagekit-glib2-181.1.13-2ubuntu1.1
-libpam0g1.3.1-5ubuntu4.3
-libpam-modules1.3.1-5ubuntu4.3
-libpam-modules-bin1.3.1-5ubuntu4.3
-libpam-runtime1.3.1-5ubuntu4.3
-libpam-systemd245.4-4ubuntu3.15
-libpango-1.0-01.44.7-2ubuntu4
-libpangocairo-1.0-01.44.7-2ubuntu4
-libpangoft2-1.0-01.44.7-2ubuntu4
-libpciaccess00.16-0ubuntu1
-libpcre2-8-010.34-7
-libpcre32:8.39-12build1
-libpipeline11.5.2-2build1
-libpixman-1-00.38.4-0ubuntu1
-libplymouth50.9.4git20200323-0ubuntu6.2
-libpng16-161.6.37-2
-libpolkit-agent-1-00.105-26ubuntu1.3
-libpolkit-gobject-1-00.105-26ubuntu1.3
-libprocps82:3.3.16-1ubuntu2.3
-libproxy1v50.4.15-10ubuntu1.2
-libpsl50.21.0-1ubuntu1
-libpthread-stubs0-dev0.4-1
-libpulse01:13.99.1-1ubuntu3.13
-libpulsedsp1:13.99.1-1ubuntu3.13
-libpulse-mainloop-glib01:13.99.1-1ubuntu3.13
-libpython3.8-minimal3.8.10-0ubuntu1~20.04.2
-libpython3.8-stdlib3.8.10-0ubuntu1~20.04.2
-libpython3-stdlib3.8.2-0ubuntu2
-libreadline88.0-4
-librest-0.7-00.8.1-1
-libroken18-heimdal7.7.0+dfsg-1ubuntu1
-librsvg2-22.48.9-1ubuntu0.20.04.1
-librsvg2-common2.48.9-1ubuntu0.20.04.1
-librtmp12.4+20151223.gitfa8646d.1-2build1
-libsamplerate00.1.9-2
-libsasl2-22.1.27+dfsg-2ubuntu0.1
-libsasl2-modules2.1.27+dfsg-2ubuntu0.1
-libsasl2-modules-db2.1.27+dfsg-2ubuntu0.1
-libseccomp22.5.1-1ubuntu1~20.04.2
-libselinux13.0-1build2
-libsemanage13.0-1build2
-libsemanage-common3.0-1build2
-libsensors51:3.6.0-2ubuntu1
-libsensors-config1:3.6.0-2ubuntu1
-libsepol13.0-1
-libsigsegv22.12-2
-libslang22.3.2-4
-libsm62:1.2.3-1
-libsmartcols12.34-0.1ubuntu9.3
-libsnapd-glib11.58-0ubuntu0.20.04.0
-libsndfile11.0.28-7ubuntu0.1
-libsoup2.4-12.70.0-1
-libsoup-gnome2.4-12.70.0-1
-libsoxr00.1.3-2build1
-libspeexdsp11.2~rc1.2-1.1ubuntu1.20.04.1
-libsqlite3-03.31.1-4ubuntu0.2
-libss21.45.5-2ubuntu1
-libssh-40.9.3-2ubuntu2.2
-libssl1.11.1.1f-1ubuntu2.10
-libstartup-notification00.12-6
-libstdc++610.3.0-1ubuntu1~20.04
-libstemmer0d0+svn585-2
-libsystemd0245.4-4ubuntu3.15
-libtasn1-64.16.0-2
-libtdb11.4.3-0ubuntu0.20.04.1
-libthai00.1.28-3
-libthai-data0.1.28-3
-libthunarx-3-01.8.14-0ubuntu1
-libtiff54.1.0+git191117-2ubuntu0.20.04.2
-libtinfo66.2-0ubuntu2
-libuchardet00.0.6-3build1
-libudev1245.4-4ubuntu3.15
-libunistring20.9.10-2
-libunwind81.2.1-9build1
-libupower-glib30.99.11-1build2
-libutempter01.1.6-4
-libuuid12.34-0.1ubuntu9.3
-libvorbis0a1.3.6-2ubuntu1
-libvorbisenc21.3.6-2ubuntu1
-libvte-2.91-00.60.3-0ubuntu1~20.04
-libvte-2.91-common0.60.3-0ubuntu1~20.04
-libvulkan11.2.131.2-1
-libwayland-client01.18.0-1
-libwayland-cursor01.18.0-1
-libwayland-egl11.18.0-1
-libwayland-server01.18.0-1
-libwebp60.6.1-2ubuntu0.20.04.1
-libwebrtc-audio-processing10.3.1-0ubuntu3
-libwind0-heimdal7.7.0+dfsg-1ubuntu1
-libwnck-3-03.36.0-1
-libwnck-3-common3.36.0-1
-libwrap07.6.q-30
-libx11-62:1.6.9-2ubuntu1.2
-libx11-data2:1.6.9-2ubuntu1.2
-libx11-dev2:1.6.9-2ubuntu1.2
-libx11-xcb12:1.6.9-2ubuntu1.2
-libxau61:1.0.9-0ubuntu1
-libxau-dev1:1.0.9-0ubuntu1
-libxaw72:1.0.13-1
-libxcb11.14-2
-libxcb1-dev1.14-2
-libxcb-dri2-01.14-2
-libxcb-dri3-01.14-2
-libxcb-glx01.14-2
-libxcb-present01.14-2
-libxcb-render01.14-2
-libxcb-shape01.14-2
-libxcb-shm01.14-2
-libxcb-sync11.14-2
-libxcb-util10.4.0-0ubuntu3
-libxcb-xfixes01.14-2
-libxcomposite11:0.4.5-1
-libxcursor11:1.2.0-2
-libxdamage11:1.1.5-2
-libxdmcp61:1.1.3-0ubuntu1
-libxdmcp-dev1:1.1.3-0ubuntu1
-libxext62:1.3.4-0ubuntu1
-libxfce4panel-2.0-44.14.3-1
-libxfce4ui-1-04.14.1-1ubuntu1
-libxfce4ui-2-04.14.1-1ubuntu1
-libxfce4ui-common4.14.1-1ubuntu1
-libxfce4ui-utils4.14.1-1ubuntu1
-libxfce4util74.14.0-1
-libxfce4util-common4.14.0-1
-libxfconf-0-34.14.1-1
-libxfixes31:5.0.3-2
-libxfont21:2.0.3-1
-libxft22.3.3-0ubuntu1
-libxi62:1.7.10-0ubuntu1
-libxinerama12:1.1.4-2
-libxkbcommon00.10.0-1
-libxkbfile11:1.1.0-1
-libxklavier165.4-4
-libxml22.9.10+dfsg-5ubuntu0.20.04.1
-libxmu62:1.1.3-0ubuntu1
-libxmuu12:1.1.3-0ubuntu1
-libxpm41:3.5.12-1
-libxpresent11.0.0-2build1
-libxrandr22:1.5.2-0ubuntu1
-libxrender11:0.9.10-1
-libxres12:1.2.0-4
-libxshmfence11.3-1
-libxss11:1.2.3-1
-libxt61:1.1.5-1
-libxtst62:1.2.3-1
-libxv12:1.0.11-1
-libxvmc12:1.0.12-2
-libxxf86dga12:1.1.5-0ubuntu1
-libxxf86vm11:1.1.4-1build1
-libyaml-0-20.2.2-1
-libzstd11.4.4+dfsg-3ubuntu0.1
-lightdm-gtk-greeter2.0.6-0ubuntu1
-locales2.31-0ubuntu9.2
-login1:4.8.1-1ubuntu5.20.04.1
-logsave1.45.5-2ubuntu1
-lsb-base11.1.0ubuntu2
-lsb-release11.1.0ubuntu2
-man-db2.9.1-1
-mawk1.3.4.20200120-2
-mime-support3.64ubuntu1
-mount2.34-0.1ubuntu9.3
-mousepad0.4.2-1
-ncurses-base6.2-0ubuntu2
-ncurses-bin6.2-0ubuntu2
-numix-gtk-theme2.6.7-5
-openssh-client1:8.2p1-4ubuntu0.4
-openssl1.1.1f-1ubuntu2.10
-packagekit1.1.13-2ubuntu1.1
-passwd1:4.8.1-1ubuntu5.20.04.1
-perl-base5.30.0-9ubuntu0.2
-pinentry-curses1.1.0-3build1
-plymouth0.9.4git20200323-0ubuntu6.2
-plymouth-label0.9.4git20200323-0ubuntu6.2
-plymouth-theme-ubuntu-text0.9.4git20200323-0ubuntu6.2
-plymouth-theme-xubuntu-logo20.04.2
-plymouth-theme-xubuntu-text20.04.2
-policykit-10.105-26ubuntu1.3
-procps2:3.3.16-1ubuntu2.3
-publicsuffix20200303.0012-1
-pulseaudio1:13.99.1-1ubuntu3.13
-pulseaudio-utils1:13.99.1-1ubuntu3.13
-python33.8.2-0ubuntu2
-python3.83.8.10-0ubuntu1~20.04.2
-python3.8-minimal3.8.10-0ubuntu1~20.04.2
-python3-apt2.0.0ubuntu0.20.04.7
-python3-certifi2019.11.28-1
-python3-chardet3.0.4-4build1
-python3-dbus1.2.16-1build1
-python3-gi3.36.0-1
-python3-idna2.8-1
-python3-minimal3.8.2-0ubuntu2
-python3-pkg-resources45.2.0-1
-python3-requests2.22.0-2ubuntu1
-python3-requests-unixsocket0.2.0-2
-python3-six1.14.0-2
-python3-software-properties0.99.9.8
-python3-urllib31.25.8-2ubuntu0.1
-python-apt-common2.0.0ubuntu0.20.04.7
-readline-common8.0-4
-sed4.7-1
-sensible-utils0.0.12+nmu1
-shared-mime-info1.15-1
-shimmer-themes2.1.3
-software-properties-common0.99.9.8
-ssl-cert1.0.39
-sudo1.8.31-1ubuntu1.2
-systemd245.4-4ubuntu3.15
-systemd-sysv245.4-4ubuntu3.15
-systemd-timesyncd245.4-4ubuntu3.15
-sysvinit-utils2.96-2.1ubuntu1
-tar1.30+dfsg-7ubuntu0.20.04.1
-thunar1.8.14-0ubuntu1
-thunar-data1.8.14-0ubuntu1
-tzdata2021e-0ubuntu0.20.04
-ubuntu-keyring2020.02.11.4
-ubuntu-mono19.04-0ubuntu3
-ucf3.0038+nmu1
-udev245.4-4ubuntu3.15
-util-linux2.34-0.1ubuntu9.3
-x11-apps7.7+8
-x11-common1:7.7+19ubuntu14
-x11proto-core-dev2019.2-1ubuntu1
-x11proto-dev2019.2-1ubuntu1
-x11-session-utils7.7+4
-x11-utils7.7+5
-x11-xkb-utils7.7+5
-x11-xserver-utils7.7+8
-xfce44.14
-xfce4-appfinder4.14.0-1
-xfce4-panel4.14.3-1
-xfce4-pulseaudio-plugin0.4.3-0ubuntu1
-xfce4-session4.14.2-0ubuntu1
-xfce4-settings4.14.3-0ubuntu1
-xfce4-terminal0.8.9.1-1
-xfconf4.14.1-1
-xfdesktop44.14.2-1
-xfdesktop4-data4.14.2-1
-xfonts-base1:1.0.5
-xfonts-encodings1:1.0.5-0ubuntu1
-xfonts-utils1:7.7+6
-xfwm44.14.1-0ubuntu1
-xkb-data2.29-2
-xorg-sgml-doctools1:1.11-1
-xorgxrdp1:0.2.12-1
-xrdp0.9.12-1
-xserver-common2:1.20.13-1ubuntu1~20.04.2
-xserver-xorg-core2:1.20.13-1ubuntu1~20.04.2
-xserver-xorg-video-amdgpu19.1.0-1
-xserver-xorg-video-ati1:19.1.0-1
-xserver-xorg-video-intel2:2.99.917+git20200226-1
-xserver-xorg-video-radeon1:19.1.0-1
-xtrans-dev1.4.0-1
-xubuntu-artwork20.04.2
-xubuntu-default-settings20.04.4
-xubuntu-icon-theme20.04.2
-xubuntu-wallpapers20.04.2
-xutils1:7.7+19ubuntu14
-zlib1g1:1.2.11.dfsg-2ubuntu1.2
+accountsservice 22.08.8-1
+acl 2.3.1-2
+adobe-source-code-pro-fonts 2.038ro+1.058it+1.018var-1
+adwaita-icon-theme 41.0-1
+alsa-lib 1.2.6.1-1
+alsa-topology-conf 1.2.5.1-1
+alsa-ucm-conf 1.2.6.3-1
+aom 3.3.0-1
+archlinux-keyring 20220224-1
+argon2 20190702-4
+at-spi2-atk 2.38.0-1
+at-spi2-core 2.42.0-1
+atk 2.36.0-1
+atkmm 2.28.2-2
+attr 2.5.1-2
+audit 3.0.7-1
+autoconf 2.71-1
+autoconf-archive 1:2022.02.11-1
+automake 1.16.5-1
+avahi 0.8+22+gfd482a7-3
+bash 5.1.016-1
+binutils 2.38-3
+bison 3.8.2-3
+bridge-utils 1.7.1-1
+brotli 1.0.9-7
+btrfs-progs 5.16.2-1
+bubblewrap 0.6.1-1
+bzip2 1.0.8-4
+ca-certificates 20210603-1
+ca-certificates-mozilla 3.75-1
+ca-certificates-utils 20210603-1
+cairo 1.17.4-5
+cairomm 1.14.3-2
+caja 1.26.0-1
+cantarell-fonts 1:0.303.1-1
+containerd 1.6.1-1
+coreutils 9.0-2
+cryptsetup 2.4.3-2
+curl 7.81.0-2
+dav1d 0.9.2-1
+db 5.3.28-5
+dbus-glib 0.112-2
+dbus-x11 1.12.20-1
+dbus-x11-docs 1.12.20-1
+dconf 0.40.0-1
+desktop-file-utils 0.26-2
+device-mapper 2.03.15-1
+diffutils 3.8-1
+dmraid 1.0.0.rc16.3-13
+dnssec-anchors 20190629-3
+docbook-xml 4.5-9
+docbook-xsl 1.79.2-7
+docker 1:20.10.12-1
+dosfstools 4.2-2
+doxygen 1.9.3-1
+e2fsprogs 1.46.5-3
+enchant 2.3.2-1
+exempi 2.6.1-1
+expat 2.4.6-1
+fakeroot 1.27-1
+ffmpeg4.4 4.4.1-4
+file 5.41-1
+filesystem 2021.12.07-1
+findutils 4.9.0-1
+firefox 97.0.2-1
+flac 1.3.4-2
+flex 2.6.4-3
+fontconfig 2:2.13.96-1
+freetype2 2.11.1-1
+fribidi 1.0.11-1
+fuse-common 3.10.5-1
+fuse2 2.9.9-4
+fuse3 3.10.5-1
+gawk 5.1.1-1
+gc 8.2.0-2
+gcc 11.2.0-4
+gcc-libs 11.2.0-4
+gcr 3.41.0-1
+gdbm 1.23-1
+gdk-pixbuf2 2.42.6-2
+gettext 0.21-2
+giflib 5.2.1-2
+git 2.35.1-1
+glib-networking 1:2.70.1-1
+glib2 2.70.4-1
+glibc 2.35-2
+glibmm 2.66.2-1
+gmp 6.2.1-1
+gnupg 2.2.32-2
+gnutls 3.7.3-1
+gobject-introspection-runtime 1.70.0-5
+gpgme 1.17.0-2
+gptfdisk 1.0.8-1
+graphite 1:1.3.14-1
+grep 3.7-1
+groff 1.22.4-6
+gsettings-desktop-schemas 41.0-1
+gsm 1.0.19-1
+gst-plugins-base-libs 1.20.0-3
+gstreamer 1.20.0-3
+gtk-layer-shell 0.7.0-2
+gtk-update-icon-cache 1:4.6.1-3
+gtk3 1:3.24.33-1
+gtkmm3 3.24.5-2
+gtksourceview4 4.8.2-1
+guile 2.2.7-2
+gvfs 1.48.1-3
+gzip 1.11-1
+harfbuzz 4.0.0-1
+harfbuzz-icu 4.0.0-1
+hicolor-icon-theme 0.17-2
+hidapi 0.11.2-1
+hwdata 0.356-1
+hyphen 2.8.8-3
+iana-etc 20220205-1
+icu 70.1-1
+imlib2 1.8.0-1
+iniparser 4.1-4
+iproute2 5.16.0-1
+iptables 1:1.8.7-1
+iso-codes 4.9.0-1
+itstool 1:2.0.7-1
+jack2 1.9.20-4
+js78 78.15.0-3
+json-c 0.15-3
+json-glib 1.6.6-1
+kbd 2.4.0-2
+keyutils 1.6.3-1
+kmod 29-2
+krb5 1.19.2-2
+l-smash 2.14.5-2
+lame 3.100-3
+lcms2 2.13.1-1
+ldns 1.8.1-1
+less 1:590-1
+libaio 0.3.112-2
+libarchive 3.6.0-1
+libass 0.15.2-2
+libassuan 2.5.5-1
+libasyncns 0.8+3+g68cd5af-3
+libatasmart 0.19-5
+libavc1394 0.5.4-4
+libblockdev 2.26-3
+libbluray 1.3.0-2
+libbytesize 2.6-3
+libcanberra 0.30+2+gc0620e4-5
+libcap 2.63-2
+libcap-ng 0.8.2-7
+libcddb 1.3.2-6
+libcdio 2.1.0-2
+libcdio-paranoia 10.2+2.0.1-2
+libcloudproviders 0.3.1-2
+libcolord 1.4.6-1
+libcups 1:2.4.1-1
+libdaemon 0.14-5
+libdatrie 0.2.13-1
+libde265 1.0.8-2
+libdrm 2.4.110-1
+libedit 20210910_3.1-1
+libelf 0.186-5
+libepoxy 1.5.9-1
+libevdev 1.12.0-1
+libexif 0.6.24-1
+libfdk-aac 2.0.2-1
+libffi 3.4.2-4
+libfontenc 1.1.4-3
+libgcrypt 1.9.4-1
+libglvnd 1.4.0-1
+libgpg-error 1.44-1
+libgtop 2.40.0+2+g31db82ef-2
+libgudev 237-1
+libheif 1.12.0-2
+libibus 1.5.25-5
+libice 1.0.10-3
+libid3tag 0.15.1b-11
+libidn2 2.3.2-1
+libiec61883 1.2.0-6
+libinih 53-2
+libinput 1.20.0-1
+libisl 0.24-4
+libjpeg-turbo 2.1.3-1
+libksba 1.6.0-1
+libldap 2.6.1-1
+libmanette 0.2.6-2
+libmatekbd 1.26.0-1
+libmatemixer 1.26.0-1
+libmateweather 1.26.0-1
+libmfx 21.3.5-3
+libmnl 1.0.4-3
+libmodplug 0.8.9.0-3
+libmpc 1.2.1-2
+libnetfilter_conntrack 1.0.8-1
+libnfnetlink 1.0.1-4
+libnftnl 1.2.1-1
+libnghttp2 1.47.0-1
+libnl 3.5.0-3
+libnotify 0.7.9-2
+libnsl 2.0.0-2
+libogg 1.3.5-1
+libomxil-bellagio 0.9.3-3
+libp11-kit 0.24.1-1
+libpcap 1.10.1-2
+libpciaccess 0.16-2
+libpeas 1.30.0-3
+libpng 1.6.37-3
+libproxy 0.4.17-6
+libpsl 0.21.1-1
+libpulse 15.0-4
+libraw1394 2.1.2-3
+librsvg 2:2.52.6-1
+libsamplerate 0.2.2-1
+libsasl 2.1.27-3
+libseccomp 2.5.3-3
+libsecret 0.20.5-1
+libsigc++ 2.10.8-1
+libsm 1.2.3-2
+libsndfile 1.0.31-1
+libsoup 2.74.2-2
+libsoup3 3.0.4-2
+libsoxr 0.1.3-2
+libssh 0.9.6-1
+libssh2 1.10.0-1
+libstemmer 2.2.0-1
+libsysprof-capture 3.42.1-3
+libtasn1 4.18.0-1
+libthai 0.1.29-1
+libtheora 1.1.1-5
+libtiff 4.3.0-1
+libtirpc 1.3.2-1
+libtool 2.4.6+59+gb55b1cc8-2
+libunistring 0.9.10-3
+libunwind 1.6.2-1
+liburcu 0.13.1-1
+libusb 1.0.25-2
+libutempter 1.2.1-1
+libva 2.13.0-2
+libvdpau 1.4-2
+libvorbis 1.3.7-2
+libvpx 1.11.0-1
+libwacom 2.1.0-1
+libwebp 1.2.2-1
+libwnck3 40.1-1
+libwpe 1.12.0-1
+libx11 1.7.3.1-1
+libxau 1.0.9-3
+libxaw 1.0.14-1
+libxcb 1.14-1
+libxcomposite 0.4.5-3
+libxcrypt 4.4.28-2
+libxcursor 1.2.0-2
+libxcvt 0.1.1-1
+libxdamage 1.1.5-3
+libxdmcp 1.1.3-3
+libxext 1.3.4-3
+libxfixes 6.0.0-1
+libxfont2 2.0.5-1
+libxft 2.3.4-1
+libxi 1.8-1
+libxinerama 1.1.4-3
+libxkbcommon 1.4.0-1
+libxkbfile 1.1.0-2
+libxklavier 5.4-3
+libxml2 2.9.13-1
+libxmu 1.1.3-2
+libxpm 3.5.13-2
+libxpresent 1.0.0-2
+libxrandr 1.5.2-3
+libxrender 0.9.10-4
+libxres 1.2.1-1
+libxshmfence 1.3-2
+libxslt 1.1.35-1
+libxss 1.2.3-3
+libxt 1.2.1-1
+libxtst 1.2.3-4
+libxv 1.0.11-4
+libxvmc 1.0.12-3
+libxxf86vm 1.1.4-4
+libyaml 0.2.5-1
+linux-api-headers 5.16.8-1
+llvm-libs 13.0.1-1
+lm_sensors 1:3.6.0.r41.g31d1f125-1
+luit 20210218-1
+lvm2 2.03.15-1
+lz4 1:1.9.3-2
+lzo 2.10-3
+m4 1.4.19-1
+mailcap 2.1.53-1
+make 4.3-3
+mallard-ducktype 1.0.2-8
+marco 1.26.0-1
+mate-backgrounds 1.26.0-1
+mate-control-center 1.26.0-3
+mate-desktop 1.26.0-1
+mate-icon-theme 1.26.0-1
+mate-media 1.26.0-1
+mate-menus 1.26.0-1
+mate-notification-daemon 1.26.0-1
+mate-panel 1.26.2-1
+mate-polkit 1.26.0-1
+mate-session-manager 1.26.0-1
+mate-settings-daemon 1.26.0-1
+mate-terminal 1.26.0-1
+mate-themes 3.22.23-1
+mate-user-guide 1.26.0-1
+mdadm 4.2-1
+mesa 21.3.7-2
+mpfr 4.1.0.p13-2
+mtdev 1.1.6-1
+ncurses 6.3-2
+ndctl 72.1-1
+nettle 3.7.3-1
+noto-fonts 20201226-2
+npth 1.6-3
+nspr 4.33-1
+nss 3.76-1
+opencore-amr 0.1.5-5
+openjpeg2 2.4.0-1
+openssh 8.9p1-1
+openssl 1.1.1.m-1
+opus 1.3.1-3
+orc 0.4.32-1
+p11-kit 0.24.1-1
+pacman 6.0.1-3
+pacman-mirrorlist 20220227-1
+pam 1.5.2-1
+pambase 20211210-1
+pango 1:1.50.5-1
+pangomm 2.46.2-1
+parted 3.4-2
+patch 2.7.6-8
+pavucontrol 1:5.0-1
+pciutils 3.7.0-2
+pcre 8.45-1
+pcre2 10.39-1
+perl 5.34.0-3
+perl-error 0.17029-3
+perl-mailtools 2.21-5
+perl-timedate 2.33-3
+pinentry 1.2.0-1
+pixman 0.40.0-1
+pkgconf 1.8.0-1
+pluma 1.26.0-2
+polkit 0.120-4
+popt 1.18-3
+procps-ng 3.3.17-1
+psmisc 23.4-1
+pulseaudio 15.0-4
+python 3.10.2-1
+python-lxml 4.7.1-1
+rav1e 0.4.1-1
+readline 8.1.002-1
+rest 0.8.1+r4+ge5ee6ef-1
+rtkit 0.13-1
+runc 1.1.0-1
+sdl2 2.0.20-2
+sed 4.8-1
+shadow 4.11.1-1
+shared-mime-info 2.0+115+gd74a913-1
+sound-theme-freedesktop 0.8-4
+speex 1.2.0-3
+speexdsp 1.2.0-2
+sqlite 3.38.0-1
+srt 1.4.4-1
+startup-notification 0.12-7
+sudo 1.9.9-2
+svt-av1 0.9.0-2
+sysfsutils 2.1.1-1
+systemd 250.3-4
+systemd-libs 250.3-4
+tar 1.34-1
+tdb 1.4.6-1
+texinfo 6.8-2
+thin-provisioning-tools 0.9.0-1
+tpm2-tss 3.2.0-1
+tracker3 3.2.1-2
+tzdata 2021e-1
+udisks2 2.9.4-1
+util-linux 2.37.4-1
+util-linux-libs 2.37.4-1
+v4l-utils 1.22.1-1
+vid.stab 1.1-3
+volume_key 0.3.12-7
+vte-common 0.66.2-1
+vte3 0.66.2-1
+vulkan-icd-loader 1.2.203-1
+wayland 1.20.0-1
+webkit2gtk 2.34.6-1
+webkit2gtk-4.1 2.34.6-1
+webrtc-audio-processing 0.3.1-3
+which 2.21-5
+woff2 1.0.2-3
+wpebackend-fdo 1.12.0-1
+x264 3:0.164.r3081.19856cc-2
+x265 3.5-1
+xbitmaps 1.1.2-2
+xcb-proto 1.14.1-5
+xcb-util 0.4.0-3
+xdg-dbus-proxy 0.1.3-1
+xf86-input-libinput 1.2.1-1
+xf86-video-amdgpu 22.0.0-1
+xf86-video-ati 1:19.1.0.r9.g5eba006e-2
+xf86-video-intel 1:2.99.917+916+g31486f40-2
+xfsprogs 5.14.2-1
+xkeyboard-config 2.35.1-1
+xmlto 0.0.28-4
+xorg-fonts-encodings 1.0.5-2
+xorg-server 21.1.3-6
+xorg-server-common 21.1.3-6
+xorg-setxkbmap 1.3.2-2
+xorg-xkbcomp 1.4.5-1
+xorg-xmessage 1.0.5-2
+xorgproto 2021.5-1
+xterm 371-1
+xvidcore 1.3.7-2
+xz 5.2.5-2
+yelp 41.2-1
+yelp-tools 41.0-1
+yelp-xsl 41.1-1
+zenity 3.41.0-1
+zimg 3.0.3-2
+zlib 1:1.2.11-5
+zstd 1.5.2-2
