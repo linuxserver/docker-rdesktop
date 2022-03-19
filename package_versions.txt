@@ -50,7 +50,7 @@ dmraid 1.0.0.rc16.3-13
 dnssec-anchors 20190629-3
 docbook-xml 4.5-9
 docbook-xsl 1.79.2-7
-docker 1:20.10.12-1
+docker 1:20.10.13-1
 dosfstools 4.2-2
 doxygen 1.9.3-1
 e2fsprogs 1.46.5-3
@@ -62,7 +62,7 @@ ffmpeg4.4 4.4.1-4
 file 5.41-1
 filesystem 2021.12.07-1
 findutils 4.9.0-1
-firefox 98.0-1
+firefox 98.0.1-1
 flac 1.3.4-2
 flex 2.6.4-3
 fontconfig 2:2.13.96-1
@@ -96,8 +96,8 @@ grep 3.7-1
 groff 1.22.4-6
 gsettings-desktop-schemas 41.0-1
 gsm 1.0.19-1
-gst-plugins-base-libs 1.20.0-3
-gstreamer 1.20.0-3
+gst-plugins-base-libs 1.20.1-1
+gstreamer 1.20.1-1
 gtk-layer-shell 0.7.0-2
 gtk-update-icon-cache 1:4.6.1-3
 gtk3 1:3.24.33-1
@@ -207,7 +207,7 @@ libproxy 0.4.17-6
 libpsl 0.21.1-1
 libpulse 15.0-4
 libraw1394 2.1.2-3
-librsvg 2:2.52.6-1
+librsvg 2:2.54.0-1
 libsamplerate 0.2.2-1
 libsasl 2.1.27-3
 libseccomp 2.5.3-3
@@ -231,10 +231,10 @@ libtool 2.4.6+59+gb55b1cc8-2
 libunistring 0.9.10-3
 libunwind 1.6.2-1
 liburcu 0.13.1-1
-libusb 1.0.25-2
+libusb 1.0.25-3
 libutempter 1.2.1-1
 libva 2.13.0-2
-libvdpau 1.4-2
+libvdpau 1.5-1
 libvorbis 1.3.7-3
 libvpx 1.11.0-2
 libwacom 2.1.0-1
@@ -277,7 +277,7 @@ libxvmc 1.0.12-3
 libxxf86vm 1.1.4-4
 libyaml 0.2.5-1
 linux-api-headers 5.16.8-1
-llvm-libs 13.0.1-1
+llvm-libs 13.0.1-2
 lm_sensors 1:3.6.0.r41.g31d1f125-1
 luit 20210218-1
 lvm2 2.03.15-1
@@ -340,7 +340,7 @@ pinentry 1.2.0-1
 pixman 0.40.0-1
 pkgconf 1.8.0-1
 pluma 1.26.0-2
-polkit 0.120-4
+polkit 0.120-5
 popt 1.18-3
 procps-ng 3.3.17-1
 psmisc 23.4-1
@@ -359,14 +359,14 @@ shared-mime-info 2.0+115+gd74a913-1
 sound-theme-freedesktop 0.8-4
 speex 1.2.0-3
 speexdsp 1.2.0-2
-sqlite 3.38.0-1
+sqlite 3.38.1-1
 srt 1.4.4-1
 startup-notification 0.12-7
 sudo 1.9.10-1
 svt-av1 0.9.0-2
 sysfsutils 2.1.1-1
-systemd 250.3-4
-systemd-libs 250.3-4
+systemd 250.4-1
+systemd-libs 250.4-1
 tar 1.34-1
 tdb 1.4.6-1
 texinfo 6.8-2
@@ -382,7 +382,7 @@ vid.stab 1.1-3
 volume_key 0.3.12-7
 vte-common 0.66.2-1
 vte3 0.66.2-1
-vulkan-icd-loader 1.2.203-1
+vulkan-icd-loader 1.3.207-1
 wayland 1.20.0-1
 webkit2gtk 2.34.6-1
 webkit2gtk-4.1 2.34.6-1
@@ -410,7 +410,7 @@ xorg-setxkbmap 1.3.2-2
 xorg-xkbcomp 1.4.5-1
 xorg-xmessage 1.0.5-2
 xorgproto 2021.5-1
-xterm 371-1
+xterm 372-1
 xvidcore 1.3.7-2
 xz 5.2.5-2
 yelp 41.2-1
@@ -419,4 +419,4 @@ yelp-xsl 41.1-1
 zenity 3.41.0-1
 zimg 3.0.3-2
 zlib 1:1.2.11-5
-zstd 1.5.2-2
+zstd 1.5.2-3
