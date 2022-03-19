@@ -20,7 +20,7 @@ cairo-gobject-1.17.4-4.fc35.x86_64
 cairomm-1.14.2-20.fc35.x86_64
 cdparanoia-libs-10.2-38.fc35.x86_64
 colord-libs-1.4.5-3.fc35.x86_64
-container-selinux-2.177.0-1.fc35.noarch
+container-selinux-2.180.0-1.fc35.noarch
 containerd-1.6.0-1.fc35.x86_64
 coreutils-8.32-32.fc35.x86_64
 coreutils-common-8.32-32.fc35.x86_64
@@ -216,7 +216,7 @@ libpsl-0.21.1-4.fc35.x86_64
 libpwquality-1.4.4-6.fc35.x86_64
 librepo-1.14.2-1.fc35.x86_64
 libreport-filesystem-2.15.2-6.fc35.noarch
-librsvg2-2.52.6-1.fc35.x86_64
+librsvg2-2.52.7-1.fc35.x86_64
 libsamplerate-0.2.2-1.fc35.x86_64
 libseccomp-2.5.3-1.fc35.x86_64
 libselinux-3.3-1.fc35.x86_64
