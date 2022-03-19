@@ -22,7 +22,7 @@ cairomm-1.14.2-20.fc35.x86_64
 caja-schemas-1.26.0-2.fc35.x86_64
 cdparanoia-libs-10.2-38.fc35.x86_64
 colord-libs-1.4.5-3.fc35.x86_64
-container-selinux-2.177.0-1.fc35.noarch
+container-selinux-2.180.0-1.fc35.noarch
 containerd-1.6.0-1.fc35.x86_64
 coreutils-8.32-32.fc35.x86_64
 coreutils-common-8.32-32.fc35.x86_64
@@ -484,7 +484,7 @@ which-2.21-27.fc35.x86_64
 woff2-1.0.2-13.fc35.x86_64
 wpebackend-fdo-1.10.0-2.fc35.x86_64
 xcb-util-0.4.0-18.fc35.x86_64
-xdg-dbus-proxy-0.1.2-5.fc35.x86_64
+xdg-dbus-proxy-0.1.3-1.fc35.x86_64
 xdg-user-dirs-0.17-9.fc35.x86_64
 xdg-user-dirs-gtk-0.10-21.fc35.x86_64
 xhost-1.0.8-2.fc35.x86_64
