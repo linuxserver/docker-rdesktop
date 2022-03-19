@@ -20,7 +20,7 @@ cairo-gobject-1.17.4-4.fc35.x86_64
 cairomm-1.14.2-20.fc35.x86_64
 cdparanoia-libs-10.2-38.fc35.x86_64
 colord-libs-1.4.5-3.fc35.x86_64
-container-selinux-2.177.0-1.fc35.noarch
+container-selinux-2.180.0-1.fc35.noarch
 containerd-1.6.0-1.fc35.x86_64
 coreutils-8.32-32.fc35.x86_64
 coreutils-common-8.32-32.fc35.x86_64
