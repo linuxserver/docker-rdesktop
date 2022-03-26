@@ -25,7 +25,7 @@ caja1.24.0-1
 caja-common1.24.0-1
 coreutils8.30-3ubuntu2
 cpp4:9.3.0-1ubuntu2
-cpp-99.4.0-1ubuntu1~20.04
+cpp-99.4.0-1ubuntu1~20.04.1
 cryptsetup2:2.2.2-3ubuntu2.4
 cryptsetup-bin2:2.2.2-3ubuntu2.4
 cups2.3.1-9ubuntu1.1
@@ -56,13 +56,13 @@ distro-info0.23ubuntu1
 distro-info-data0.43ubuntu1.9
 dmidecode3.2-3
 dmsetup2:1.02.167-1ubuntu1
-docker-ce-cli5:20.10.13~3-0~ubuntu-bionic
+docker-ce-cli5:20.10.14~3-0~ubuntu-bionic
 dpkg1.19.7ubuntu3
 e2fsprogs1.45.5-2ubuntu1
 emacsen-common3.0.4
 fdisk2.34-0.1ubuntu9.3
 findutils4.7.0-1ubuntu1
-firefox98.0.1+build2-0ubuntu0.20.04.1
+firefox98.0.2+build1-0ubuntu0.20.04.1
 fontconfig2.13.1-2ubuntu3
 fontconfig-config2.13.1-2ubuntu3
 fonts-dejavu-core2.37-1
@@ -73,7 +73,7 @@ foomatic-db-compressed-ppds20200401-1
 fortune-mod1:1.99.1-7build1
 gawk1:5.0.1+dfsg-1
 gcc-10-base10.3.0-1ubuntu1~20.04
-gcc-9-base9.4.0-1ubuntu1~20.04
+gcc-9-base9.4.0-1ubuntu1~20.04.1
 gdisk1.0.5-1
 genisoimage9:1.1.11-3.1ubuntu1
 gettext-base0.19.8.1-10build1
@@ -488,7 +488,7 @@ libspeexdsp11.2~rc1.2-1.1ubuntu1.20.04.1
 libsqlite3-03.31.1-4ubuntu0.2
 libss21.45.5-2ubuntu1
 libssh-40.9.3-2ubuntu2.2
-libssl1.11.1.1f-1ubuntu2.11
+libssl1.11.1.1f-1ubuntu2.12
 libstartup-notification00.12-6
 libstdc++610.3.0-1ubuntu1~20.04
 libstemmer0d0+svn585-2
@@ -645,7 +645,7 @@ ncurses-base6.2-0ubuntu2
 ncurses-bin6.2-0ubuntu2
 openprinting-ppds20200401-1
 openssh-client1:8.2p1-4ubuntu0.4
-openssl1.1.1f-1ubuntu2.11
+openssl1.1.1f-1ubuntu2.12
 packagekit1.1.13-2ubuntu1.1
 parted3.3-4ubuntu0.20.04.1
 passwd1:4.8.1-1ubuntu5.20.04.1
@@ -736,7 +736,7 @@ systemd245.4-4ubuntu3.15
 systemd-sysv245.4-4ubuntu3.15
 systemd-timesyncd245.4-4ubuntu3.15
 sysvinit-utils2.96-2.1ubuntu1
-tar1.30+dfsg-7ubuntu0.20.04.1
+tar1.30+dfsg-7ubuntu0.20.04.2
 tzdata2021e-0ubuntu0.20.04
 ubuntu-advantage-tools27.6~20.04.1
 ubuntu-drivers-common1:0.9.0~0.20.04.5
