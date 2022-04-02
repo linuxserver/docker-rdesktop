@@ -258,8 +258,8 @@ libpthread-stubs0-dev0.4-1
 libpulse01:13.99.1-1ubuntu3.13
 libpulsedsp1:13.99.1-1ubuntu3.13
 libpulse-mainloop-glib01:13.99.1-1ubuntu3.13
-libpython3.8-minimal3.8.10-0ubuntu1~20.04.2
-libpython3.8-stdlib3.8.10-0ubuntu1~20.04.2
+libpython3.8-minimal3.8.10-0ubuntu1~20.04.4
+libpython3.8-stdlib3.8.10-0ubuntu1~20.04.4
 libpython3-stdlib3.8.2-0ubuntu2
 libreadline88.0-4
 librest-0.7-00.8.1-1
@@ -415,8 +415,8 @@ publicsuffix20200303.0012-1
 pulseaudio1:13.99.1-1ubuntu3.13
 pulseaudio-utils1:13.99.1-1ubuntu3.13
 python33.8.2-0ubuntu2
-python3.83.8.10-0ubuntu1~20.04.2
-python3.8-minimal3.8.10-0ubuntu1~20.04.2
+python3.83.8.10-0ubuntu1~20.04.4
+python3.8-minimal3.8.10-0ubuntu1~20.04.4
 python3-apt2.0.0ubuntu0.20.04.7
 python3-certifi2019.11.28-1
 python3-chardet3.0.4-4build1
@@ -446,7 +446,7 @@ sysvinit-utils2.96-2.1ubuntu1
 tar1.30+dfsg-7ubuntu0.20.04.2
 thunar1.8.14-0ubuntu1
 thunar-data1.8.14-0ubuntu1
-tzdata2021e-0ubuntu0.20.04
+tzdata2022a-0ubuntu0.20.04
 ubuntu-keyring2020.02.11.4
 ubuntu-mono19.04-0ubuntu3
 ucf3.0038+nmu1
@@ -490,4 +490,4 @@ xubuntu-default-settings20.04.4
 xubuntu-icon-theme20.04.2
 xubuntu-wallpapers20.04.2
 xutils1:7.7+19ubuntu14
-zlib1g1:1.2.11.dfsg-2ubuntu1.2
+zlib1g1:1.2.11.dfsg-2ubuntu1.3
