@@ -1,4 +1,4 @@
-Thunar-4.16.10-1.fc35.x86_64
+Thunar-4.16.11-1.fc35.x86_64
 acl-2.3.1-2.fc35.x86_64
 adwaita-cursor-theme-41.0-1.fc35.noarch
 adwaita-icon-theme-41.0-1.fc35.noarch
@@ -20,7 +20,7 @@ cairo-gobject-1.17.4-4.fc35.x86_64
 cairomm-1.14.2-20.fc35.x86_64
 cdparanoia-libs-10.2-38.fc35.x86_64
 colord-libs-1.4.5-3.fc35.x86_64
-container-selinux-2.180.0-1.fc35.noarch
+container-selinux-2.181.0-1.fc35.noarch
 containerd-1.6.1-1.fc35.x86_64
 coreutils-8.32-33.fc35.x86_64
 coreutils-common-8.32-33.fc35.x86_64
@@ -76,7 +76,7 @@ flac-libs-1.3.4-1.fc35.x86_64
 fontconfig-2.13.94-5.fc35.x86_64
 fonts-filesystem-2.0.5-6.fc35.noarch
 freetype-2.11.0-3.fc35.x86_64
-fribidi-1.0.10-5.fc35.x86_64
+fribidi-1.0.11-3.fc35.x86_64
 fuse-libs-2.9.9-13.fc35.x86_64
 garcon-4.16.1-4.fc35.x86_64
 gawk-5.1.0-4.fc35.x86_64
@@ -125,7 +125,7 @@ hostname-3.23-5.fc35.x86_64
 hunspell-1.7.0-11.fc35.x86_64
 hunspell-en-US-0.20140811.1-20.fc35.noarch
 hunspell-filesystem-1.7.0-11.fc35.x86_64
-hwdata-0.357-1.fc35.noarch
+hwdata-0.358-1.fc35.noarch
 iceauth-1.0.8-3.fc35.x86_64
 ima-evm-utils-1.3.2-3.fc35.x86_64
 imlib2-1.6.1-5.fc35.x86_64
@@ -242,7 +242,7 @@ libksba-1.6.0-2.fc35.x86_64
 libmnl-1.0.4-14.fc35.x86_64
 libmodulemd-2.14.0-1.fc35.x86_64
 libmount-2.37.4-1.fc35.x86_64
-libmousepad0-0.5.8-2.fc35.x86_64
+libmousepad0-0.5.9-1.fc35.x86_64
 libnet-1.2-4.fc35.x86_64
 libnetfilter_conntrack-1.0.8-3.fc35.x86_64
 libnfnetlink-1.0.1-20.fc35.x86_64
@@ -326,7 +326,7 @@ mesa-libgbm-21.3.8-2.fc35.x86_64
 mesa-libglapi-21.3.8-2.fc35.x86_64
 mesa-vulkan-drivers-21.3.8-2.fc35.x86_64
 moby-engine-20.10.12-1.fc35.x86_64
-mousepad-0.5.8-2.fc35.x86_64
+mousepad-0.5.9-1.fc35.x86_64
 mozilla-filesystem-1.9-26.fc35.x86_64
 mozjs78-78.15.0-1.fc35.x86_64
 mpdecimal-2.5.1-2.fc35.x86_64
@@ -358,7 +358,7 @@ pam-1.5.2-7.fc35.x86_64
 pango-1.50.4-1.fc35.x86_64
 pangomm-2.46.2-1.fc35.x86_64
 parted-3.4-6.fc35.x86_64
-pavucontrol-5.0-2.fc35.x86_64
+pavucontrol-5.0-4.fc35.x86_64
 pciutils-libs-3.7.0-4.fc35.x86_64
 pcre-8.45-1.fc35.x86_64
 pcre2-10.39-1.fc35.x86_64
@@ -395,7 +395,7 @@ rpm-libs-4.17.0-4.fc35.x86_64
 rpm-plugin-selinux-4.17.0-4.fc35.x86_64
 rpm-sign-libs-4.17.0-4.fc35.x86_64
 rtkit-0.11-28.fc35.x86_64
-runc-1.1.0-1.fc35.x86_64
+runc-1.1.1-1.fc35.x86_64
 sed-4.8-8.fc35.x86_64
 selinux-policy-35.15-1.fc35.noarch
 selinux-policy-targeted-35.15-1.fc35.noarch
@@ -437,7 +437,7 @@ xfce4-places-plugin-1.8.1-6.fc35.x86_64
 xfce4-pulseaudio-plugin-0.4.3-6.fc35.x86_64
 xfce4-session-4.16.0-4.fc35.x86_64
 xfce4-settings-4.16.2-2.fc35.x86_64
-xfce4-terminal-0.8.10-3.fc35.x86_64
+xfce4-terminal-1.0.0-1.fc35.x86_64
 xfconf-4.16.0-5.fc35.x86_64
 xfdesktop-4.16.0-4.fc35.x86_64
 xfsprogs-5.12.0-2.fc35.x86_64
