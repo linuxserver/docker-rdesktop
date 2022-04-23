@@ -144,7 +144,7 @@ hwdata-0.358-1.fc35.noarch
 ibus-libs-1.5.25-6.fc35.x86_64
 iceauth-1.0.8-3.fc35.x86_64
 ima-evm-utils-1.3.2-3.fc35.x86_64
-imath-3.1.4-1.fc35.x86_64
+imath-3.1.5-1.fc35.x86_64
 imlib2-1.6.1-5.fc35.x86_64
 iptables-legacy-1.8.7-13.fc35.x86_64
 iptables-legacy-libs-1.8.7-13.fc35.x86_64
@@ -486,7 +486,7 @@ nss-softokn-freebl-3.77.0-1.fc35.x86_64
 nss-sysinit-3.77.0-1.fc35.x86_64
 nss-util-3.77.0-1.fc35.x86_64
 openal-soft-1.19.1-14.fc35.x86_64
-openexr-libs-3.1.4-1.fc35.x86_64
+openexr-libs-3.1.5-1.fc35.x86_64
 openjpeg2-2.4.0-5.fc35.x86_64
 openldap-2.4.59-3.fc35.x86_64
 openssh-8.7p1-3.fc35.x86_64
@@ -553,7 +553,7 @@ perl-subs-1.04-486.fc35.noarch
 perl-vars-1.05-486.fc35.noarch
 phonon-qt5-4.11.1-8.fc35.x86_64
 pigz-2.5-2.fc35.x86_64
-pipewire-libs-0.3.49-1.fc35.x86_64
+pipewire-libs-0.3.50-1.fc35.x86_64
 pixman-0.40.0-4.fc35.x86_64
 pkgconf-1.8.0-1.fc35.x86_64
 pkgconf-m4-1.8.0-1.fc35.noarch
@@ -667,7 +667,7 @@ tar-1.34-2.fc35.x86_64
 tigervnc-license-1.12.0-5.fc35.noarch
 tigervnc-server-minimal-1.12.0-5.fc35.x86_64
 tpm2-tss-3.1.0-3.fc35.x86_64
-tzdata-2022a-1.fc35.noarch
+tzdata-2022a-2.fc35.noarch
 util-linux-2.37.4-1.fc35.x86_64
 util-linux-core-2.37.4-1.fc35.x86_64
 vim-data-8.2.4386-1.fc35.noarch
