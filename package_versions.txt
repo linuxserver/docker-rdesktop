@@ -128,7 +128,7 @@ libegl11.3.2-1~ubuntu0.20.04.2
 libegl-mesa021.2.6-0ubuntu0.1~20.04.2
 libelf10.176-1.1build1
 libepoxy01.5.4-1
-libevdev21.9.0+dfsg-1ubuntu0.1
+libevdev21.9.0+dfsg-1ubuntu0.2
 libexpat12.2.9-1ubuntu0.4
 libext2fs21.45.5-2ubuntu1
 libfdisk12.34-0.1ubuntu9.3
@@ -178,8 +178,8 @@ libhx509-5-heimdal7.7.0+dfsg-1ubuntu1
 libice62:1.0.10-0ubuntu1
 libicu6666.1-2ubuntu2.1
 libidn2-02.2.0-2
-libinput101.15.5-1ubuntu0.2
-libinput-bin1.15.5-1ubuntu0.2
+libinput101.15.5-1ubuntu0.3
+libinput-bin1.15.5-1ubuntu0.3
 libip4tc21.8.4-3ubuntu2
 libisl220.22.1-1
 libjack-jackd2-01.9.12~dfsg-2ubuntu2
