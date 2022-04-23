@@ -309,9 +309,9 @@ marco-1.26.0-1.fc35.x86_64
 marco-libs-1.26.0-1.fc35.x86_64
 mate-control-center-1.26.0-2.fc35.x86_64
 mate-control-center-filesystem-1.26.0-2.fc35.x86_64
-mate-desktop-1.26.0-2.fc35.x86_64
-mate-desktop-configs-1.26.0-2.fc35.noarch
-mate-desktop-libs-1.26.0-2.fc35.x86_64
+mate-desktop-1.26.0-4.fc35.x86_64
+mate-desktop-configs-1.26.0-4.fc35.noarch
+mate-desktop-libs-1.26.0-4.fc35.x86_64
 mate-icon-theme-1.26.0-1.fc35.noarch
 mate-media-1.26.0-2.fc35.x86_64
 mate-menus-1.26.0-2.fc35.x86_64
@@ -472,7 +472,7 @@ tar-1.34-2.fc35.x86_64
 tigervnc-license-1.12.0-5.fc35.noarch
 tigervnc-server-minimal-1.12.0-5.fc35.x86_64
 tpm2-tss-3.1.0-3.fc35.x86_64
-tzdata-2022a-1.fc35.noarch
+tzdata-2022a-2.fc35.noarch
 util-linux-2.37.4-1.fc35.x86_64
 util-linux-core-2.37.4-1.fc35.x86_64
 vim-data-8.2.4386-1.fc35.noarch
