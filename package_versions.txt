@@ -22,7 +22,7 @@ cairomm-1.14.2-20.fc35.x86_64
 caja-schemas-1.26.0-2.fc35.x86_64
 cdparanoia-libs-10.2-38.fc35.x86_64
 colord-libs-1.4.5-3.fc35.x86_64
-container-selinux-2.181.0-1.fc35.noarch
+container-selinux-2.183.0-1.fc35.noarch
 containerd-1.6.2-1.fc35.x86_64
 coreutils-8.32-33.fc35.x86_64
 coreutils-common-8.32-33.fc35.x86_64
@@ -220,7 +220,7 @@ libibverbs-39.0-1.fc35.x86_64
 libicu-69.1-2.fc35.x86_64
 libidn2-2.3.2-3.fc35.x86_64
 libindicator-gtk3-12.10.1-21.fc35.x86_64
-libinput-1.19.3-1.fc35.x86_64
+libinput-1.19.4-1.fc35.x86_64
 libjpeg-turbo-2.1.0-3.fc35.x86_64
 libksba-1.6.0-2.fc35.x86_64
 libmanette-0.2.6-3.fc35.x86_64
@@ -333,7 +333,7 @@ mesa-libGL-21.3.8-2.fc35.x86_64
 mesa-libgbm-21.3.8-2.fc35.x86_64
 mesa-libglapi-21.3.8-2.fc35.x86_64
 mesa-vulkan-drivers-21.3.8-2.fc35.x86_64
-moby-engine-20.10.12-1.fc35.x86_64
+moby-engine-20.10.14-1.fc35.x86_64
 mozilla-filesystem-1.9-26.fc35.x86_64
 mozjs78-78.15.0-1.fc35.x86_64
 mpdecimal-2.5.1-2.fc35.x86_64
@@ -452,8 +452,8 @@ rpm-sign-libs-4.17.0-4.fc35.x86_64
 rtkit-0.11-28.fc35.x86_64
 runc-1.1.1-1.fc35.x86_64
 sed-4.8-8.fc35.x86_64
-selinux-policy-35.16-1.fc35.noarch
-selinux-policy-targeted-35.16-1.fc35.noarch
+selinux-policy-35.17-1.fc35.noarch
+selinux-policy-targeted-35.17-1.fc35.noarch
 setup-2.13.9.1-2.fc35.noarch
 setxkbmap-1.3.2-4.fc35.x86_64
 shadow-utils-4.9-9.fc35.x86_64
@@ -464,10 +464,10 @@ speexdsp-1.2.0-4.fc35.x86_64
 sqlite-libs-3.36.0-3.fc35.x86_64
 startup-notification-0.12-22.fc35.x86_64
 sudo-1.9.7p2-2.fc35.x86_64
-systemd-249.11-1.fc35.x86_64
-systemd-libs-249.11-1.fc35.x86_64
-systemd-pam-249.11-1.fc35.x86_64
-systemd-udev-249.11-1.fc35.x86_64
+systemd-249.11-2.fc35.x86_64
+systemd-libs-249.11-2.fc35.x86_64
+systemd-pam-249.11-2.fc35.x86_64
+systemd-udev-249.11-2.fc35.x86_64
 tar-1.34-2.fc35.x86_64
 tigervnc-license-1.12.0-5.fc35.noarch
 tigervnc-server-minimal-1.12.0-5.fc35.x86_64
@@ -480,8 +480,8 @@ vim-minimal-8.2.4386-1.fc35.x86_64
 vte-profile-0.66.2-1.fc35.x86_64
 vte291-0.66.2-1.fc35.x86_64
 vulkan-loader-1.3.204.0-1.fc35.x86_64
-webkit2gtk3-2.36.0-2.fc35.x86_64
-webkit2gtk3-jsc-2.36.0-2.fc35.x86_64
+webkit2gtk3-2.36.1-1.fc35.x86_64
+webkit2gtk3-jsc-2.36.1-1.fc35.x86_64
 webrtc-audio-processing-0.3.1-7.fc35.x86_64
 which-2.21-27.fc35.x86_64
 woff2-1.0.2-13.fc35.x86_64
