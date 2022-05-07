@@ -13,7 +13,7 @@ ca-certificates20210119~20.04.2
 coreutils8.30-3ubuntu2
 cpp4:9.3.0-1ubuntu2
 cpp-99.4.0-1ubuntu1~20.04.1
-curl7.68.0-1ubuntu2.7
+curl7.68.0-1ubuntu2.10
 dash0.5.10.2-6
 dbus1.12.16-2ubuntu2.1
 dbus-user-session1.12.16-2ubuntu2.1
@@ -112,7 +112,7 @@ libcom-err21.45.5-2ubuntu1
 libcrypt11:4.4.10-10ubuntu4
 libcryptsetup122:2.2.2-3ubuntu2.4
 libcups22.3.1-9ubuntu1.1
-libcurl47.68.0-1ubuntu2.7
+libcurl47.68.0-1ubuntu2.10
 libdatrie10.2.12-3
 libdb5.35.3.28+dfsg1-0.6ubuntu2
 libdbus-1-31.12.16-2ubuntu2.1
@@ -275,8 +275,8 @@ libseccomp22.5.1-1ubuntu1~20.04.2
 libselinux13.0-1build2
 libsemanage13.0-1build2
 libsemanage-common3.0-1build2
-libsensors51:3.6.0-2ubuntu1
-libsensors-config1:3.6.0-2ubuntu1
+libsensors51:3.6.0-2ubuntu1.1
+libsensors-config1:3.6.0-2ubuntu1.1
 libsepol13.0-1
 libsigsegv22.12-2
 libslang22.3.2-4
