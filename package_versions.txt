@@ -40,7 +40,7 @@ cups-ipp-utils2.3.1-9ubuntu1.1
 cups-pk-helper0.2.6-1ubuntu3
 cups-ppdc2.3.1-9ubuntu1.1
 cups-server-common2.3.1-9ubuntu1.1
-curl7.68.0-1ubuntu2.7
+curl7.68.0-1ubuntu2.10
 dash0.5.10.2-6
 dbus1.12.16-2ubuntu2.1
 dbus-x111.12.16-2ubuntu2.1
@@ -99,7 +99,7 @@ gir1.2-webkit2-4.02.36.0-0ubuntu0.20.04.3
 glib-networking2.64.2-1ubuntu0.1
 glib-networking-common2.64.2-1ubuntu0.1
 glib-networking-services2.64.2-1ubuntu0.1
-gnome-control-center-faces1:3.36.5-0ubuntu3
+gnome-control-center-faces1:3.36.5-0ubuntu4
 gnome-session-canberra0.30-7ubuntu1
 gnupg2.2.19-3ubuntu2.1
 gnupg22.2.19-3ubuntu2.1
@@ -212,7 +212,7 @@ libcrypt11:4.4.10-10ubuntu4
 libcryptsetup122:2.2.2-3ubuntu2.4
 libcups22.3.1-9ubuntu1.1
 libcupsfilters11.27.4-1
-libcurl47.68.0-1ubuntu2.7
+libcurl47.68.0-1ubuntu2.10
 libdatrie10.2.12-3
 libdb5.35.3.28+dfsg1-0.6ubuntu2
 libdbus-1-31.12.16-2ubuntu2.1
@@ -386,7 +386,7 @@ libmpg123-01.25.13-1
 libmtp91.1.17-3
 libmtp-common1.1.17-3
 libmtp-runtime1.1.17-3
-libmysqlclient218.0.28-0ubuntu0.20.04.3
+libmysqlclient218.0.29-0ubuntu0.20.04.3
 libncurses66.2-0ubuntu2
 libncursesw66.2-0ubuntu2
 libnettle73.5.1+really3.5.1-2ubuntu0.2
@@ -467,8 +467,8 @@ libsecret-common0.20.4-0ubuntu1
 libselinux13.0-1build2
 libsemanage13.0-1build2
 libsemanage-common3.0-1build2
-libsensors51:3.6.0-2ubuntu1
-libsensors-config1:3.6.0-2ubuntu1
+libsensors51:3.6.0-2ubuntu1.1
+libsensors-config1:3.6.0-2ubuntu1.1
 libsepol13.0-1
 libshout32.4.3-1
 libsigsegv22.12-2
@@ -739,7 +739,7 @@ sysvinit-utils2.96-2.1ubuntu1
 tar1.30+dfsg-7ubuntu0.20.04.2
 tzdata2022a-0ubuntu0.20.04
 ubuntu-advantage-tools27.7~20.04.1
-ubuntu-drivers-common1:0.9.0~0.20.04.6
+ubuntu-drivers-common1:0.9.0~0.20.04.7
 ubuntu-keyring2020.02.11.4
 ubuntu-mate-artwork20.04.2
 ubuntu-mate-core1.263
