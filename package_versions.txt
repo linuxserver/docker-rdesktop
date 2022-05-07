@@ -303,8 +303,8 @@ libidn2-02.3.2-2build1
 libijs-0.350.35-15build2
 libilmbase252.5.7-2
 libimobiledevice61.3.0-6build3
-libinput101.20.0-1
-libinput-bin1.20.0-1
+libinput101.20.0-1ubuntu0.1
+libinput-bin1.20.0-1ubuntu0.1
 libip4tc21.8.7-1ubuntu5
 libipt22.0.5-1
 libisl230.24-2build1
