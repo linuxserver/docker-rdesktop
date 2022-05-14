@@ -9,7 +9,7 @@ apt2.4.5
 apt-transport-https2.4.5
 apt-utils2.4.5
 baloo-kf55.92.0-0ubuntu1
-base-files12ubuntu4
+base-files12ubuntu4.1
 base-passwd3.5.52build1
 bash5.1-6ubuntu1
 bc1.07.1-3build1
@@ -24,7 +24,7 @@ catdoc1:0.95-5
 coreutils8.32-4.1ubuntu1
 cpp-1111.2.0-19ubuntu1
 cpp4:11.2.0-1ubuntu1
-curl7.81.0-1
+curl7.81.0-1ubuntu1.2
 dash0.5.11+git20210903+057cd650a4ed-3build1
 dbus1.12.20-2ubuntu4
 dbus-x111.12.20-2ubuntu4
@@ -40,7 +40,7 @@ distro-info-data0.52ubuntu0.1
 dmidecode3.3-3
 docbook-xml4.5-11
 docbook-xsl1.79.2+dfsg-1
-docker-ce-cli5:20.10.14~3-0~ubuntu-bionic
+docker-ce-cli5:20.10.15~3-0~ubuntu-bionic
 dolphin4:21.12.3-0ubuntu1
 dpkg1.21.1ubuntu2
 drkonqi5.24.4-0ubuntu1
@@ -198,8 +198,8 @@ libcom-err21.46.5-2ubuntu1
 libcrypt11:4.4.27-1
 libcryptsetup122:2.4.3-1ubuntu1
 libcups22.4.1op1-1ubuntu4
-libcurl3-gnutls7.81.0-1
-libcurl47.81.0-1
+libcurl3-gnutls7.81.0-1ubuntu1.2
+libcurl47.81.0-1ubuntu1.2
 libdatrie10.2.13-2
 libdav1d50.9.2-1
 libdb5.35.3.28+dfsg1-0.8ubuntu3
@@ -538,7 +538,7 @@ libpam0g1.4.0-11ubuntu2
 libpam-modules1.4.0-11ubuntu2
 libpam-modules-bin1.4.0-11ubuntu2
 libpam-runtime1.4.0-11ubuntu2
-libpam-systemd249.11-0ubuntu3
+libpam-systemd249.11-0ubuntu3.1
 libpango-1.0-01.50.6+ds-2
 libpangocairo-1.0-01.50.6+ds-2
 libpangoft2-1.0-01.50.6+ds-2
@@ -675,12 +675,12 @@ libss21.46.5-2ubuntu1
 libssh2-11.10.0-3
 libssh-40.9.6-2build1
 libssh-gcrypt-40.9.6-2build1
-libssl33.0.2-0ubuntu1
+libssl33.0.2-0ubuntu1.1
 libstdc++612-20220319-1ubuntu1
 libstemmer0d2.2.0-1build1
 libswresample37:4.4.1-3ubuntu5
 libswscale57:4.4.1-3ubuntu5
-libsystemd0249.11-0ubuntu3
+libsystemd0249.11-0ubuntu3.1
 libtag1v51.11.1+dfsg.1-3ubuntu3
 libtag1v5-vanilla1.11.1+dfsg.1-3ubuntu3
 libtalloc22.3.3-2build1
@@ -698,7 +698,7 @@ libtirpc-common1.3.2-2build1
 libtwolame00.4.0-2build2
 libu2f-udev1.1.10-3build2
 libuchardet00.0.7-1build2
-libudev1249.11-0ubuntu3
+libudev1249.11-0ubuntu3.1
 libudfread01.1.2-1
 libudisks2-02.9.4-1ubuntu2
 libunistring21.0-1
@@ -828,7 +828,7 @@ ncurses-bin6.3-2
 ocl-icd-libopencl12.2.14-3
 openprinting-ppds20220223-0ubuntu1
 openssh-client1:8.9p1-3
-openssl3.0.2-0ubuntu1
+openssl3.0.2-0ubuntu1.1
 oxygen-sounds4:5.24.4-0ubuntu1
 packagekit1.2.5-2ubuntu2
 parted3.4-2build1
@@ -894,7 +894,7 @@ python3-pyqt55.15.6+dfsg-1ubuntu3
 python3-pyqt5.sip12.9.1-1build1
 python3-secretstorage3.3.1-1
 python3-six1.16.0-3ubuntu1
-python3-software-properties0.99.22
+python3-software-properties0.99.22.1
 python3-talloc2.3.3-2build1
 python3-update-manager1:22.04.9
 python3-wadllib1.3.6-1
@@ -949,15 +949,15 @@ sgml-base1.30
 sgml-data2.0.11+nmu1
 shared-mime-info2.1-2
 snapd2.55.3+22.04ubuntu1
-software-properties-common0.99.22
-software-properties-qt0.99.22
+software-properties-common0.99.22.1
+software-properties-qt0.99.22.1
 sound-theme-freedesktop0.8-2ubuntu1
 spice-vdagent0.22.1-1
 squashfs-tools1:4.5-3build1
 ssl-cert1.1.2
 sudo1.9.9-1ubuntu2
-systemd249.11-0ubuntu3
-systemd-sysv249.11-0ubuntu3
+systemd249.11-0ubuntu3.1
+systemd-sysv249.11-0ubuntu3.1
 systemsettings4:5.24.4-0ubuntu1
 sysvinit-utils3.01-1ubuntu1
 tar1.34+dfsg-1build3
@@ -968,7 +968,7 @@ ubuntu-mono20.10-0ubuntu2
 ubuntu-release-upgrader-core1:22.04.10
 ubuntu-release-upgrader-qt1:22.04.10
 ucf3.0043
-udev249.11-0ubuntu3
+udev249.11-0ubuntu3.1
 udisks22.9.4-1ubuntu2
 unzip6.0-26ubuntu3
 usb.ids2022.04.02-1
