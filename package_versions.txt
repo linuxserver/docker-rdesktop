@@ -1,7 +1,7 @@
 adduser3.118ubuntu2
 adwaita-icon-theme3.36.1-2ubuntu0.20.04.2
 apt2.0.6
-apt-transport-https2.0.6
+apt-transport-https2.0.8
 apt-utils2.0.6
 base-files11ubuntu5.5
 base-passwd3.5.47
@@ -24,13 +24,13 @@ debianutils4.9.1
 diffutils1:3.7-3
 dirmngr2.2.19-3ubuntu2.1
 distro-info-data0.43ubuntu1.10
-docker-ce-cli5:20.10.15~3-0~ubuntu-bionic
+docker-ce-cli5:20.10.16~3-0~ubuntu-bionic
 dpkg1.19.7ubuntu3
 e2fsprogs1.45.5-2ubuntu1
 fdisk2.34-0.1ubuntu9.3
 featherpad0.12.1-1build1
 findutils4.7.0-1ubuntu1
-firefox100.0+build2-0ubuntu0.20.04.1
+firefox100.0.2+build1-0ubuntu0.20.04.1
 fontconfig2.13.1-2ubuntu3
 fontconfig-config2.13.1-2ubuntu3
 fonts-dejavu-core2.37-1
@@ -291,7 +291,7 @@ libtasn1-64.16.0-2
 libtdb11.4.3-0ubuntu0.20.04.1
 libthai00.1.28-3
 libthai-data0.1.28-3
-libtiff54.1.0+git191117-2ubuntu0.20.04.2
+libtiff54.1.0+git191117-2ubuntu0.20.04.3
 libtinfo66.2-0ubuntu2
 libuchardet00.0.6-3build1
 libudev1245.4-4ubuntu3.17
@@ -353,7 +353,7 @@ libxinerama12:1.1.4-2
 libxkbcommon00.10.0-1
 libxkbcommon-x11-00.10.0-1
 libxkbfile11:1.1.0-1
-libxml22.9.10+dfsg-5ubuntu0.20.04.2
+libxml22.9.10+dfsg-5ubuntu0.20.04.3
 libxmu62:1.1.3-0ubuntu1
 libxmuu12:1.1.3-0ubuntu1
 libxpm41:3.5.12-1
@@ -369,7 +369,7 @@ libxxf86dga12:1.1.5-0ubuntu1
 libxxf86vm11:1.1.4-1build1
 libyaml-0-20.2.2-1
 libzstd11.4.4+dfsg-3ubuntu0.1
-locales2.31-0ubuntu9.7
+locales2.31-0ubuntu9.9
 login1:4.8.1-1ubuntu5.20.04.1
 logsave1.45.5-2ubuntu1
 lsb-base11.1.0ubuntu2
