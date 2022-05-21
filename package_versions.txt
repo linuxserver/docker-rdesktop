@@ -55,7 +55,7 @@ ffmpeg 2:5.0-7
 file 5.41-1
 filesystem 2021.12.07-1
 findutils 4.9.0-1
-firefox 100.0-1
+firefox 100.0.2-1
 flac 1.3.4-2
 flex 2.6.4-3
 fontconfig 2:2.14.0-1
@@ -87,7 +87,7 @@ gsettings-desktop-schemas 42.0-1
 gsm 1.0.19-1
 gtk-update-icon-cache 1:4.6.4-1
 gtk2 2.24.33-2
-gtk3 1:3.24.33+r28+g01edbfb976-1
+gtk3 1:3.24.34-1
 gtkmm3 3.24.6-1
 guile 2.2.7-2
 gzip 1.12-1
@@ -257,7 +257,7 @@ nss 3.78-1
 obconf-qt 0.16.2-1
 openbox 3.6.1-8
 opencore-amr 0.1.5-5
-openjpeg2 2.4.0-1
+openjpeg2 2.5.0-1
 openssh 9.0p1-1
 openssl 1.1.1.n-1
 opus 1.3.1-3
@@ -287,9 +287,9 @@ procps-ng 3.3.17-1
 pulseaudio 15.0-4
 python 3.10.4-1
 python-lxml 4.8.0-1
-qt5-base 5.15.3+kde+r145-1
-qt5-translations 5.15.3+kde+r2-1
-qt5-x11extras 5.15.3+kde+r0-1
+qt5-base 5.15.4+kde+r144-1
+qt5-translations 5.15.4+kde+r2-1
+qt5-x11extras 5.15.4+kde+r0-1
 rav1e 0.4.1-2
 readline 8.1.002-1
 rest 0.8.1+r4+ge5ee6ef-1
