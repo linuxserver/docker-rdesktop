@@ -7,7 +7,7 @@ anacron2.3-29
 apt2.0.6
 aptdaemon1.1.1+bzr982-0ubuntu32.3
 aptdaemon-data1.1.1+bzr982-0ubuntu32.3
-apt-transport-https2.0.6
+apt-transport-https2.0.8
 apturl0.5.2ubuntu19
 apturl-common0.5.2ubuntu19
 apt-utils2.0.6
@@ -56,13 +56,13 @@ distro-info0.23ubuntu1
 distro-info-data0.43ubuntu1.10
 dmidecode3.2-3
 dmsetup2:1.02.167-1ubuntu1
-docker-ce-cli5:20.10.15~3-0~ubuntu-bionic
+docker-ce-cli5:20.10.16~3-0~ubuntu-bionic
 dpkg1.19.7ubuntu3
 e2fsprogs1.45.5-2ubuntu1
 emacsen-common3.0.4
 fdisk2.34-0.1ubuntu9.3
 findutils4.7.0-1ubuntu1
-firefox100.0+build2-0ubuntu0.20.04.1
+firefox100.0.2+build1-0ubuntu0.20.04.1
 fontconfig2.13.1-2ubuntu3
 fontconfig-config2.13.1-2ubuntu3
 fonts-dejavu-core2.37-1
@@ -503,7 +503,7 @@ libtext-iconv-perl1.7-7
 libthai00.1.28-3
 libthai-data0.1.28-3
 libtheora01.1.1+dfsg.1-15ubuntu2
-libtiff54.1.0+git191117-2ubuntu0.20.04.2
+libtiff54.1.0+git191117-2ubuntu0.20.04.3
 libtinfo66.2-0ubuntu2
 libtwolame00.4.0-2
 libu2f-udev1.1.10-1
@@ -574,7 +574,7 @@ libxinerama12:1.1.4-2
 libxkbcommon00.10.0-1
 libxkbfile11:1.1.0-1
 libxklavier165.4-4
-libxml22.9.10+dfsg-5ubuntu0.20.04.2
+libxml22.9.10+dfsg-5ubuntu0.20.04.3
 libxmu62:1.1.3-0ubuntu1
 libxmuu12:1.1.3-0ubuntu1
 libxpm41:3.5.12-1
@@ -595,7 +595,7 @@ libyaml-0-20.2.2-1
 libyelp03.36.2-0ubuntu1
 libzstd11.4.4+dfsg-3ubuntu0.1
 linux-sound-base1.0.25+dfsg-0ubuntu5
-locales2.31-0ubuntu9.7
+locales2.31-0ubuntu9.9
 login1:4.8.1-1ubuntu5.20.04.1
 logsave1.45.5-2ubuntu1
 lsb-base11.1.0ubuntu2
@@ -674,7 +674,7 @@ pulseaudio-utils1:13.99.1-1ubuntu3.13
 python33.8.2-0ubuntu2
 python3.83.8.10-0ubuntu1~20.04.4
 python3.8-minimal3.8.10-0ubuntu1~20.04.4
-python3-apport2.20.11-0ubuntu27.23
+python3-apport2.20.11-0ubuntu27.24
 python3-apt2.0.0ubuntu0.20.04.7
 python3-aptdaemon1.1.1+bzr982-0ubuntu32.3
 python3-aptdaemon.gtk3widgets1.1.1+bzr982-0ubuntu32.3
@@ -706,7 +706,7 @@ python3-ldb2:2.2.3-0ubuntu0.20.04.2
 python3-minimal3.8.2-0ubuntu2
 python3-oauthlib3.1.0-1ubuntu2
 python3-pkg-resources45.2.0-1
-python3-problem-report2.20.11-0ubuntu27.23
+python3-problem-report2.20.11-0ubuntu27.24
 python3-requests2.22.0-2ubuntu1
 python3-requests-unixsocket0.2.0-2
 python3-secretstorage2.3.1-2ubuntu1
@@ -738,7 +738,7 @@ systemd-timesyncd245.4-4ubuntu3.17
 sysvinit-utils2.96-2.1ubuntu1
 tar1.30+dfsg-7ubuntu0.20.04.2
 tzdata2022a-0ubuntu0.20.04
-ubuntu-advantage-tools27.7~20.04.1
+ubuntu-advantage-tools27.8~20.04.1
 ubuntu-drivers-common1:0.9.0~0.20.04.7
 ubuntu-keyring2020.02.11.4
 ubuntu-mate-artwork20.04.2
