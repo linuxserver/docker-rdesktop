@@ -30,8 +30,8 @@ bubblewrap-0.5.0-r0
 busybox-1.34.1-r5
 ca-certificates-20211220-r0
 ca-certificates-bundle-20211220-r0
-cairo-1.16.0-r3
-cairo-gobject-1.16.0-r3
+cairo-1.16.0-r5
+cairo-gobject-1.16.0-r5
 cairomm-1.14.0-r0
 cdparanoia-libs-10.2-r9
 clang-libs-12.0.1-r1
@@ -432,7 +432,7 @@ qt5-qtsvg-5.15.3_git20200406-r0
 qt5-qttools-5.15.3_git20201202-r2
 qt5-qtwayland-5.15.3_git20211028-r0
 qt5-qtwebchannel-5.15.3_git20201028-r0
-qt5-qtwebengine-5.15.3_git20211127-r5
+qt5-qtwebengine-5.15.3_git20211127-r6
 qt5-qtx11extras-5.15.3_git20201027-r0
 qtchooser-66-r1
 re2-2021.11.01-r0
