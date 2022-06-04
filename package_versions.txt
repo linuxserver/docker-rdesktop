@@ -42,7 +42,7 @@ docbook-xml4.5-11
 docbook-xsl1.79.2+dfsg-1
 docker-ce-cli5:20.10.16~3-0~ubuntu-bionic
 dolphin4:21.12.3-0ubuntu1
-dpkg1.21.1ubuntu2
+dpkg1.21.1ubuntu2.1
 drkonqi5.24.4-0ubuntu1
 e2fsprogs1.46.5-2ubuntu1
 fdisk2.37.2-4ubuntu3
@@ -197,7 +197,7 @@ libcolord21.4.6-1
 libcom-err21.46.5-2ubuntu1
 libcrypt11:4.4.27-1
 libcryptsetup122:2.4.3-1ubuntu1
-libcups22.4.1op1-1ubuntu4
+libcups22.4.1op1-1ubuntu4.1
 libcurl3-gnutls7.81.0-1ubuntu1.2
 libcurl47.81.0-1ubuntu1.2
 libdatrie10.2.13-2
