@@ -39,7 +39,7 @@ cldr-emoji-annotation-39-r0
 containerd-1.5.11-r2
 coreutils-9.0-r2
 cryptsetup-libs-2.4.3-r0
-cups-libs-2.3.3-r5
+cups-libs-2.3.3-r6
 dbus-1.12.20-r4
 dbus-glib-0.112-r0
 dbus-libs-1.12.20-r4
@@ -366,7 +366,7 @@ newt-0.52.21-r0
 nghttp2-libs-1.46.0-r0
 npth-1.6-r1
 nspr-4.32-r0
-nss-3.76.1-r0
+nss-3.78.1-r0
 openssh-client-common-8.8_p1-r1
 openssh-client-default-8.8_p1-r1
 openssh-keygen-8.8_p1-r1
