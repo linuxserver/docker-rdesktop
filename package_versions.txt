@@ -23,7 +23,7 @@ containerd-1.6.4-1.fc35.x86_64
 coreutils-8.32-33.fc35.x86_64
 coreutils-common-8.32-33.fc35.x86_64
 cracklib-2.9.6-27.fc35.x86_64
-criu-3.17-1.fc35.x86_64
+criu-3.17-2.fc35.x86_64
 crypto-policies-20210819-1.gitd0fdcfb.fc35.noarch
 crypto-policies-scripts-20210819-1.gitd0fdcfb.fc35.noarch
 cryptsetup-libs-2.4.3-1.fc35.x86_64
@@ -288,12 +288,12 @@ ncurses-libs-6.2-8.20210508.fc35.x86_64
 nettle-3.7.3-2.fc35.x86_64
 nftables-1.0.0-1.fc35.x86_64
 npth-1.6-7.fc35.x86_64
-nspr-4.32.0-6.fc35.x86_64
-nss-3.77.0-1.fc35.x86_64
-nss-softokn-3.77.0-1.fc35.x86_64
-nss-softokn-freebl-3.77.0-1.fc35.x86_64
-nss-sysinit-3.77.0-1.fc35.x86_64
-nss-util-3.77.0-1.fc35.x86_64
+nspr-4.34.0-1.fc35.x86_64
+nss-3.79.0-1.fc35.x86_64
+nss-softokn-3.79.0-1.fc35.x86_64
+nss-softokn-freebl-3.79.0-1.fc35.x86_64
+nss-sysinit-3.79.0-1.fc35.x86_64
+nss-util-3.79.0-1.fc35.x86_64
 openldap-2.4.59-3.fc35.x86_64
 openssh-8.7p1-3.fc35.x86_64
 openssh-clients-8.7p1-3.fc35.x86_64
