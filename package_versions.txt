@@ -249,7 +249,7 @@ libjpeg-turbo-2.1.2-r0
 libksba-1.6.0-r0
 libkscreen-5.23.5-r0
 libksysguard-5.23.5-r0
-libldap-2.6.0-r0
+libldap-2.6.2-r0
 libltdl-2.4.6-r7
 libmd-1.0.3-r0
 libmm-glib-1.18.2-r1
