@@ -20,7 +20,7 @@ bsdmainutils11.1.2ubuntu3
 bsdutils1:2.34-0.1ubuntu9.3
 bubblewrap0.4.0-1ubuntu4
 bzip21.0.8-2
-ca-certificates20210119~20.04.2
+ca-certificates20211016~20.04.1
 caja1.24.0-1
 caja-common1.24.0-1
 coreutils8.30-3ubuntu2
@@ -56,7 +56,7 @@ distro-info0.23ubuntu1
 distro-info-data0.43ubuntu1.10
 dmidecode3.2-3
 dmsetup2:1.02.167-1ubuntu1
-docker-ce-cli5:20.10.16~3-0~ubuntu-bionic
+docker-ce-cli5:20.10.17~3-0~ubuntu-bionic
 dpkg1.19.7ubuntu3
 e2fsprogs1.45.5-2ubuntu1
 emacsen-common3.0.4
@@ -346,7 +346,7 @@ libjson-c40.13.1+dfsg-7ubuntu0.3
 libjson-glib-1.0-01.4.4-2ubuntu2
 libjson-glib-1.0-common1.4.4-2ubuntu2
 libk5crypto31.17-6ubuntu4.1
-libkeyutils11.6-6ubuntu1
+libkeyutils11.6-6ubuntu1.1
 libkmod227-1ubuntu2.1
 libkrb5-26-heimdal7.7.0+dfsg-1ubuntu1
 libkrb5-31.17-6ubuntu4.1
