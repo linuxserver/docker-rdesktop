@@ -4,7 +4,7 @@ adwaita-icon-theme 42.0+r1+gc144c3d75-1
 alsa-lib 1.2.7-2
 alsa-topology-conf 1.2.5.1-1
 alsa-ucm-conf 1.2.7-1
-aom 3.3.0-1
+aom 3.4.0-1
 archlinux-keyring 20220424-1
 argon2 20190702-4
 at-spi2-atk 2.38.0-1
