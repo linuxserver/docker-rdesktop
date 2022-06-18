@@ -6,7 +6,7 @@ alsa-card-profiles 1:0.3.52-2
 alsa-lib 1.2.7-2
 alsa-topology-conf 1.2.5.1-1
 alsa-ucm-conf 1.2.7-1
-aom 3.3.0-1
+aom 3.4.0-1
 appstream 0.15.4-1
 appstream-qt 0.15.4-1
 archlinux-appstream-data 20220512-1
