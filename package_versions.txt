@@ -979,7 +979,7 @@ vlc-data3.0.16-1build7
 vlc-plugin-base3.0.16-1build7
 vlc-plugin-video-output3.0.16-1build7
 wireless-tools30~pre9-13.1ubuntu4
-wpasupplicant2:2.10-6ubuntu1
+wpasupplicant2:2.10-6ubuntu2
 x11-apps7.7+8build2
 x11-common1:7.7+23ubuntu2
 x11proto-dev2021.5-1
