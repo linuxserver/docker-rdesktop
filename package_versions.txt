@@ -4,7 +4,7 @@ adwaita-icon-theme41.0-1ubuntu1
 alsa-base1.0.25+dfsg-0ubuntu7
 alsa-utils1.2.6-1ubuntu1
 anacron2.3-31ubuntu2
-apparmor3.0.4-2ubuntu2
+apparmor3.0.4-2ubuntu2.1
 apt2.4.5
 apt-transport-https2.4.5
 apt-utils2.4.5
