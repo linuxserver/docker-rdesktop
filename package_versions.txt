@@ -40,7 +40,7 @@ cups-ipp-utils2.3.1-9ubuntu1.2
 cups-pk-helper0.2.6-1ubuntu3
 cups-ppdc2.3.1-9ubuntu1.2
 cups-server-common2.3.1-9ubuntu1.2
-curl7.68.0-1ubuntu2.11
+curl7.68.0-1ubuntu2.12
 dash0.5.10.2-6
 dbus1.12.16-2ubuntu2.2
 dbus-x111.12.16-2ubuntu2.2
@@ -212,7 +212,7 @@ libcrypt11:4.4.10-10ubuntu4
 libcryptsetup122:2.2.2-3ubuntu2.4
 libcups22.3.1-9ubuntu1.2
 libcupsfilters11.27.4-1
-libcurl47.68.0-1ubuntu2.11
+libcurl47.68.0-1ubuntu2.12
 libdatrie10.2.12-3
 libdb5.35.3.28+dfsg1-0.6ubuntu2
 libdbus-1-31.12.16-2ubuntu2.2
@@ -488,7 +488,7 @@ libspeexdsp11.2~rc1.2-1.1ubuntu1.20.04.1
 libsqlite3-03.31.1-4ubuntu0.3
 libss21.45.5-2ubuntu1
 libssh-40.9.3-2ubuntu2.2
-libssl1.11.1.1f-1ubuntu2.13
+libssl1.11.1.1f-1ubuntu2.15
 libstartup-notification00.12-6
 libstdc++610.3.0-1ubuntu1~20.04
 libstemmer0d0+svn585-2
@@ -645,7 +645,7 @@ ncurses-base6.2-0ubuntu2
 ncurses-bin6.2-0ubuntu2
 openprinting-ppds20200401-1
 openssh-client1:8.2p1-4ubuntu0.5
-openssl1.1.1f-1ubuntu2.13
+openssl1.1.1f-1ubuntu2.15
 packagekit1.1.13-2ubuntu1.1
 parted3.3-4ubuntu0.20.04.1
 passwd1:4.8.1-1ubuntu5.20.04.1
@@ -738,7 +738,7 @@ systemd-timesyncd245.4-4ubuntu3.17
 sysvinit-utils2.96-2.1ubuntu1
 tar1.30+dfsg-7ubuntu0.20.04.2
 tzdata2022a-0ubuntu0.20.04
-ubuntu-advantage-tools27.8~20.04.1
+ubuntu-advantage-tools27.9~20.04.1
 ubuntu-drivers-common1:0.9.0~0.20.04.7
 ubuntu-keyring2020.02.11.4
 ubuntu-mate-artwork20.04.2
