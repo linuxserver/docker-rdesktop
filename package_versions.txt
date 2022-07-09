@@ -521,7 +521,7 @@ libnotificationmanager14:5.24.4-0ubuntu1
 libnpth01.6-3build2
 libnsl21.3.0-2build2
 libnspr42:4.32-3build1
-libnss32:3.68.2-0ubuntu1
+libnss32:3.68.2-0ubuntu1.1
 libnuma12.0.14-3ubuntu2
 libogg01.3.5-0ubuntu3
 libopenexr252.5.7-1
