@@ -19,7 +19,7 @@ ca-certificates-2021.2.52-1.0.fc35.noarch
 cairo-1.17.4-4.fc35.x86_64
 cairo-gobject-1.17.4-4.fc35.x86_64
 cairomm-1.14.2-20.fc35.x86_64
-caja-schemas-1.26.0-2.fc35.x86_64
+caja-schemas-1.26.1-1.fc35.x86_64
 cdparanoia-libs-10.2-38.fc35.x86_64
 colord-libs-1.4.5-3.fc35.x86_64
 container-selinux-2.188.0-1.fc35.noarch
@@ -318,8 +318,8 @@ mate-menus-1.26.0-2.fc35.x86_64
 mate-menus-libs-1.26.0-2.fc35.x86_64
 mate-menus-preferences-category-menu-1.26.0-2.fc35.x86_64
 mate-notification-daemon-1.26.0-1.fc35.x86_64
-mate-panel-1.26.2-1.fc35.x86_64
-mate-panel-libs-1.26.2-1.fc35.x86_64
+mate-panel-1.26.2-2.fc35.x86_64
+mate-panel-libs-1.26.2-2.fc35.x86_64
 mate-polkit-1.26.0-1.fc35.x86_64
 mate-session-manager-1.26.0-1.fc35.x86_64
 mate-settings-daemon-1.26.0-1.fc35.x86_64
