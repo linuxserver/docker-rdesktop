@@ -291,7 +291,7 @@ libspeexdsp11.2~rc1.2-1.1ubuntu1.20.04.1
 libsqlite3-03.31.1-4ubuntu0.3
 libss21.45.5-2ubuntu1
 libssh-40.9.3-2ubuntu2.2
-libssl1.11.1.1f-1ubuntu2.15
+libssl1.11.1.1f-1ubuntu2.16
 libstartup-notification00.12-6
 libstdc++610.3.0-1ubuntu1~20.04
 libstemmer0d0+svn585-2
@@ -399,7 +399,7 @@ ncurses-base6.2-0ubuntu2
 ncurses-bin6.2-0ubuntu2
 numix-gtk-theme2.6.7-5
 openssh-client1:8.2p1-4ubuntu0.5
-openssl1.1.1f-1ubuntu2.15
+openssl1.1.1f-1ubuntu2.16
 packagekit1.1.13-2ubuntu1.1
 passwd1:4.8.1-1ubuntu5.20.04.1
 perl-base5.30.0-9ubuntu0.2
@@ -478,8 +478,8 @@ xkb-data2.29-2
 xorg-sgml-doctools1:1.11-1
 xorgxrdp1:0.2.12-1
 xrdp0.9.12-1
-xserver-common2:1.20.13-1ubuntu1~20.04.2
-xserver-xorg-core2:1.20.13-1ubuntu1~20.04.2
+xserver-common2:1.20.13-1ubuntu1~20.04.3
+xserver-xorg-core2:1.20.13-1ubuntu1~20.04.3
 xserver-xorg-video-amdgpu19.1.0-1
 xserver-xorg-video-ati1:19.1.0-1
 xserver-xorg-video-intel2:2.99.917+git20200226-1
