@@ -442,9 +442,9 @@ libpthread-stubs0-dev0.4-1
 libpulse01:13.99.1-1ubuntu3.13
 libpulsedsp1:13.99.1-1ubuntu3.13
 libpulse-mainloop-glib01:13.99.1-1ubuntu3.13
-libpython3.83.8.10-0ubuntu1~20.04.4
-libpython3.8-minimal3.8.10-0ubuntu1~20.04.4
-libpython3.8-stdlib3.8.10-0ubuntu1~20.04.4
+libpython3.83.8.10-0ubuntu1~20.04.5
+libpython3.8-minimal3.8.10-0ubuntu1~20.04.5
+libpython3.8-stdlib3.8.10-0ubuntu1~20.04.5
 libpython3-stdlib3.8.2-0ubuntu2
 libqpdf269.1.1-1ubuntu0.1
 libraw1394-112.1.2-1
@@ -488,7 +488,7 @@ libspeexdsp11.2~rc1.2-1.1ubuntu1.20.04.1
 libsqlite3-03.31.1-4ubuntu0.3
 libss21.45.5-2ubuntu1
 libssh-40.9.3-2ubuntu2.2
-libssl1.11.1.1f-1ubuntu2.15
+libssl1.11.1.1f-1ubuntu2.16
 libstartup-notification00.12-6
 libstdc++610.3.0-1ubuntu1~20.04
 libstemmer0d0+svn585-2
@@ -645,7 +645,7 @@ ncurses-base6.2-0ubuntu2
 ncurses-bin6.2-0ubuntu2
 openprinting-ppds20200401-1
 openssh-client1:8.2p1-4ubuntu0.5
-openssl1.1.1f-1ubuntu2.15
+openssl1.1.1f-1ubuntu2.16
 packagekit1.1.13-2ubuntu1.1
 parted3.3-4ubuntu0.20.04.1
 passwd1:4.8.1-1ubuntu5.20.04.1
@@ -672,8 +672,8 @@ publicsuffix20200303.0012-1
 pulseaudio1:13.99.1-1ubuntu3.13
 pulseaudio-utils1:13.99.1-1ubuntu3.13
 python33.8.2-0ubuntu2
-python3.83.8.10-0ubuntu1~20.04.4
-python3.8-minimal3.8.10-0ubuntu1~20.04.4
+python3.83.8.10-0ubuntu1~20.04.5
+python3.8-minimal3.8.10-0ubuntu1~20.04.5
 python3-apport2.20.11-0ubuntu27.24
 python3-apt2.0.0ubuntu0.20.04.7
 python3-aptdaemon1.1.1+bzr982-0ubuntu32.3
@@ -791,9 +791,9 @@ xorg-docs-core1:1.7.1-1.1
 xorg-sgml-doctools1:1.11-1
 xorgxrdp1:0.2.12-1
 xrdp0.9.12-1
-xserver-common2:1.20.13-1ubuntu1~20.04.2
+xserver-common2:1.20.13-1ubuntu1~20.04.3
 xserver-xorg1:7.7+19ubuntu14
-xserver-xorg-core2:1.20.13-1ubuntu1~20.04.2
+xserver-xorg-core2:1.20.13-1ubuntu1~20.04.3
 xserver-xorg-video-amdgpu19.1.0-1
 xserver-xorg-video-ati1:19.1.0-1
 xserver-xorg-video-intel2:2.99.917+git20200226-1
