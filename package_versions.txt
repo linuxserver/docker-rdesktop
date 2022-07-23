@@ -248,7 +248,7 @@ libfido2-11.10.0-1
 libflac81.3.3-2build2
 libfontconfig12.13.1-4.2ubuntu5
 libfontenc11:1.1.4-1build3
-libfreetype62.11.1+dfsg-1build1
+libfreetype62.11.1+dfsg-1ubuntu0.1
 libfribidi01.0.8-2ubuntu3.1
 libfuse22.9.9-5ubuntu3
 libfuse3-33.10.5-1build1
@@ -293,7 +293,7 @@ libgstreamer-plugins-base1.0-01.20.1-1
 libgtk-3-03.24.33-1ubuntu2
 libgtk-3-common3.24.33-1ubuntu2
 libgudev-1.0-01:237-2build1
-libharfbuzz0b2.7.4-1ubuntu3
+libharfbuzz0b2.7.4-1ubuntu3.1
 libhogweed63.7.3-1build2
 libibus-1.0-51.5.26-4
 libice62:1.0.10-1build2
@@ -878,7 +878,7 @@ python3-gi3.42.0-3build1
 python3-httplib20.20.2-2
 python3-importlib-metadata4.6.4-1
 python3-jeepney0.7.1-3
-python3-jwt2.3.0-1
+python3-jwt2.3.0-1ubuntu0.1
 python3-keyring23.5.0-1
 python3-launchpadlib1.10.16-1
 python3-lazr.restfulclient0.14.4-1
@@ -1008,9 +1008,9 @@ xserver-common2:21.1.3-2ubuntu2.1
 xserver-xorg1:7.7+23ubuntu2
 xserver-xorg-core2:21.1.3-2ubuntu2.1
 xserver-xorg-video-amdgpu22.0.0-1build1
-xserver-xorg-video-ati1:19.1.0-2build3
+xserver-xorg-video-ati1:19.1.0-2ubuntu1
 xserver-xorg-video-intel2:2.99.917+git20210115-1
-xserver-xorg-video-radeon1:19.1.0-2build3
+xserver-xorg-video-radeon1:19.1.0-2ubuntu1
 xterm372-1ubuntu1
 xtrans-dev1.4.0-1
 xutils1:7.7+23ubuntu2
