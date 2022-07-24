@@ -4,7 +4,6 @@ adwaita-icon-theme41.0-1ubuntu1
 alsa-base1.0.25+dfsg-0ubuntu7
 alsa-utils1.2.6-1ubuntu1
 anacron2.3-31ubuntu2
-apparmor3.0.4-2ubuntu2.1
 apt2.4.5
 apt-transport-https2.4.5
 apt-utils2.4.5
@@ -47,7 +46,7 @@ drkonqi5.24.4-0ubuntu1
 e2fsprogs1.46.5-2ubuntu1.1
 fdisk2.37.2-4ubuntu3
 findutils4.8.0-1ubuntu3
-firefox1:1snap1-0ubuntu2
+firefox103.0+build1-0ubuntu0.22.04.1~mt1
 fontconfig2.13.1-4.2ubuntu5
 fontconfig-config2.13.1-4.2ubuntu5
 fonts-dejavu-core2.37-2build1
@@ -204,6 +203,7 @@ libdatrie10.2.13-2
 libdav1d50.9.2-1
 libdb5.35.3.28+dfsg1-0.8ubuntu3
 libdbus-1-31.12.20-2ubuntu4
+libdbus-glib-1-20.112-2build1
 libdbusmenu-qt5-20.9.3+16.04.20160218-2build1
 libdc1394-252.2.6-4
 libdca00.0.7-2
@@ -948,12 +948,10 @@ session-migration0.3.6
 sgml-base1.30
 sgml-data2.0.11+nmu1
 shared-mime-info2.1-2
-snapd2.55.5+22.04
 software-properties-common0.99.22.2
 software-properties-qt0.99.22.2
 sound-theme-freedesktop0.8-2ubuntu1
 spice-vdagent0.22.1-1
-squashfs-tools1:4.5-3build1
 ssl-cert1.1.2
 sudo1.9.9-1ubuntu2
 systemd249.11-0ubuntu3.4
