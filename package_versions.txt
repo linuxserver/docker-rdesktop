@@ -10,7 +10,7 @@ atkmm-2.28.0-r1
 avahi-libs-0.8-r5
 bash-5.1.16-r0
 brotli-libs-1.0.9-r5
-busybox-1.34.1-r6
+busybox-1.34.1-r7
 ca-certificates-20211220-r0
 ca-certificates-bundle-20211220-r0
 cairo-1.16.0-r5
@@ -230,8 +230,8 @@ mpdecimal-2.5.1-r1
 mpfr4-4.1.0-r0
 musl-1.2.2-r7
 musl-utils-1.2.2-r7
-ncurses-libs-6.3_p20211120-r0
-ncurses-terminfo-base-6.3_p20211120-r0
+ncurses-libs-6.3_p20211120-r1
+ncurses-terminfo-base-6.3_p20211120-r1
 nettle-3.7.3-r0
 nghttp2-libs-1.46.0-r0
 nspr-4.32-r0
@@ -284,7 +284,7 @@ pulseaudio-15.0-r2
 pulseaudio-alsa-15.0-r2
 py3-gobject3-3.42.0-r1
 py3-lxml-4.6.5-r0
-python3-3.9.7-r4
+python3-3.9.13-r1
 readline-8.1.1-r0
 runc-1.1.2-r1
 s6-ipcserver-2.11.0.0-r0
@@ -296,7 +296,7 @@ sound-theme-freedesktop-0.8-r0
 soxr-0.1.3-r2
 speexdsp-1.2.0-r0
 sqlite-libs-3.36.0-r0
-ssl_client-1.34.1-r6
+ssl_client-1.34.1-r7
 startup-notification-0.12-r4
 sudo-1.9.8_p2-r1
 tdb-libs-1.4.5-r0
