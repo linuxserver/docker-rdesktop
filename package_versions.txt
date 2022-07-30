@@ -27,7 +27,7 @@ breeze-gtk-5.23.5-r0
 breeze-icons-5.88.0-r0
 brotli-libs-1.0.9-r5
 bubblewrap-0.5.0-r0
-busybox-1.34.1-r6
+busybox-1.34.1-r7
 ca-certificates-20211220-r0
 ca-certificates-bundle-20211220-r0
 cairo-1.16.0-r5
@@ -357,8 +357,8 @@ mpfr4-4.1.0-r0
 mtdev-1.1.6-r0
 musl-1.2.2-r7
 musl-utils-1.2.2-r7
-ncurses-libs-6.3_p20211120-r0
-ncurses-terminfo-base-6.3_p20211120-r0
+ncurses-libs-6.3_p20211120-r1
+ncurses-terminfo-base-6.3_p20211120-r1
 ndctl-libs-71.1-r2
 nettle-3.7.3-r0
 networkmanager-1.32.12-r1
@@ -417,7 +417,7 @@ pulseaudio-alsa-15.0-r2
 pulseaudio-bluez-15.0-r2
 purpose-5.88.0-r0
 py3-gobject3-3.42.0-r1
-python3-3.9.7-r4
+python3-3.9.13-r1
 qqc2-desktop-style-5.88.0-r0
 qt5-qtbase-5.15.3_git20210713-r5
 qt5-qtbase-sqlite-5.15.3_git20210713-r5
@@ -463,7 +463,7 @@ sound-theme-freedesktop-0.8-r0
 soxr-0.1.3-r2
 speexdsp-1.2.0-r0
 sqlite-libs-3.36.0-r0
-ssl_client-1.34.1-r6
+ssl_client-1.34.1-r7
 sudo-1.9.8_p2-r1
 syntax-highlighting-5.88.0-r0
 sysfsutils-2.1.1-r0
