@@ -4,9 +4,9 @@ accountsservice-0.6.55-8.fc35.x86_64
 acl-2.3.1-2.fc35.x86_64
 adwaita-cursor-theme-41.0-1.fc35.noarch
 adwaita-icon-theme-41.0-1.fc35.noarch
-alsa-lib-1.2.7.1-1.fc35.x86_64
+alsa-lib-1.2.7.2-1.fc35.x86_64
 alsa-plugins-pulseaudio-1.2.7.1-1.fc35.x86_64
-alsa-ucm-1.2.7.1-1.fc35.noarch
+alsa-ucm-1.2.7.2-1.fc35.noarch
 alsa-utils-1.2.7-1.fc35.x86_64
 alternatives-1.19-1.fc35.x86_64
 appstream-0.14.6-1.fc35.x86_64
@@ -35,7 +35,7 @@ cairomm-1.14.2-20.fc35.x86_64
 cdparanoia-libs-10.2-38.fc35.x86_64
 cmake-filesystem-3.22.2-1.fc35.x86_64
 colord-libs-1.4.5-3.fc35.x86_64
-container-selinux-2.188.0-1.fc35.noarch
+container-selinux-2.189.0-1.fc35.noarch
 containerd-1.6.6-4.fc35.x86_64
 coreutils-8.32-33.fc35.x86_64
 coreutils-common-8.32-33.fc35.x86_64
@@ -414,7 +414,7 @@ libtdb-1.4.4-3.fc35.x86_64
 libtevent-0.11.0-1.fc35.x86_64
 libthai-0.1.28-7.fc35.x86_64
 libtheora-1.1.1-30.fc35.x86_64
-libtiff-4.4.0-1.fc35.x86_64
+libtiff-4.4.0-2.fc35.x86_64
 libtirpc-1.3.2-1.fc35.x86_64
 libtool-ltdl-2.4.6-50.fc35.x86_64
 libtracker-sparql-3.2.1-1.fc35.x86_64
@@ -491,8 +491,8 @@ openjpeg2-2.4.0-5.fc35.x86_64
 openldap-2.4.59-3.fc35.x86_64
 openssh-8.7p1-3.fc35.x86_64
 openssh-clients-8.7p1-3.fc35.x86_64
-openssl-1.1.1o-1.fc35.x86_64
-openssl-libs-1.1.1o-1.fc35.x86_64
+openssl-1.1.1q-1.fc35.x86_64
+openssl-libs-1.1.1q-1.fc35.x86_64
 opus-1.3.1-9.fc35.x86_64
 orc-0.4.31-5.fc35.x86_64
 oxygen-sound-theme-5.24.4-1.fc35.noarch
@@ -553,7 +553,7 @@ perl-subs-1.04-486.fc35.noarch
 perl-vars-1.05-486.fc35.noarch
 phonon-qt5-4.11.1-8.fc35.x86_64
 pigz-2.5-2.fc35.x86_64
-pipewire-libs-0.3.54-1.fc35.x86_64
+pipewire-libs-0.3.56-1.fc35.x86_64
 pixman-0.40.0-4.fc35.x86_64
 pkgconf-1.8.0-1.fc35.x86_64
 pkgconf-m4-1.8.0-1.fc35.noarch
@@ -600,7 +600,7 @@ python3-hawkey-0.64.0-1.fc35.x86_64
 python3-libcomps-0.1.18-1.fc35.x86_64
 python3-libdnf-0.64.0-1.fc35.x86_64
 python3-libs-3.10.2-1.fc35.x86_64
-python3-rpm-4.17.0-4.fc35.x86_64
+python3-rpm-4.17.1-2.fc35.x86_64
 qqc2-desktop-style-5.96.0-1.fc35.x86_64
 qrencode-libs-4.1.1-1.fc35.x86_64
 qt-settings-35.0-1.fc35.noarch
@@ -626,11 +626,11 @@ qt5-qtx11extras-5.15.2-4.fc35.x86_64
 re2-20190801-9.fc35.x86_64
 readline-8.1-3.fc35.x86_64
 rootfiles-8.1-30.fc35.noarch
-rpm-4.17.0-4.fc35.x86_64
-rpm-build-libs-4.17.0-4.fc35.x86_64
-rpm-libs-4.17.0-4.fc35.x86_64
-rpm-plugin-selinux-4.17.0-4.fc35.x86_64
-rpm-sign-libs-4.17.0-4.fc35.x86_64
+rpm-4.17.1-2.fc35.x86_64
+rpm-build-libs-4.17.1-2.fc35.x86_64
+rpm-libs-4.17.1-2.fc35.x86_64
+rpm-plugin-selinux-4.17.1-2.fc35.x86_64
+rpm-sign-libs-4.17.1-2.fc35.x86_64
 rtkit-0.11-30.fc35.x86_64
 runc-1.1.2-2.fc35.x86_64
 samba-client-libs-4.15.8-0.fc35.x86_64
@@ -693,7 +693,7 @@ xorg-x11-drv-ati-19.1.0-6.fc35.x86_64
 xorg-x11-drv-intel-2.99.917-51.20200205.fc35.x86_64
 xorg-x11-drv-libinput-1.2.0-1.fc35.x86_64
 xorg-x11-server-Xorg-1.20.14-3.fc35.x86_64
-xorg-x11-server-Xwayland-21.1.4-1.fc35.x86_64
+xorg-x11-server-Xwayland-21.1.4-2.fc35.x86_64
 xorg-x11-server-common-1.20.14-3.fc35.x86_64
 xorg-x11-xauth-1.1-9.fc35.x86_64
 xorg-x11-xinit-1.4.0-14.fc35.x86_64
