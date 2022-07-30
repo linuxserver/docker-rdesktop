@@ -864,7 +864,7 @@ python3.103.10.4-3ubuntu0.1
 python3.10-minimal3.10.4-3ubuntu0.1
 python33.10.4-0ubuntu2
 python3-apport2.20.11-0ubuntu82.1
-python3-apt2.3.0ubuntu2
+python3-apt2.3.0ubuntu2.1
 python3-blinker1.4+dfsg1-0.4
 python3-cffi-backend1.15.0-1build2
 python3-click8.0.3-1
@@ -873,7 +873,7 @@ python3-cryptography3.4.8-1ubuntu2
 python3-dbus1.2.18-3build1
 python3-distro1.7.0-1
 python3-distro-info1.1build1
-python3-distupgrade1:22.04.11
+python3-distupgrade1:22.04.10
 python3-gi3.42.0-3build1
 python3-httplib20.20.2-2
 python3-importlib-metadata4.6.4-1
@@ -901,7 +901,7 @@ python3-wadllib1.3.6-1
 python3-xkit0.5.0ubuntu5
 python3-yaml5.4.1-1ubuntu1
 python3-zipp1.0.0-3
-python-apt-common2.3.0ubuntu2
+python-apt-common2.3.0ubuntu2.1
 qdbus-qt55.15.3-1
 qml-module-org-kde-activities5.92.0-0ubuntu1
 qml-module-org-kde-draganddrop5.92.0-0ubuntu1
@@ -963,8 +963,8 @@ tzdata2022a-0ubuntu1
 ubuntu-drivers-common1:0.9.6.1
 ubuntu-keyring2021.03.26
 ubuntu-mono20.10-0ubuntu2
-ubuntu-release-upgrader-core1:22.04.11
-ubuntu-release-upgrader-qt1:22.04.11
+ubuntu-release-upgrader-core1:22.04.10
+ubuntu-release-upgrader-qt1:22.04.10
 ucf3.0043
 udev249.11-0ubuntu3.4
 udisks22.9.4-1ubuntu2
@@ -987,7 +987,7 @@ x11-xkb-utils7.7+5build4
 x11-xserver-utils7.7+9build1
 xauth1:1.1-1build2
 xbitmaps1.1.1-2.1ubuntu1
-xdg-desktop-portal1.14.4-1ubuntu1~22.04.1
+xdg-desktop-portal1.14.4-1ubuntu2~22.04.1
 xdg-desktop-portal-gtk1.14.0-1build1
 xdg-user-dirs0.17-2ubuntu4
 xfonts-base1:1.0.5
