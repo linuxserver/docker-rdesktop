@@ -62,7 +62,7 @@ e2fsprogs1.45.5-2ubuntu1
 emacsen-common3.0.4
 fdisk2.34-0.1ubuntu9.3
 findutils4.7.0-1ubuntu1
-firefox103.0+build1-0ubuntu0.20.04.1
+firefox104.0+build3-0ubuntu0.20.04.1
 fontconfig2.13.1-2ubuntu3
 fontconfig-config2.13.1-2ubuntu3
 fonts-dejavu-core2.37-1
@@ -583,7 +583,7 @@ libxrandr22:1.5.2-0ubuntu1
 libxrender11:0.9.10-1
 libxres12:1.2.0-4
 libxshmfence11.3-1
-libxslt1.11.1.34-4
+libxslt1.11.1.34-4ubuntu0.20.04.1
 libxss11:1.2.3-1
 libxt61:1.1.5-1
 libxtst62:1.2.3-1
@@ -675,7 +675,7 @@ python33.8.2-0ubuntu2
 python3.83.8.10-0ubuntu1~20.04.5
 python3.8-minimal3.8.10-0ubuntu1~20.04.5
 python3-apport2.20.11-0ubuntu27.24
-python3-apt2.0.0ubuntu0.20.04.7
+python3-apt2.0.0ubuntu0.20.04.8
 python3-aptdaemon1.1.1+bzr982-0ubuntu32.3
 python3-aptdaemon.gtk3widgets1.1.1+bzr982-0ubuntu32.3
 python3-blinker1.4+dfsg1-0.3ubuntu1
@@ -692,7 +692,7 @@ python3-debian0.1.36ubuntu1
 python3-defer1.0.6-2.1
 python3-distro1.4.0-1
 python3-distro-info0.23ubuntu1
-python3-distupgrade1:20.04.38
+python3-distupgrade1:20.04.39
 python3-entrypoints0.3-2ubuntu1
 python3-gi3.36.0-1
 python3-httplib20.14.0-1ubuntu1
@@ -719,7 +719,7 @@ python3-urllib31.25.8-2ubuntu0.1
 python3-wadllib1.3.3-3build1
 python3-xkit0.5.0ubuntu4
 python3-yaml5.3.1-1ubuntu0.1
-python-apt-common2.0.0ubuntu0.20.04.7
+python-apt-common2.0.0ubuntu0.20.04.8
 readline-common8.0-4
 rfkill2.34-0.1ubuntu9.3
 samba-libs2:4.13.17~dfsg-0ubuntu1.20.04.1
@@ -752,8 +752,8 @@ ubuntu-mate-wallpapers-common20.04.2
 ubuntu-mate-wallpapers-focal20.04.2
 ubuntu-mate-wallpapers-photos20.04.2
 ubuntu-mono19.04-0ubuntu3
-ubuntu-release-upgrader-core1:20.04.38
-ubuntu-release-upgrader-gtk1:20.04.38
+ubuntu-release-upgrader-core1:20.04.39
+ubuntu-release-upgrader-gtk1:20.04.39
 ucf3.0038+nmu1
 udev245.4-4ubuntu3.17
 udisks22.8.4-1ubuntu2
