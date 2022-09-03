@@ -738,7 +738,7 @@ systemd-timesyncd245.4-4ubuntu3.17
 sysvinit-utils2.96-2.1ubuntu1
 tar1.30+dfsg-7ubuntu0.20.04.2
 tzdata2022a-0ubuntu0.20.04
-ubuntu-advantage-tools27.9~20.04.1
+ubuntu-advantage-tools27.10.1~20.04.1
 ubuntu-drivers-common1:0.9.0~0.20.04.7
 ubuntu-keyring2020.02.11.4
 ubuntu-mate-artwork20.04.2
