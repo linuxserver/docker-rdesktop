@@ -56,7 +56,7 @@ fedora-release-container-35-36.noarch
 fedora-release-identity-container-35-36.noarch
 fedora-repos-35-1.noarch
 fedora-repos-modular-35-1.noarch
-feh-3.8-1.fc35.x86_64
+feh-3.9.1-1.fc35.x86_64
 fftw-libs-single-3.3.8-11.fc35.x86_64
 file-libs-5.40-9.fc35.x86_64
 filesystem-3.14-7.fc35.x86_64
