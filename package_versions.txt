@@ -192,7 +192,7 @@ libblockdev-mdraid-2.27-1.fc35.x86_64
 libblockdev-part-2.27-1.fc35.x86_64
 libblockdev-swap-2.27-1.fc35.x86_64
 libblockdev-utils-2.27-1.fc35.x86_64
-libbluray-1.3.1-1.fc35.x86_64
+libbluray-1.3.2-1.fc35.x86_64
 libbrotli-1.0.9-6.fc35.x86_64
 libbsd-0.10.0-8.fc35.x86_64
 libbytesize-2.7-1.fc35.x86_64
