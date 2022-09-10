@@ -40,7 +40,7 @@ cups-ipp-utils2.3.1-9ubuntu1.2
 cups-pk-helper0.2.6-1ubuntu3
 cups-ppdc2.3.1-9ubuntu1.2
 cups-server-common2.3.1-9ubuntu1.2
-curl7.68.0-1ubuntu2.12
+curl7.68.0-1ubuntu2.13
 dash0.5.10.2-6
 dbus1.12.16-2ubuntu2.2
 dbus-x111.12.16-2ubuntu2.2
@@ -212,7 +212,7 @@ libcrypt11:4.4.10-10ubuntu4
 libcryptsetup122:2.2.2-3ubuntu2.4
 libcups22.3.1-9ubuntu1.2
 libcupsfilters11.27.4-1
-libcurl47.68.0-1ubuntu2.12
+libcurl47.68.0-1ubuntu2.13
 libdatrie10.2.12-3
 libdb5.35.3.28+dfsg1-0.6ubuntu2
 libdbus-1-31.12.16-2ubuntu2.2
@@ -395,7 +395,7 @@ libnghttp2-141.40.0-1build1
 libnl-3-2003.4.0-1
 libnl-genl-3-2003.4.0-1
 libnl-route-3-2003.4.0-1
-libnotify40.7.9-1ubuntu2
+libnotify40.7.9-1ubuntu3.20.04.2
 libnpth01.6-1
 libnspr42:4.25-1
 libnss32:3.49.1-1ubuntu1.8
@@ -737,7 +737,7 @@ systemd-sysv245.4-4ubuntu3.17
 systemd-timesyncd245.4-4ubuntu3.17
 sysvinit-utils2.96-2.1ubuntu1
 tar1.30+dfsg-7ubuntu0.20.04.2
-tzdata2022a-0ubuntu0.20.04
+tzdata2022c-0ubuntu0.20.04.0
 ubuntu-advantage-tools27.10.1~20.04.1
 ubuntu-drivers-common1:0.9.0~0.20.04.7
 ubuntu-keyring2020.02.11.4
