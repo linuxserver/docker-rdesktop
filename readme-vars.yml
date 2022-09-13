@@ -104,6 +104,7 @@ app_setup_block: |
 
 # changelog
 changelogs:
+  - { date: "13.09.22:", desc: "Migrate ubuntu-kde to s6v3" }
   - { date: "24.07.22:", desc: "Install firefox from ppa for ubuntu-kde (only image with jammy right now)" }
   - { date: "05.03.22:", desc: "Organize tags differently to run Ubuntu at latest LTS, make Alpine latest, add docs about GPU accel." }
   - { date: "05.05.21:", desc: "Reduce default packages to their flavor specific basics." }
