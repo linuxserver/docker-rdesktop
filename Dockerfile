@@ -1,4 +1,4 @@
-FROM ghcr.io/linuxserver/baseimage-rdesktop:jammy-d32ea6dc-ls31 
+FROM ghcr.io/linuxserver/baseimage-rdesktop:jammy
 
 # set version label
 ARG BUILD_DATE
