@@ -162,9 +162,9 @@ kbd-misc-2.4.0-8.fc35.noarch
 kde-cli-tools-5.25.4-1.fc35.x86_64
 kde-filesystem-4-66.fc35.x86_64
 kde-gtk-config-5.25.4-1.fc35.x86_64
-kde-settings-35.0-1.fc35.noarch
-kde-settings-plasma-35.0-1.fc35.noarch
-kde-settings-pulseaudio-35.0-1.fc35.noarch
+kde-settings-35.2-1.fc35.noarch
+kde-settings-plasma-35.2-1.fc35.noarch
+kde-settings-pulseaudio-35.2-1.fc35.noarch
 kdecoration-5.25.4-1.fc35.x86_64
 kdesu-5.25.4-1.fc35.x86_64
 kdsoap-1.10.0-3.fc35.x86_64
@@ -603,7 +603,7 @@ python3-libs-3.10.2-1.fc35.x86_64
 python3-rpm-4.17.1-3.fc35.x86_64
 qqc2-desktop-style-5.96.0-1.fc35.x86_64
 qrencode-libs-4.1.1-1.fc35.x86_64
-qt-settings-35.0-1.fc35.noarch
+qt-settings-35.2-1.fc35.noarch
 qt5-qtbase-5.15.2-31.fc35.x86_64
 qt5-qtbase-common-5.15.2-31.fc35.noarch
 qt5-qtbase-gui-5.15.2-31.fc35.x86_64
@@ -621,7 +621,7 @@ qt5-qttools-common-5.15.2-8.fc35.noarch
 qt5-qttools-libs-designer-5.15.2-8.fc35.x86_64
 qt5-qtwayland-5.15.2-22.fc35.x86_64
 qt5-qtwebchannel-5.15.2-4.fc35.x86_64
-qt5-qtwebengine-5.15.8-2.fc35.x86_64
+qt5-qtwebengine-5.15.10-1.fc35.x86_64
 qt5-qtx11extras-5.15.2-4.fc35.x86_64
 re2-20190801-9.fc35.x86_64
 readline-8.1-3.fc35.x86_64
