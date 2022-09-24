@@ -288,7 +288,7 @@ libsoup2.4-12.70.0-1
 libsoup-gnome2.4-12.70.0-1
 libsoxr00.1.3-2build1
 libspeexdsp11.2~rc1.2-1.1ubuntu1.20.04.1
-libsqlite3-03.31.1-4ubuntu0.3
+libsqlite3-03.31.1-4ubuntu0.4
 libss21.45.5-2ubuntu1
 libssh-40.9.3-2ubuntu2.2
 libssl1.11.1.1f-1ubuntu2.16
@@ -301,7 +301,7 @@ libtdb11.4.3-0ubuntu0.20.04.1
 libthai00.1.28-3
 libthai-data0.1.28-3
 libthunarx-3-01.8.14-0ubuntu1
-libtiff54.1.0+git191117-2ubuntu0.20.04.4
+libtiff54.1.0+git191117-2ubuntu0.20.04.5
 libtinfo66.2-0ubuntu2
 libuchardet00.0.6-3build1
 libudev1245.4-4ubuntu3.17
@@ -315,10 +315,10 @@ libvorbisenc21.3.6-2ubuntu1
 libvte-2.91-00.60.3-0ubuntu1~20.04
 libvte-2.91-common0.60.3-0ubuntu1~20.04
 libvulkan11.2.131.2-1
-libwayland-client01.18.0-1
+libwayland-client01.18.0-1ubuntu0.1
 libwayland-cursor01.18.0-1ubuntu0.1
 libwayland-egl11.18.0-1ubuntu0.1
-libwayland-server01.18.0-1
+libwayland-server01.18.0-1ubuntu0.1
 libwebp60.6.1-2ubuntu0.20.04.1
 libwebrtc-audio-processing10.3.1-0ubuntu3
 libwind0-heimdal7.7.0+dfsg-1ubuntu1
@@ -480,7 +480,7 @@ xorgxrdp1:0.2.12-1
 xrdp0.9.12-1
 xserver-common2:1.20.13-1ubuntu1~20.04.3
 xserver-xorg-core2:1.20.13-1ubuntu1~20.04.3
-xserver-xorg-video-amdgpu19.1.0-1
+xserver-xorg-video-amdgpu19.1.0-1ubuntu0.1
 xserver-xorg-video-ati1:19.1.0-1
 xserver-xorg-video-intel2:2.99.917+git20200226-1
 xserver-xorg-video-radeon1:19.1.0-1
