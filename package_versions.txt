@@ -71,7 +71,7 @@ fftw-libs-single-3.3.8-11.fc35.x86_64
 file-libs-5.40-9.fc35.x86_64
 filesystem-3.14-7.fc35.x86_64
 findutils-4.8.0-4.fc35.x86_64
-firefox-104.0.1-1.fc35.x86_64
+firefox-105.0.1-1.fc35.x86_64
 flac-libs-1.3.4-1.fc35.x86_64
 fontconfig-2.13.94-5.fc35.x86_64
 fonts-filesystem-2.0.5-6.fc35.noarch
@@ -125,7 +125,7 @@ hostname-3.23-5.fc35.x86_64
 hunspell-1.7.0-11.fc35.x86_64
 hunspell-en-US-0.20140811.1-20.fc35.noarch
 hunspell-filesystem-1.7.0-11.fc35.x86_64
-hwdata-0.361-1.fc35.noarch
+hwdata-0.362-1.fc35.noarch
 iceauth-1.0.8-3.fc35.x86_64
 ima-evm-utils-1.3.2-3.fc35.x86_64
 imlib2-1.6.1-5.fc35.x86_64
@@ -145,6 +145,7 @@ keyutils-libs-1.6.1-3.fc35.x86_64
 kmod-29-4.fc35.x86_64
 kmod-libs-29-4.fc35.x86_64
 krb5-libs-1.19.2-2.fc35.x86_64
+lame-libs-3.100-11.fc35.x86_64
 langpacks-core-font-en-3.0-15.fc35.noarch
 lcms2-2.12-2.fc35.x86_64
 libICE-1.0.10-7.fc35.x86_64
@@ -254,6 +255,7 @@ libnsl2-1.3.0-4.fc35.x86_64
 libogg-1.3.5-2.fc35.x86_64
 libpcap-1.10.1-2.fc35.x86_64
 libpciaccess-0.16-5.fc35.x86_64
+libpkgconf-1.8.0-1.fc35.x86_64
 libpng-1.6.37-11.fc35.x86_64
 libproxy-0.4.17-3.fc35.x86_64
 libpsl-0.21.1-4.fc35.x86_64
@@ -269,7 +271,7 @@ libsepol-3.3-2.fc35.x86_64
 libsigc++20-2.10.7-3.fc35.x86_64
 libsigsegv-2.13-3.fc35.x86_64
 libsmartcols-2.37.4-1.fc35.x86_64
-libsndfile-1.0.31-6.fc35.x86_64
+libsndfile-1.1.0-4.fc35.x86_64
 libsolv-0.7.19-3.fc35.x86_64
 libsoup-2.74.2-1.fc35.x86_64
 libss-1.46.3-1.fc35.x86_64
@@ -331,18 +333,19 @@ mozilla-filesystem-1.9-26.fc35.x86_64
 mozjs78-78.15.0-1.fc35.x86_64
 mpdecimal-2.5.1-2.fc35.x86_64
 mpfr-4.1.0-8.fc35.x86_64
+mpg123-libs-1.26.5-2.fc35.x86_64
 mtdev-1.1.6-2.fc35.x86_64
 ncurses-base-6.2-8.20210508.fc35.noarch
 ncurses-libs-6.2-8.20210508.fc35.x86_64
 nettle-3.7.3-2.fc35.x86_64
 nftables-1.0.0-1.fc35.x86_64
 npth-1.6-7.fc35.x86_64
-nspr-4.34.0-2.fc35.x86_64
-nss-3.81.0-1.fc35.x86_64
-nss-softokn-3.81.0-1.fc35.x86_64
-nss-softokn-freebl-3.81.0-1.fc35.x86_64
-nss-sysinit-3.81.0-1.fc35.x86_64
-nss-util-3.81.0-1.fc35.x86_64
+nspr-4.35.0-1.fc35.x86_64
+nss-3.83.0-1.fc35.x86_64
+nss-softokn-3.83.0-1.fc35.x86_64
+nss-softokn-freebl-3.83.0-1.fc35.x86_64
+nss-sysinit-3.83.0-1.fc35.x86_64
+nss-util-3.83.0-1.fc35.x86_64
 ntfs-3g-libs-2022.5.17-1.fc35.x86_64
 ntfsprogs-2022.5.17-1.fc35.x86_64
 openldap-2.4.59-3.fc35.x86_64
@@ -365,6 +368,9 @@ pcre2-10.39-1.fc35.x86_64
 pcre2-syntax-10.39-1.fc35.noarch
 pigz-2.5-2.fc35.x86_64
 pixman-0.40.0-4.fc35.x86_64
+pkgconf-1.8.0-1.fc35.x86_64
+pkgconf-m4-1.8.0-1.fc35.noarch
+pkgconf-pkg-config-1.8.0-1.fc35.x86_64
 policycoreutils-3.3-1.fc35.x86_64
 polkit-0.120-1.fc35.2.x86_64
 polkit-libs-0.120-1.fc35.2.x86_64
@@ -459,7 +465,7 @@ xorg-x11-xauth-1.1-9.fc35.x86_64
 xorg-x11-xinit-1.4.0-14.fc35.x86_64
 xorgxrdp-0.9.19-1.fc35.x86_64
 xrdb-1.2.1-2.fc35.x86_64
-xrdp-0.9.19-1.fc35.x86_64
+xrdp-0.9.20-1.fc35.x86_64
 xset-1.2.4-3.fc35.x86_64
 xterm-371-1.fc35.x86_64
 xterm-resize-371-1.fc35.x86_64
