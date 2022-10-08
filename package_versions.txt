@@ -586,9 +586,9 @@ polkit-kde-5.25.5-1.fc36.x86_64
 polkit-libs-0.120-5.fc36.x86_64
 polkit-pkla-compat-0.1-21.fc36.x86_64
 polkit-qt5-1-0.114.0-3.fc36.x86_64
-poppler-22.01.0-3.fc36.x86_64
+poppler-22.01.0-6.fc36.x86_64
 poppler-data-0.4.11-2.fc36.noarch
-poppler-qt5-22.01.0-3.fc36.x86_64
+poppler-qt5-22.01.0-6.fc36.x86_64
 popt-1.18-7.fc36.x86_64
 powerdevil-5.25.5-1.fc36.x86_64
 procps-ng-3.3.17-4.fc36.x86_64
