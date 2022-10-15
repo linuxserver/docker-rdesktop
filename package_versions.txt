@@ -757,7 +757,7 @@ ubuntu-release-upgrader-gtk1:20.04.39
 ucf3.0038+nmu1
 udev245.4-4ubuntu3.18
 udisks22.8.4-1ubuntu2
-unzip6.0-25ubuntu1
+unzip6.0-25ubuntu1.1
 update-manager1:20.04.10.10
 update-manager-core1:20.04.10.10
 update-notifier3.192.30.11
