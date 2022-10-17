@@ -1,4 +1,4 @@
-FROM ghcr.io/linuxserver/baseimage-rdesktop:arm32v7-arch-dbus
+FROM ghcr.io/linuxserver/baseimage-rdesktop:arm32v7-arch-dbus-9661fcf4-ls33
 
 # set version label
 ARG BUILD_DATE
