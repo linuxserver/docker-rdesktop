@@ -302,6 +302,7 @@ Once registered you can define the dockerfile to use with `-f Dockerfile.aarch64
 
 ## Versions
 
+* **18.10.22:** - Migrate arch icewm to s6v3.
 * **05.03.22:** - Organize tags differently to run Ubuntu at latest LTS, make Alpine latest, add docs about GPU accel.
 * **05.05.21:** - Reduce default packages to their flavor specific basics.
 * **05.04.21:** - Add Alpine flavor.
