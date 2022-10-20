@@ -76,7 +76,7 @@ app_setup_block: |
   The first thing you should do when you login to the container is to change the abc users password by issuing the `passwd` command.
 
   **Modern GUI desktop apps (including some flavors terminals) have issues with the latest Docker and syscall compatibility, you can use Docker with the `--security-opt seccomp=unconfined` setting to allow these syscalls or try [podman](https://podman.io/) as they have updated their codebase to support them**
- 
+
   If you ever lose your password you can always reset it by execing into the container as root:
   ```
   docker exec -it rdesktop passwd abc
@@ -108,6 +108,7 @@ app_setup_block: |
 
 # changelog
 changelogs:
+  - { date: "18.10.22:", desc: "Migrate arch kde to s6v3." }
   - { date: "05.03.22:", desc: "Organize tags differently to run Ubuntu at latest LTS, make Alpine latest, add docs about GPU accel." }
   - { date: "05.05.21:", desc: "Reduce default packages to their flavor specific basics." }
   - { date: "05.04.21:", desc: "Add Alpine flavor." }
