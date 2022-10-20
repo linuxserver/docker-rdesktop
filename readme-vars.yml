@@ -104,6 +104,7 @@ app_setup_block: |
 
 # changelog
 changelogs:
+  - { date: "18.10.22:", desc: "Migrate arch openbox to s6v3." }
   - { date: "05.03.22:", desc: "Organize tags differently to run Ubuntu at latest LTS, make Alpine latest, add docs about GPU accel." }
   - { date: "05.05.21:", desc: "Reduce default packages to their flavor specific basics." }
   - { date: "05.04.21:", desc: "Add Alpine flavor." }
