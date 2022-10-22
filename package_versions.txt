@@ -39,14 +39,14 @@ distro-info-data0.52ubuntu0.1
 dmidecode3.3-3ubuntu0.1
 docbook-xml4.5-11
 docbook-xsl1.79.2+dfsg-1
-docker-ce-cli5:20.10.18~3-0~ubuntu-bionic
+docker-ce-cli5:20.10.20~3-0~ubuntu-bionic
 dolphin4:21.12.3-0ubuntu1
 dpkg1.21.1ubuntu2.1
 drkonqi5.24.5-0ubuntu0.1
 e2fsprogs1.46.5-2ubuntu1.1
 fdisk2.37.2-4ubuntu3
 findutils4.8.0-1ubuntu3
-firefox106.0+build1-0ubuntu0.22.04.1~mt1
+firefox106.0.1+build1-0ubuntu0.22.04.1~mt1
 fontconfig2.13.1-4.2ubuntu5
 fontconfig-config2.13.1-4.2ubuntu5
 fonts-dejavu-core2.37-2build1
@@ -554,7 +554,7 @@ libpcre2-16-010.39-3ubuntu0.1
 libpcre2-8-010.39-3ubuntu0.1
 libpcre32:8.39-13ubuntu0.22.04.1
 libpcsclite11.9.5-3
-libperl5.345.34.0-3ubuntu1
+libperl5.345.34.0-3ubuntu1.1
 libpgm-5.3-05.3.128~dfsg-2
 libphonon4qt5-44:4.11.1-4
 libphonon4qt5-data4:4.11.1-4
@@ -581,9 +581,9 @@ libprotobuf-lite233.12.4-1ubuntu7
 libproxy1v50.4.17-2
 libpsl50.21.0-1.2build2
 libpthread-stubs0-dev0.4-1build2
-libpulse01:15.99.1+dfsg1-1ubuntu1
-libpulsedsp1:15.99.1+dfsg1-1ubuntu1
-libpulse-mainloop-glib01:15.99.1+dfsg1-1ubuntu1
+libpulse01:15.99.1+dfsg1-1ubuntu2
+libpulsedsp1:15.99.1+dfsg1-1ubuntu2
+libpulse-mainloop-glib01:15.99.1+dfsg1-1ubuntu2
 libpython3.103.10.6-1~22.04
 libpython3.10-minimal3.10.6-1~22.04
 libpython3.10-stdlib3.10.6-1~22.04
@@ -840,9 +840,9 @@ parted3.4-2build1
 passwd1:4.8.1-2ubuntu2
 pci.ids0.0~2022.01.22-1
 pciutils1:3.7.0-6
-perl5.34.0-3ubuntu1
-perl-base5.34.0-3ubuntu1
-perl-modules-5.345.34.0-3ubuntu1
+perl5.34.0-3ubuntu1.1
+perl-base5.34.0-3ubuntu1.1
+perl-modules-5.345.34.0-3ubuntu1.1
 phonon4qt54:4.11.1-4
 phonon4qt5-backend-vlc0.11.3-1
 pinentry-curses1.1.1-1build2
@@ -863,8 +863,8 @@ printer-driver-pnm2ppa1.13+nondbs-0ubuntu9
 procps2:3.3.17-6ubuntu2
 psmisc23.4-2build3
 publicsuffix20211207.1025-1
-pulseaudio1:15.99.1+dfsg1-1ubuntu1
-pulseaudio-utils1:15.99.1+dfsg1-1ubuntu1
+pulseaudio1:15.99.1+dfsg1-1ubuntu2
+pulseaudio-utils1:15.99.1+dfsg1-1ubuntu2
 python3.103.10.6-1~22.04
 python3.10-minimal3.10.6-1~22.04
 python33.10.6-1~22.04
@@ -958,7 +958,7 @@ software-properties-qt0.99.22.3
 sound-theme-freedesktop0.8-2ubuntu1
 spice-vdagent0.22.1-1
 ssl-cert1.1.2
-sudo1.9.9-1ubuntu2
+sudo1.9.9-1ubuntu2.1
 systemd249.11-0ubuntu3.6
 systemd-sysv249.11-0ubuntu3.6
 systemsettings4:5.24.6-0ubuntu0.1
@@ -1019,4 +1019,4 @@ xtrans-dev1.4.0-1
 xutils1:7.7+23ubuntu2
 xz-utils5.2.5-2ubuntu1
 zip3.0-12build2
-zlib1g1:1.2.11.dfsg-2ubuntu9.1
+zlib1g1:1.2.11.dfsg-2ubuntu9.2
