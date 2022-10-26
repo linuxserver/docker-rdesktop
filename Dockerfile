@@ -1,4 +1,4 @@
-FROM ghcr.io/linuxserver/baseimage-rdesktop:alpine
+FROM ghcr.io/linuxserver/baseimage-rdesktop:3.16
 
 # set version label
 ARG BUILD_DATE
@@ -22,4 +22,5 @@ COPY /root /
 
 # ports and volumes
 EXPOSE 3389
+
 VOLUME /config
