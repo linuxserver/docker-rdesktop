@@ -125,6 +125,10 @@ https://github.com/NVIDIA/nvidia-docker
 
 We automatically add the necessary environment variable that will utilise all the features available on a GPU on the host. Once nvidia-docker is installed on your host you will need to re/create the docker container with the nvidia container runtime `--runtime=nvidia` and add an environment variable `-e NVIDIA_VISIBLE_DEVICES=all` (can also be set to a specific gpu's UUID, this can be discovered by running `nvidia-smi --query-gpu=gpu_name,gpu_uuid --format=csv` ). NVIDIA automatically mounts the GPU and drivers from your host into the container.
 
+### Arm Devices
+
+Best effort is made to install tools to allow mounting in /dev/dri on Arm devices. In most cases if /dev/dri exists on the host it should just work. If running a Raspberry Pi 4 be sure to enable `dtoverlay=vc4-fkms-v3d` in your usercfg.txt.
+
 ## Usage
 
 Here are some example snippets to help you get started creating a container.
@@ -298,6 +302,7 @@ Once registered you can define the dockerfile to use with `-f Dockerfile.aarch64
 
 ## Versions
 
+* **26.10.22:** - Rebase Alpine openbox to 3.16, migrate to s6v3.
 * **05.03.22:** - Organize tags differently to run Ubuntu at latest LTS, make Alpine latest, add docs about GPU accel.
 * **05.05.21:** - Reduce default packages to their flavor specific basics.
 * **05.04.21:** - Add Alpine flavor.

@@ -76,7 +76,7 @@ app_setup_block: |
   The first thing you should do when you login to the container is to change the abc users password by issuing the `passwd` command.
 
   **Modern GUI desktop apps (including some flavors terminals) have issues with the latest Docker and syscall compatibility, you can use Docker with the `--security-opt seccomp=unconfined` setting to allow these syscalls or try [podman](https://podman.io/) as they have updated their codebase to support them**
- 
+
   If you ever lose your password you can always reset it by execing into the container as root:
   ```
   docker exec -it rdesktop passwd abc
@@ -102,8 +102,13 @@ app_setup_block: |
   
   We automatically add the necessary environment variable that will utilise all the features available on a GPU on the host. Once nvidia-docker is installed on your host you will need to re/create the docker container with the nvidia container runtime `--runtime=nvidia` and add an environment variable `-e NVIDIA_VISIBLE_DEVICES=all` (can also be set to a specific gpu's UUID, this can be discovered by running `nvidia-smi --query-gpu=gpu_name,gpu_uuid --format=csv` ). NVIDIA automatically mounts the GPU and drivers from your host into the container.
 
+  ### Arm Devices
+
+  Best effort is made to install tools to allow mounting in /dev/dri on Arm devices. In most cases if /dev/dri exists on the host it should just work. If running a Raspberry Pi 4 be sure to enable `dtoverlay=vc4-fkms-v3d` in your usercfg.txt.
+
 # changelog
 changelogs:
+  - { date: "26.10.22:", desc: "Rebase Alpine openbox to 3.16, migrate to s6v3." }
   - { date: "05.03.22:", desc: "Organize tags differently to run Ubuntu at latest LTS, make Alpine latest, add docs about GPU accel." }
   - { date: "05.05.21:", desc: "Reduce default packages to their flavor specific basics." }
   - { date: "05.04.21:", desc: "Add Alpine flavor." }
