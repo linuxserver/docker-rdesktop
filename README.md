@@ -107,7 +107,7 @@ docker exec -it rdesktop passwd abc
 By default we perform all logic for the abc user and we reccomend using that user only in the container, but new users can be added as long as there is a `startwm.sh` executable script in their home directory.
 All of these containers are configured with passwordless sudo, we make no efforts to secure or harden these containers and we do not reccomend ever publishing their ports to the public Internet.
 
-## Hardware Acceleration
+## Hardware Acceleration (Ubuntu Container Only)
 
 Many desktop application will need access to a GPU to function properly and even some Desktop Environments have compisitor effects that will not function without a GPU. This is not a hard requirement and all base images will function without a video device mounted into the container.
 
@@ -124,6 +124,10 @@ Hardware acceleration users for Nvidia will need to install the container runtim
 https://github.com/NVIDIA/nvidia-docker
 
 We automatically add the necessary environment variable that will utilise all the features available on a GPU on the host. Once nvidia-docker is installed on your host you will need to re/create the docker container with the nvidia container runtime `--runtime=nvidia` and add an environment variable `-e NVIDIA_VISIBLE_DEVICES=all` (can also be set to a specific gpu's UUID, this can be discovered by running `nvidia-smi --query-gpu=gpu_name,gpu_uuid --format=csv` ). NVIDIA automatically mounts the GPU and drivers from your host into the container.
+
+### Arm Devices
+
+Best effort is made to install tools to allow mounting in /dev/dri on Arm devices. In most cases if /dev/dri exists on the host it should just work. If running a Raspberry Pi 4 be sure to enable `dtoverlay=vc4-fkms-v3d` in your usercfg.txt.
 
 ## Usage
 
@@ -298,6 +302,7 @@ Once registered you can define the dockerfile to use with `-f Dockerfile.aarch64
 
 ## Versions
 
+* **26.10.22:** - Rebase Alpine i3 to 3.16, migrate to s6v3.
 * **05.03.22:** - Organize tags differently to run Ubuntu at latest LTS, make Alpine latest, add docs about GPU accel.
 * **05.05.21:** - Reduce default packages to their flavor specific basics.
 * **05.04.21:** - Add Alpine flavor.
