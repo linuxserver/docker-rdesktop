@@ -108,6 +108,7 @@ app_setup_block: |
 
 # changelog
 changelogs:
+  - { date: "27.10.22:", desc: "Rebase all Ubuntu images to Jammy 22.04." }
   - { date: "26.10.22:", desc: "Rebase Alpine xfce to 3.16, migrate to s6v3." }
   - { date: "05.03.22:", desc: "Organize tags differently to run Ubuntu at latest LTS, make Alpine latest, add docs about GPU accel." }
   - { date: "05.05.21:", desc: "Reduce default packages to their flavor specific basics." }
