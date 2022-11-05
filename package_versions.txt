@@ -409,10 +409,10 @@ netcat1.218-4ubuntu1
 netcat-openbsd1.218-4ubuntu1
 numix-gtk-theme2.6.7-6
 openssh-client1:8.9p1-3
-openssl3.0.2-0ubuntu1.6
+openssl3.0.2-0ubuntu1.7
 packagekit1.2.5-2ubuntu2
 passwd1:4.8.1-2ubuntu2
-perl-base5.34.0-3ubuntu1
+perl-base5.34.0-3ubuntu1.1
 pinentry-curses1.1.1-1build2
 pkexec0.105-33
 plymouth0.9.5+git20211018-1ubuntu3
@@ -471,7 +471,7 @@ sysvinit-utils3.01-1ubuntu1
 tar1.34+dfsg-1build3
 thunar4.16.10-1
 thunar-data4.16.10-1
-tzdata2022c-0ubuntu0.22.04.0
+tzdata2022e-0ubuntu0.22.04.0
 ubuntu-keyring2021.03.26
 ubuntu-mono20.10-0ubuntu2
 ucf3.0043
