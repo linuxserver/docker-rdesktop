@@ -14,8 +14,8 @@ cpp-1111.3.0-1ubuntu1~22.04
 cpp4:11.2.0-1ubuntu1
 curl7.81.0-1ubuntu1.6
 dash0.5.11+git20210903+057cd650a4ed-3build1
-dbus1.12.20-2ubuntu4
-dbus-x111.12.20-2ubuntu4
+dbus1.12.20-2ubuntu4.1
+dbus-x111.12.20-2ubuntu4.1
 dconf-gsettings-backend0.40.0-3
 dconf-service0.40.0-3
 debconf1.5.79ubuntu1
@@ -104,7 +104,7 @@ libcurl3-gnutls7.81.0-1ubuntu1.6
 libcurl47.81.0-1ubuntu1.6
 libdatrie10.2.13-2
 libdb5.35.3.28+dfsg1-0.8ubuntu3
-libdbus-1-31.12.20-2ubuntu4
+libdbus-1-31.12.20-2ubuntu4.1
 libdbus-glib-1-20.112-2build1
 libdconf10.40.0-3
 libdebconfclient00.261ubuntu1
@@ -387,10 +387,10 @@ netcat-openbsd1.218-4ubuntu1
 obconf1:2.0.4+git20150213-2build1
 openbox3.6.1-10
 openssh-client1:8.9p1-3
-openssl3.0.2-0ubuntu1.6
+openssl3.0.2-0ubuntu1.7
 packagekit1.2.5-2ubuntu2
 passwd1:4.8.1-2ubuntu2
-perl-base5.34.0-3ubuntu1
+perl-base5.34.0-3ubuntu1.1
 pinentry-curses1.1.1-1build2
 pkexec0.105-33
 policykit-10.105-33
@@ -442,7 +442,7 @@ systemd249.11-0ubuntu3.6
 systemd-sysv249.11-0ubuntu3.6
 sysvinit-utils3.01-1ubuntu1
 tar1.34+dfsg-1build3
-tzdata2022c-0ubuntu0.22.04.0
+tzdata2022e-0ubuntu0.22.04.0
 ubuntu-keyring2021.03.26
 ubuntu-mono20.10-0ubuntu2
 ucf3.0043
