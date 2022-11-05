@@ -25,8 +25,8 @@ cpp-1111.3.0-1ubuntu1~22.04
 cpp4:11.2.0-1ubuntu1
 curl7.81.0-1ubuntu1.6
 dash0.5.11+git20210903+057cd650a4ed-3build1
-dbus1.12.20-2ubuntu4
-dbus-x111.12.20-2ubuntu4
+dbus1.12.20-2ubuntu4.1
+dbus-x111.12.20-2ubuntu4.1
 dconf-gsettings-backend0.40.0-3
 dconf-service0.40.0-3
 debconf1.5.79ubuntu1
@@ -203,7 +203,7 @@ libcurl47.81.0-1ubuntu1.6
 libdatrie10.2.13-2
 libdav1d50.9.2-1
 libdb5.35.3.28+dfsg1-0.8ubuntu3
-libdbus-1-31.12.20-2ubuntu4
+libdbus-1-31.12.20-2ubuntu4.1
 libdbus-glib-1-20.112-2build1
 libdbusmenu-qt5-20.9.3+16.04.20160218-2build1
 libdc1394-252.2.6-4
@@ -584,9 +584,9 @@ libpthread-stubs0-dev0.4-1build2
 libpulse01:15.99.1+dfsg1-1ubuntu2
 libpulsedsp1:15.99.1+dfsg1-1ubuntu2
 libpulse-mainloop-glib01:15.99.1+dfsg1-1ubuntu2
-libpython3.103.10.6-1~22.04
-libpython3.10-minimal3.10.6-1~22.04
-libpython3.10-stdlib3.10.6-1~22.04
+libpython3.103.10.6-1~22.04.1
+libpython3.10-minimal3.10.6-1~22.04.1
+libpython3.10-stdlib3.10.6-1~22.04.1
 libpython3-stdlib3.10.6-1~22.04
 libqaccessibilityclient-qt5-00.4.1-1build1
 libqalculate223.22.0-3build1
@@ -833,7 +833,7 @@ netcat-openbsd1.218-4ubuntu1
 ocl-icd-libopencl12.2.14-3
 openprinting-ppds20220223-0ubuntu1
 openssh-client1:8.9p1-3
-openssl3.0.2-0ubuntu1.6
+openssl3.0.2-0ubuntu1.7
 oxygen-sounds4:5.24.6-0ubuntu0.1
 packagekit1.2.5-2ubuntu2
 parted3.4-2build1
@@ -865,8 +865,8 @@ psmisc23.4-2build3
 publicsuffix20211207.1025-1
 pulseaudio1:15.99.1+dfsg1-1ubuntu2
 pulseaudio-utils1:15.99.1+dfsg1-1ubuntu2
-python3.103.10.6-1~22.04
-python3.10-minimal3.10.6-1~22.04
+python3.103.10.6-1~22.04.1
+python3.10-minimal3.10.6-1~22.04.1
 python33.10.6-1~22.04
 python3-apport2.20.11-0ubuntu82.1
 python3-apt2.3.0ubuntu2.1
@@ -964,7 +964,7 @@ systemd-sysv249.11-0ubuntu3.6
 systemsettings4:5.24.6-0ubuntu0.1
 sysvinit-utils3.01-1ubuntu1
 tar1.34+dfsg-1build3
-tzdata2022c-0ubuntu0.22.04.0
+tzdata2022e-0ubuntu0.22.04.0
 ubuntu-drivers-common1:0.9.6.1
 ubuntu-keyring2021.03.26
 ubuntu-mono20.10-0ubuntu2
