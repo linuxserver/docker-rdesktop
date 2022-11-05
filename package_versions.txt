@@ -29,8 +29,8 @@ cryptsetup2:2.4.3-1ubuntu1.1
 cryptsetup-bin2:2.4.3-1ubuntu1.1
 curl7.81.0-1ubuntu1.6
 dash0.5.11+git20210903+057cd650a4ed-3build1
-dbus1.12.20-2ubuntu4
-dbus-x111.12.20-2ubuntu4
+dbus1.12.20-2ubuntu4.1
+dbus-x111.12.20-2ubuntu4.1
 dconf-gsettings-backend0.40.0-3
 dconf-service0.40.0-3
 debconf1.5.79ubuntu1
@@ -205,7 +205,7 @@ libcurl3-gnutls7.81.0-1ubuntu1.6
 libcurl47.81.0-1ubuntu1.6
 libdatrie10.2.13-2
 libdb5.35.3.28+dfsg1-0.8ubuntu3
-libdbus-1-31.12.20-2ubuntu4
+libdbus-1-31.12.20-2ubuntu4.1
 libdbus-glib-1-20.112-2build1
 libdbusmenu-glib416.04.1+18.10.20180917-0ubuntu8
 libdbusmenu-gtk3-416.04.1+18.10.20180917-0ubuntu8
@@ -423,9 +423,9 @@ libpthread-stubs0-dev0.4-1build2
 libpulse01:15.99.1+dfsg1-1ubuntu2
 libpulsedsp1:15.99.1+dfsg1-1ubuntu2
 libpulse-mainloop-glib01:15.99.1+dfsg1-1ubuntu2
-libpython3.103.10.6-1~22.04
-libpython3.10-minimal3.10.6-1~22.04
-libpython3.10-stdlib3.10.6-1~22.04
+libpython3.103.10.6-1~22.04.1
+libpython3.10-minimal3.10.6-1~22.04.1
+libpython3.10-stdlib3.10.6-1~22.04.1
 libpython3-stdlib3.10.6-1~22.04
 libraw1394-112.1.2-2build2
 librda00.0.5-1.1
@@ -625,7 +625,7 @@ netcat1.218-4ubuntu1
 netcat-openbsd1.218-4ubuntu1
 openprinting-ppds20220223-0ubuntu1
 openssh-client1:8.9p1-3
-openssl3.0.2-0ubuntu1.6
+openssl3.0.2-0ubuntu1.7
 packagekit1.2.5-2ubuntu2
 parted3.4-2build1
 passwd1:4.8.1-2ubuntu2
@@ -648,8 +648,8 @@ psmisc23.4-2build3
 publicsuffix20211207.1025-1
 pulseaudio1:15.99.1+dfsg1-1ubuntu2
 pulseaudio-utils1:15.99.1+dfsg1-1ubuntu2
-python3.103.10.6-1~22.04
-python3.10-minimal3.10.6-1~22.04
+python3.103.10.6-1~22.04.1
+python3.10-minimal3.10.6-1~22.04.1
 python33.10.6-1~22.04
 python3-apport2.20.11-0ubuntu82.1
 python3-apt2.3.0ubuntu2.1
@@ -712,7 +712,7 @@ systemd249.11-0ubuntu3.6
 systemd-sysv249.11-0ubuntu3.6
 sysvinit-utils3.01-1ubuntu1
 tar1.34+dfsg-1build3
-tzdata2022c-0ubuntu0.22.04.0
+tzdata2022e-0ubuntu0.22.04.0
 ubuntu-advantage-desktop-daemon1.9~22.04.1
 ubuntu-advantage-tools27.11.2~22.04.1
 ubuntu-drivers-common1:0.9.6.1
