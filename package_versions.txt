@@ -40,7 +40,7 @@ dictionaries-common1.28.14
 diffutils1:3.8-0ubuntu2
 dirmngr2.2.27-3ubuntu2.1
 distro-info1.1build1
-distro-info-data0.52ubuntu0.1
+distro-info-data0.52ubuntu0.2
 dmidecode3.3-3ubuntu0.1
 dmsetup2:1.02.175-2.1ubuntu4
 docker-ce-cli5:20.10.21~3-0~ubuntu-bionic
@@ -49,7 +49,7 @@ e2fsprogs1.46.5-2ubuntu1.1
 emacsen-common3.0.4
 fdisk2.37.2-4ubuntu3
 findutils4.8.0-1ubuntu3
-firefox106.0.2+build1-0ubuntu0.22.04.1~mt1
+firefox107.0+build2-0ubuntu0.22.04.1~mt1
 fontconfig2.13.1-4.2ubuntu5
 fontconfig-config2.13.1-4.2ubuntu5
 fonts-dejavu-core2.37-2build1
@@ -410,7 +410,7 @@ libpeas-1.0-01.32.0-1
 libpeas-common1.32.0-1
 libperl5.345.34.0-3ubuntu1.1
 libpipeline11.5.5-1
-libpixman-1-00.40.0-1build4
+libpixman-1-00.40.0-1ubuntu0.22.04.1
 libplist32.2.0-6build2
 libpng16-161.6.37-3build5
 libpolkit-agent-1-00.105-33
@@ -462,10 +462,10 @@ libsoup-gnome2.4-12.74.2-3
 libsoxr00.1.3-4build2
 libspeex11.2~rc1.2-1.1ubuntu3
 libspeexdsp11.2~rc1.2-1.1ubuntu3
-libsqlite3-03.37.2-2
+libsqlite3-03.37.2-2ubuntu0.1
 libss21.46.5-2ubuntu1.1
 libssh-40.9.6-2build1
-libssl33.0.2-0ubuntu1.6
+libssl33.0.2-0ubuntu1.7
 libstartup-notification00.12-6build2
 libstdc++612.1.0-2ubuntu1~22.04
 libstemmer0d2.2.0-1build1
@@ -480,7 +480,7 @@ libtext-iconv-perl1.7-7build3
 libthai00.1.29-1build1
 libthai-data0.1.29-1build1
 libtheora01.1.1+dfsg.1-15ubuntu4
-libtiff54.3.0-6ubuntu0.1
+libtiff54.3.0-6ubuntu0.2
 libtinfo66.3-2
 libtirpc31.3.2-2ubuntu0.1
 libtirpc-common1.3.2-2ubuntu0.1
@@ -712,9 +712,9 @@ systemd249.11-0ubuntu3.6
 systemd-sysv249.11-0ubuntu3.6
 sysvinit-utils3.01-1ubuntu1
 tar1.34+dfsg-1build3
-tzdata2022e-0ubuntu0.22.04.0
+tzdata2022f-0ubuntu0.22.04.0
 ubuntu-advantage-desktop-daemon1.9~22.04.1
-ubuntu-advantage-tools27.11.2~22.04.1
+ubuntu-advantage-tools27.11.3~22.04.1
 ubuntu-drivers-common1:0.9.6.1
 ubuntu-keyring2021.03.26
 ubuntu-mate-artwork22.04.17
