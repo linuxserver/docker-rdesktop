@@ -161,8 +161,8 @@ libgbm122.0.5-0ubuntu0.1
 libgcc-s112.1.0-2ubuntu1~22.04
 libgcrypt201.9.4-3ubuntu3
 libgdbm61.23-1
-libgdk-pixbuf-2.0-02.42.8+dfsg-1ubuntu0.1
-libgdk-pixbuf2.0-common2.42.8+dfsg-1ubuntu0.1
+libgdk-pixbuf-2.0-02.42.8+dfsg-1ubuntu0.2
+libgdk-pixbuf2.0-common2.42.8+dfsg-1ubuntu0.2
 libgirepository-1.0-11.72.0-1
 libgl11.4.0-1
 libgl1-mesa-dri22.0.5-0ubuntu0.1
