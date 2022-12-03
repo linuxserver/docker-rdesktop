@@ -22,7 +22,7 @@ cairomm-1.14.2-22.fc36.x86_64
 cdparanoia-libs-10.2-39.fc36.x86_64
 colord-libs-1.4.6-1.fc36.x86_64
 container-selinux-2.191.0-1.fc36.noarch
-containerd-1.6.9-3.fc36.x86_64
+containerd-1.6.10-1.fc36.x86_64
 coreutils-9.0-8.fc36.x86_64
 coreutils-common-9.0-8.fc36.x86_64
 cracklib-2.9.6-28.fc36.x86_64
@@ -31,7 +31,7 @@ crypto-policies-20220428-1.gitdfb10ea.fc36.noarch
 crypto-policies-scripts-20220428-1.gitdfb10ea.fc36.noarch
 cryptsetup-libs-2.4.3-2.fc36.x86_64
 cups-libs-2.4.2-5.fc36.x86_64
-curl-7.82.0-9.fc36.x86_64
+curl-7.82.0-11.fc36.x86_64
 cyrus-sasl-lib-2.1.27-18.fc36.x86_64
 dbus-1.14.4-1.fc36.x86_64
 dbus-broker-32-1.fc36.x86_64
@@ -110,10 +110,10 @@ gspell-1.10.0-1.fc36.x86_64
 gstreamer1-1.20.3-1.fc36.x86_64
 gstreamer1-plugins-base-1.20.3-1.fc36.x86_64
 gtk-murrine-engine-0.98.2-23.fc36.x86_64
-gtk-update-icon-cache-3.24.34-1.fc36.x86_64
+gtk-update-icon-cache-3.24.35-1.fc36.x86_64
 gtk-xfce-engine-3.2.0-15.fc36.x86_64
 gtk2-2.24.33-8.fc36.x86_64
-gtk3-3.24.34-1.fc36.x86_64
+gtk3-3.24.35-1.fc36.x86_64
 gtkmm30-3.24.6-1.fc36.x86_64
 gtksourceview4-4.8.3-1.fc36.x86_64
 gvfs-1.50.2-1.fc36.x86_64
@@ -208,7 +208,7 @@ libcdio-paranoia-10.2+2.0.1-6.fc36.x86_64
 libcloudproviders-0.3.1-5.fc36.x86_64
 libcom_err-1.46.5-2.fc36.x86_64
 libcomps-0.1.18-2.fc36.x86_64
-libcurl-7.82.0-9.fc36.x86_64
+libcurl-7.82.0-11.fc36.x86_64
 libdatrie-0.2.13-3.fc36.x86_64
 libdb-5.3.28-51.fc36.x86_64
 libdbusmenu-16.04.0-19.fc36.x86_64
@@ -249,7 +249,7 @@ libnet-1.2-5.fc36.x86_64
 libnetfilter_conntrack-1.0.8-4.fc36.x86_64
 libnfnetlink-1.0.1-21.fc36.x86_64
 libnftnl-1.2.1-2.fc36.x86_64
-libnghttp2-1.46.0-2.fc36.x86_64
+libnghttp2-1.51.0-1.fc36.x86_64
 libnl3-3.7.0-1.fc36.x86_64
 libnotify-0.7.12-1.fc36.x86_64
 libnsl2-2.0.0-3.fc36.x86_64
@@ -349,9 +349,9 @@ nss-softokn-3.85.0-1.fc36.x86_64
 nss-softokn-freebl-3.85.0-1.fc36.x86_64
 nss-sysinit-3.85.0-1.fc36.x86_64
 nss-util-3.85.0-1.fc36.x86_64
-ntfs-3g-2022.5.17-1.fc36.x86_64
-ntfs-3g-libs-2022.5.17-1.fc36.x86_64
-ntfsprogs-2022.5.17-1.fc36.x86_64
+ntfs-3g-2022.10.3-1.fc36.x86_64
+ntfs-3g-libs-2022.10.3-1.fc36.x86_64
+ntfsprogs-2022.10.3-1.fc36.x86_64
 oniguruma-6.9.8-1.fc36.x86_64
 openldap-2.6.3-1.fc36.x86_64
 openldap-compat-2.6.3-1.fc36.x86_64
@@ -445,10 +445,10 @@ xfce-polkit-0.3-8.fc36.x86_64
 xfce4-appfinder-4.16.1-4.fc36.x86_64
 xfce4-datetime-plugin-0.8.1-4.fc36.x86_64
 xfce4-panel-4.16.5-1.fc36.x86_64
-xfce4-places-plugin-1.8.1-7.fc36.x86_64
+xfce4-places-plugin-1.8.3-1.fc36.x86_64
 xfce4-pulseaudio-plugin-0.4.4-1.fc36.x86_64
 xfce4-session-4.16.0-5.fc36.x86_64
-xfce4-settings-4.16.3-1.fc36.x86_64
+xfce4-settings-4.16.5-1.fc36.x86_64
 xfce4-terminal-1.0.3-1.fc36.x86_64
 xfconf-4.16.0-6.fc36.x86_64
 xfdesktop-4.16.1-1.fc36.x86_64
