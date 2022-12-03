@@ -20,7 +20,7 @@ cairomm-1.14.2-22.fc36.x86_64
 cdparanoia-libs-10.2-39.fc36.x86_64
 colord-libs-1.4.6-1.fc36.x86_64
 container-selinux-2.191.0-1.fc36.noarch
-containerd-1.6.9-3.fc36.x86_64
+containerd-1.6.10-1.fc36.x86_64
 coreutils-9.0-8.fc36.x86_64
 coreutils-common-9.0-8.fc36.x86_64
 cracklib-2.9.6-28.fc36.x86_64
@@ -29,7 +29,7 @@ crypto-policies-20220428-1.gitdfb10ea.fc36.noarch
 crypto-policies-scripts-20220428-1.gitdfb10ea.fc36.noarch
 cryptsetup-libs-2.4.3-2.fc36.x86_64
 cups-libs-2.4.2-5.fc36.x86_64
-curl-7.82.0-9.fc36.x86_64
+curl-7.82.0-11.fc36.x86_64
 cyrus-sasl-lib-2.1.27-18.fc36.x86_64
 dbus-1.14.4-1.fc36.x86_64
 dbus-broker-32-1.fc36.x86_64
@@ -92,9 +92,9 @@ gsettings-desktop-schemas-42.0-1.fc36.x86_64
 gsm-1.0.19-7.fc36.x86_64
 gstreamer1-1.20.3-1.fc36.x86_64
 gstreamer1-plugins-base-1.20.3-1.fc36.x86_64
-gtk-update-icon-cache-3.24.34-1.fc36.x86_64
+gtk-update-icon-cache-3.24.35-1.fc36.x86_64
 gtk2-2.24.33-8.fc36.x86_64
-gtk3-3.24.34-1.fc36.x86_64
+gtk3-3.24.35-1.fc36.x86_64
 gtkmm30-3.24.6-1.fc36.x86_64
 gzip-1.11-3.fc36.x86_64
 harfbuzz-4.0.0-2.fc36.x86_64
@@ -166,7 +166,7 @@ libcbor-0.7.0-5.fc36.x86_64
 libcloudproviders-0.3.1-5.fc36.x86_64
 libcom_err-1.46.5-2.fc36.x86_64
 libcomps-0.1.18-2.fc36.x86_64
-libcurl-7.82.0-9.fc36.x86_64
+libcurl-7.82.0-11.fc36.x86_64
 libdatrie-0.2.13-3.fc36.x86_64
 libdb-5.3.28-51.fc36.x86_64
 libdnf-0.68.0-1.fc36.x86_64
@@ -203,7 +203,7 @@ libnet-1.2-5.fc36.x86_64
 libnetfilter_conntrack-1.0.8-4.fc36.x86_64
 libnfnetlink-1.0.1-21.fc36.x86_64
 libnftnl-1.2.1-2.fc36.x86_64
-libnghttp2-1.46.0-2.fc36.x86_64
+libnghttp2-1.51.0-1.fc36.x86_64
 libnl3-3.7.0-1.fc36.x86_64
 libnsl2-2.0.0-3.fc36.x86_64
 libogg-1.3.5-3.fc36.x86_64
