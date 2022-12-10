@@ -19,7 +19,7 @@ bc1.07.1-3build1
 bsdextrautils2.37.2-4ubuntu3
 bsdutils1:2.37.2-4ubuntu3
 bubblewrap0.6.1-1
-ca-certificates20211016
+ca-certificates20211016ubuntu0.22.04.1
 caja1.26.0-1ubuntu1
 caja-common1.26.0-1ubuntu1
 coreutils8.32-4.1ubuntu1
@@ -49,7 +49,7 @@ e2fsprogs1.46.5-2ubuntu1.1
 emacsen-common3.0.4
 fdisk2.37.2-4ubuntu3
 findutils4.8.0-1ubuntu3
-firefox107.0.1+build1-0ubuntu0.22.04.1~mt1
+firefox108.0+build2-0ubuntu0.22.04.1~mt1
 fontconfig2.13.1-4.2ubuntu5
 fontconfig-config2.13.1-4.2ubuntu5
 fonts-dejavu-core2.37-2build1
@@ -424,9 +424,9 @@ libpthread-stubs0-dev0.4-1build2
 libpulse01:15.99.1+dfsg1-1ubuntu2
 libpulsedsp1:15.99.1+dfsg1-1ubuntu2
 libpulse-mainloop-glib01:15.99.1+dfsg1-1ubuntu2
-libpython3.103.10.6-1~22.04.1
-libpython3.10-minimal3.10.6-1~22.04.1
-libpython3.10-stdlib3.10.6-1~22.04.1
+libpython3.103.10.6-1~22.04.2
+libpython3.10-minimal3.10.6-1~22.04.2
+libpython3.10-stdlib3.10.6-1~22.04.2
 libpython3-stdlib3.10.6-1~22.04
 libraw1394-112.1.2-2build2
 librda00.0.5-1.1
@@ -454,7 +454,7 @@ libsigsegv22.13-1ubuntu3
 libslang22.3.2-5build4
 libsm62:1.2.3-1build2
 libsmartcols12.37.2-4ubuntu3
-libsmbclient2:4.15.9+dfsg-0ubuntu0.2
+libsmbclient2:4.15.9+dfsg-0ubuntu0.3
 libsnapd-glib11.60-0ubuntu1
 libsndfile11.0.31-2build1
 libsoup2.4-12.74.2-3
@@ -511,7 +511,7 @@ libwayland-client01.20.0-1ubuntu0.1
 libwayland-cursor01.20.0-1ubuntu0.1
 libwayland-egl11.20.0-1ubuntu0.1
 libwayland-server01.20.0-1ubuntu0.1
-libwbclient02:4.15.9+dfsg-0ubuntu0.2
+libwbclient02:4.15.9+dfsg-0ubuntu0.3
 libwebkit2gtk-4.0-372.38.2-0ubuntu0.22.04.2
 libwebp71.2.2-2
 libwebpdemux21.2.2-2
@@ -554,7 +554,7 @@ libxinerama12:1.1.4-3
 libxkbcommon01.4.0-1
 libxkbfile11:1.1.0-1build3
 libxklavier165.4-4build2
-libxml22.9.13+dfsg-1ubuntu0.1
+libxml22.9.13+dfsg-1ubuntu0.2
 libxmlb20.3.6-2build1
 libxmu62:1.1.3-3
 libxmuu12:1.1.3-3
@@ -578,7 +578,7 @@ libyelp042.1-1
 libzstd11.4.8+dfsg-3build1
 linux-sound-base1.0.25+dfsg-0ubuntu7
 locales2.35-0ubuntu3.1
-login1:4.8.1-2ubuntu2
+login1:4.8.1-2ubuntu2.1
 logsave1.46.5-2ubuntu1.1
 lsb-base11.1.0ubuntu4
 lsb-release11.1.0ubuntu4
@@ -629,7 +629,7 @@ openssh-client1:8.9p1-3
 openssl3.0.2-0ubuntu1.7
 packagekit1.2.5-2ubuntu2
 parted3.4-2build1
-passwd1:4.8.1-2ubuntu2
+passwd1:4.8.1-2ubuntu2.1
 patch2.7.6-7build2
 pci.ids0.0~2022.01.22-1
 pciutils1:3.7.0-6
@@ -649,8 +649,8 @@ psmisc23.4-2build3
 publicsuffix20211207.1025-1
 pulseaudio1:15.99.1+dfsg1-1ubuntu2
 pulseaudio-utils1:15.99.1+dfsg1-1ubuntu2
-python3.103.10.6-1~22.04.1
-python3.10-minimal3.10.6-1~22.04.1
+python3.103.10.6-1~22.04.2
+python3.10-minimal3.10.6-1~22.04.2
 python33.10.6-1~22.04
 python3-apport2.20.11-0ubuntu82.2
 python3-apt2.3.0ubuntu2.1
@@ -669,7 +669,7 @@ python3-debian0.1.43ubuntu1
 python3-defer1.0.6-2.1ubuntu1
 python3-distro1.7.0-1
 python3-distro-info1.1build1
-python3-distupgrade1:22.04.14
+python3-distupgrade1:22.04.15
 python3-gi3.42.1-0ubuntu1
 python3-httplib20.20.2-2
 python3-importlib-metadata4.6.4-1
@@ -698,7 +698,7 @@ python3-zipp1.0.0-3
 python-apt-common2.3.0ubuntu2.1
 readline-common8.1.2-1
 rfkill2.37.2-4ubuntu3
-samba-libs2:4.15.9+dfsg-0ubuntu0.2
+samba-libs2:4.15.9+dfsg-0ubuntu0.3
 sed4.8-1ubuntu2
 sensible-utils0.0.17
 session-migration0.3.6
@@ -729,8 +729,8 @@ ubuntu-mate-wallpapers-common22.04.17
 ubuntu-mate-wallpapers-jammy22.04.17
 ubuntu-mate-wallpapers-photos22.04.17
 ubuntu-mono20.10-0ubuntu2
-ubuntu-release-upgrader-core1:22.04.14
-ubuntu-release-upgrader-gtk1:22.04.14
+ubuntu-release-upgrader-core1:22.04.15
+ubuntu-release-upgrader-gtk1:22.04.15
 ucf3.0043
 udev249.11-0ubuntu3.6
 udisks22.9.4-1ubuntu2
@@ -767,9 +767,9 @@ xorg-docs-core1:1.7.1-1.2
 xorg-sgml-doctools1:1.11-1.1
 xorgxrdp1:0.2.17-1build1
 xrdp0.9.17-2ubuntu2
-xserver-common2:21.1.3-2ubuntu2.3
+xserver-common2:21.1.3-2ubuntu2.4
 xserver-xorg1:7.7+23ubuntu2
-xserver-xorg-core2:21.1.3-2ubuntu2.3
+xserver-xorg-core2:21.1.3-2ubuntu2.4
 xserver-xorg-video-amdgpu22.0.0-1ubuntu0.1
 xserver-xorg-video-ati1:19.1.0-2ubuntu1
 xserver-xorg-video-intel2:2.99.917+git20210115-1
