@@ -71,7 +71,7 @@ filesystem-3.18-2.fc36.x86_64
 findutils-4.9.0-1.fc36.x86_64
 firefox-107.0.1-1.fc36.x86_64
 flac-libs-1.3.4-1.fc36.x86_64
-fontconfig-2.14.1-1.fc36.x86_64
+fontconfig-2.14.1-2.fc36.x86_64
 fonts-filesystem-2.0.5-7.fc36.noarch
 freetype-2.12.1-2.fc36.x86_64
 fribidi-1.0.11-3.fc36.x86_64
@@ -377,7 +377,7 @@ pam-libs-1.5.2-13.fc36.x86_64
 pango-1.50.9-1.fc36.x86_64
 pangomm-2.46.2-2.fc36.x86_64
 pavucontrol-5.0-6.fc36.x86_64
-pciutils-libs-3.7.0-5.fc36.x86_64
+pciutils-libs-3.9.0-1.fc36.x86_64
 pcre-8.45-1.fc36.1.x86_64
 pcre2-10.40-1.fc36.x86_64
 pcre2-syntax-10.40-1.fc36.noarch
