@@ -43,7 +43,7 @@ distro-info1.1build1
 distro-info-data0.52ubuntu0.2
 dmidecode3.3-3ubuntu0.1
 dmsetup2:1.02.175-2.1ubuntu4
-docker-ce-cli5:20.10.21~3-0~ubuntu-bionic
+docker-ce-cli5:20.10.22~3-0~ubuntu-bionic
 dpkg1.21.1ubuntu2.1
 e2fsprogs1.46.5-2ubuntu1.1
 emacsen-common3.0.4
