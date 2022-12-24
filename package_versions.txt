@@ -39,7 +39,7 @@ distro-info-data0.52ubuntu0.2
 dmidecode3.3-3ubuntu0.1
 docbook-xml4.5-11
 docbook-xsl1.79.2+dfsg-1
-docker-ce-cli5:20.10.21~3-0~ubuntu-bionic
+docker-ce-cli5:20.10.22~3-0~ubuntu-bionic
 dolphin4:21.12.3-0ubuntu1
 dpkg1.21.1ubuntu2.1
 drkonqi5.24.5-0ubuntu0.1
