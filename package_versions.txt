@@ -48,7 +48,7 @@ dnf-data-4.14.0-1.fc36.noarch
 elfutils-default-yama-scope-0.187-4.fc36.noarch
 elfutils-libelf-0.187-4.fc36.x86_64
 elfutils-libs-0.187-4.fc36.x86_64
-emacs-filesystem-28.1-2.fc36.noarch
+emacs-filesystem-28.2-1.fc36.noarch
 expat-2.5.0-1.fc36.x86_64
 fdk-aac-free-2.0.0-8.fc36.x86_64
 fedora-gpg-keys-36-4.noarch
