@@ -103,8 +103,8 @@ harfbuzz-4.0.0-2.fc36.x86_64
 hicolor-icon-theme-0.17-13.fc36.noarch
 hostname-3.23-6.fc36.x86_64
 hwdata-0.365-1.fc36.noarch
-i3-4.21-1.fc36.x86_64
-i3-config-4.21-1.fc36.noarch
+i3-4.22-2.fc36.x86_64
+i3-config-4.22-2.fc36.noarch
 i3status-2.14-2.fc36.x86_64
 i3status-config-2.14-2.fc36.noarch
 ima-evm-utils-1.4-5.fc36.x86_64
