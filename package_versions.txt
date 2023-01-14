@@ -27,7 +27,7 @@ cpp-1111.3.0-1ubuntu1~22.04
 cpp4:11.2.0-1ubuntu1
 cryptsetup2:2.4.3-1ubuntu1.1
 cryptsetup-bin2:2.4.3-1ubuntu1.1
-curl7.81.0-1ubuntu1.6
+curl7.81.0-1ubuntu1.7
 dash0.5.11+git20210903+057cd650a4ed-3build1
 dbus1.12.20-2ubuntu4.1
 dbus-x111.12.20-2ubuntu4.1
@@ -49,7 +49,7 @@ e2fsprogs1.46.5-2ubuntu1.1
 emacsen-common3.0.4
 fdisk2.37.2-4ubuntu3
 findutils4.8.0-1ubuntu3
-firefox108.0.2+build1-0ubuntu0.22.04.1~mt1
+firefox109.0+build2-0ubuntu0.22.04.1~mt1
 fontconfig2.13.1-4.2ubuntu5
 fontconfig-config2.13.1-4.2ubuntu5
 fonts-dejavu-core2.37-2build1
@@ -74,7 +74,7 @@ gir1.2-gtk-3.03.24.33-1ubuntu2
 gir1.2-gtksource-44.8.3-1
 gir1.2-handy-11.6.1-1
 gir1.2-harfbuzz-0.02.7.4-1ubuntu3.1
-gir1.2-javascriptcoregtk-4.02.38.2-0ubuntu0.22.04.2
+gir1.2-javascriptcoregtk-4.02.38.3-0ubuntu0.22.04.1
 gir1.2-matemenu-2.01.26.0-2ubuntu2
 gir1.2-packagekitglib-1.01.2.5-2ubuntu2
 gir1.2-pango-1.01.50.6+ds-2
@@ -83,7 +83,7 @@ gir1.2-pluma-1.01.26.0-1ubuntu1
 gir1.2-snapd-11.60-0ubuntu1
 gir1.2-soup-2.42.74.2-3
 gir1.2-vte-2.910.68.0-1
-gir1.2-webkit2-4.02.38.2-0ubuntu0.22.04.2
+gir1.2-webkit2-4.02.38.3-0ubuntu0.22.04.1
 glib-networking2.72.0-1
 glib-networking-common2.72.0-1
 glib-networking-services2.72.0-1
@@ -202,8 +202,8 @@ libcpufreq0008-2build1
 libcrypt11:4.4.27-1
 libcryptsetup122:2.4.3-1ubuntu1.1
 libcups22.4.1op1-1ubuntu4.1
-libcurl3-gnutls7.81.0-1ubuntu1.6
-libcurl47.81.0-1ubuntu1.6
+libcurl3-gnutls7.81.0-1ubuntu1.7
+libcurl47.81.0-1ubuntu1.7
 libdatrie10.2.13-2
 libdb5.35.3.28+dfsg1-0.8ubuntu3
 libdbus-1-31.12.20-2ubuntu4.1
@@ -224,7 +224,7 @@ libdv41.0.0-14build1
 libdw10.186-1build1
 libedit23.1-20210910-1build1
 libegl11.4.0-1
-libegl-mesa022.0.5-0ubuntu0.1
+libegl-mesa022.0.5-0ubuntu0.3
 libelf10.186-1build1
 libenchant-2-22.3.2-1ubuntu2
 libepoxy01.5.10-1
@@ -245,7 +245,7 @@ libfreetype62.11.1+dfsg-1ubuntu0.1
 libfribidi01.0.8-2ubuntu3.1
 libfuse22.9.9-5ubuntu3
 libgail-3-03.24.33-1ubuntu2
-libgbm122.0.5-0ubuntu0.1
+libgbm122.0.5-0ubuntu0.3
 libgcc-s112.1.0-2ubuntu1~22.04
 libgck-1-03.40.0-4
 libgcr-base-3-13.40.0-4
@@ -259,8 +259,8 @@ libgdk-pixbuf-2.0-02.42.8+dfsg-1ubuntu0.2
 libgdk-pixbuf2.0-common2.42.8+dfsg-1ubuntu0.2
 libgirepository-1.0-11.72.0-1
 libgl11.4.0-1
-libgl1-mesa-dri22.0.5-0ubuntu0.1
-libglapi-mesa22.0.5-0ubuntu0.1
+libgl1-mesa-dri22.0.5-0ubuntu0.3
+libglapi-mesa22.0.5-0ubuntu0.3
 libgles21.4.0-1
 libglib2.0-02.72.4-0ubuntu1
 libglib2.0-bin2.72.4-0ubuntu1
@@ -270,7 +270,7 @@ libglib-perl3:1.329.3-2build1
 libglu1-mesa9.0.2-1
 libglvnd01.4.0-1
 libglx01.4.0-1
-libglx-mesa022.0.5-0ubuntu0.1
+libglx-mesa022.0.5-0ubuntu0.3
 libgmp102:6.2.1+dfsg-3ubuntu1
 libgnutls303.7.3-4ubuntu1.1
 libgoa-1.0-0b3.44.0-1ubuntu1
@@ -320,7 +320,7 @@ libisl230.24-2build1
 libiw3030~pre9-13.1ubuntu4
 libjack-jackd2-01.9.20~dfsg-1
 libjansson42.13.1-1.1build3
-libjavascriptcoregtk-4.0-182.38.2-0ubuntu0.22.04.2
+libjavascriptcoregtk-4.0-182.38.3-0ubuntu0.22.04.1
 libjbig02.1-3.1ubuntu0.22.04.1
 libjbig2dec00.19-3build2
 libjpeg88c-2ubuntu10
@@ -334,7 +334,7 @@ libkeyutils11.6.1-2ubuntu3
 libkmod229-1ubuntu1
 libkrb5-31.19.2-2
 libkrb5support01.19.2-2
-libksba81.6.0-2ubuntu0.1
+libksba81.6.0-2ubuntu0.2
 liblcms2-22.12~rc1-2build2
 libldap-2.5-02.5.13+dfsg-0ubuntu0.22.04.1
 libldap-common2.5.13+dfsg-0ubuntu0.22.04.1
@@ -437,9 +437,9 @@ librsvg2-22.52.5+dfsg-3
 librsvg2-common2.52.5+dfsg-3
 librtmp12.4+20151223.gitfa8646d.1-2build4
 libsamplerate00.2.2-1build1
-libsasl2-22.1.27+dfsg2-3ubuntu1
-libsasl2-modules2.1.27+dfsg2-3ubuntu1
-libsasl2-modules-db2.1.27+dfsg2-3ubuntu1
+libsasl2-22.1.27+dfsg2-3ubuntu1.1
+libsasl2-modules2.1.27+dfsg2-3ubuntu1.1
+libsasl2-modules-db2.1.27+dfsg2-3ubuntu1.1
 libseccomp22.5.3-2ubuntu2
 libsecret-1-00.20.5-2
 libsecret-common0.20.5-2
@@ -512,7 +512,7 @@ libwayland-cursor01.20.0-1ubuntu0.1
 libwayland-egl11.20.0-1ubuntu0.1
 libwayland-server01.20.0-1ubuntu0.1
 libwbclient02:4.15.9+dfsg-0ubuntu0.3
-libwebkit2gtk-4.0-372.38.2-0ubuntu0.22.04.2
+libwebkit2gtk-4.0-372.38.3-0ubuntu0.22.04.1
 libwebp71.2.2-2
 libwebpdemux21.2.2-2
 libwebrtc-audio-processing10.3.1-0ubuntu5
@@ -625,7 +625,7 @@ ncurses-bin6.3-2
 netcat1.218-4ubuntu1
 netcat-openbsd1.218-4ubuntu1
 openprinting-ppds20220223-0ubuntu1
-openssh-client1:8.9p1-3
+openssh-client1:8.9p1-3ubuntu0.1
 openssl3.0.2-0ubuntu1.7
 packagekit1.2.5-2ubuntu2
 parted3.4-2build1
@@ -688,7 +688,7 @@ python3-problem-report2.20.11-0ubuntu82.3
 python3-pyparsing2.4.7-1
 python3-secretstorage3.3.1-1
 python3-six1.16.0-3ubuntu1
-python3-software-properties0.99.22.3
+python3-software-properties0.99.22.4
 python3-talloc2.3.3-2build1
 python3-update-manager1:22.04.10
 python3-wadllib1.3.6-1
@@ -703,8 +703,8 @@ sed4.8-1ubuntu2
 sensible-utils0.0.17
 session-migration0.3.6
 shared-mime-info2.1-2
-software-properties-common0.99.22.3
-software-properties-gtk0.99.22.3
+software-properties-common0.99.22.4
+software-properties-gtk0.99.22.4
 sound-theme-freedesktop0.8-2ubuntu1
 spice-vdagent0.22.1-1
 ssl-cert1.1.2
