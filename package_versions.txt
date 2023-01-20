@@ -65,7 +65,7 @@ fftw 3.3.10-3
 file 5.44-1
 filesystem 2022.10.18-1
 findutils 4.9.0-1
-firefox 108.0.2-1
+firefox 109.0-1
 flac 1.4.2-1
 flex 2.6.4-3
 fontconfig 2:2.14.1-2
@@ -73,7 +73,7 @@ freetype2 2.12.1-1
 fribidi 1.0.12-1
 fuse-common 3.12.0-1
 fuse2 2.9.9-4
-fuse3 3.12.0-1
+fuse3 3.13.0-1
 gawk 5.2.1-1
 gc 8.2.2-1
 gcc 12.2.0-1
@@ -318,7 +318,7 @@ mpfr 4.1.1.p1-1
 mpg123 1.31.1-1
 mtdev 1.1.6-2
 ncurses 6.4-1
-ndctl 74-1
+ndctl 75-1
 nettle 3.8.1-1
 noto-fonts 20220810-1
 npth 1.6-3
@@ -414,7 +414,7 @@ xf86-input-libinput 1.2.1-1
 xf86-video-amdgpu 22.0.0-1
 xf86-video-ati 1:19.1.0.r15.g7a6a34af-1
 xf86-video-intel 1:2.99.917+916+g31486f40-2
-xfsprogs 6.1.0-1
+xfsprogs 6.1.1-2
 xkeyboard-config 2.37-1
 xmlto 0.0.28-4
 xorg-fonts-encodings 1.0.6-1
