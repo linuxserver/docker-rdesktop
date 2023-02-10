@@ -56,7 +56,7 @@ The architectures supported by this image are:
 | :----: | :----: | ---- |
 | x86-64 | ✅ | amd64-\<version tag\> |
 | arm64 | ✅ | arm64v8-\<version tag\> |
-| armhf| ✅ | arm32v7-\<version tag\> |
+| armhf | ✅ | arm32v7-\<version tag\> |
 
 ## Version Tags
 
@@ -88,7 +88,6 @@ This image provides various versions that are available via tags. Please read th
 | ubuntu-icewm | ✅ | IceWM Ubuntu |
 | fedora-icewm | ✅ | IceWM Fedora |
 | arch-icewm | ✅ | IceWM Arch |
-
 ## Application Setup
 
 **The Default USERNAME and PASSWORD is: abc/abc**
@@ -147,7 +146,7 @@ services:
     environment:
       - PUID=1000
       - PGID=1000
-      - TZ=Europe/London
+      - TZ=Etc/UTC
     volumes:
       - /var/run/docker.sock:/var/run/docker.sock #optional
       - /path/to/data:/config #optional
@@ -167,7 +166,7 @@ docker run -d \
   --security-opt seccomp=unconfined `#optional` \
   -e PUID=1000 \
   -e PGID=1000 \
-  -e TZ=Europe/London \
+  -e TZ=Etc/UTC \
   -p 3389:3389 \
   -v /var/run/docker.sock:/var/run/docker.sock `#optional` \
   -v /path/to/data:/config `#optional` \
@@ -175,6 +174,7 @@ docker run -d \
   --shm-size="1gb" `#optional` \
   --restart unless-stopped \
   lscr.io/linuxserver/rdesktop:arch-kde
+
 ```
 
 ## Parameters
@@ -186,7 +186,7 @@ Container images are configured using parameters passed at runtime (such as thos
 | `-p 3389` | RDP access port |
 | `-e PUID=1000` | for UserID - see below for explanation |
 | `-e PGID=1000` | for GroupID - see below for explanation |
-| `-e TZ=Europe/London` | Specify a timezone to use EG Europe/London |
+| `-e TZ=Etc/UTC` | specify a timezone to use, see this [list](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List). |
 | `-v /var/run/docker.sock` | Docker Socket on the system, if you want to use Docker in the container |
 | `-v /config` | abc users home directory |
 | `--device /dev/dri` | Add this for GL support (Linux hosts only) |
