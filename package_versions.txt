@@ -8,7 +8,7 @@ apt2.4.8
 apt-transport-https2.4.8
 apt-utils2.4.8
 baloo-kf55.92.0-0ubuntu1
-base-files12ubuntu4.2
+base-files12ubuntu4.3
 base-passwd3.5.52build1
 bash5.1-6ubuntu1
 bc1.07.1-3build1
@@ -288,7 +288,7 @@ libgraphite2-31.3.14-1build2
 libgs99.55.0~dfsg1-0ubuntu5.1
 libgs9-common9.55.0~dfsg1-0ubuntu5.1
 libgsm11.0.19-1
-libgssapi-krb5-21.19.2-2
+libgssapi-krb5-21.19.2-2ubuntu0.1
 libgstreamer1.0-01.20.3-0ubuntu1
 libgstreamer-plugins-base1.0-01.20.1-1
 libgtk-3-03.24.33-1ubuntu2
@@ -322,7 +322,7 @@ libjson-c50.15-3~ubuntu1.22.04.1
 libjson-glib-1.0-01.6.6-1build1
 libjson-glib-1.0-common1.6.6-1build1
 libjs-underscore1.13.2~dfsg-2
-libk5crypto31.19.2-2
+libk5crypto31.19.2-2ubuntu0.1
 libkaccounts24:21.12.3-0ubuntu1
 libkate10.4.1-11build1
 libkdecorations2-5v54:5.24.4-0ubuntu1
@@ -460,8 +460,8 @@ libkf5xmlgui-data5.92.0-0ubuntu2
 libkfontinst54:5.24.7-0ubuntu0.1
 libkfontinstui54:5.24.7-0ubuntu0.1
 libkmod229-1ubuntu1
-libkrb5-31.19.2-2
-libkrb5support01.19.2-2
+libkrb5-31.19.2-2ubuntu0.1
+libkrb5support01.19.2-2ubuntu0.1
 libksba81.6.0-2ubuntu0.2
 libkscreenlocker55.24.4-0ubuntu1
 libksgrd94:5.24.6-0ubuntu0.1
@@ -537,10 +537,10 @@ liborc-0.4-01:0.4.32-2
 libp11-kit00.24.0-6build1
 libpackagekit-glib2-181.2.5-2ubuntu2
 libpackagekitqt5-11.0.2-1
-libpam0g1.4.0-11ubuntu2
-libpam-modules1.4.0-11ubuntu2
-libpam-modules-bin1.4.0-11ubuntu2
-libpam-runtime1.4.0-11ubuntu2
+libpam0g1.4.0-11ubuntu2.3
+libpam-modules1.4.0-11ubuntu2.3
+libpam-modules-bin1.4.0-11ubuntu2.3
+libpam-runtime1.4.0-11ubuntu2.3
 libpam-systemd249.11-0ubuntu3.6
 libpango-1.0-01.50.6+ds-2
 libpangocairo-1.0-01.50.6+ds-2
@@ -678,7 +678,7 @@ libss21.46.5-2ubuntu1.1
 libssh2-11.10.0-3
 libssh-40.9.6-2build1
 libssh-gcrypt-40.9.6-2build1
-libssl33.0.2-0ubuntu1.7
+libssl33.0.2-0ubuntu1.8
 libstdc++612.1.0-2ubuntu1~22.04
 libstemmer0d2.2.0-1build1
 libswresample37:4.4.2-0ubuntu0.22.04.1
@@ -869,7 +869,7 @@ python3.103.10.6-1~22.04.2
 python3.10-minimal3.10.6-1~22.04.2
 python33.10.6-1~22.04
 python3-apport2.20.11-0ubuntu82.3
-python3-apt2.4.0
+python3-apt2.4.0ubuntu1
 python3-blinker1.4+dfsg1-0.4
 python3-cffi-backend1.15.0-1build2
 python3-click8.0.3-1
@@ -906,7 +906,7 @@ python3-wadllib1.3.6-1
 python3-xkit0.5.0ubuntu5
 python3-yaml5.4.1-1ubuntu1
 python3-zipp1.0.0-3
-python-apt-common2.4.0
+python-apt-common2.4.0ubuntu1
 qdbus-qt55.15.3-1
 qml-module-org-kde-activities5.92.0-0ubuntu1
 qml-module-org-kde-draganddrop5.92.0-0ubuntu1
