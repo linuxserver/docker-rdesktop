@@ -60,7 +60,7 @@ fftw                                                                         3.3
 file                                                                         5.44-3                                             alpm          
 filesystem                                                                   2023.01.31-1                                       alpm          
 findutils                                                                    4.9.0-2                                            alpm          
-firefox                                                                      110.0.1-3                                          alpm          
+firefox                                                                      111.0-1                                            alpm          
 flac                                                                         1.4.2-1                                            alpm          
 flex                                                                         2.6.4-4                                            alpm          
 fontconfig                                                                   2:2.14.2-1                                         alpm          
@@ -172,7 +172,7 @@ github.com/vishvananda/netns                                                 v0.
 glib-networking                                                              1:2.74.0-1                                         alpm          
 glib2                                                                        2.74.6-1                                           alpm          
 glibc                                                                        2.37-2                                             alpm          
-glibmm                                                                       2.66.5-1                                           alpm          
+glibmm                                                                       2.66.6-1                                           alpm          
 gmp                                                                          6.2.1-2                                            alpm          
 gnu-netcat                                                                   0.7.1-9                                            alpm          
 gnupg                                                                        2.2.41-1                                           alpm          
@@ -211,7 +211,7 @@ grep                                                                         3.9
 groff                                                                        1.22.4-7                                           alpm          
 gsettings-desktop-schemas                                                    43.0-1                                             alpm          
 gsm                                                                          1.0.22-1                                           alpm          
-gtk-update-icon-cache                                                        1:4.10.0-3                                         alpm          
+gtk-update-icon-cache                                                        1:4.10.1-1                                         alpm          
 gtk2                                                                         2.24.33-2                                          alpm          
 gtk3                                                                         1:3.24.37-1                                        alpm          
 gtkmm3                                                                       3.24.7-1                                           alpm          
@@ -219,7 +219,7 @@ guile                                                                        3.0
 gzip                                                                         1.12-2                                             alpm          
 harfbuzz                                                                     7.1.0-1                                            alpm          
 hicolor-icon-theme                                                           0.17-3                                             alpm          
-hidapi                                                                       0.13.1-1                                           alpm          
+hidapi                                                                       0.13.1-2                                           alpm          
 http-parser                                                                  2.9.4-1                                            alpm          
 hwdata                                                                       0.368-1                                            alpm          
 hwloc                                                                        2.9.0-1                                            alpm          
@@ -315,7 +315,7 @@ libproxy                                                                     0.4
 libpsl                                                                       0.21.2-1                                           alpm          
 libpulse                                                                     16.1-3                                             alpm          
 libraw1394                                                                   2.1.2-3                                            alpm          
-librsvg                                                                      2:2.55.1-1                                         alpm          
+librsvg                                                                      2:2.55.2-1                                         alpm          
 libsamplerate                                                                0.2.2-1                                            alpm          
 libsasl                                                                      2.1.28-4                                           alpm          
 libseccomp                                                                   2.5.4-1                                            alpm          
@@ -399,7 +399,7 @@ nettle                                                                       3.8
 noto-fonts                                                                   20230301-1                                         alpm          
 npth                                                                         1.6-3                                              alpm          
 nspr                                                                         4.35-1                                             alpm          
-nss                                                                          3.88.1-1                                           alpm          
+nss                                                                          3.89-1                                             alpm          
 obconf-qt                                                                    0.16.2-2                                           alpm          
 ocl-icd                                                                      2.3.1-1                                            alpm          
 oniguruma                                                                    6.9.8-1                                            alpm          
@@ -438,7 +438,7 @@ pulseaudio                                                                   16.
 python                                                                       3.10.9                                             binary        
 python                                                                       3.10.9-1                                           alpm          
 python-lxml                                                                  4.9.2-1                                            alpm          
-qt5-base                                                                     5.15.8+kde+r182-1                                  alpm          
+qt5-base                                                                     5.15.8+kde+r183-1                                  alpm          
 qt5-translations                                                             5.15.8-1                                           alpm          
 qt5-x11extras                                                                5.15.8-1                                           alpm          
 rav1e                                                                        0.6.3-1                                            alpm          
