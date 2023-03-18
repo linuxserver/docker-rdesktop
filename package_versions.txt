@@ -159,7 +159,7 @@ libaccounts-qt5-1                        1.16-2                                 
 libaccountsservice0                      22.07.5-2ubuntu1.3                       deb           
 libacl1                                  2.3.1-1                                  deb           
 libaom3                                  3.3.0-1                                  deb           
-libapparmor1                             3.0.4-2ubuntu2.1                         deb           
+libapparmor1                             3.0.4-2ubuntu2.2                         deb           
 libappimage0                             0.1.10+dfsg-0ubuntu1                     deb           
 libappstream4                            0.15.2-2                                 deb           
 libappstreamqt2                          0.15.2-2                                 deb           
@@ -601,7 +601,7 @@ libpowerdevilui5                         4:5.24.7-0ubuntu0.1                    
 libprocesscore9                          4:5.24.6-0ubuntu0.1                      deb           
 libprocessui9                            4:5.24.6-0ubuntu0.1                      deb           
 libprocps8                               2:3.3.17-6ubuntu2                        deb           
-libprotobuf-lite23                       3.12.4-1ubuntu7                          deb           
+libprotobuf-lite23                       3.12.4-1ubuntu7.22.04.1                  deb           
 libproxy1v5                              0.4.17-2                                 deb           
 libpsl5                                  0.21.0-1.2build2                         deb           
 libpthread-stubs0-dev                    0.4-1build2                              deb           
