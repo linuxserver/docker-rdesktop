@@ -92,7 +92,7 @@ launchpadlib                      1.10.16                                  pytho
 lazr.restfulclient                0.14.4                                   python     
 lazr.uri                          1.0.6                                    python     
 libacl1                           2.3.1-1                                  deb        
-libapparmor1                      3.0.4-2ubuntu2.1                         deb        
+libapparmor1                      3.0.4-2ubuntu2.2                         deb        
 libappstream4                     0.15.2-2                                 deb        
 libapt-pkg6.0                     2.4.8                                    deb        
 libargon2-1                       0~20171227-0.3                           deb        
