@@ -20,8 +20,8 @@ cairo-gobject                                                 1.17.6-2.fc37     
 cairomm                                                       1.14.4-1.fc37                         rpm        
 cdparanoia-libs                                               10.2-40.fc37                          rpm        
 colord-libs                                                   1.4.6-2.fc37                          rpm        
-container-selinux                                             2:2.201.0-1.fc37                      rpm        
-containerd                                                    1.6.15-1.fc37                         rpm        
+container-selinux                                             2:2.204.0-1.fc37                      rpm        
+containerd                                                    1.6.19-1.fc37                         rpm        
 coreutils                                                     9.1-7.fc37                            rpm        
 coreutils-common                                              9.1-7.fc37                            rpm        
 cracklib                                                      2.9.7-30.fc37                         rpm        
@@ -61,7 +61,7 @@ fftw-libs-single                                              3.3.10-3.fc37     
 file-libs                                                     5.42-4.fc37                           rpm        
 filesystem                                                    3.18-2.fc37                           rpm        
 findutils                                                     1:4.9.0-2.fc37                        rpm        
-firefox                                                       110.0-3.fc37                          rpm        
+firefox                                                       111.0.1-1.fc37                        rpm        
 flac-libs                                                     1.3.4-2.fc37                          rpm        
 fontconfig                                                    2.14.1-2.fc37                         rpm        
 fonts-filesystem                                              1:2.0.5-9.fc37                        rpm        
@@ -312,7 +312,7 @@ mesa-libgbm                                                   22.3.7-1.fc37     
 mesa-libglapi                                                 22.3.7-1.fc37                         rpm        
 moby-engine                                                   20.10.23-1.fc37                       rpm        
 mozilla-filesystem                                            1.9-29.fc37                           rpm        
-mozjs102                                                      102.8.0-1.fc37                        rpm        
+mozjs102                                                      102.9.0-1.fc37                        rpm        
 mpdecimal                                                     2.5.1-4.fc37                          rpm        
 mpfr                                                          4.1.0-10.fc37                         rpm        
 mpg123-libs                                                   1.31.2-1.fc37                         rpm        
@@ -334,8 +334,8 @@ oniguruma                                                     6.9.8-2.D20220919g
 openbox                                                       3.6.1-20.fc37                         rpm        
 openbox-libs                                                  3.6.1-20.fc37                         rpm        
 openldap                                                      2.6.4-1.fc37                          rpm        
-openssh                                                       8.8p1-7.fc37                          rpm        
-openssh-clients                                               8.8p1-7.fc37                          rpm        
+openssh                                                       8.8p1-9.fc37                          rpm        
+openssh-clients                                               8.8p1-9.fc37                          rpm        
 openssl                                                       1:3.0.8-1.fc37                        rpm        
 openssl-libs                                                  1:3.0.8-1.fc37                        rpm        
 opus                                                          1.3.1-11.fc37                         rpm        
@@ -344,7 +344,7 @@ p11-kit                                                       0.24.1-3.fc37     
 p11-kit-trust                                                 0.24.1-3.fc37                         rpm        
 pam                                                           1.5.2-14.fc37                         rpm        
 pam-libs                                                      1.5.2-14.fc37                         rpm        
-pango                                                         1.50.13-1.fc37                        rpm        
+pango                                                         1.50.14-1.fc37                        rpm        
 pangomm                                                       2.46.3-1.fc37                         rpm        
 pavucontrol                                                   5.0-7.fc37                            rpm        
 pciutils-libs                                                 3.9.0-2.fc37                          rpm        
