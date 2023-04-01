@@ -31,7 +31,7 @@ diffutils                         1:3.8-0ubuntu2                           deb
 dirmngr                           2.2.27-3ubuntu2.1                        deb        
 distro                            1.7.0                                    python     
 distro-info-data                  0.52ubuntu0.2                            deb        
-docker-ce-cli                     5:23.0.1-1~ubuntu.18.04~bionic           deb        
+docker-ce-cli                     5:23.0.2-1~ubuntu.18.04~bionic           deb        
 dpkg                              1.21.1ubuntu2.1                          deb        
 e2fsprogs                         1.46.5-2ubuntu1.1                        deb        
 featherpad                        1.0.1-0.1                                deb        
@@ -258,8 +258,8 @@ libprocps8                        2:3.3.17-6ubuntu2                        deb
 libproxy1v5                       0.4.17-2                                 deb        
 libpsl5                           0.21.0-1.2build2                         deb        
 libpthread-stubs0-dev             0.4-1build2                              deb        
-libpulse0                         1:15.99.1+dfsg1-1ubuntu2                 deb        
-libpulsedsp                       1:15.99.1+dfsg1-1ubuntu2                 deb        
+libpulse0                         1:15.99.1+dfsg1-1ubuntu2.1               deb        
+libpulsedsp                       1:15.99.1+dfsg1-1ubuntu2.1               deb        
 libpython3-stdlib                 3.10.6-1~22.04                           deb        
 libpython3.10-minimal             3.10.6-1~22.04.2ubuntu1                  deb        
 libpython3.10-stdlib              3.10.6-1~22.04.2ubuntu1                  deb        
@@ -412,8 +412,8 @@ policykit-1                       0.105-33                                 deb
 polkitd                           0.105-33                                 deb        
 procps                            2:3.3.17-6ubuntu2                        deb        
 publicsuffix                      20211207.1025-1                          deb        
-pulseaudio                        1:15.99.1+dfsg1-1ubuntu2                 deb        
-pulseaudio-utils                  1:15.99.1+dfsg1-1ubuntu2                 deb        
+pulseaudio                        1:15.99.1+dfsg1-1ubuntu2.1               deb        
+pulseaudio-utils                  1:15.99.1+dfsg1-1ubuntu2.1               deb        
 pyparsing                         2.4.7                                    python     
 python                            3.10.6                                   binary     
 python-apt                        2.4.0+ubuntu1                            python     
@@ -482,8 +482,8 @@ xkb-data                          2.33-1                                   deb
 xorg-sgml-doctools                1:1.11-1.1                               deb        
 xorgxrdp                          1:0.2.17-1build1                         deb        
 xrdp                              0.9.17-2ubuntu2                          deb        
-xserver-common                    2:21.1.3-2ubuntu2.8                      deb        
-xserver-xorg-core                 2:21.1.3-2ubuntu2.8                      deb        
+xserver-common                    2:21.1.3-2ubuntu2.9                      deb        
+xserver-xorg-core                 2:21.1.3-2ubuntu2.9                      deb        
 xserver-xorg-video-amdgpu         22.0.0-1ubuntu0.1                        deb        
 xserver-xorg-video-ati            1:19.1.0-2ubuntu1                        deb        
 xserver-xorg-video-intel          2:2.99.917+git20210115-1                 deb        
