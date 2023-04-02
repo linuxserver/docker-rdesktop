@@ -407,11 +407,11 @@ speexdsp                                                      1.2.1-2.fc37      
 sqlite-libs                                                   3.40.0-1.fc37                         rpm        
 startup-notification                                          0.12-24.fc37                          rpm        
 sudo                                                          1.9.13-1.p2.fc37                      rpm        
-systemd                                                       251.13-6.fc37                         rpm        
-systemd-boot-unsigned                                         251.13-6.fc37                         rpm        
-systemd-libs                                                  251.13-6.fc37                         rpm        
-systemd-pam                                                   251.13-6.fc37                         rpm        
-systemd-udev                                                  251.13-6.fc37                         rpm        
+systemd                                                       251.14-2.fc37                         rpm        
+systemd-boot-unsigned                                         251.14-2.fc37                         rpm        
+systemd-libs                                                  251.14-2.fc37                         rpm        
+systemd-pam                                                   251.14-2.fc37                         rpm        
+systemd-udev                                                  251.14-2.fc37                         rpm        
 tar                                                           2:1.34-6.fc37                         rpm        
 tigervnc-license                                              1.13.1-1.fc37                         rpm        
 tigervnc-server-minimal                                       1.13.1-1.fc37                         rpm        
