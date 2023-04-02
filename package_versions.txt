@@ -36,7 +36,7 @@ docker-engine                                                                20.
 encodings                                                                    1.0.5-r0                                           apk        
 eudev-libs                                                                   3.2.11-r0                                          apk        
 expat                                                                        2.5.0-r0                                           apk        
-ffmpeg-libs                                                                  5.0.1-r1                                           apk        
+ffmpeg-libs                                                                  5.0.3-r0                                           apk        
 fftw-single-libs                                                             3.3.10-r0                                          apk        
 file                                                                         5.41-r0                                            apk        
 firefox                                                                      101.0.1-r0                                         apk        
