@@ -49,18 +49,18 @@ diffutils                                1:3.8-0ubuntu2                         
 dirmngr                                  2.2.27-3ubuntu2.1                        deb           
 distro                                   1.7.0                                    python        
 distro-info                              1.1build1                                python        
-distro-info-data                         0.52ubuntu0.2                            deb           
+distro-info-data                         0.52ubuntu0.3                            deb           
 dmidecode                                3.3-3ubuntu0.1                           deb           
 docbook-xml                              4.5-11                                   deb           
 docbook-xsl                              1.79.2+dfsg-1                            deb           
-docker-ce-cli                            5:23.0.2-1~ubuntu.18.04~bionic           deb           
+docker-ce-cli                            5:23.0.3-1~ubuntu.18.04~bionic           deb           
 dolphin                                  4:21.12.3-0ubuntu1                       deb           
 dpkg                                     1.21.1ubuntu2.1                          deb           
 drkonqi                                  5.24.5-0ubuntu0.1                        deb           
 e2fsprogs                                1.46.5-2ubuntu1.1                        deb           
 fdisk                                    2.37.2-4ubuntu3                          deb           
 findutils                                4.8.0-1ubuntu3                           deb           
-firefox                                  111.0.1+build2-0ubuntu0.22.04.1~mt1      deb           
+firefox                                  112.0+build2-0ubuntu0.22.04.1~mt1        deb           
 fontconfig                               2.13.1-4.2ubuntu5                        deb           
 fontconfig-config                        2.13.1-4.2ubuntu5                        deb           
 fonts-dejavu-core                        2.37-2build1                             deb           
@@ -505,7 +505,7 @@ liblayershellqtinterface5                5.24.6-0ubuntu0.1                      
 liblcms2-2                               2.12~rc1-2build2                         deb           
 libldap-2.5-0                            2.5.14+dfsg-0ubuntu0.22.04.1             deb           
 libldap-common                           2.5.14+dfsg-0ubuntu0.22.04.1             deb           
-libldb2                                  2:2.4.4-0ubuntu0.22.04.1                 deb           
+libldb2                                  2:2.4.4-0ubuntu0.22.04.2                 deb           
 liblirc-client0                          0.10.1-6.3ubuntu1                        deb           
 libllvm15                                1:15.0.6-3~ubuntu0.22.04.2               deb           
 liblmdb0                                 0.9.24-1build2                           deb           
@@ -680,7 +680,7 @@ libsigsegv2                              2.13-1ubuntu3                          
 libslang2                                2.3.2-5build4                            deb           
 libsm6                                   2:1.2.3-1build2                          deb           
 libsmartcols1                            2.37.2-4ubuntu3                          deb           
-libsmbclient                             2:4.15.13+dfsg-0ubuntu1                  deb           
+libsmbclient                             2:4.15.13+dfsg-0ubuntu1.1                deb           
 libsnapd-glib1                           1.60-0ubuntu1                            deb           
 libsnappy1v5                             1.1.8-1build3                            deb           
 libsndfile1                              1.0.31-2build1                           deb           
@@ -753,7 +753,7 @@ libwayland-client0                       1.20.0-1ubuntu0.1                      
 libwayland-cursor0                       1.20.0-1ubuntu0.1                        deb           
 libwayland-egl1                          1.20.0-1ubuntu0.1                        deb           
 libwayland-server0                       1.20.0-1ubuntu0.1                        deb           
-libwbclient0                             2:4.15.13+dfsg-0ubuntu1                  deb           
+libwbclient0                             2:4.15.13+dfsg-0ubuntu1.1                deb           
 libweather-ion7                          4:5.24.7-0ubuntu0.1                      deb           
 libwebp7                                 1.2.2-2                                  deb           
 libwebpdemux2                            1.2.2-2                                  deb           
@@ -916,7 +916,7 @@ python3-keyring                          23.5.0-1                               
 python3-launchpadlib                     1.10.16-1                                deb           
 python3-lazr.restfulclient               0.14.4-1                                 deb           
 python3-lazr.uri                         1.0.6-2                                  deb           
-python3-ldb                              2:2.4.4-0ubuntu0.22.04.1                 deb           
+python3-ldb                              2:2.4.4-0ubuntu0.22.04.2                 deb           
 python3-minimal                          3.10.6-1~22.04                           deb           
 python3-more-itertools                   8.10.0-2                                 deb           
 python3-oauthlib                         3.2.0-1ubuntu0.1                         deb           
@@ -974,7 +974,7 @@ qml-module-qtquick2                      5.15.3+dfsg-1                          
 qtchooser                                66-2build1                               deb           
 readline-common                          8.1.2-1                                  deb           
 rfkill                                   2.37.2-4ubuntu3                          deb           
-samba-libs                               2:4.15.13+dfsg-0ubuntu1                  deb           
+samba-libs                               2:4.15.13+dfsg-0ubuntu1.1                deb           
 sddm-theme-breeze                        4:5.24.7-0ubuntu0.1                      deb           
 sed                                      4.8-1ubuntu2                             deb           
 sensible-utils                           0.0.17                                   deb           
