@@ -239,7 +239,7 @@ libcanberra-gtk3                                                             0.3
 libcanberra-pulse                                                            0.30-r8                                            apk        
 libcap                                                                       2.64-r0                                            apk        
 libcap-ng                                                                    0.8.3-r1                                           apk        
-libcrypto1.1                                                                 1.1.1t-r1                                          apk        
+libcrypto1.1                                                                 1.1.1t-r2                                          apk        
 libcurl                                                                      7.83.1-r6                                          apk        
 libdav1d                                                                     1.0.0-r0                                           apk        
 libdrm                                                                       2.4.110-r0                                         apk        
@@ -287,7 +287,7 @@ libsndfile                                                                   1.1
 libsoup                                                                      2.74.0-r0                                          apk        
 libsrt                                                                       1.4.4-r0                                           apk        
 libssh                                                                       0.9.6-r1                                           apk        
-libssl1.1                                                                    1.1.1t-r1                                          apk        
+libssl1.1                                                                    1.1.1t-r2                                          apk        
 libstdc++                                                                    11.2.1_git20220219-r2                              apk        
 libtasn1                                                                     4.18.0-r1                                          apk        
 libtheora                                                                    1.1.1-r16                                          apk        
@@ -417,7 +417,7 @@ tiff                                                                         4.4
 tini-static                                                                  0.19.0-r0                                          apk        
 ttf-dejavu                                                                   2.37-r1                                            apk        
 tumbler                                                                      4.16.0-r1                                          apk        
-tzdata                                                                       2023b-r1                                           apk        
+tzdata                                                                       2023c-r0                                           apk        
 upower                                                                       0.99.18-r0                                         apk        
 util-macros                                                                  1.19.3-r0                                          apk        
 utmps-libs                                                                   0.1.2.0-r0                                         apk        
