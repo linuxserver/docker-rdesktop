@@ -360,7 +360,7 @@ libcanberra-gstreamer                                                        0.3
 libcanberra-gtk3                                                             0.30-r8                                            apk        
 libcanberra-pulse                                                            0.30-r8                                            apk        
 libcap                                                                       2.64-r0                                            apk        
-libcrypto1.1                                                                 1.1.1t-r1                                          apk        
+libcrypto1.1                                                                 1.1.1t-r2                                          apk        
 libcurl                                                                      7.83.1-r6                                          apk        
 libdaemon                                                                    0.14-r3                                            apk        
 libdav1d                                                                     1.0.0-r0                                           apk        
@@ -425,7 +425,7 @@ libsmbclient                                                                 4.1
 libsndfile                                                                   1.1.0-r0                                           apk        
 libsrt                                                                       1.4.4-r0                                           apk        
 libssh                                                                       0.9.6-r1                                           apk        
-libssl1.1                                                                    1.1.1t-r1                                          apk        
+libssl1.1                                                                    1.1.1t-r2                                          apk        
 libstdc++                                                                    11.2.1_git20220219-r2                              apk        
 libtasn1                                                                     4.18.0-r1                                          apk        
 libtheora                                                                    1.1.1-r16                                          apk        
@@ -562,8 +562,8 @@ pulseaudio-alsa                                                              15.
 pulseaudio-bluez                                                             15.0-r2                                            apk        
 purpose                                                                      5.94.0-r0                                          apk        
 py3-gobject3                                                                 3.42.1-r0                                          apk        
-python                                                                       3.10.10                                            binary     
-python3                                                                      3.10.10-r0                                         apk        
+python                                                                       3.10.11                                            binary     
+python3                                                                      3.10.11-r0                                         apk        
 qqc2-desktop-style                                                           5.94.0-r0                                          apk        
 qt5-qtbase                                                                   5.15.4_git20220511-r2                              apk        
 qt5-qtbase-sqlite                                                            5.15.4_git20220511-r2                              apk        
@@ -622,7 +622,7 @@ tevent                                                                       0.1
 threadweaver                                                                 5.94.0-r0                                          apk        
 tiff                                                                         4.4.0-r1                                           apk        
 tini-static                                                                  0.19.0-r0                                          apk        
-tzdata                                                                       2023b-r1                                           apk        
+tzdata                                                                       2023c-r0                                           apk        
 udisks2                                                                      2.9.4-r1                                           apk        
 udisks2-libs                                                                 2.9.4-r1                                           apk        
 unicode-character-database                                                   14.0.0-r0                                          apk        
