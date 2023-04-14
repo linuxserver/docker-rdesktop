@@ -384,8 +384,8 @@ libbpf                                                                       1.1
 libbs2b                                                                      3.1.0-8                                            alpm          
 libbsd                                                                       0.11.7-1                                           alpm          
 libbytesize                                                                  2.7-1                                              alpm          
-libcamera                                                                    0.0.4-3                                            alpm          
-libcamera-ipa                                                                0.0.4-3                                            alpm          
+libcamera                                                                    0.0.4-4                                            alpm          
+libcamera-ipa                                                                0.0.4-4                                            alpm          
 libcanberra                                                                  1:0.30+r2+gc0620e4-3                               alpm          
 libcap                                                                       2.68-1                                             alpm          
 libcap-ng                                                                    0.8.3-1                                            alpm          
