@@ -187,7 +187,7 @@ gtk-update-icon-cache                                                        2.2
 gtkmm3                                                                       3.24.5-r0                                          apk        
 harfbuzz                                                                     4.3.0-r0                                           apk        
 hicolor-icon-theme                                                           0.17-r1                                            apk        
-icewm                                                                        3.3.2-r0                                           apk        
+icewm                                                                        3.3.3-r0                                           apk        
 icu-data-en                                                                  71.1-r2                                            apk        
 icu-libs                                                                     71.1-r2                                            apk        
 imlib2                                                                       1.9.0-r1                                           apk        
