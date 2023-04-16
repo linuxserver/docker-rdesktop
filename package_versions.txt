@@ -49,8 +49,8 @@ dconf                                                         0.40.0-7.fc37     
 device-mapper                                                 1.02.175-9.fc37                       rpm        
 device-mapper-libs                                            1.02.175-9.fc37                       rpm        
 diffutils                                                     3.8-3.fc37                            rpm        
-dnf                                                           4.14.0-1.fc37                         rpm        
-dnf-data                                                      4.14.0-1.fc37                         rpm        
+dnf                                                           4.15.0-1.fc37                         rpm        
+dnf-data                                                      4.15.0-1.fc37                         rpm        
 elfutils-default-yama-scope                                   0.189-1.fc37                          rpm        
 elfutils-libelf                                               0.189-1.fc37                          rpm        
 elfutils-libs                                                 0.189-1.fc37                          rpm        
@@ -71,7 +71,7 @@ fftw-libs-single                                              3.3.10-3.fc37     
 file-libs                                                     5.42-4.fc37                           rpm        
 filesystem                                                    3.18-2.fc37                           rpm        
 findutils                                                     1:4.9.0-2.fc37                        rpm        
-firefox                                                       111.0.1-1.fc37                        rpm        
+firefox                                                       112.0-3.fc37                          rpm        
 flac-libs                                                     1.3.4-2.fc37                          rpm        
 fontconfig                                                    2.14.1-2.fc37                         rpm        
 fonts-filesystem                                              1:2.0.5-9.fc37                        rpm        
@@ -314,7 +314,7 @@ libseccomp                                                    2.5.3-3.fc37      
 libsecret                                                     0.20.5-2.fc37                         rpm        
 libselinux                                                    3.5-1.fc37                            rpm        
 libselinux-utils                                              3.5-1.fc37                            rpm        
-libsemanage                                                   3.5-1.fc37                            rpm        
+libsemanage                                                   3.5-2.fc37                            rpm        
 libsepol                                                      3.5-1.fc37                            rpm        
 libsigc++20                                                   2.10.8-2.fc37                         rpm        
 libsigsegv                                                    2.14-3.fc37                           rpm        
@@ -364,7 +364,7 @@ libxml2                                                       2.10.3-2.fc37     
 libxshmfence                                                  1.3-11.fc37                           rpm        
 libxslt                                                       1.1.37-1.fc37                         rpm        
 libyaml                                                       0.2.5-8.fc37                          rpm        
-libzstd                                                       1.5.4-1.fc37                          rpm        
+libzstd                                                       1.5.5-1.fc37                          rpm        
 lilv-libs                                                     0.24.14-3.fc37                        rpm        
 llvm-libs                                                     15.0.7-1.fc37                         rpm        
 lua-libs                                                      5.4.4-9.fc37                          rpm        
@@ -373,9 +373,9 @@ marco                                                         1.26.1-1.fc37     
 marco-libs                                                    1.26.1-1.fc37                         rpm        
 mate-control-center                                           1.26.0-5.fc37                         rpm        
 mate-control-center-filesystem                                1.26.0-5.fc37                         rpm        
-mate-desktop                                                  1.26.1-1.fc37                         rpm        
-mate-desktop-configs                                          1.26.1-1.fc37                         rpm        
-mate-desktop-libs                                             1.26.1-1.fc37                         rpm        
+mate-desktop                                                  1.26.1-3.fc37                         rpm        
+mate-desktop-configs                                          1.26.1-3.fc37                         rpm        
+mate-desktop-libs                                             1.26.1-3.fc37                         rpm        
 mate-icon-theme                                               1.26.0-3.fc37                         rpm        
 mate-media                                                    1.26.0-5.fc37                         rpm        
 mate-menus                                                    1.26.0-5.fc37                         rpm        
@@ -485,13 +485,13 @@ pixman                                                        0.40.0-6.fc37     
 pluma                                                         1.26.0-4.fc37                         rpm        
 pluma-data                                                    1.26.0-4.fc37                         rpm        
 policycoreutils                                               3.5-1.fc37                            rpm        
-polkit                                                        121-4.fc37                            rpm        
-polkit-libs                                                   121-4.fc37                            rpm        
+polkit                                                        121-4.fc37.2                          rpm        
+polkit-libs                                                   121-4.fc37.2                          rpm        
 polkit-pkla-compat                                            0.1-22.fc37                           rpm        
 popt                                                          1.19-1.fc37                           rpm        
 procps-ng                                                     3.3.17-6.fc37.2                       rpm        
 protobuf-c                                                    1.4.1-2.fc37                          rpm        
-publicsuffix-list-dafsa                                       20210518-5.fc37                       rpm        
+publicsuffix-list-dafsa                                       20230318-1.fc37                       rpm        
 pulseaudio                                                    16.1-4.fc37                           rpm        
 pulseaudio-libs                                               16.1-4.fc37                           rpm        
 pulseaudio-libs-glib2                                         16.1-4.fc37                           rpm        
@@ -501,7 +501,7 @@ python-pip-wheel                                              22.2.2-3.fc37     
 python-setuptools-wheel                                       62.6.0-2.fc37                         rpm        
 python3                                                       3.11.2-1.fc37                         rpm        
 python3-cairo                                                 1.21.0-3.fc37                         rpm        
-python3-dnf                                                   4.14.0-1.fc37                         rpm        
+python3-dnf                                                   4.15.0-1.fc37                         rpm        
 python3-gobject                                               3.42.2-2.fc37                         rpm        
 python3-gobject-base                                          3.42.2-2.fc37                         rpm        
 python3-gobject-base-noarch                                   3.42.2-2.fc37                         rpm        
@@ -589,7 +589,7 @@ xz-libs                                                       5.4.1-1.fc37      
 yelp                                                          2:42.2-1.fc37                         rpm        
 yelp-libs                                                     2:42.2-1.fc37                         rpm        
 yelp-xsl                                                      42.1-1.fc37                           rpm        
-yum                                                           4.14.0-1.fc37                         rpm        
-zchunk-libs                                                   1.3.0-1.fc37                          rpm        
+yum                                                           4.15.0-1.fc37                         rpm        
+zchunk-libs                                                   1.3.1-1.fc37                          rpm        
 zenity                                                        3.44.0-1.fc37                         rpm        
 zlib                                                          1.2.12-5.fc37                         rpm        
