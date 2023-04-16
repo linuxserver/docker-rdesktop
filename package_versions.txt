@@ -64,7 +64,7 @@ e2fsprogs                          1.46.5-2ubuntu1.1                        deb
 emacsen-common                     3.0.4                                    deb           
 fdisk                              2.37.2-4ubuntu3                          deb           
 findutils                          4.8.0-1ubuntu3                           deb           
-firefox                            112.0+build2-0ubuntu0.22.04.1~mt1        deb           
+firefox                            112.0.1+build1-0ubuntu0.22.04.1~mt1      deb           
 fontconfig                         2.13.1-4.2ubuntu5                        deb           
 fontconfig-config                  2.13.1-4.2ubuntu5                        deb           
 fonts-dejavu-core                  2.37-2build1                             deb           
@@ -78,8 +78,8 @@ gcc-11-base                        11.3.0-1ubuntu1~22.04                    deb
 gcc-12-base                        12.1.0-2ubuntu1~22.04                    deb           
 gdisk                              1.0.8-4build1                            deb           
 gettext-base                       0.21-4ubuntu4                            deb           
-ghostscript                        9.55.0~dfsg1-0ubuntu5.1                  deb           
-ghostscript-x                      9.55.0~dfsg1-0ubuntu5.1                  deb           
+ghostscript                        9.55.0~dfsg1-0ubuntu5.2                  deb           
+ghostscript-x                      9.55.0~dfsg1-0ubuntu5.2                  deb           
 gir1.2-atk-1.0                     2.36.0-3build1                           deb           
 gir1.2-freedesktop                 1.72.0-1                                 deb           
 gir1.2-gdkpixbuf-2.0               2.42.8+dfsg-1ubuntu0.2                   deb           
@@ -139,7 +139,7 @@ hostname                           3.23ubuntu2                              deb
 httplib2                           0.20.2                                   python        
 humanity-icon-theme                0.6.16                                   deb           
 hunspell-en-us                     1:2020.12.07-2                           deb           
-im-config                          0.50-2                                   deb           
+im-config                          0.50-2ubuntu22.04.1                      deb           
 importlib-metadata                 4.6.4                                    python        
 init-system-helpers                1.62                                     deb           
 inputattach                        1:1.7.1-1build2                          deb           
@@ -305,8 +305,8 @@ libgphoto2-6                       2.5.27-1build2                           deb
 libgphoto2-port12                  2.5.27-1build2                           deb           
 libgpm2                            1.20.7-10build1                          deb           
 libgraphite2-3                     1.3.14-1build2                           deb           
-libgs9                             9.55.0~dfsg1-0ubuntu5.1                  deb           
-libgs9-common                      9.55.0~dfsg1-0ubuntu5.1                  deb           
+libgs9                             9.55.0~dfsg1-0ubuntu5.2                  deb           
+libgs9-common                      9.55.0~dfsg1-0ubuntu5.2                  deb           
 libgssapi-krb5-2                   1.19.2-2ubuntu0.1                        deb           
 libgstreamer-gl1.0-0               1.20.1-1                                 deb           
 libgstreamer-plugins-base1.0-0     1.20.1-1                                 deb           
@@ -361,10 +361,10 @@ libkrb5-3                          1.19.2-2ubuntu0.1                        deb
 libkrb5support0                    1.19.2-2ubuntu0.1                        deb           
 libksba8                           1.6.0-2ubuntu0.2                         deb           
 liblcms2-2                         2.12~rc1-2build2                         deb           
-libldap-2.5-0                      2.5.14+dfsg-0ubuntu0.22.04.1             deb           
-libldap-common                     2.5.14+dfsg-0ubuntu0.22.04.1             deb           
+libldap-2.5-0                      2.5.14+dfsg-0ubuntu0.22.04.2             deb           
+libldap-common                     2.5.14+dfsg-0ubuntu0.22.04.2             deb           
 libldb2                            2:2.4.4-0ubuntu0.22.04.2                 deb           
-libllvm15                          1:15.0.6-3~ubuntu0.22.04.2               deb           
+libllvm15                          1:15.0.7-0ubuntu0.22.04.1                deb           
 liblmdb0                           0.9.24-1build2                           deb           
 liblocale-gettext-perl             1.07-4build3                             deb           
 libltdl7                           2.4.6-15build2                           deb           
@@ -418,7 +418,7 @@ libpackagekit-glib2-18             1.2.5-2ubuntu2                           deb
 libpam-modules                     1.4.0-11ubuntu2.3                        deb           
 libpam-modules-bin                 1.4.0-11ubuntu2.3                        deb           
 libpam-runtime                     1.4.0-11ubuntu2.3                        deb           
-libpam-systemd                     249.11-0ubuntu3.7                        deb           
+libpam-systemd                     249.11-0ubuntu3.9                        deb           
 libpam0g                           1.4.0-11ubuntu2.3                        deb           
 libpango-1.0-0                     1.50.6+ds-2ubuntu1                       deb           
 libpangocairo-1.0-0                1.50.6+ds-2ubuntu1                       deb           
@@ -495,7 +495,7 @@ libssl3                            3.0.2-0ubuntu1.8                         deb
 libstartup-notification0           0.12-6build2                             deb           
 libstdc++6                         12.1.0-2ubuntu1~22.04                    deb           
 libstemmer0d                       2.2.0-1build1                            deb           
-libsystemd0                        249.11-0ubuntu3.7                        deb           
+libsystemd0                        249.11-0ubuntu3.9                        deb           
 libtag1v5                          1.11.1+dfsg.1-3ubuntu3                   deb           
 libtag1v5-vanilla                  1.11.1+dfsg.1-3ubuntu3                   deb           
 libtalloc2                         2.3.3-2build1                            deb           
@@ -513,7 +513,7 @@ libtirpc3                          1.3.2-2ubuntu0.1                         deb
 libtwolame0                        0.4.0-2build2                            deb           
 libu2f-udev                        1.1.10-3build2                           deb           
 libuchardet0                       0.0.7-1build2                            deb           
-libudev1                           249.11-0ubuntu3.7                        deb           
+libudev1                           249.11-0ubuntu3.9                        deb           
 libudisks2-0                       2.9.4-1ubuntu2                           deb           
 libunistring2                      1.0-1                                    deb           
 libunwind8                         1.3.2-2build2                            deb           
@@ -682,7 +682,7 @@ python-apt-common                  2.4.0ubuntu1                             deb
 python-dateutil                    2.8.1                                    python        
 python-debian                      0.1.43ubuntu1                            python        
 python3                            3.10.6-1~22.04                           deb           
-python3-apport                     2.20.11-0ubuntu82.3                      deb           
+python3-apport                     2.20.11-0ubuntu82.4                      deb           
 python3-apt                        2.4.0ubuntu1                             deb           
 python3-aptdaemon                  1.1.1+bzr982-0ubuntu39                   deb           
 python3-aptdaemon.gtk3widgets      1.1.1+bzr982-0ubuntu39                   deb           
@@ -714,7 +714,7 @@ python3-minimal                    3.10.6-1~22.04                           deb
 python3-more-itertools             8.10.0-2                                 deb           
 python3-oauthlib                   3.2.0-1ubuntu0.1                         deb           
 python3-pkg-resources              59.6.0-1.2ubuntu0.22.04.1                deb           
-python3-problem-report             2.20.11-0ubuntu82.3                      deb           
+python3-problem-report             2.20.11-0ubuntu82.4                      deb           
 python3-pyparsing                  2.4.7-1                                  deb           
 python3-secretstorage              3.3.1-1                                  deb           
 python3-six                        1.16.0-3ubuntu1                          deb           
@@ -740,12 +740,12 @@ software-properties-gtk            0.99.22.6                                deb
 sound-theme-freedesktop            0.8-2ubuntu1                             deb           
 spice-vdagent                      0.22.1-1                                 deb           
 ssl-cert                           1.1.2                                    deb           
-sudo                               1.9.9-1ubuntu2.3                         deb           
-systemd                            249.11-0ubuntu3.7                        deb           
-systemd-sysv                       249.11-0ubuntu3.7                        deb           
+sudo                               1.9.9-1ubuntu2.4                         deb           
+systemd                            249.11-0ubuntu3.9                        deb           
+systemd-sysv                       249.11-0ubuntu3.9                        deb           
 sysvinit-utils                     3.01-1ubuntu1                            deb           
 tar                                1.34+dfsg-1ubuntu0.1.22.04.1             deb           
-tzdata                             2022g-0ubuntu0.22.04.1                   deb           
+tzdata                             2023c-0ubuntu0.22.04.0                   deb           
 ubuntu-advantage-desktop-daemon    1.10~22.04.1                             deb           
 ubuntu-advantage-tools             27.13.6~22.04.1                          deb           
 ubuntu-advantage-tools             8001                                     python        
@@ -766,7 +766,7 @@ ubuntu-mono                        20.10-0ubuntu2                           deb
 ubuntu-release-upgrader-core       1:22.04.16                               deb           
 ubuntu-release-upgrader-gtk        1:22.04.16                               deb           
 ucf                                3.0043                                   deb           
-udev                               249.11-0ubuntu3.7                        deb           
+udev                               249.11-0ubuntu3.9                        deb           
 udisks2                            2.9.4-1ubuntu2                           deb           
 unzip                              6.0-26ubuntu3.1                          deb           
 update-manager                     1:22.04.10                               deb           
@@ -803,9 +803,9 @@ xorg-docs-core                     1:1.7.1-1.2                              deb
 xorg-sgml-doctools                 1:1.11-1.1                               deb           
 xorgxrdp                           1:0.2.17-1build1                         deb           
 xrdp                               0.9.17-2ubuntu2                          deb           
-xserver-common                     2:21.1.3-2ubuntu2.9                      deb           
+xserver-common                     2:21.1.4-2ubuntu1.7~22.04.1              deb           
 xserver-xorg                       1:7.7+23ubuntu2                          deb           
-xserver-xorg-core                  2:21.1.3-2ubuntu2.9                      deb           
+xserver-xorg-core                  2:21.1.4-2ubuntu1.7~22.04.1              deb           
 xserver-xorg-video-amdgpu          22.0.0-1ubuntu0.1                        deb           
 xserver-xorg-video-ati             1:19.1.0-2ubuntu1                        deb           
 xserver-xorg-video-intel           2:2.99.917+git20210115-1                 deb           
