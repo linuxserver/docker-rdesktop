@@ -25,7 +25,6 @@ containerd                                                    1.6.19-1.fc37     
 coreutils                                                     9.1-7.fc37                            rpm        
 coreutils-common                                              9.1-7.fc37                            rpm        
 cracklib                                                      2.9.7-30.fc37                         rpm        
-criu                                                          3.17.1-3.fc37                         rpm        
 crypto-policies                                               20220815-1.gite4ed860.fc37            rpm        
 crypto-policies-scripts                                       20220815-1.gite4ed860.fc37            rpm        
 cryptsetup-libs                                               2.6.1-1.fc37                          rpm        
@@ -63,7 +62,7 @@ fftw-libs-single                                              3.3.10-3.fc37     
 file-libs                                                     5.42-4.fc37                           rpm        
 filesystem                                                    3.18-2.fc37                           rpm        
 findutils                                                     1:4.9.0-2.fc37                        rpm        
-firefox                                                       112.0-3.fc37                          rpm        
+firefox                                                       112.0.1-1.fc37                        rpm        
 flac-libs                                                     1.3.4-2.fc37                          rpm        
 fontconfig                                                    2.14.1-2.fc37                         rpm        
 fonts-filesystem                                              1:2.0.5-9.fc37                        rpm        
@@ -113,8 +112,8 @@ glibmm2.4                                                     2.66.5-2.fc37     
 gmp                                                           1:6.2.1-3.fc37                        rpm        
 gnupg2                                                        2.3.8-1.fc37                          rpm        
 gnutls                                                        3.8.0-2.fc37                          rpm        
-golang.org/x/net                                              v0.0.0-20201224014010-6772e930b67b    go-module  
-golang.org/x/sys                                              v0.0.0-20211116061358-0a5406a5449c    go-module  
+golang.org/x/net                                              v0.8.0                                go-module  
+golang.org/x/sys                                              v0.6.0                                go-module  
 google-noto-fonts-common                                      20201206^1.git0c78c8329-7.fc37        rpm        
 google-noto-sans-vf-fonts                                     20201206^1.git0c78c8329-7.fc37        rpm        
 google.golang.org/protobuf                                    v1.27.1                               go-module  
@@ -146,7 +145,6 @@ iptables-legacy                                               1.8.8-4.fc37      
 iptables-legacy-libs                                          1.8.8-4.fc37                          rpm        
 iptables-libs                                                 1.8.8-4.fc37                          rpm        
 iso-codes                                                     4.11.0-1.fc37                         rpm        
-jansson                                                       2.13.1-5.fc37                         rpm        
 jbigkit-libs                                                  2.1-24.fc37                           rpm        
 jq                                                            1.6-14.fc37                           rpm        
 json-c                                                        0.16-3.fc37                           rpm        
@@ -244,15 +242,13 @@ libmd                                                         1.0.4-2.fc37      
 libmnl                                                        1.0.5-1.fc37                          rpm        
 libmodulemd                                                   2.14.0-4.fc37                         rpm        
 libmount                                                      2.38.1-1.fc37                         rpm        
-libnet                                                        1.2-6.fc37                            rpm        
 libnetfilter_conntrack                                        1.0.8-5.fc37                          rpm        
 libnfnetlink                                                  1.0.1-22.fc37                         rpm        
-libnftnl                                                      1.2.2-2.fc37                          rpm        
 libnghttp2                                                    1.51.0-1.fc37                         rpm        
 libnl3                                                        3.7.0-2.fc37                          rpm        
 libnsl2                                                       2.0.0-4.fc37                          rpm        
 libogg                                                        2:1.3.5-4.fc37                        rpm        
-libpcap                                                       14:1.10.3-1.fc37                      rpm        
+libpcap                                                       14:1.10.4-1.fc37                      rpm        
 libpciaccess                                                  0.16-7.fc37                           rpm        
 libpng                                                        2:1.6.37-13.fc37                      rpm        
 libproxy                                                      0.4.18-3.fc37                         rpm        
@@ -330,7 +326,6 @@ ncurses-base                                                  6.3-4.20220501.fc3
 ncurses-libs                                                  6.3-4.20220501.fc37                   rpm        
 netcat                                                        1.219-2.fc37                          rpm        
 nettle                                                        3.8-2.fc37                            rpm        
-nftables                                                      1:1.0.4-3.fc37                        rpm        
 npth                                                          1.6-9.fc37                            rpm        
 nspr                                                          4.35.0-5.fc37                         rpm        
 nss                                                           3.89.0-1.fc37                         rpm        
@@ -340,8 +335,8 @@ nss-sysinit                                                   3.89.0-1.fc37     
 nss-util                                                      3.89.0-1.fc37                         rpm        
 oniguruma                                                     6.9.8-2.D20220919gitb041f6d.fc37      rpm        
 openldap                                                      2.6.4-1.fc37                          rpm        
-openssh                                                       8.8p1-9.fc37                          rpm        
-openssh-clients                                               8.8p1-9.fc37                          rpm        
+openssh                                                       8.8p1-10.fc37                         rpm        
+openssh-clients                                               8.8p1-10.fc37                         rpm        
 openssl                                                       1:3.0.8-1.fc37                        rpm        
 openssl-libs                                                  1:3.0.8-1.fc37                        rpm        
 opus                                                          1.3.1-11.fc37                         rpm        
@@ -424,7 +419,6 @@ polkit-libs                                                   121-4.fc37.2      
 polkit-pkla-compat                                            0.1-22.fc37                           rpm        
 popt                                                          1.19-1.fc37                           rpm        
 procps-ng                                                     3.3.17-6.fc37.2                       rpm        
-protobuf-c                                                    1.4.1-2.fc37                          rpm        
 publicsuffix-list-dafsa                                       20230318-1.fc37                       rpm        
 pulseaudio                                                    16.1-4.fc37                           rpm        
 pulseaudio-libs                                               16.1-4.fc37                           rpm        
@@ -449,7 +443,7 @@ rpm-libs                                                      4.18.0-1.fc37     
 rpm-plugin-selinux                                            4.18.0-1.fc37                         rpm        
 rpm-sign-libs                                                 4.18.0-1.fc37                         rpm        
 rtkit                                                         0.11-33.fc37                          rpm        
-runc                                                          2:1.1.4-1.fc37                        rpm        
+runc                                                          2:1.1.6-1.fc37                        rpm        
 sed                                                           4.8-11.fc37                           rpm        
 selinux-policy                                                37.19-1.fc37                          rpm        
 selinux-policy-targeted                                       37.19-1.fc37                          rpm        
@@ -475,8 +469,8 @@ tpm2-tss                                                      3.2.2-1.fc37      
 tzdata                                                        2022g-1.fc37                          rpm        
 util-linux                                                    2.38.1-1.fc37                         rpm        
 util-linux-core                                               2.38.1-1.fc37                         rpm        
-vim-data                                                      2:9.0.1429-1.fc37                     rpm        
-vim-minimal                                                   2:9.0.1429-1.fc37                     rpm        
+vim-data                                                      2:9.0.1440-1.fc37                     rpm        
+vim-minimal                                                   2:9.0.1440-1.fc37                     rpm        
 webrtc-audio-processing                                       0.3.1-9.fc37                          rpm        
 which                                                         2.21-39.fc37                          rpm        
 xcb-util                                                      0.4.0-20.fc37                         rpm        
