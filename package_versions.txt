@@ -324,7 +324,7 @@ nghttp2-libs                                                                 1.4
 nspr                                                                         4.33-r0                                            apk        
 nss                                                                          3.78.1-r0                                          apk        
 numactl                                                                      2.0.14-r0                                          apk        
-obconf-qt                                                                    0.16.2-r0                                          apk        
+obconf-qt                                                                    0.16.2-r1                                          apk        
 oniguruma                                                                    6.9.8-r0                                           apk        
 openbox                                                                      3.6.1-r3                                           apk        
 openbox-libs                                                                 3.6.1-r3                                           apk        
