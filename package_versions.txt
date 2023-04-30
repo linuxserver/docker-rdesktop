@@ -4,9 +4,9 @@ PyJWT                             2.3.0                                    pytho
 SecretStorage                     3.3.1                                    python     
 adduser                           3.118ubuntu5                             deb        
 adwaita-icon-theme                41.0-1ubuntu1                            deb        
-apt                               2.4.8                                    deb        
+apt                               2.4.9                                    deb        
 apt-transport-https               2.4.9                                    deb        
-apt-utils                         2.4.8                                    deb        
+apt-utils                         2.4.9                                    deb        
 base-files                        12ubuntu4.3                              deb        
 base-passwd                       3.5.52build1                             deb        
 bash                              5.1-6ubuntu1                             deb        
@@ -32,11 +32,11 @@ diffutils                         1:3.8-0ubuntu2                           deb
 dirmngr                           2.2.27-3ubuntu2.1                        deb        
 distro                            1.7.0                                    python     
 distro-info-data                  0.52ubuntu0.3                            deb        
-docker-ce-cli                     5:23.0.4-1~ubuntu.18.04~bionic           deb        
+docker-ce-cli                     5:23.0.5-1~ubuntu.18.04~bionic           deb        
 dpkg                              1.21.1ubuntu2.1                          deb        
 e2fsprogs                         1.46.5-2ubuntu1.1                        deb        
 findutils                         4.8.0-1ubuntu3                           deb        
-firefox                           112.0.1+build1-0ubuntu0.22.04.1~mt1      deb        
+firefox                           112.0.2+build1-0ubuntu0.22.04.1~mt1      deb        
 fontconfig                        2.13.1-4.2ubuntu5                        deb        
 fontconfig-config                 2.13.1-4.2ubuntu5                        deb        
 fonts-dejavu-core                 2.37-2build1                             deb        
@@ -85,7 +85,7 @@ lazr.uri                          1.0.6                                    pytho
 libacl1                           2.3.1-1                                  deb        
 libapparmor1                      3.0.4-2ubuntu2.2                         deb        
 libappstream4                     0.15.2-2                                 deb        
-libapt-pkg6.0                     2.4.8                                    deb        
+libapt-pkg6.0                     2.4.9                                    deb        
 libargon2-1                       0~20171227-0.3                           deb        
 libasound2                        1.2.6.1-1ubuntu1                         deb        
 libasound2-data                   1.2.6.1-1ubuntu1                         deb        
@@ -166,9 +166,9 @@ libgirepository-1.0-1             1.72.0-1                                 deb
 libgl1                            1.4.0-1                                  deb        
 libgl1-mesa-dri                   22.2.5-0ubuntu0.1~22.04.1                deb        
 libglapi-mesa                     22.2.5-0ubuntu0.1~22.04.1                deb        
-libglib2.0-0                      2.72.4-0ubuntu1                          deb        
-libglib2.0-bin                    2.72.4-0ubuntu1                          deb        
-libglib2.0-data                   2.72.4-0ubuntu1                          deb        
+libglib2.0-0                      2.72.4-0ubuntu2                          deb        
+libglib2.0-bin                    2.72.4-0ubuntu2                          deb        
+libglib2.0-data                   2.72.4-0ubuntu2                          deb        
 libglvnd0                         1.4.0-1                                  deb        
 libglx-mesa0                      22.2.5-0ubuntu0.1~22.04.1                deb        
 libglx0                           1.4.0-1                                  deb        
@@ -387,7 +387,7 @@ netcat                            1.218-4ubuntu1                           deb
 netcat-openbsd                    1.218-4ubuntu1                           deb        
 oauthlib                          3.2.0                                    python     
 openssh-client                    1:8.9p1-3ubuntu0.1                       deb        
-openssl                           3.0.2-0ubuntu1.8                         deb        
+openssl                           3.0.2-0ubuntu1.9                         deb        
 packagekit                        1.2.5-2ubuntu2                           deb        
 passwd                            1:4.8.1-2ubuntu2.1                       deb        
 perl                              5.34.0-3ubuntu1.1                        deb        
