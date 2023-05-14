@@ -16,8 +16,8 @@ brotli-libs                                                                  1.0
 bubblewrap                                                                   0.6.2-r0                                           apk        
 busybox                                                                      1.35.0                                             binary     
 busybox                                                                      1.35.0-r17                                         apk        
-ca-certificates                                                              20220614-r0                                        apk        
-ca-certificates-bundle                                                       20220614-r0                                        apk        
+ca-certificates                                                              20230506-r0                                        apk        
+ca-certificates-bundle                                                       20230506-r0                                        apk        
 cairo                                                                        1.17.4-r2                                          apk        
 cairo-gobject                                                                1.17.4-r2                                          apk        
 cairomm                                                                      1.14.3-r0                                          apk        
