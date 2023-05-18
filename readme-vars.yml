@@ -2,6 +2,7 @@
 
 # project information
 project_name: rdesktop
+project_lsio_github_repo_url: "https://github.com/linuxserver/docker-{{ project_name }}"
 full_custom_readme: |
   {% raw -%}
   Up to date documentation is available [here](https://github.com/linuxserver/docker-rdesktop/blob/master/README.md).
