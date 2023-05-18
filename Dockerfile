@@ -11,11 +11,18 @@ LABEL maintainer="thelamer"
 RUN \
   echo "**** install packages ****" && \
   apk add --no-cache \
-    firefox \
-    font-noto \
+    chromium \
     i3status \
     i3wm \
-    xterm && \
+    st \
+    util-linux-misc && \
+  echo "**** application tweaks ****" && \
+  mv \
+    /usr/bin/chromium-browser \
+    /usr/bin/chromium-real && \
+  ln -s \
+    /usr/bin/st \
+    /usr/bin/x-terminal-emulator && \
   echo "**** cleanup ****" && \
   rm -rf \
     /tmp/*
