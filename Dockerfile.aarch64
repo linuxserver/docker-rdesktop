@@ -14,13 +14,19 @@ RUN \
     faenza-icon-theme \
     faenza-icon-theme-xfce4-appfinder \
     faenza-icon-theme-xfce4-panel \
-    firefox \
+    chromium \
     mousepad \
+    ristretto \
     thunar \
+    util-linux-misc \
     xfce4 \
     xfce4-pulseaudio-plugin \
     xfce4-terminal && \
   echo "**** cleanup ****" && \
+  rm -f \
+    /etc/xdg/autostart/xfce4-power-manager.desktop \
+    /etc/xdg/autostart/xscreensaver.desktop \
+    /usr/share/xfce4/panel/plugins/power-manager-plugin.desktop && \
   rm -rf \
     /tmp/*
 
