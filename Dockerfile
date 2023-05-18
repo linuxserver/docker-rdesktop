@@ -1,4 +1,4 @@
-FROM ghcr.io/linuxserver/baseimage-rdesktop:3.16
+FROM ghcr.io/linuxserver/baseimage-rdesktop:3.18
 
 # set version label
 ARG BUILD_DATE
