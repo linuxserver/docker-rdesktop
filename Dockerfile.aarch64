@@ -10,9 +10,21 @@ LABEL maintainer="thelamer"
 RUN \
   echo "**** install packages ****" && \
   apk add --no-cache \
-    firefox \
-    font-noto \
-    mate-desktop-environment && \
+    chromium \
+    mate-desktop-environment \
+    util-linux-misc && \
+  echo "**** application tweaks ****" && \
+  sed -i \
+    's#^Exec=.*#Exec=/usr/local/bin/wrapped-chromium#g' \
+    /usr/share/applications/chromium.desktop && \
+  echo "**** mate tweaks ****" && \
+  sed -i \
+    '/compositing-manager/{n;s/.*/      <default>false<\/default>/}' \
+    /usr/share/glib-2.0/schemas/org.mate.marco.gschema.xml && \
+    glib-compile-schemas /usr/share/glib-2.0/schemas/ && \
+  rm -f \
+    /etc/xdg/autostart/mate-power-manager.desktop \
+    /etc/xdg/autostart/mate-screensaver.desktop && \
   echo "**** cleanup ****" && \
   rm -rf \
     /tmp/*
