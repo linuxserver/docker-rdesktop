@@ -11,14 +11,17 @@ LABEL maintainer="thelamer"
 RUN \
   echo "**** install packages ****" && \
   apk add --no-cache \
-    firefox \
-    font-noto \
-    openbox \
-    xterm && \
-  apk add --no-cache --repository=http://dl-cdn.alpinelinux.org/alpine/edge/community \
-    obconf-qt && \
-  echo "**** openbox tweaks ****" && \
-  ln -s /usr/bin/obconf-qt /usr/bin/obconf && \
+    chromium \
+    obconf-qt \
+    st \
+    util-linux-misc && \
+  echo "**** application tweaks ****" && \
+  mv \
+    /usr/bin/chromium-browser \
+    /usr/bin/chromium-real && \
+  ln -s \
+    /usr/bin/st \
+    /usr/bin/x-terminal-emulator && \
   echo "**** cleanup ****" && \
   rm -rf \
     /tmp/*
