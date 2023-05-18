@@ -22,6 +22,11 @@ RUN \
     xfce4 \
     xfce4-pulseaudio-plugin \
     xfce4-terminal && \
+  echo "**** application tweaks ****" && \
+  sed -i \
+    's#^Exec=.*#Exec=/usr/local/bin/wrapped-chromium#g' \
+    /usr/share/applications/chromium.desktop && \
+  mv /usr/bin/exo-open /usr/bin/exo-open-real && \
   echo "**** cleanup ****" && \
   rm -f \
     /etc/xdg/autostart/xfce4-power-manager.desktop \
