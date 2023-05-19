@@ -1,4 +1,4 @@
-FROM ghcr.io/linuxserver/baseimage-rdesktop:3.16
+FROM ghcr.io/linuxserver/baseimage-rdesktop:3.18
 
 # set version label
 ARG BUILD_DATE
@@ -11,12 +11,30 @@ LABEL maintainer="thelamer"
 RUN \
   echo "**** install packages ****" && \
   apk add --no-cache \
+    chromium \
     dolphin \
-    firefox \
-    font-noto \
-    kate \
     konsole \
-    plasma && \
+    kwrite \
+    breeze \
+    breeze-gtk \
+    breeze-icons \
+    kde-gtk-config \
+    khotkeys \
+    kmenuedit \
+    plasma-browser-integration \
+    plasma-desktop \
+    plasma-systemmonitor \
+    plasma-workspace-wallpapers \
+    systemsettings \
+    util-linux-misc && \
+ echo "**** application tweaks ****" && \
+  sed -i \
+    's#^Exec=.*#Exec=/usr/local/bin/wrapped-chromium#g' \
+    /usr/share/applications/chromium.desktop && \
+  echo "**** kde tweaks ****" && \
+  sed -i \
+    's/applications:org.kde.discover.desktop,/applications:org.kde.konsole.desktop,/g' \
+    /usr/share/plasma/plasmoids/org.kde.plasma.taskmanager/contents/config/main.xml && \
   echo "**** cleanup ****" && \
   rm -rf \
     /tmp/*
