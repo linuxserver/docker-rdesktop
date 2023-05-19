@@ -13,6 +13,7 @@ RUN \
   dnf install -y --setopt=install_weak_deps=False --best \
     chromium \
     obconf-qt \
+    openbox \
     st && \
   echo "**** application tweaks ****" && \
   mv \
