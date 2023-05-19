@@ -1,6 +1,6 @@
 # syntax=docker/dockerfile:1
 
-FROM ghcr.io/linuxserver/baseimage-rdesktop:fedora-37
+FROM ghcr.io/linuxserver/baseimage-rdesktop:fedora-38
 
 # set version label
 ARG BUILD_DATE
@@ -11,15 +11,24 @@ LABEL maintainer="thelamer"
 RUN \
   echo "**** install packages ****" && \
   dnf install -y --setopt=install_weak_deps=False --best \
-    firefox \
+    chromium \
     dmenu \
     feh \
     i3 \
-    i3status && \
+    i3status \
+    st && \
+  echo "**** application tweaks ****" && \
+  mv \
+    /usr/bin/chromium-browser \
+    /usr/bin/chromium-real && \
+  ln -s \
+    /usr/bin/st-fedora \
+    /usr/bin/x-terminal-emulator && \
   echo "**** cleanup ****" && \
   dnf autoremove -y && \
   dnf clean all && \
   rm -rf \
+    /config/.cache \
     /tmp/*
 
 # add local files
