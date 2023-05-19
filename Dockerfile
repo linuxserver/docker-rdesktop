@@ -1,4 +1,4 @@
-FROM ghcr.io/linuxserver/baseimage-rdesktop:3.16
+FROM ghcr.io/linuxserver/baseimage-rdesktop:3.18
 
 # set version label
 ARG BUILD_DATE
@@ -11,11 +11,18 @@ LABEL maintainer="thelamer"
 RUN \
   echo "**** install packages ****" && \
   apk add --no-cache \
-    firefox \
-    font-noto \
+    chromium \
     i3status \
     i3wm \
-    xterm && \
+    st \
+    util-linux-misc && \
+  echo "**** application tweaks ****" && \
+  mv \
+    /usr/bin/chromium-browser \
+    /usr/bin/chromium-real && \
+  ln -s \
+    /usr/bin/st \
+    /usr/bin/x-terminal-emulator && \
   echo "**** cleanup ****" && \
   rm -rf \
     /tmp/*
