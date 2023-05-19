@@ -13,6 +13,7 @@ RUN \
   apk add --no-cache \
     chromium \
     obconf-qt \
+    openbox \
     st \
     util-linux-misc && \
   echo "**** application tweaks ****" && \
