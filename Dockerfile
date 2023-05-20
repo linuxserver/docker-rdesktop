@@ -17,13 +17,30 @@ RUN \
   apt-get install --no-install-recommends -y \
     dolphin \
     firefox \
-    kate \
-    kmix \
+    gwenview \
+    kde-config-gtk-style \
+    kdialog \
+    kfind \
+    khotkeys \
+    kio-extras \
+    knewstuff-dialog \
     konsole \
-    kubuntu-desktop && \
+    ksystemstats \
+    kwin-addons \
+    kwin-x11 \
+    kwrite \
+    plasma-desktop \
+    plasma-workspace \
+    qml-module-qt-labs-platform \
+    systemsettings && \
+  echo "**** kde tweaks ****" && \
+  sed -i \
+    's/applications:org.kde.discover.desktop,/applications:org.kde.konsole.desktop,/g' \
+    /usr/share/plasma/plasmoids/org.kde.plasma.taskmanager/contents/config/main.xml && \
   echo "**** cleanup ****" && \
   apt-get autoclean && \
   rm -rf \
+    /config/.cache \
     /var/lib/apt/lists/* \
     /var/tmp/* \
     /tmp/*
