@@ -10,15 +10,24 @@ LABEL maintainer="thelamer"
 RUN \
   echo "**** install packages ****" && \
   pacman -Sy --noconfirm --needed \
-    firefox \
+    chromium \
     mousepad \
-    pavucontrol \
     xfce4 \
     xfce4-pulseaudio-plugin && \
+  echo "**** application tweaks ****" && \
+  sed -i \
+    's#^Exec=.*#Exec=/usr/local/bin/wrapped-chromium#g' \
+    /usr/share/applications/chromium.desktop && \
+  mv /usr/bin/exo-open /usr/bin/exo-open-real && \
+  echo "**** xfce tweaks ****" && \
+  rm -f \
+    /etc/xdg/autostart/xfce4-power-manager.desktop \
+    /etc/xdg/autostart/xfce-polkit.desktop \
+    /etc/xdg/autostart/xscreensaver.desktop \
+    /usr/share/xfce4/panel/plugins/power-manager-plugin.desktop && \
   echo "**** cleanup ****" && \
-  pacman -Rns --noconfirm -dd \
-    xfce4-power-manager && \
   rm -rf \
+    /config/.cache \
     /tmp/* \
     /var/cache/pacman/pkg/* \
     /var/lib/pacman/sync/*
