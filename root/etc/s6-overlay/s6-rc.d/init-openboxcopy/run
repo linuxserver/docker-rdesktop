@@ -1,4 +1,5 @@
 #!/usr/bin/with-contenv bash
+# shellcheck shell=bash
 
 # default file copies first run
 if [[ ! -f /config/.config/openbox/menu.xml ]]; then
