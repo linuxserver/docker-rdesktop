@@ -18,6 +18,8 @@ apturl                             0.5.2                                    pyth
 apturl                             0.5.2ubuntu22                            deb           
 apturl-common                      0.5.2ubuntu22                            deb           
 at-spi2-core                       2.44.0-3                                 deb           
+ayatana-indicator-application      22.2.0-1                                 deb           
+ayatana-indicator-common           0.9.7-1                                  deb           
 base-files                         12ubuntu4.3                              deb           
 base-passwd                        3.5.52build1                             deb           
 bash                               5.1-6ubuntu1                             deb           
@@ -34,7 +36,7 @@ click                              8.0.3                                    pyth
 colorama                           0.4.4                                    python        
 coreutils                          8.32-4.1ubuntu1                          deb           
 cpp                                4:11.2.0-1ubuntu1                        deb           
-cpp-11                             11.3.0-1ubuntu1~22.04                    deb           
+cpp-11                             11.3.0-1ubuntu1~22.04.1                  deb           
 cryptography                       3.4.8                                    python        
 cryptsetup                         2:2.4.3-1ubuntu1.1                       deb           
 cryptsetup-bin                     2:2.4.3-1ubuntu1.1                       deb           
@@ -58,7 +60,7 @@ distro-info                        1.1build1                                pyth
 distro-info-data                   0.52ubuntu0.4                            deb           
 dmidecode                          3.3-3ubuntu0.1                           deb           
 dmsetup                            2:1.02.175-2.1ubuntu4                    deb           
-docker-ce-cli                      5:23.0.6-1~ubuntu.18.04~bionic           deb           
+docker-ce-cli                      5:24.0.0-1~ubuntu.18.04~bionic           deb           
 dpkg                               1.21.1ubuntu2.1                          deb           
 e2fsprogs                          1.46.5-2ubuntu1.1                        deb           
 emacsen-common                     3.0.4                                    deb           
@@ -74,7 +76,7 @@ fonts-urw-base35                   20200910-1                               deb
 foomatic-db-compressed-ppds        20220223-0ubuntu1                        deb           
 fortune-mod                        1:1.99.1-7.1                             deb           
 gawk                               1:5.1.0-1build3                          deb           
-gcc-11-base                        11.3.0-1ubuntu1~22.04                    deb           
+gcc-11-base                        11.3.0-1ubuntu1~22.04.1                  deb           
 gcc-12-base                        12.1.0-2ubuntu1~22.04                    deb           
 gdisk                              1.0.8-4build1                            deb           
 gettext-base                       0.21-4ubuntu4                            deb           
@@ -537,8 +539,8 @@ libwayland-egl1                    1.20.0-1ubuntu0.1                        deb
 libwayland-server0                 1.20.0-1ubuntu0.1                        deb           
 libwbclient0                       2:4.15.13+dfsg-0ubuntu1.1                deb           
 libwebkit2gtk-4.0-37               2.38.6-0ubuntu0.22.04.1                  deb           
-libwebp7                           1.2.2-2                                  deb           
-libwebpdemux2                      1.2.2-2                                  deb           
+libwebp7                           1.2.2-2ubuntu0.22.04.1                   deb           
+libwebpdemux2                      1.2.2-2ubuntu0.22.04.1                   deb           
 libwebrtc-audio-processing1        0.3.1-0ubuntu5                           deb           
 libwnck-3-0                        40.1-1                                   deb           
 libwnck-3-common                   40.1-1                                   deb           
