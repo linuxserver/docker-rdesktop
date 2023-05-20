@@ -15,15 +15,18 @@ RUN \
   apt-get update && \
   DEBIAN_FRONTEND=noninteractive \
   apt-get install --no-install-recommends -y \
-    featherpad \
     firefox \
-    obconf \
     openbox \
-    python2-minimal \
-    xterm && \
+    obconf \
+    stterm && \
+  echo "**** application tweaks ****" && \
+  update-alternatives --set \
+    x-terminal-emulator \
+    /usr/bin/st && \
   echo "**** cleanup ****" && \
   apt-get autoclean && \
   rm -rf \
+    /config/.cache \
     /var/lib/apt/lists/* \
     /var/tmp/* \
     /tmp/*
