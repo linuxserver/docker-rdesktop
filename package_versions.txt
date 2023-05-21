@@ -38,7 +38,7 @@ dirmngr                                  2.2.27-3ubuntu2.1                      
 distro                                   1.7.0                                    python     
 distro-info-data                         0.52ubuntu0.4                            deb        
 dmidecode                                3.3-3ubuntu0.1                           deb        
-docker-ce-cli                            5:24.0.0-1~ubuntu.18.04~bionic           deb        
+docker-ce-cli                            5:24.0.1-1~ubuntu.22.04~jammy            deb        
 dolphin                                  4:21.12.3-0ubuntu1                       deb        
 dpkg                                     1.21.1ubuntu2.1                          deb        
 drkonqi                                  5.24.5-0ubuntu0.1                        deb        
