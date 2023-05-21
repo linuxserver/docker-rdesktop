@@ -60,7 +60,7 @@ distro-info                        1.1build1                                pyth
 distro-info-data                   0.52ubuntu0.4                            deb           
 dmidecode                          3.3-3ubuntu0.1                           deb           
 dmsetup                            2:1.02.175-2.1ubuntu4                    deb           
-docker-ce-cli                      5:24.0.0-1~ubuntu.18.04~bionic           deb           
+docker-ce-cli                      5:24.0.1-1~ubuntu.22.04~jammy            deb           
 dpkg                               1.21.1ubuntu2.1                          deb           
 e2fsprogs                          1.46.5-2ubuntu1.1                        deb           
 emacsen-common                     3.0.4                                    deb           
