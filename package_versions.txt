@@ -443,7 +443,7 @@ libxinerama                                                                   1.
 libxkbcommon                                                                  1.5.0-r2                                           apk        
 libxkbfile                                                                    1.1.2-r2                                           apk        
 libxklavier                                                                   5.4-r7                                             apk        
-libxml2                                                                       2.11.3-r0                                          apk        
+libxml2                                                                       2.11.4-r0                                          apk        
 libxml2-utils                                                                 2.11.4-r0                                          apk        
 libxmu                                                                        1.1.4-r2                                           apk        
 libxpm                                                                        3.5.16-r1                                          apk        
