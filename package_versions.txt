@@ -27,8 +27,8 @@ cairomm                                                       1.14.4-7.fc38     
 caja-schemas                                                  1.26.1-4.fc38                         rpm        
 cdparanoia-libs                                               10.2-41.fc38                          rpm        
 checkpolicy                                                   3.5-1.fc38                            rpm        
-chromium                                                      113.0.5672.63-1.fc38                  rpm        
-chromium-common                                               113.0.5672.63-1.fc38                  rpm        
+chromium                                                      113.0.5672.92-1.fc38                  rpm        
+chromium-common                                               113.0.5672.92-1.fc38                  rpm        
 cjson                                                         1.7.14-7.fc38                         rpm        
 codec2                                                        1.0.5-2.fc38                          rpm        
 colord-libs                                                   1.4.6-4.fc38                          rpm        
@@ -301,7 +301,7 @@ libksba                                                       1.6.3-2.fc38      
 libldac                                                       2.0.2.3-12.fc38                       rpm        
 libldb                                                        2.7.2-1.fc38                          rpm        
 libmanette                                                    0.2.6-6.fc38                          rpm        
-libmatekbd                                                    1.26.0-4.fc38                         rpm        
+libmatekbd                                                    1.26.1-1.fc38                         rpm        
 libmatemixer                                                  1.26.0-4.fc38                         rpm        
 libmateweather                                                1.26.0-4.fc38                         rpm        
 libmateweather-data                                           1.26.0-4.fc38                         rpm        
@@ -421,12 +421,12 @@ mate-media                                                    1.26.0-7.fc38     
 mate-menus                                                    1.26.1-1.fc38                         rpm        
 mate-menus-libs                                               1.26.1-1.fc38                         rpm        
 mate-menus-preferences-category-menu                          1.26.1-1.fc38                         rpm        
-mate-notification-daemon                                      1.26.0-5.fc38                         rpm        
+mate-notification-daemon                                      1.26.1-1.fc38                         rpm        
 mate-panel                                                    1.26.3-1.fc38                         rpm        
 mate-panel-libs                                               1.26.3-1.fc38                         rpm        
 mate-polkit                                                   1.26.1-2.fc38                         rpm        
 mate-session-manager                                          1.26.1-1.fc38                         rpm        
-mate-settings-daemon                                          1.26.0-8.fc38                         rpm        
+mate-settings-daemon                                          1.26.1-1.fc38                         rpm        
 mate-terminal                                                 1.26.1-1.fc38                         rpm        
 mate-themes                                                   3.22.23-4.fc38                        rpm        
 mate-user-guide                                               1.26.1-1.fc38                         rpm        
@@ -526,7 +526,7 @@ perl-parent                                                   1:0.241-1.fc38    
 perl-podlators                                                1:5.01-2.fc38                         rpm        
 perl-vars                                                     0:1.05-497.fc38                       rpm        
 pigz                                                          2.7-3.fc38                            rpm        
-pipewire-libs                                                 0.3.70-1.fc38                         rpm        
+pipewire-libs                                                 0.3.71-2.fc38                         rpm        
 pixman                                                        0.42.2-1.fc38                         rpm        
 pluma                                                         1.26.1-1.fc38                         rpm        
 pluma-data                                                    1.26.1-1.fc38                         rpm        
