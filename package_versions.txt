@@ -24,8 +24,8 @@ cairo-gobject                                                 1.17.8-4.fc38     
 cairomm                                                       1.14.4-7.fc38                         rpm        
 cdparanoia-libs                                               10.2-41.fc38                          rpm        
 checkpolicy                                                   3.5-1.fc38                            rpm        
-chromium                                                      113.0.5672.63-1.fc38                  rpm        
-chromium-common                                               113.0.5672.63-1.fc38                  rpm        
+chromium                                                      113.0.5672.92-1.fc38                  rpm        
+chromium-common                                               113.0.5672.92-1.fc38                  rpm        
 cjson                                                         1.7.14-7.fc38                         rpm        
 codec2                                                        1.0.5-2.fc38                          rpm        
 colord-libs                                                   1.4.6-4.fc38                          rpm        
@@ -462,7 +462,7 @@ pcre2                                                         10.42-1.fc38.1    
 pcre2-syntax                                                  10.42-1.fc38.1                        rpm        
 pcre2-utf16                                                   10.42-1.fc38.1                        rpm        
 pigz                                                          2.7-3.fc38                            rpm        
-pipewire-libs                                                 0.3.70-1.fc38                         rpm        
+pipewire-libs                                                 0.3.71-2.fc38                         rpm        
 pixman                                                        0.42.2-1.fc38                         rpm        
 policycoreutils                                               3.5-1.fc38                            rpm        
 policycoreutils-python-utils                                  3.5-1.fc38                            rpm        
