@@ -216,7 +216,7 @@ libcanberra-pulse                  0.30-10ubuntu1.22.04.1                   deb
 libcanberra0                       0.30-10ubuntu1.22.04.1                   deb           
 libcap-ng0                         0.7.9-2.2build3                          deb           
 libcap2                            1:2.44-1build3                           deb           
-libcap2-bin                        1:2.44-1build3                           deb           
+libcap2-bin                        1:2.44-1ubuntu0.22.04.1                  deb           
 libcbor0.8                         0.8.0-2ubuntu1                           deb           
 libcdio-cdda2                      10.2+2.0.0-1build3                       deb           
 libcdio-paranoia2                  10.2+2.0.0-1build3                       deb           
@@ -290,9 +290,9 @@ libglapi-mesa                      22.2.5-0ubuntu0.1~22.04.1                deb
 libgles2                           1.4.0-1                                  deb           
 libglib-object-introspection-perl  0.049-1+build2                           deb           
 libglib-perl                       3:1.329.3-2build1                        deb           
-libglib2.0-0                       2.72.4-0ubuntu2                          deb           
-libglib2.0-bin                     2.72.4-0ubuntu2                          deb           
-libglib2.0-data                    2.72.4-0ubuntu2                          deb           
+libglib2.0-0                       2.72.4-0ubuntu2.2                        deb           
+libglib2.0-bin                     2.72.4-0ubuntu2.2                        deb           
+libglib2.0-data                    2.72.4-0ubuntu2.2                        deb           
 libglu1-mesa                       9.0.2-1                                  deb           
 libglvnd0                          1.4.0-1                                  deb           
 libglx-mesa0                       22.2.5-0ubuntu0.1~22.04.1                deb           
@@ -546,10 +546,10 @@ libwnck-3-0                        40.1-1                                   deb
 libwnck-3-common                   40.1-1                                   deb           
 libwoff1                           1.0.2-1build4                            deb           
 libwrap0                           7.6.q-31build2                           deb           
-libx11-6                           2:1.7.5-1                                deb           
-libx11-data                        2:1.7.5-1                                deb           
-libx11-dev                         2:1.7.5-1                                deb           
-libx11-xcb1                        2:1.7.5-1                                deb           
+libx11-6                           2:1.7.5-1ubuntu0.2                       deb           
+libx11-data                        2:1.7.5-1ubuntu0.2                       deb           
+libx11-dev                         2:1.7.5-1ubuntu0.2                       deb           
+libx11-xcb1                        2:1.7.5-1ubuntu0.2                       deb           
 libxau-dev                         1:1.0.9-1build5                          deb           
 libxau6                            1:1.0.9-1build5                          deb           
 libxaw7                            2:1.0.14-1                               deb           
@@ -752,7 +752,7 @@ ubuntu-advantage-desktop-daemon    1.10~22.04.1                             deb
 ubuntu-advantage-tools             27.14.4~22.04                            deb           
 ubuntu-advantage-tools             8001                                     python        
 ubuntu-drivers-common              0.0.0                                    python        
-ubuntu-drivers-common              1:0.9.6.1                                deb           
+ubuntu-drivers-common              1:0.9.6.2~0.22.04.3                      deb           
 ubuntu-keyring                     2021.03.26                               deb           
 ubuntu-mate-artwork                22.04.17                                 deb           
 ubuntu-mate-core                   1.282                                    deb           
