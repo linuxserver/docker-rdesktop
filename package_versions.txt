@@ -112,7 +112,7 @@ libcairo-gobject2                 1.16.0-5ubuntu2                          deb
 libcairo2                         1.16.0-5ubuntu2                          deb        
 libcap-ng0                        0.7.9-2.2build3                          deb        
 libcap2                           1:2.44-1build3                           deb        
-libcap2-bin                       1:2.44-1build3                           deb        
+libcap2-bin                       1:2.44-1ubuntu0.22.04.1                  deb        
 libcbor0.8                        0.8.0-2ubuntu1                           deb        
 libcolord2                        1.4.6-1                                  deb        
 libcom-err2                       1.46.5-2ubuntu1.1                        deb        
@@ -166,9 +166,9 @@ libgirepository-1.0-1             1.72.0-1                                 deb
 libgl1                            1.4.0-1                                  deb        
 libgl1-mesa-dri                   22.2.5-0ubuntu0.1~22.04.1                deb        
 libglapi-mesa                     22.2.5-0ubuntu0.1~22.04.1                deb        
-libglib2.0-0                      2.72.4-0ubuntu2                          deb        
-libglib2.0-bin                    2.72.4-0ubuntu2                          deb        
-libglib2.0-data                   2.72.4-0ubuntu2                          deb        
+libglib2.0-0                      2.72.4-0ubuntu2.2                        deb        
+libglib2.0-bin                    2.72.4-0ubuntu2.2                        deb        
+libglib2.0-data                   2.72.4-0ubuntu2.2                        deb        
 libglvnd0                         1.4.0-1                                  deb        
 libglx-mesa0                      22.2.5-0ubuntu0.1~22.04.1                deb        
 libglx0                           1.4.0-1                                  deb        
@@ -308,10 +308,10 @@ libwayland-server0                1.20.0-1ubuntu0.1                        deb
 libwebp7                          1.2.2-2ubuntu0.22.04.1                   deb        
 libwebrtc-audio-processing1       0.3.1-0ubuntu5                           deb        
 libwrap0                          7.6.q-31build2                           deb        
-libx11-6                          2:1.7.5-1                                deb        
-libx11-data                       2:1.7.5-1                                deb        
-libx11-dev                        2:1.7.5-1                                deb        
-libx11-xcb1                       2:1.7.5-1                                deb        
+libx11-6                          2:1.7.5-1ubuntu0.2                       deb        
+libx11-data                       2:1.7.5-1ubuntu0.2                       deb        
+libx11-dev                        2:1.7.5-1ubuntu0.2                       deb        
+libx11-xcb1                       2:1.7.5-1ubuntu0.2                       deb        
 libxau-dev                        1:1.0.9-1build5                          deb        
 libxau6                           1:1.0.9-1build5                          deb        
 libxaw7                           2:1.0.14-1                               deb        
