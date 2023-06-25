@@ -5,8 +5,8 @@ accountsservice                                                               23
 alpine-baselayout                                                             3.4.3-r1                                           apk        
 alpine-baselayout-data                                                        3.4.3-r1                                           apk        
 alpine-keys                                                                   2.4-r1                                             apk        
-alpine-release                                                                3.18.0-r0                                          apk        
-alsa-lib                                                                      1.2.9-r0                                           apk        
+alpine-release                                                                3.18.2-r0                                          apk        
+alsa-lib                                                                      1.2.9-r1                                           apk        
 aom-libs                                                                      3.6.1-r0                                           apk        
 apk-tools                                                                     2.14.0-r2                                          apk        
 appstream                                                                     0.16.1-r4                                          apk        
@@ -41,7 +41,7 @@ cloud.google.com/go/compute/metadata                                          v0
 containerd                                                                    1.7.2-r0                                           apk        
 coreutils                                                                     9.3-r1                                             apk        
 cryptsetup-libs                                                               2.6.1-r3                                           apk        
-cups-libs                                                                     2.4.5-r0                                           apk        
+cups-libs                                                                     2.4.6-r0                                           apk        
 curl                                                                          8.1.2-r0                                           apk        
 dbus                                                                          1.14.8-r0                                          apk        
 dbus-daemon-launch-helper                                                     1.14.8-r0                                          apk        
@@ -49,7 +49,7 @@ dbus-libs                                                                     1.
 dbus-x11                                                                      1.14.8-r0                                          apk        
 dconf                                                                         0.40.0-r4                                          apk        
 device-mapper-event-libs                                                      2.03.21-r3                                         apk        
-device-mapper-libs                                                            2.03.21-r2                                         apk        
+device-mapper-libs                                                            2.03.21-r3                                         apk        
 dmraid                                                                        1.0.0_rc16-r4                                      apk        
 docbook-xml                                                                   4.5-r8                                             apk        
 docbook-xsl                                                                   1.79.2-r8                                          apk        
@@ -63,12 +63,12 @@ elogind-common                                                                24
 encodings                                                                     1.0.7-r1                                           apk        
 eudev-libs                                                                    3.2.11-r8                                          apk        
 exiv2                                                                         0.27.6-r2                                          apk        
-ffmpeg-libavcodec                                                             6.0-r14                                            apk        
-ffmpeg-libavformat                                                            6.0-r14                                            apk        
-ffmpeg-libavutil                                                              6.0-r14                                            apk        
-ffmpeg-libswresample                                                          6.0-r14                                            apk        
+ffmpeg-libavcodec                                                             6.0-r15                                            apk        
+ffmpeg-libavformat                                                            6.0-r15                                            apk        
+ffmpeg-libavutil                                                              6.0-r15                                            apk        
+ffmpeg-libswresample                                                          6.0-r15                                            apk        
 fftw-single-libs                                                              3.3.10-r2                                          apk        
-file                                                                          5.44-r3                                            apk        
+file                                                                          5.44-r4                                            apk        
 flac-libs                                                                     1.4.2-r2                                           apk        
 font-alias                                                                    1.0.5-r0                                           apk        
 font-cursor-misc                                                              1.0.4-r1                                           apk        
@@ -333,8 +333,8 @@ gpsd                                                                          3.
 graphene                                                                      1.10.8-r2                                          apk        
 graphite2                                                                     1.3.14-r5                                          apk        
 gsettings-desktop-schemas                                                     44.0-r0                                            apk        
-gst-plugins-base                                                              1.22.3-r0                                          apk        
-gstreamer                                                                     1.22.3-r0                                          apk        
+gst-plugins-base                                                              1.22.4-r0                                          apk        
+gstreamer                                                                     1.22.4-r0                                          apk        
 gtk+2.0                                                                       2.24.33-r9                                         apk        
 gtk+3.0                                                                       3.24.38-r0                                         apk        
 gtk-engines                                                                   2.21.0-r3                                          apk        
@@ -452,7 +452,7 @@ ldb                                                                           2.
 libaccounts-glib                                                              1.26-r2                                            apk        
 libaccounts-qt                                                                1.16-r3                                            apk        
 libacl                                                                        2.3.1-r3                                           apk        
-libassuan                                                                     2.5.5-r2                                           apk        
+libassuan                                                                     2.5.6-r0                                           apk        
 libasyncns                                                                    0.8-r1                                             apk        
 libatasmart                                                                   0.19-r2                                            apk        
 libatk-1.0                                                                    2.48.3-r0                                          apk        
@@ -502,12 +502,12 @@ libintl                                                                       0.
 libjpeg-turbo                                                                 2.1.5.1-r3                                         apk        
 libjxl                                                                        0.8.2-r0                                           apk        
 libkexiv2                                                                     23.04.2-r0                                         apk        
-libksba                                                                       1.6.3-r2                                           apk        
+libksba                                                                       1.6.4-r0                                           apk        
 libkscreen                                                                    5.27.5-r1                                          apk        
 libksysguard                                                                  5.27.5-r1                                          apk        
 libldap                                                                       2.6.4-r3                                           apk        
 libltdl                                                                       2.4.7-r2                                           apk        
-libmagic                                                                      5.44-r3                                            apk        
+libmagic                                                                      5.44-r4                                            apk        
 libmd                                                                         1.0.4-r2                                           apk        
 libmnl                                                                        1.0.5-r1                                           apk        
 libmount                                                                      2.38.1-r8                                          apk        
@@ -519,7 +519,7 @@ libnl3                                                                        3.
 libnm                                                                         1.42.6-r0                                          apk        
 libnotify                                                                     0.8.2-r0                                           apk        
 libogg                                                                        1.3.5-r4                                           apk        
-libopenmpt                                                                    0.7.1-r0                                           apk        
+libopenmpt                                                                    0.7.2-r0                                           apk        
 libpanelw                                                                     6.4_p20230506-r0                                   apk        
 libpcap                                                                       1.10.4-r1                                          apk        
 libpciaccess                                                                  0.17-r2                                            apk        
@@ -690,7 +690,7 @@ qt5-qtsvg                                                                     5.
 qt5-qttools                                                                   5.15.9_git20230407-r1                              apk        
 qt5-qtwayland                                                                 5.15.9_git20230407-r1                              apk        
 qt5-qtwebchannel                                                              5.15.9_git20230407-r1                              apk        
-qt5-qtwebengine                                                               5.15.13-r2                                         apk        
+qt5-qtwebengine                                                               5.15.13-r3                                         apk        
 qt5-qtx11extras                                                               5.15.9_git20230323-r1                              apk        
 re2                                                                           2023.03.01-r1                                      apk        
 readline                                                                      8.2.1-r1                                           apk        
@@ -700,7 +700,7 @@ samba-util-libs                                                               4.
 scanelf                                                                       1.3.7-r1                                           apk        
 setarch                                                                       2.38.1-r8                                          apk        
 setxkbmap                                                                     1.3.3-r1                                           apk        
-shadow                                                                        4.13-r2                                            apk        
+shadow                                                                        4.13-r4                                            apk        
 shared-mime-info                                                              2.2-r5                                             apk        
 signon-ui                                                                     0.17_git20171023-r2                                apk        
 signond                                                                       8.61-r0                                            apk        
@@ -719,7 +719,7 @@ speexdsp                                                                      1.
 sqlite-libs                                                                   3.41.2-r2                                          apk        
 ssl_client                                                                    1.36.1-r0                                          apk        
 sudo                                                                          1.9.13_p3-r2                                       apk        
-svt-av1-libs                                                                  1.5.0-r0                                           apk        
+svt-av1-libs                                                                  1.6.0-r0                                           apk        
 syntax-highlighting                                                           5.105.0-r0                                         apk        
 systemsettings                                                                5.27.5-r1                                          apk        
 taglib                                                                        1.13-r0                                            apk        
