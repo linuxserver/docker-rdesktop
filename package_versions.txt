@@ -454,7 +454,7 @@ pulseaudio                                                                   16.
 python                                                                       3.11.3                                             binary        
 python                                                                       3.11.3-2                                           alpm          
 python-lxml                                                                  4.9.2-3                                            alpm          
-qt5-base                                                                     5.15.10+kde+r129-4                                 alpm          
+qt5-base                                                                     5.15.10+kde+r130-1                                 alpm          
 qt5-translations                                                             5.15.10-1                                          alpm          
 qt5-x11extras                                                                5.15.10-1                                          alpm          
 rav1e                                                                        0.6.6-1                                            alpm          
