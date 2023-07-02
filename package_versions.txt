@@ -3,7 +3,7 @@ PyGObject                          3.42.1                                   pyth
 PyJWT                              2.3.0                                    python        
 PyYAML                             5.4.1                                    python        
 SecretStorage                      3.3.1                                    python        
-accountsservice                    22.07.5-2ubuntu1.3                       deb           
+accountsservice                    22.07.5-2ubuntu1.4                       deb           
 adduser                            3.118ubuntu5                             deb           
 adwaita-icon-theme                 41.0-1ubuntu1                            deb           
 alsa-base                          1.0.25+dfsg-0ubuntu7                     deb           
@@ -66,7 +66,7 @@ e2fsprogs                          1.46.5-2ubuntu1.1                        deb
 emacsen-common                     3.0.4                                    deb           
 fdisk                              2.37.2-4ubuntu3                          deb           
 findutils                          4.8.0-1ubuntu3                           deb           
-firefox                            114.0.2+build1-0ubuntu0.22.04.1~mt1      deb           
+firefox                            115.0+build2-0ubuntu0.22.04.1~mt1        deb           
 fontconfig                         2.13.1-4.2ubuntu5                        deb           
 fontconfig-config                  2.13.1-4.2ubuntu5                        deb           
 fonts-dejavu-core                  2.37-2build1                             deb           
@@ -158,7 +158,7 @@ launchpadlib                       1.10.16                                  pyth
 lazr.restfulclient                 0.14.4                                   python        
 lazr.uri                           1.0.6                                    python        
 libaa1                             1.4p5-50build1                           deb           
-libaccountsservice0                22.07.5-2ubuntu1.3                       deb           
+libaccountsservice0                22.07.5-2ubuntu1.4                       deb           
 libacl1                            2.3.1-1                                  deb           
 libapparmor1                       3.0.4-2ubuntu2.2                         deb           
 libappstream4                      0.15.2-2                                 deb           
@@ -215,7 +215,7 @@ libcanberra-gtk3-module            0.30-10ubuntu1.22.04.1                   deb
 libcanberra-pulse                  0.30-10ubuntu1.22.04.1                   deb           
 libcanberra0                       0.30-10ubuntu1.22.04.1                   deb           
 libcap-ng0                         0.7.9-2.2build3                          deb           
-libcap2                            1:2.44-1build3                           deb           
+libcap2                            1:2.44-1ubuntu0.22.04.1                  deb           
 libcap2-bin                        1:2.44-1ubuntu0.22.04.1                  deb           
 libcbor0.8                         0.8.0-2ubuntu1                           deb           
 libcdio-cdda2                      10.2+2.0.0-1build3                       deb           
@@ -752,7 +752,7 @@ ubuntu-advantage-desktop-daemon    1.10~22.04.1                             deb
 ubuntu-advantage-tools             27.14.4~22.04                            deb           
 ubuntu-advantage-tools             8001                                     python        
 ubuntu-drivers-common              0.0.0                                    python        
-ubuntu-drivers-common              1:0.9.6.2~0.22.04.3                      deb           
+ubuntu-drivers-common              1:0.9.6.2~0.22.04.4                      deb           
 ubuntu-keyring                     2021.03.26                               deb           
 ubuntu-mate-artwork                22.04.17                                 deb           
 ubuntu-mate-core                   1.282                                    deb           
