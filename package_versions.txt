@@ -17,7 +17,7 @@ avahi                                                         0.8-22.fc38       
 avahi-libs                                                    0.8-22.fc38                           rpm        
 basesystem                                                    11-15.fc38                            rpm        
 bash                                                          5.2.15-3.fc38                         rpm        
-bluez-libs                                                    5.66-5.fc38                           rpm        
+bluez-libs                                                    5.66-6.fc38                           rpm        
 bubblewrap                                                    0.7.0-1.fc38                          rpm        
 bzip2-libs                                                    1.0.8-13.fc38                         rpm        
 ca-certificates                                               2023.2.60-2.fc38                      rpm        
@@ -40,7 +40,7 @@ cracklib                                                      2.9.7-31.fc38     
 crypto-policies                                               20230301-1.gita12f7b2.fc38            rpm        
 crypto-policies-scripts                                       20230301-1.gita12f7b2.fc38            rpm        
 cryptsetup-libs                                               2.6.1-1.fc38                          rpm        
-cups-libs                                                     1:2.4.5-1.fc38                        rpm        
+cups-libs                                                     1:2.4.6-1.fc38                        rpm        
 curl                                                          8.0.1-2.fc38                          rpm        
 cyrus-sasl-lib                                                2.1.28-9.fc38                         rpm        
 dbus                                                          1:1.14.8-1.fc38                       rpm        
@@ -80,7 +80,7 @@ fftw-libs-single                                              3.3.10-3.fc37     
 file-libs                                                     5.44-3.fc38                           rpm        
 filesystem                                                    3.18-3.fc38                           rpm        
 findutils                                                     1:4.9.0-3.fc38                        rpm        
-flac-libs                                                     1.4.2-2.fc38                          rpm        
+flac-libs                                                     1.4.3-1.fc38                          rpm        
 fontconfig                                                    2.14.2-1.fc38                         rpm        
 fonts-filesystem                                              1:2.0.5-11.fc38                       rpm        
 freetype                                                      2.13.0-2.fc38                         rpm        
@@ -124,7 +124,7 @@ github.com/syndtr/gocapability                                v0.0.0-20200815063
 github.com/urfave/cli                                         v1.22.1                               go-module  
 github.com/vishvananda/netlink                                v1.1.0                                go-module  
 github.com/vishvananda/netns                                  v0.0.0-20191106174202-0a2b9b5464df    go-module  
-glib-networking                                               2.76.0-2.fc38                         rpm        
+glib-networking                                               2.76.1-1.fc38                         rpm        
 glib2                                                         2.76.3-1.fc38                         rpm        
 glibc                                                         2.37-4.fc38                           rpm        
 glibc-common                                                  2.37-4.fc38                           rpm        
@@ -185,7 +185,7 @@ iptables-legacy-libs                                          1.8.9-4.fc38      
 iptables-libs                                                 1.8.9-4.fc38                          rpm        
 iso-codes                                                     4.13.0-1.fc38                         rpm        
 jansson                                                       2.13.1-6.fc38                         rpm        
-javascriptcoregtk4.1                                          2.40.2-1.fc38                         rpm        
+javascriptcoregtk4.1                                          2.40.3-1.fc38                         rpm        
 jbigkit-libs                                                  2.1-25.fc38                           rpm        
 jq                                                            1.6-15.fc38                           rpm        
 json-c                                                        0.16-4.fc38                           rpm        
@@ -345,7 +345,7 @@ libsepol                                                      3.5-1.fc38        
 libsigc++20                                                   2.10.8-3.fc38                         rpm        
 libsigsegv                                                    2.14-4.fc38                           rpm        
 libsmartcols                                                  2.38.1-4.fc38                         rpm        
-libsmbclient                                                  2:4.18.3-3.fc38                       rpm        
+libsmbclient                                                  2:4.18.3-4.fc38                       rpm        
 libsndfile                                                    1.1.0-6.fc38                          rpm        
 libsodium                                                     1.0.18-11.fc38                        rpm        
 libsolv                                                       0.7.22-4.fc38                         rpm        
@@ -388,7 +388,7 @@ libwayland-client                                             1.22.0-1.fc38     
 libwayland-cursor                                             1.22.0-1.fc38                         rpm        
 libwayland-egl                                                1.22.0-1.fc38                         rpm        
 libwayland-server                                             1.22.0-1.fc38                         rpm        
-libwbclient                                                   2:4.18.3-3.fc38                       rpm        
+libwbclient                                                   2:4.18.3-4.fc38                       rpm        
 libwebp                                                       1.3.0-2.fc38                          rpm        
 libwnck3                                                      43.0-4.fc38                           rpm        
 libwpe                                                        1.14.0-2.fc38                         rpm        
@@ -447,7 +447,7 @@ mtdev                                                         1.1.6-5.fc38      
 ncurses                                                       6.4-3.20230114.fc38                   rpm        
 ncurses-base                                                  6.4-3.20230114.fc38                   rpm        
 ncurses-libs                                                  6.4-3.20230114.fc38                   rpm        
-netcat                                                        1.219-3.fc38                          rpm        
+netcat                                                        1.225-1.fc38                          rpm        
 nettle                                                        3.8-3.fc38                            rpm        
 npth                                                          1.6-12.fc38                           rpm        
 nspr                                                          4.35.0-7.fc38                         rpm        
@@ -495,7 +495,7 @@ perl-File-Temp                                                1:0.231.100-490.fc
 perl-File-stat                                                0:1.12-497.fc38                       rpm        
 perl-Getopt-Long                                              1:2.54-2.fc38                         rpm        
 perl-Getopt-Std                                               0:1.13-497.fc38                       rpm        
-perl-HTTP-Tiny                                                0.084-1.fc38                          rpm        
+perl-HTTP-Tiny                                                0.086-1.fc38                          rpm        
 perl-IO                                                       0:1.50-497.fc38                       rpm        
 perl-IPC-Open3                                                0:1.22-497.fc38                       rpm        
 perl-MIME-Base64                                              3.16-490.fc38                         rpm        
@@ -527,7 +527,7 @@ perl-parent                                                   1:0.241-1.fc38    
 perl-podlators                                                1:5.01-2.fc38                         rpm        
 perl-vars                                                     0:1.05-497.fc38                       rpm        
 pigz                                                          2.7-3.fc38                            rpm        
-pipewire-libs                                                 0.3.71-2.fc38                         rpm        
+pipewire-libs                                                 0.3.72-2.fc38                         rpm        
 pixman                                                        0.42.2-1.fc38                         rpm        
 pluma                                                         1.26.1-1.fc38                         rpm        
 pluma-data                                                    1.26.1-1.fc38                         rpm        
@@ -583,9 +583,9 @@ rpm-sequoia                                                   1.4.0-3.fc38      
 rpm-sign-libs                                                 4.18.1-3.fc38                         rpm        
 rtkit                                                         0.11-58.fc38                          rpm        
 runc                                                          2:1.1.7-1.fc38                        rpm        
-samba-client-libs                                             2:4.18.3-3.fc38                       rpm        
-samba-common                                                  2:4.18.3-3.fc38                       rpm        
-samba-common-libs                                             2:4.18.3-3.fc38                       rpm        
+samba-client-libs                                             2:4.18.3-4.fc38                       rpm        
+samba-common                                                  2:4.18.3-4.fc38                       rpm        
+samba-common-libs                                             2:4.18.3-4.fc38                       rpm        
 sed                                                           4.8-12.fc38                           rpm        
 selinux                                                       3.5                                   python     
 selinux-policy                                                38.17-1.fc38                          rpm        
@@ -624,13 +624,13 @@ tzdata                                                        2023c-1.fc38      
 util-linux                                                    2.38.1-4.fc38                         rpm        
 util-linux-core                                               2.38.1-4.fc38                         rpm        
 vapoursynth-libs                                              58-4.fc38                             rpm        
-vim-data                                                      2:9.0.1627-1.fc38                     rpm        
-vim-minimal                                                   2:9.0.1627-1.fc38                     rpm        
+vim-data                                                      2:9.0.1649-1.fc38                     rpm        
+vim-minimal                                                   2:9.0.1649-1.fc38                     rpm        
 vo-amrwbenc                                                   0.1.3-18.fc38                         rpm        
 vte-profile                                                   0.72.2-1.fc38                         rpm        
 vte291                                                        0.72.2-1.fc38                         rpm        
 vulkan-loader                                                 1.3.243.0-1.fc38                      rpm        
-webkit2gtk4.1                                                 2.40.2-1.fc38                         rpm        
+webkit2gtk4.1                                                 2.40.3-1.fc38                         rpm        
 webrtc-audio-processing                                       0.3.1-10.fc38                         rpm        
 which                                                         2.21-39.fc38                          rpm        
 woff2                                                         1.0.2-17.fc38                         rpm        
