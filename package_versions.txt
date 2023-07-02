@@ -20,7 +20,7 @@ cairo                                                                         1.
 cairo-gobject                                                                 1.17.8-r1                                          apk        
 cairomm                                                                       1.14.4-r1                                          apk        
 cdparanoia-libs                                                               10.2-r14                                           apk        
-chromium                                                                      114.0.5735.133-r1                                  apk        
+chromium                                                                      114.0.5735.198-r0                                  apk        
 cjson                                                                         1.7.15-r4                                          apk        
 cloud.google.com/go/compute/metadata                                          v0.2.1                                             go-module  
 containerd                                                                    1.7.2-r0                                           apk        
@@ -44,7 +44,7 @@ ffmpeg-libavutil                                                              6.
 ffmpeg-libswresample                                                          6.0-r15                                            apk        
 fftw-single-libs                                                              3.3.10-r2                                          apk        
 file                                                                          5.44-r4                                            apk        
-flac-libs                                                                     1.4.2-r2                                           apk        
+flac-libs                                                                     1.4.3-r0                                           apk        
 font-alias                                                                    1.0.5-r0                                           apk        
 font-cursor-misc                                                              1.0.4-r1                                           apk        
 font-misc-misc                                                                1.1.3-r1                                           apk        
@@ -299,8 +299,8 @@ harfbuzz                                                                      7.
 harfbuzz-subset                                                               7.3.0-r0                                           apk        
 hicolor-icon-theme                                                            0.17-r2                                            apk        
 hwdata-pci                                                                    0.370-r0                                           apk        
-icu-data-full                                                                 73.2-r0                                            apk        
-icu-libs                                                                      73.2-r0                                            apk        
+icu-data-full                                                                 73.2-r1                                            apk        
+icu-libs                                                                      73.2-r1                                            apk        
 imlib2                                                                        1.11.1-r0                                          apk        
 ip6tables                                                                     1.8.9-r2                                           apk        
 iptables                                                                      1.8.9-r2                                           apk        
@@ -379,14 +379,14 @@ libproc2                                                                      4.
 libpulse                                                                      16.1-r10                                           apk        
 libpulse-mainloop-glib                                                        16.1-r10                                           apk        
 librist                                                                       0.2.7-r0                                           apk        
-librsvg                                                                       2.56.1-r0                                          apk        
+librsvg                                                                       2.56.2-r0                                          apk        
 libseccomp                                                                    2.5.4-r2                                           apk        
 libsigc++                                                                     2.12.0-r1                                          apk        
 libsm                                                                         1.2.4-r1                                           apk        
 libsmartcols                                                                  2.38.1-r8                                          apk        
 libsndfile                                                                    1.2.0-r2                                           apk        
 libsodium                                                                     1.0.18-r3                                          apk        
-libsrt                                                                        1.5.1-r0                                           apk        
+libsrt                                                                        1.5.2-r0                                           apk        
 libssh                                                                        0.10.5-r0                                          apk        
 libssl3                                                                       3.1.1-r1                                           apk        
 libstdc++                                                                     12.2.1_git20220924-r10                             apk        
@@ -399,7 +399,7 @@ libva-intel-driver                                                            2.
 libvdpau                                                                      1.5-r1                                             apk        
 libvorbis                                                                     1.3.7-r1                                           apk        
 libvpx                                                                        1.13.0-r1                                          apk        
-libwebp                                                                       1.3.0-r2                                           apk        
+libwebp                                                                       1.3.1-r0                                           apk        
 libwoff2common                                                                1.0.2-r2                                           apk        
 libwoff2enc                                                                   1.0.2-r2                                           apk        
 libx11                                                                        1.8.4-r4                                           apk        
@@ -456,7 +456,7 @@ netcat-openbsd                                                                1.
 nettle                                                                        3.8.1-r2                                           apk        
 nghttp2-libs                                                                  1.53.0-r0                                          apk        
 nspr                                                                          4.35-r2                                            apk        
-nss                                                                           3.89.1-r0                                          apk        
+nss                                                                           3.91-r0                                            apk        
 numactl                                                                       2.0.16-r4                                          apk        
 obconf-qt                                                                     0.16.2-r1                                          apk        
 onevpl-libs                                                                   2023.2.1-r0                                        apk        
