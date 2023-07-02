@@ -35,7 +35,7 @@ docker-ce-cli                     5:24.0.2-1~ubuntu.22.04~jammy            deb
 dpkg                              1.21.1ubuntu2.2                          deb        
 e2fsprogs                         1.46.5-2ubuntu1.1                        deb        
 findutils                         4.8.0-1ubuntu3                           deb        
-firefox                           114.0.2+build1-0ubuntu0.22.04.1~mt1      deb        
+firefox                           115.0+build2-0ubuntu0.22.04.1~mt1        deb        
 fontconfig                        2.13.1-4.2ubuntu5                        deb        
 fontconfig-config                 2.13.1-4.2ubuntu5                        deb        
 fonts-dejavu-core                 2.37-2build1                             deb        
@@ -111,7 +111,7 @@ libc6                             2.35-0ubuntu3.1                          deb
 libcairo-gobject2                 1.16.0-5ubuntu2                          deb        
 libcairo2                         1.16.0-5ubuntu2                          deb        
 libcap-ng0                        0.7.9-2.2build3                          deb        
-libcap2                           1:2.44-1build3                           deb        
+libcap2                           1:2.44-1ubuntu0.22.04.1                  deb        
 libcap2-bin                       1:2.44-1ubuntu0.22.04.1                  deb        
 libcbor0.8                        0.8.0-2ubuntu1                           deb        
 libcolord2                        1.4.6-1                                  deb        
