@@ -60,13 +60,13 @@ distro-info                        1.1build1                                pyth
 distro-info-data                   0.52ubuntu0.4                            deb           
 dmidecode                          3.3-3ubuntu0.1                           deb           
 dmsetup                            2:1.02.175-2.1ubuntu4                    deb           
-docker-ce-cli                      5:24.0.2-1~ubuntu.22.04~jammy            deb           
+docker-ce-cli                      5:24.0.3-1~ubuntu.22.04~jammy            deb           
 dpkg                               1.21.1ubuntu2.2                          deb           
 e2fsprogs                          1.46.5-2ubuntu1.1                        deb           
 emacsen-common                     3.0.4                                    deb           
 fdisk                              2.37.2-4ubuntu3                          deb           
 findutils                          4.8.0-1ubuntu3                           deb           
-firefox                            115.0+build2-0ubuntu0.22.04.1~mt1        deb           
+firefox                            115.0.1+build1-0ubuntu0.22.04.1~mt1      deb           
 fontconfig                         2.13.1-4.2ubuntu5                        deb           
 fontconfig-config                  2.13.1-4.2ubuntu5                        deb           
 fonts-dejavu-core                  2.37-2build1                             deb           
@@ -101,7 +101,7 @@ gir1.2-snapd-1                     1.60-0ubuntu1                            deb
 gir1.2-soup-2.4                    2.74.2-3                                 deb           
 gir1.2-vte-2.91                    0.68.0-1                                 deb           
 gir1.2-webkit2-4.0                 2.38.6-0ubuntu0.22.04.1                  deb           
-github.com/docker/cli/cmd/docker   v24.0.2                                  go-module     
+github.com/docker/cli/cmd/docker   v24.0.3                                  go-module     
 glib-networking                    2.72.0-1                                 deb           
 glib-networking-common             2.72.0-1                                 deb           
 glib-networking-services           2.72.0-1                                 deb           
@@ -336,7 +336,7 @@ libhunspell-1.7-0                  1.7.0-4build1                            deb
 libhyphen0                         2.8.8-7build2                            deb           
 libice6                            2:1.0.10-1build2                         deb           
 libicu70                           70.1-2                                   deb           
-libidn12                           1.38-4build1                             deb           
+libidn12                           1.38-4ubuntu1                            deb           
 libidn2-0                          2.3.2-2build1                            deb           
 libiec61883-0                      1.2.0-4build3                            deb           
 libijs-0.35                        0.35-15build2                            deb           
