@@ -39,10 +39,10 @@ dbus-x11                                                                      1.
 dconf                                                                         0.40.0-r4                                          apk        
 desktop-file-utils                                                            0.26-r3                                            apk        
 device-mapper-libs                                                            2.03.21-r3                                         apk        
-docker                                                                        23.0.6-r2                                          apk        
-docker-cli                                                                    23.0.6-r2                                          apk        
+docker                                                                        23.0.6-r3                                          apk        
+docker-cli                                                                    23.0.6-r3                                          apk        
 docker-cli-buildx                                                             0.10.4-r5                                          apk        
-docker-engine                                                                 23.0.6-r2                                          apk        
+docker-engine                                                                 23.0.6-r3                                          apk        
 duktape                                                                       2.7.0-r1                                           apk        
 enchant2-libs                                                                 2.3.4-r4                                           apk        
 encodings                                                                     1.0.7-r1                                           apk        
@@ -241,7 +241,7 @@ github.com/xeipuuv/gojsonpointer                                              v0
 github.com/xeipuuv/gojsonreference                                            v0.0.0-20180127040603-bd5ef7bd5415                 go-module  
 github.com/xeipuuv/gojsonschema                                               v1.2.0                                             go-module  
 github.com/zclconf/go-cty                                                     v1.10.0                                            go-module  
-glib                                                                          2.76.3-r0                                          apk        
+glib                                                                          2.76.4-r0                                          apk        
 glib-networking                                                               2.76.1-r0                                          apk        
 glibmm                                                                        2.66.6-r0                                          apk        
 gmp                                                                           6.2.1-r3                                           apk        
@@ -466,7 +466,7 @@ libxxf86vm                                                                    1.
 libzmq                                                                        4.3.4-r4                                           apk        
 linux-pam                                                                     1.5.2-r10                                          apk        
 llvm15-libs                                                                   15.0.7-r6                                          apk        
-lxml                                                                          4.9.2                                              python     
+lxml                                                                          4.9.3                                              python     
 marco                                                                         1.26.2-r0                                          apk        
 mate-applets                                                                  1.26.1-r2                                          apk        
 mate-backgrounds                                                              1.26.0-r0                                          apk        
@@ -562,8 +562,8 @@ procps-ng                                                                     4.
 pulseaudio                                                                    16.1-r10                                           apk        
 pulseaudio-alsa                                                               16.1-r10                                           apk        
 py3-gobject3                                                                  3.44.1-r2                                          apk        
-py3-lxml                                                                      4.9.2-r4                                           apk        
-py3-lxml-pyc                                                                  4.9.2-r4                                           apk        
+py3-lxml                                                                      4.9.3-r0                                           apk        
+py3-lxml-pyc                                                                  4.9.3-r0                                           apk        
 pyc                                                                           0.1-r0                                             apk        
 python                                                                        3.11.4                                             binary     
 python3                                                                       3.11.4-r0                                          apk        
