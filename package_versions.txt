@@ -329,7 +329,7 @@ libp11-kit                                                                   0.2
 libpcap                                                                      1.10.4-1                                           alpm          
 libpciaccess                                                                 0.17-1                                             alpm          
 libpng                                                                       1.6.40-2                                           alpm          
-libproxy                                                                     0.5.2-2                                            alpm          
+libproxy                                                                     0.5.3-1                                            alpm          
 libpsl                                                                       0.21.2-1                                           alpm          
 libpulse                                                                     16.1-6                                             alpm          
 libraw1394                                                                   2.1.2-3                                            alpm          
