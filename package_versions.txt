@@ -32,7 +32,7 @@ chromium-common                                               114.0.5735.198-1.f
 cjson                                                         1.7.14-7.fc38                         rpm        
 codec2                                                        1.0.5-2.fc38                          rpm        
 colord-libs                                                   1.4.6-4.fc38                          rpm        
-container-selinux                                             2:2.218.0-1.fc38                      rpm        
+container-selinux                                             2:2.219.0-1.fc38                      rpm        
 containerd                                                    1.6.19-1.fc38                         rpm        
 coreutils                                                     9.1-12.fc38                           rpm        
 coreutils-common                                              9.1-12.fc38                           rpm        
@@ -60,9 +60,9 @@ dnf                                                           4.16.1-1.fc38     
 dnf-data                                                      4.16.1-1.fc38                         rpm        
 double-conversion                                             3.1.5-8.fc38                          rpm        
 duktape                                                       2.7.0-2.fc38                          rpm        
-elfutils-default-yama-scope                                   0.189-2.fc38                          rpm        
-elfutils-libelf                                               0.189-2.fc38                          rpm        
-elfutils-libs                                                 0.189-2.fc38                          rpm        
+elfutils-default-yama-scope                                   0.189-3.fc38                          rpm        
+elfutils-libelf                                               0.189-3.fc38                          rpm        
+elfutils-libs                                                 0.189-3.fc38                          rpm        
 enchant                                                       1:1.6.0-32.fc38                       rpm        
 enchant2                                                      2.3.4-1.fc38                          rpm        
 expat                                                         2.5.0-2.fc38                          rpm        
@@ -175,7 +175,7 @@ hostname                                                      3.23-8.fc38       
 hunspell                                                      1.7.2-3.fc38                          rpm        
 hunspell-en-US                                                0.20201207-3.fc38                     rpm        
 hunspell-filesystem                                           1.7.2-3.fc38                          rpm        
-hwdata                                                        0.371-1.fc38                          rpm        
+hwdata                                                        0.372-1.fc38                          rpm        
 hyphen                                                        2.8.8-19.fc38                         rpm        
 ilbc                                                          3.0.4-4.fc38                          rpm        
 ima-evm-utils                                                 1.4-7.fc38                            rpm        
@@ -235,7 +235,7 @@ libaom                                                        3.6.1-1.fc38      
 libappindicator-gtk3                                          12.10.1-1.fc38                        rpm        
 libarchive                                                    3.6.1-4.fc38                          rpm        
 libargon2                                                     20190702-2.fc38                       rpm        
-libassuan                                                     2.5.5-6.fc38                          rpm        
+libassuan                                                     2.5.6-1.fc38                          rpm        
 libasyncns                                                    0.8-24.fc38                           rpm        
 libatomic                                                     13.1.1-4.fc38                         rpm        
 libattr                                                       2.5.1-6.fc38                          rpm        
@@ -297,7 +297,7 @@ libidn2                                                       2.3.4-2.fc38      
 libinput                                                      1.23.0-2.fc38                         rpm        
 libjpeg-turbo                                                 2.1.4-2.fc38                          rpm        
 libjxl                                                        1:0.7.0-6.fc38                        rpm        
-libksba                                                       1.6.3-2.fc38                          rpm        
+libksba                                                       1.6.4-1.fc38                          rpm        
 libldac                                                       2.0.2.3-12.fc38                       rpm        
 libldb                                                        2.7.2-1.fc38                          rpm        
 libmanette                                                    0.2.6-6.fc38                          rpm        
@@ -310,7 +310,7 @@ libmnl                                                        1.0.5-2.fc38      
 libmodplug                                                    1:0.8.9.0-16.fc38                     rpm        
 libmodulemd                                                   2.15.0-2.fc38                         rpm        
 libmount                                                      2.38.1-4.fc38                         rpm        
-libnetfilter_conntrack                                        1.0.8-7.fc38                          rpm        
+libnetfilter_conntrack                                        1.0.9-1.fc38                          rpm        
 libnfnetlink                                                  1.0.1-23.fc38                         rpm        
 libnghttp2                                                    1.52.0-1.fc38                         rpm        
 libnice                                                       0.1.21-3.fc38                         rpm        
@@ -330,7 +330,7 @@ libpsl                                                        0.21.2-2.fc38     
 libpwquality                                                  1.4.5-3.fc38                          rpm        
 librabbitmq                                                   0.13.0-1.fc38                         rpm        
 librepo                                                       1.15.1-2.fc38                         rpm        
-libreport-filesystem                                          2.17.10-1.fc38                        rpm        
+libreport-filesystem                                          2.17.11-1.fc38                        rpm        
 libretls                                                      3.7.0-2.fc38                          rpm        
 librist                                                       0.2.7-1.fc38                          rpm        
 librsvg2                                                      2.56.2-1.fc38                         rpm        
@@ -391,7 +391,7 @@ libwebp                                                       1.3.1-1.fc38      
 libwnck3                                                      43.0-4.fc38                           rpm        
 libwpe                                                        1.14.0-2.fc38                         rpm        
 libxcb                                                        1.13.1-11.fc38                        rpm        
-libxcrypt                                                     4.4.35-1.fc38                         rpm        
+libxcrypt                                                     4.4.36-1.fc38                         rpm        
 libxkbcommon                                                  1.5.0-2.fc38                          rpm        
 libxkbcommon-x11                                              1.5.0-2.fc38                          rpm        
 libxkbfile                                                    1.1.1-2.fc38                          rpm        
@@ -404,7 +404,7 @@ libzstd                                                       1.5.5-1.fc38      
 lilv-libs                                                     0.24.14-4.fc38                        rpm        
 llvm-libs                                                     16.0.5-1.fc38                         rpm        
 lm_sensors-libs                                               3.6.0-13.fc38                         rpm        
-lmdb-libs                                                     0.9.30-1.fc38                         rpm        
+lmdb-libs                                                     0.9.31-1.fc38                         rpm        
 lpcnetfreedv                                                  0.2-13.fc38                           rpm        
 lua-libs                                                      5.4.4-9.fc38                          rpm        
 lz4-libs                                                      1.9.4-2.fc38                          rpm        
@@ -524,7 +524,7 @@ perl-parent                                                   1:0.241-1.fc38    
 perl-podlators                                                1:5.01-2.fc38                         rpm        
 perl-vars                                                     0:1.05-497.fc38                       rpm        
 pigz                                                          2.7-3.fc38                            rpm        
-pipewire-libs                                                 0.3.73-1.fc38                         rpm        
+pipewire-libs                                                 0.3.74-1.fc38                         rpm        
 pixman                                                        0.42.2-1.fc38                         rpm        
 pluma                                                         1.26.1-1.fc38                         rpm        
 pluma-data                                                    1.26.1-1.fc38                         rpm        
@@ -566,7 +566,7 @@ qt-settings                                                   38.2-2.fc38       
 qt5-qtbase                                                    5.15.10-1.fc38                        rpm        
 qt5-qtbase-common                                             5.15.10-1.fc38                        rpm        
 qt5-qtbase-gui                                                5.15.10-1.fc38                        rpm        
-rav1e-libs                                                    0.5.1-9.fc38                          rpm        
+rav1e-libs                                                    0.6.6-1.fc38                          rpm        
 readline                                                      8.2-3.fc38                            rpm        
 redhat-menus                                                  12.0.2-23.fc38                        rpm        
 rootfiles                                                     8.1-33.fc38                           rpm        
@@ -620,8 +620,8 @@ tzdata                                                        2023c-1.fc38      
 util-linux                                                    2.38.1-4.fc38                         rpm        
 util-linux-core                                               2.38.1-4.fc38                         rpm        
 vapoursynth-libs                                              58-4.fc38                             rpm        
-vim-data                                                      2:9.0.1649-1.fc38                     rpm        
-vim-minimal                                                   2:9.0.1649-1.fc38                     rpm        
+vim-data                                                      2:9.0.1671-1.fc38                     rpm        
+vim-minimal                                                   2:9.0.1671-1.fc38                     rpm        
 vo-amrwbenc                                                   0.1.3-18.fc38                         rpm        
 vte-profile                                                   0.72.2-1.fc38                         rpm        
 vte291                                                        0.72.2-1.fc38                         rpm        
