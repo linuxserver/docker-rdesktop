@@ -193,7 +193,7 @@ libcom-err2                              1.46.5-2ubuntu1.1                      
 libcrypt1                                1:4.4.27-1                               deb        
 libcryptsetup12                          2:2.4.3-1ubuntu1.1                       deb        
 libcups2                                 2.4.1op1-1ubuntu4.4                      deb        
-libcurl3-gnutls                          7.81.0-1ubuntu1.10                       deb        
+libcurl3-gnutls                          7.81.0-1ubuntu1.13                       deb        
 libcurl4                                 7.81.0-1ubuntu1.10                       deb        
 libdatrie1                               0.2.13-2                                 deb        
 libdav1d5                                0.9.2-1                                  deb        
@@ -634,7 +634,7 @@ libsigsegv2                              2.13-1ubuntu3                          
 libslang2                                2.3.2-5build4                            deb        
 libsm6                                   2:1.2.3-1build2                          deb        
 libsmartcols1                            2.37.2-4ubuntu3                          deb        
-libsmbclient                             2:4.15.13+dfsg-0ubuntu1.1                deb        
+libsmbclient                             2:4.15.13+dfsg-0ubuntu1.2                deb        
 libsnapd-glib1                           1.60-0ubuntu1                            deb        
 libsnappy1v5                             1.1.8-1build3                            deb        
 libsndfile1                              1.0.31-2build1                           deb        
@@ -705,7 +705,7 @@ libwayland-client0                       1.20.0-1ubuntu0.1                      
 libwayland-cursor0                       1.20.0-1ubuntu0.1                        deb        
 libwayland-egl1                          1.20.0-1ubuntu0.1                        deb        
 libwayland-server0                       1.20.0-1ubuntu0.1                        deb        
-libwbclient0                             2:4.15.13+dfsg-0ubuntu1.1                deb        
+libwbclient0                             2:4.15.13+dfsg-0ubuntu1.2                deb        
 libweather-ion7                          4:5.24.7-0ubuntu0.1                      deb        
 libwebp7                                 1.2.2-2ubuntu0.22.04.1                   deb        
 libwebpdemux2                            1.2.2-2ubuntu0.22.04.1                   deb        
@@ -907,7 +907,7 @@ qml-module-qtquick2                      5.15.3+dfsg-1                          
 qml-module-ubuntu-onlineaccounts         0.6+17.04.20170405-0ubuntu5              deb        
 qtchooser                                66-2build1                               deb        
 readline-common                          8.1.2-1                                  deb        
-samba-libs                               2:4.15.13+dfsg-0ubuntu1.1                deb        
+samba-libs                               2:4.15.13+dfsg-0ubuntu1.2                deb        
 sed                                      4.8-1ubuntu2                             deb        
 sensible-utils                           0.0.17                                   deb        
 session-migration                        0.3.6                                    deb        
