@@ -22,7 +22,7 @@ cairo                                                                         1.
 cairo-gobject                                                                 1.17.8-r1                                          apk        
 cairomm                                                                       1.14.4-r1                                          apk        
 cdparanoia-libs                                                               10.2-r14                                           apk        
-chromium                                                                      114.0.5735.198-r0                                  apk        
+chromium                                                                      115.0.5790.102-r0                                  apk        
 cjson                                                                         1.7.15-r4                                          apk        
 cloud.google.com/go/compute/metadata                                          v0.2.1                                             go-module  
 containerd                                                                    1.7.2-r0                                           apk        
@@ -322,9 +322,9 @@ graphene                                                                      1.
 graphite2                                                                     1.3.14-r5                                          apk        
 gsettings-desktop-schemas                                                     44.0-r0                                            apk        
 gsm                                                                           1.0.22-r3                                          apk        
-gst-plugins-bad                                                               1.22.4-r0                                          apk        
-gst-plugins-base                                                              1.22.4-r0                                          apk        
-gstreamer                                                                     1.22.4-r0                                          apk        
+gst-plugins-bad                                                               1.22.5-r0                                          apk        
+gst-plugins-base                                                              1.22.5-r0                                          apk        
+gstreamer                                                                     1.22.5-r0                                          apk        
 gtk+3.0                                                                       3.24.38-r0                                         apk        
 gtk-update-icon-cache                                                         3.24.38-r0                                         apk        
 gtkmm3                                                                        3.24.7-r0                                          apk        
@@ -380,7 +380,7 @@ libcanberra-gstreamer                                                         0.
 libcanberra-gtk3                                                              0.30-r9                                            apk        
 libcanberra-pulse                                                             0.30-r9                                            apk        
 libcap2                                                                       2.69-r0                                            apk        
-libcrypto3                                                                    3.1.1-r1                                           apk        
+libcrypto3                                                                    3.1.1-r3                                           apk        
 libcurl                                                                       8.1.2-r0                                           apk        
 libdav1d                                                                      1.2.1-r0                                           apk        
 libdc1394                                                                     2.2.6-r1                                           apk        
@@ -437,7 +437,7 @@ libpulse                                                                      16
 libpulse-mainloop-glib                                                        16.1-r10                                           apk        
 libraw1394                                                                    2.1.2-r4                                           apk        
 librist                                                                       0.2.7-r0                                           apk        
-librsvg                                                                       2.56.2-r0                                          apk        
+librsvg                                                                       2.56.3-r0                                          apk        
 librtmp                                                                       2.4_git20190330-r3                                 apk        
 libseccomp                                                                    2.5.4-r2                                           apk        
 libsecret                                                                     0.20.5-r3                                          apk        
@@ -450,7 +450,7 @@ libsoup3                                                                      3.
 libsrt                                                                        1.5.2-r0                                           apk        
 libsrtp                                                                       2.5.0-r1                                           apk        
 libssh                                                                        0.10.5-r0                                          apk        
-libssl3                                                                       3.1.1-r1                                           apk        
+libssl3                                                                       3.1.1-r3                                           apk        
 libstdc++                                                                     12.2.1_git20220924-r10                             apk        
 libtasn1                                                                      4.19.0-r1                                          apk        
 libtheora                                                                     1.1.1-r17                                          apk        
@@ -541,10 +541,10 @@ openexr-libiex                                                                3.
 openexr-libilmthread                                                          3.1.9-r0                                           apk        
 openexr-libopenexr                                                            3.1.9-r0                                           apk        
 openjpeg                                                                      2.5.0-r3                                           apk        
-openssh-client-common                                                         9.3_p1-r3                                          apk        
-openssh-client-default                                                        9.3_p1-r3                                          apk        
-openssh-keygen                                                                9.3_p1-r3                                          apk        
-openssl                                                                       3.1.1-r1                                           apk        
+openssh-client-common                                                         9.3_p2-r0                                          apk        
+openssh-client-default                                                        9.3_p2-r0                                          apk        
+openssh-keygen                                                                9.3_p2-r0                                          apk        
+openssl                                                                       3.1.1-r3                                           apk        
 opus                                                                          1.4-r0                                             apk        
 orc                                                                           0.4.34-r0                                          apk        
 p11-kit                                                                       0.24.1-r2                                          apk        
@@ -618,7 +618,7 @@ wayland-libs-client                                                           1.
 wayland-libs-cursor                                                           1.22.0-r2                                          apk        
 wayland-libs-egl                                                              1.22.0-r2                                          apk        
 wayland-libs-server                                                           1.22.0-r2                                          apk        
-webkit2gtk-4.1                                                                2.40.3-r0                                          apk        
+webkit2gtk-4.1                                                                2.40.4-r0                                          apk        
 webrtc-audio-processing                                                       0.3.1-r6                                           apk        
 x264-libs                                                                     0.164_git20220602-r1                               apk        
 x265-libs                                                                     3.5-r4                                             apk        
