@@ -40,7 +40,7 @@ cpp-11                             11.3.0-1ubuntu1~22.04.1                  deb
 cryptography                       3.4.8                                    python        
 cryptsetup                         2:2.4.3-1ubuntu1.1                       deb           
 cryptsetup-bin                     2:2.4.3-1ubuntu1.1                       deb           
-curl                               7.81.0-1ubuntu1.10                       deb           
+curl                               7.81.0-1ubuntu1.13                       deb           
 dash                               0.5.11+git20210903+057cd650a4ed-3build1  deb           
 dbus                               1.12.20-2ubuntu4.1                       deb           
 dbus-python                        1.2.18                                   python        
@@ -60,13 +60,13 @@ distro-info                        1.1build1                                pyth
 distro-info-data                   0.52ubuntu0.4                            deb           
 dmidecode                          3.3-3ubuntu0.1                           deb           
 dmsetup                            2:1.02.175-2.1ubuntu4                    deb           
-docker-ce-cli                      5:24.0.4-1~ubuntu.22.04~jammy            deb           
+docker-ce-cli                      5:24.0.5-1~ubuntu.22.04~jammy            deb           
 dpkg                               1.21.1ubuntu2.2                          deb           
 e2fsprogs                          1.46.5-2ubuntu1.1                        deb           
 emacsen-common                     3.0.4                                    deb           
 fdisk                              2.37.2-4ubuntu3                          deb           
 findutils                          4.8.0-1ubuntu3                           deb           
-firefox                            115.0.2+build1-0ubuntu0.22.04.1~mt1      deb           
+firefox                            116.0+build2-0ubuntu0.22.04.1~mt1        deb           
 fontconfig                         2.13.1-4.2ubuntu5                        deb           
 fontconfig-config                  2.13.1-4.2ubuntu5                        deb           
 fonts-dejavu-core                  2.37-2build1                             deb           
@@ -101,11 +101,11 @@ gir1.2-snapd-1                     1.60-0ubuntu1                            deb
 gir1.2-soup-2.4                    2.74.2-3                                 deb           
 gir1.2-vte-2.91                    0.68.0-1                                 deb           
 gir1.2-webkit2-4.0                 2.38.6-0ubuntu0.22.04.1                  deb           
-github.com/docker/cli/cmd/docker   v24.0.4                                  go-module     
+github.com/docker/cli/cmd/docker   v24.0.5                                  go-module     
 glib-networking                    2.72.0-1                                 deb           
 glib-networking-common             2.72.0-1                                 deb           
 glib-networking-services           2.72.0-1                                 deb           
-gnome-control-center-faces         1:41.7-0ubuntu0.22.04.6                  deb           
+gnome-control-center-faces         1:41.7-0ubuntu0.22.04.7                  deb           
 gnome-session-canberra             0.30-10ubuntu1.22.04.1                   deb           
 gnome-themes-extra                 3.28-1ubuntu3                            deb           
 gnome-themes-extra-data            3.28-1ubuntu3                            deb           
@@ -229,7 +229,7 @@ libcrypt1                          1:4.4.27-1                               deb
 libcryptsetup12                    2:2.4.3-1ubuntu1.1                       deb           
 libcups2                           2.4.1op1-1ubuntu4.4                      deb           
 libcurl3-gnutls                    7.81.0-1ubuntu1.13                       deb           
-libcurl4                           7.81.0-1ubuntu1.10                       deb           
+libcurl4                           7.81.0-1ubuntu1.13                       deb           
 libdatrie1                         0.2.13-2                                 deb           
 libdb5.3                           5.3.28+dfsg1-0.8ubuntu3                  deb           
 libdbus-1-3                        1.12.20-2ubuntu4.1                       deb           
@@ -366,7 +366,7 @@ liblcms2-2                         2.12~rc1-2build2                         deb
 libldap-2.5-0                      2.5.14+dfsg-0ubuntu0.22.04.2             deb           
 libldap-common                     2.5.14+dfsg-0ubuntu0.22.04.2             deb           
 libldb2                            2:2.4.4-0ubuntu0.22.04.2                 deb           
-libllvm15                          1:15.0.7-0ubuntu0.22.04.2                deb           
+libllvm15                          1:15.0.7-0ubuntu0.22.04.3                deb           
 liblmdb0                           0.9.24-1build2                           deb           
 liblocale-gettext-perl             1.07-4build3                             deb           
 libltdl7                           2.4.6-15build2                           deb           
@@ -433,7 +433,7 @@ libpci3                            1:3.7.0-6                                deb
 libpciaccess0                      0.16-3                                   deb           
 libpcre2-8-0                       10.39-3ubuntu0.1                         deb           
 libpcre3                           2:8.39-13ubuntu0.22.04.1                 deb           
-libpcsclite1                       1.9.5-3                                  deb           
+libpcsclite1                       1.9.5-3ubuntu1                           deb           
 libpeas-1.0-0                      1.32.0-1                                 deb           
 libpeas-common                     1.32.0-1                                 deb           
 libperl5.34                        5.34.0-3ubuntu1.2                        deb           
@@ -653,7 +653,7 @@ netcat                             1.218-4ubuntu1                           deb
 netcat-openbsd                     1.218-4ubuntu1                           deb           
 oauthlib                           3.2.0                                    python        
 openprinting-ppds                  20220223-0ubuntu1                        deb           
-openssh-client                     1:8.9p1-3ubuntu0.1                       deb           
+openssh-client                     1:8.9p1-3ubuntu0.3                       deb           
 openssl                            3.0.2-0ubuntu1.10                        deb           
 packagekit                         1.2.5-2ubuntu2                           deb           
 parted                             3.4-2build1                              deb           
@@ -815,9 +815,9 @@ xserver-xorg-video-radeon          1:19.1.0-2ubuntu1                        deb
 xtrans-dev                         1.4.0-1                                  deb           
 xutils                             1:7.7+23ubuntu2                          deb           
 xz-utils                           5.2.5-2ubuntu1                           deb           
-yaru-theme-gtk                     22.04.4                                  deb           
-yaru-theme-icon                    22.04.4                                  deb           
-yaru-theme-unity                   22.04.4                                  deb           
+yaru-theme-gtk                     22.04.5                                  deb           
+yaru-theme-icon                    22.04.5                                  deb           
+yaru-theme-unity                   22.04.5                                  deb           
 yelp                               42.1-1                                   deb           
 yelp-xsl                           42.0-1                                   deb           
 zenity                             3.42.1-0ubuntu1                          deb           
