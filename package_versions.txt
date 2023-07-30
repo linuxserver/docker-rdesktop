@@ -34,7 +34,7 @@ cairo                                                                         1.
 cairo-gobject                                                                 1.17.8-r1                                          apk        
 cairomm                                                                       1.14.4-r1                                          apk        
 cdparanoia-libs                                                               10.2-r14                                           apk        
-chromium                                                                      115.0.5790.102-r0                                  apk        
+chromium                                                                      115.0.5790.110-r0                                  apk        
 cjson                                                                         1.7.15-r4                                          apk        
 cldr-emoji-annotation                                                         43-r0                                              apk        
 cloud.google.com/go/compute/metadata                                          v0.2.1                                             go-module  
@@ -42,7 +42,7 @@ containerd                                                                    1.
 coreutils                                                                     9.3-r1                                             apk        
 cryptsetup-libs                                                               2.6.1-r3                                           apk        
 cups-libs                                                                     2.4.6-r0                                           apk        
-curl                                                                          8.1.2-r0                                           apk        
+curl                                                                          8.2.0-r1                                           apk        
 dbus                                                                          1.14.8-r0                                          apk        
 dbus-daemon-launch-helper                                                     1.14.8-r0                                          apk        
 dbus-libs                                                                     1.14.8-r0                                          apk        
@@ -68,7 +68,7 @@ ffmpeg-libavformat                                                            6.
 ffmpeg-libavutil                                                              6.0-r15                                            apk        
 ffmpeg-libswresample                                                          6.0-r15                                            apk        
 fftw-single-libs                                                              3.3.10-r2                                          apk        
-file                                                                          5.44-r4                                            apk        
+file                                                                          5.45-r0                                            apk        
 flac-libs                                                                     1.4.3-r0                                           apk        
 font-alias                                                                    1.0.5-r0                                           apk        
 font-cursor-misc                                                              1.0.4-r1                                           apk        
@@ -336,7 +336,7 @@ gsettings-desktop-schemas                                                     44
 gst-plugins-base                                                              1.22.5-r0                                          apk        
 gstreamer                                                                     1.22.5-r0                                          apk        
 gtk+2.0                                                                       2.24.33-r9                                         apk        
-gtk+3.0                                                                       3.24.38-r0                                         apk        
+gtk+3.0                                                                       3.24.38-r1                                         apk        
 gtk-engines                                                                   2.21.0-r3                                          apk        
 gtk-engines-clearlooks                                                        2.21.0-r3                                          apk        
 gtk-engines-crux                                                              2.21.0-r3                                          apk        
@@ -344,7 +344,7 @@ gtk-engines-industrial                                                        2.
 gtk-engines-mist                                                              2.21.0-r3                                          apk        
 gtk-engines-redmond                                                           2.21.0-r3                                          apk        
 gtk-engines-thinice                                                           2.21.0-r3                                          apk        
-gtk-update-icon-cache                                                         3.24.38-r0                                         apk        
+gtk-update-icon-cache                                                         3.24.38-r1                                         apk        
 gtkmm3                                                                        3.24.7-r0                                          apk        
 harfbuzz                                                                      7.3.0-r0                                           apk        
 harfbuzz-subset                                                               7.3.0-r0                                           apk        
@@ -472,7 +472,7 @@ libcanberra-gtk3                                                              0.
 libcanberra-pulse                                                             0.30-r9                                            apk        
 libcap2                                                                       2.69-r0                                            apk        
 libcrypto3                                                                    3.1.1-r3                                           apk        
-libcurl                                                                       8.1.2-r0                                           apk        
+libcurl                                                                       8.2.0-r1                                           apk        
 libdaemon                                                                     0.14-r4                                            apk        
 libdav1d                                                                      1.2.1-r0                                           apk        
 libdmtx-libs                                                                  0.7.7-r0                                           apk        
@@ -507,7 +507,7 @@ libkscreen                                                                    5.
 libksysguard                                                                  5.27.5-r1                                          apk        
 libldap                                                                       2.6.5-r0                                           apk        
 libltdl                                                                       2.4.7-r2                                           apk        
-libmagic                                                                      5.44-r4                                            apk        
+libmagic                                                                      5.45-r0                                            apk        
 libmd                                                                         1.0.4-r2                                           apk        
 libmnl                                                                        1.0.5-r1                                           apk        
 libmount                                                                      2.38.1-r8                                          apk        
@@ -629,7 +629,7 @@ nettle                                                                        3.
 networkmanager                                                                1.42.8-r0                                          apk        
 networkmanager-common                                                         1.42.8-r0                                          apk        
 networkmanager-qt                                                             5.105.0-r0                                         apk        
-nghttp2-libs                                                                  1.53.0-r0                                          apk        
+nghttp2-libs                                                                  1.55.1-r0                                          apk        
 npth                                                                          1.6-r4                                             apk        
 nspr                                                                          4.35-r2                                            apk        
 nss                                                                           3.91-r0                                            apk        
