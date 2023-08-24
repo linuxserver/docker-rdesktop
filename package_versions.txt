@@ -29,7 +29,7 @@ ca-certificates-mozilla                                                      3.9
 ca-certificates-utils                                                        20220905-1                                         alpm          
 cairo                                                                        1.17.8-2                                           alpm          
 cantarell-fonts                                                              1:0.303.1-1                                        alpm          
-chromium                                                                     116.0.5845.96-1                                    alpm          
+chromium                                                                     116.0.5845.110-1                                   alpm          
 command-line-arguments                                                       (devel)                                            go-module     
 confuse                                                                      3.3-3                                              alpm          
 containerd                                                                   1.7.2-1                                            alpm          
@@ -512,7 +512,7 @@ xf86-input-libinput                                                          1.3
 xf86-video-amdgpu                                                            23.0.0-1                                           alpm          
 xf86-video-ati                                                               1:22.0.0-1                                         alpm          
 xf86-video-intel                                                             1:2.99.917+923+gb74b67f0-1                         alpm          
-xfce4-terminal                                                               1.0.4-1                                            alpm          
+xfce4-terminal                                                               1.1.0-1                                            alpm          
 xfconf                                                                       4.18.1-2                                           alpm          
 xkeyboard-config                                                             2.39-1                                             alpm          
 xmlto                                                                        0.0.28-4                                           alpm          
