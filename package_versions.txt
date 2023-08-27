@@ -671,9 +671,9 @@ pulseaudio-alsa                                                               16
 purpose                                                                       5.105.0-r0                                         apk        
 py3-gobject3                                                                  3.44.1-r2                                          apk        
 pyc                                                                           0.1-r0                                             apk        
-python3                                                                       3.11.4-r0                                          apk        
-python3-pyc                                                                   3.11.4-r0                                          apk        
-python3-pycache-pyc0                                                          3.11.4-r0                                          apk        
+python3                                                                       3.11.5-r0                                          apk        
+python3-pyc                                                                   3.11.5-r0                                          apk        
+python3-pycache-pyc0                                                          3.11.5-r0                                          apk        
 qqc2-desktop-style                                                            5.105.0-r0                                         apk        
 qt5-qtbase                                                                    5.15.9_git20230505-r0                              apk        
 qt5-qtbase-sqlite                                                             5.15.9_git20230505-r0                              apk        
