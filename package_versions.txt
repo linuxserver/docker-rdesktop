@@ -564,9 +564,9 @@ procps-ng                                                                     4.
 pulseaudio                                                                    16.1-r10                                           apk        
 pulseaudio-alsa                                                               16.1-r10                                           apk        
 pyc                                                                           0.1-r0                                             apk        
-python3                                                                       3.11.4-r0                                          apk        
-python3-pyc                                                                   3.11.4-r0                                          apk        
-python3-pycache-pyc0                                                          3.11.4-r0                                          apk        
+python3                                                                       3.11.5-r0                                          apk        
+python3-pyc                                                                   3.11.5-r0                                          apk        
+python3-pycache-pyc0                                                          3.11.5-r0                                          apk        
 re2                                                                           2023.03.01-r1                                      apk        
 readline                                                                      8.2.1-r1                                           apk        
 ristretto                                                                     0.13.1-r0                                          apk        
