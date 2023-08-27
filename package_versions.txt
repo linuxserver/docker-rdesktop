@@ -12,6 +12,7 @@ baloo-kf5                                5.92.0-0ubuntu1                        
 base-files                               12ubuntu4.3                              deb        
 base-passwd                              3.5.52build1                             deb        
 bash                                     5.1-6ubuntu1                             deb        
+bash                                     5.1.16                                   binary     
 blinker                                  1.4                                      python     
 breeze                                   4:5.24.7-0ubuntu0.1                      deb        
 breeze-cursor-theme                      4:5.24.7-0ubuntu0.1                      deb        
@@ -45,7 +46,7 @@ drkonqi                                  5.24.5-0ubuntu0.1                      
 e2fsprogs                                1.46.5-2ubuntu1.1                        deb        
 fdisk                                    2.37.2-4ubuntu3                          deb        
 findutils                                4.8.0-1ubuntu3                           deb        
-firefox                                  116.0.3+build2-0ubuntu0.22.04.1~mt1      deb        
+firefox                                  117.0+build2-0ubuntu0.22.04.1~mt1        deb        
 fontconfig                               2.13.1-4.2ubuntu5                        deb        
 fontconfig-config                        2.13.1-4.2ubuntu5                        deb        
 fonts-dejavu-core                        2.37-2build1                             deb        
