@@ -542,7 +542,7 @@ xorg-server-common                                                            21
 xorgxrdp                                                                      0.9.19-r0                                          apk        
 xprop                                                                         1.2.6-r0                                           apk        
 xrdb                                                                          1.2.1-r2                                           apk        
-xrdp                                                                          0.9.21.1-r0                                        apk        
+xrdp                                                                          0.9.23-r0                                          apk        
 xset                                                                          1.2.5-r1                                           apk        
 xterm                                                                         382-r0                                             apk        
 xvidcore                                                                      1.3.7-r1                                           apk        
