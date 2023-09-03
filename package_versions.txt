@@ -305,7 +305,7 @@ libjpeg-turbo8                           2.1.2-0ubuntu1                         
 libjpeg8                                 8c-2ubuntu10                             deb        
 libjq1                                   1.6-2.1ubuntu3                           deb        
 libjs-underscore                         1.13.2~dfsg-2                            deb        
-libjson-c5                               0.15-3~ubuntu1.22.04.1                   deb        
+libjson-c5                               0.15-3~ubuntu1.22.04.2                   deb        
 libjson-glib-1.0-0                       1.6.6-1build1                            deb        
 libjson-glib-1.0-common                  1.6.6-1build1                            deb        
 libk5crypto3                             1.19.2-2ubuntu0.2                        deb        
