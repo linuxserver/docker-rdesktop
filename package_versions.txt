@@ -61,7 +61,7 @@ distro-info                        1.1ubuntu0.1                             deb
 distro-info-data                   0.52ubuntu0.4                            deb           
 dmidecode                          3.3-3ubuntu0.1                           deb           
 dmsetup                            2:1.02.175-2.1ubuntu4                    deb           
-docker-ce-cli                      5:24.0.5-1~ubuntu.22.04~jammy            deb           
+docker-ce-cli                      5:24.0.6-1~ubuntu.22.04~jammy            deb           
 dpkg                               1.21.1ubuntu2.2                          deb           
 e2fsprogs                          1.46.5-2ubuntu1.1                        deb           
 emacsen-common                     3.0.4                                    deb           
@@ -102,7 +102,7 @@ gir1.2-snapd-1                     1.60-0ubuntu1                            deb
 gir1.2-soup-2.4                    2.74.2-3                                 deb           
 gir1.2-vte-2.91                    0.68.0-1                                 deb           
 gir1.2-webkit2-4.0                 2.40.5-0ubuntu0.22.04.1                  deb           
-github.com/docker/cli/cmd/docker   v24.0.5                                  go-module     
+github.com/docker/cli/cmd/docker   v24.0.6                                  go-module     
 glib-networking                    2.72.0-1                                 deb           
 glib-networking-common             2.72.0-1                                 deb           
 glib-networking-services           2.72.0-1                                 deb           
@@ -482,7 +482,7 @@ libsigsegv2                        2.13-1ubuntu3                            deb
 libslang2                          2.3.2-5build4                            deb           
 libsm6                             2:1.2.3-1build2                          deb           
 libsmartcols1                      2.37.2-4ubuntu3                          deb           
-libsmbclient                       2:4.15.13+dfsg-0ubuntu1.3                deb           
+libsmbclient                       2:4.15.13+dfsg-0ubuntu1.4                deb           
 libsnapd-glib1                     1.60-0ubuntu1                            deb           
 libsndfile1                        1.0.31-2build1                           deb           
 libsoup-gnome2.4-1                 2.74.2-3                                 deb           
@@ -538,7 +538,7 @@ libwayland-client0                 1.20.0-1ubuntu0.1                        deb
 libwayland-cursor0                 1.20.0-1ubuntu0.1                        deb           
 libwayland-egl1                    1.20.0-1ubuntu0.1                        deb           
 libwayland-server0                 1.20.0-1ubuntu0.1                        deb           
-libwbclient0                       2:4.15.13+dfsg-0ubuntu1.3                deb           
+libwbclient0                       2:4.15.13+dfsg-0ubuntu1.4                deb           
 libwebkit2gtk-4.0-37               2.40.5-0ubuntu0.22.04.1                  deb           
 libwebp7                           1.2.2-2ubuntu0.22.04.1                   deb           
 libwebpdemux2                      1.2.2-2ubuntu0.22.04.1                   deb           
@@ -734,7 +734,7 @@ python3.10                         3.10.12-1~22.04.2                        deb
 python3.10-minimal                 3.10.12-1~22.04.2                        deb           
 readline-common                    8.1.2-1                                  deb           
 rfkill                             2.37.2-4ubuntu3                          deb           
-samba-libs                         2:4.15.13+dfsg-0ubuntu1.3                deb           
+samba-libs                         2:4.15.13+dfsg-0ubuntu1.4                deb           
 sed                                4.8-1ubuntu2                             deb           
 sensible-utils                     0.0.17                                   deb           
 session-migration                  0.3.6                                    deb           
