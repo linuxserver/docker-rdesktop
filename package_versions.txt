@@ -26,7 +26,7 @@ chromium                                                                      11
 cjson                                                                         1.7.15-r4                                          apk        
 cloud.google.com/go/compute/metadata                                          v0.2.1                                             go-module  
 consolekit2                                                                   1.2.5-r0                                           apk        
-containerd                                                                    1.7.2-r1                                           apk        
+containerd                                                                    1.7.2-r2                                           apk        
 coreutils                                                                     9.3-r1                                             apk        
 cups-libs                                                                     2.4.6-r0                                           apk        
 curl                                                                          8.2.1-r0                                           apk        
@@ -38,10 +38,10 @@ dbus-x11                                                                      1.
 dconf                                                                         0.40.0-r4                                          apk        
 desktop-file-utils                                                            0.26-r3                                            apk        
 device-mapper-libs                                                            2.03.21-r3                                         apk        
-docker                                                                        23.0.6-r4                                          apk        
-docker-cli                                                                    23.0.6-r4                                          apk        
-docker-cli-buildx                                                             0.10.4-r7                                          apk        
-docker-engine                                                                 23.0.6-r4                                          apk        
+docker                                                                        23.0.6-r5                                          apk        
+docker-cli                                                                    23.0.6-r5                                          apk        
+docker-cli-buildx                                                             0.10.4-r8                                          apk        
+docker-engine                                                                 23.0.6-r5                                          apk        
 duktape                                                                       2.7.0-r1                                           apk        
 enchant2-libs                                                                 2.3.4-r4                                           apk        
 encodings                                                                     1.0.7-r1                                           apk        
@@ -396,7 +396,7 @@ libpanelw                                                                     6.
 libpciaccess                                                                  0.17-r2                                            apk        
 libpeas                                                                       1.36.0-r2                                          apk        
 libpng                                                                        1.6.39-r3                                          apk        
-libproc2                                                                      4.0.3-r1                                           apk        
+libproc2                                                                      4.0.4-r0                                           apk        
 libproxy                                                                      0.4.18-r2                                          apk        
 libpsl                                                                        0.21.2-r0                                          apk        
 libpulse                                                                      16.1-r10                                           apk        
@@ -557,7 +557,7 @@ pluma-pyc                                                                     1.
 polkit                                                                        122-r5                                             apk        
 polkit-common                                                                 122-r5                                             apk        
 polkit-noelogind-libs                                                         122-r5                                             apk        
-procps-ng                                                                     4.0.3-r1                                           apk        
+procps-ng                                                                     4.0.4-r0                                           apk        
 pulseaudio                                                                    16.1-r10                                           apk        
 pulseaudio-alsa                                                               16.1-r10                                           apk        
 py3-gobject3                                                                  3.44.1-r2                                          apk        
@@ -569,7 +569,7 @@ python3-pyc                                                                   3.
 python3-pycache-pyc0                                                          3.11.5-r0                                          apk        
 re2                                                                           2023.03.01-r1                                      apk        
 readline                                                                      8.2.1-r1                                           apk        
-runc                                                                          1.1.7-r2                                           apk        
+runc                                                                          1.1.7-r3                                           apk        
 scanelf                                                                       1.3.7-r1                                           apk        
 setarch                                                                       2.38.1-r8                                          apk        
 shadow                                                                        4.13-r4                                            apk        
