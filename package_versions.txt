@@ -39,7 +39,7 @@ dirmngr                                  2.2.27-3ubuntu2.1                      
 distro                                   1.7.0                                    python     
 distro-info-data                         0.52ubuntu0.4                            deb        
 dmidecode                                3.3-3ubuntu0.1                           deb        
-docker-ce-cli                            5:24.0.5-1~ubuntu.22.04~jammy            deb        
+docker-ce-cli                            5:24.0.6-1~ubuntu.22.04~jammy            deb        
 dolphin                                  4:21.12.3-0ubuntu1                       deb        
 dpkg                                     1.21.1ubuntu2.2                          deb        
 drkonqi                                  5.24.5-0ubuntu0.1                        deb        
@@ -59,7 +59,7 @@ gdb                                      12.1-0ubuntu1~22.04                    
 gdisk                                    1.0.8-4build1                            deb        
 gir1.2-glib-2.0                          1.72.0-1                                 deb        
 gir1.2-packagekitglib-1.0                1.2.5-2ubuntu2                           deb        
-github.com/docker/cli/cmd/docker         v24.0.5                                  go-module  
+github.com/docker/cli/cmd/docker         v24.0.6                                  go-module  
 glib-networking                          2.72.0-1                                 deb        
 glib-networking-common                   2.72.0-1                                 deb        
 glib-networking-services                 2.72.0-1                                 deb        
@@ -635,7 +635,7 @@ libsigsegv2                              2.13-1ubuntu3                          
 libslang2                                2.3.2-5build4                            deb        
 libsm6                                   2:1.2.3-1build2                          deb        
 libsmartcols1                            2.37.2-4ubuntu3                          deb        
-libsmbclient                             2:4.15.13+dfsg-0ubuntu1.3                deb        
+libsmbclient                             2:4.15.13+dfsg-0ubuntu1.4                deb        
 libsnapd-glib1                           1.60-0ubuntu1                            deb        
 libsnappy1v5                             1.1.8-1build3                            deb        
 libsndfile1                              1.0.31-2build1                           deb        
@@ -706,7 +706,7 @@ libwayland-client0                       1.20.0-1ubuntu0.1                      
 libwayland-cursor0                       1.20.0-1ubuntu0.1                        deb        
 libwayland-egl1                          1.20.0-1ubuntu0.1                        deb        
 libwayland-server0                       1.20.0-1ubuntu0.1                        deb        
-libwbclient0                             2:4.15.13+dfsg-0ubuntu1.3                deb        
+libwbclient0                             2:4.15.13+dfsg-0ubuntu1.4                deb        
 libweather-ion7                          4:5.24.7-0ubuntu0.1                      deb        
 libwebp7                                 1.2.2-2ubuntu0.22.04.1                   deb        
 libwebpdemux2                            1.2.2-2ubuntu0.22.04.1                   deb        
@@ -907,7 +907,7 @@ qml-module-qtquick2                      5.15.3+dfsg-1                          
 qml-module-ubuntu-onlineaccounts         0.6+17.04.20170405-0ubuntu5              deb        
 qtchooser                                66-2build1                               deb        
 readline-common                          8.1.2-1                                  deb        
-samba-libs                               2:4.15.13+dfsg-0ubuntu1.3                deb        
+samba-libs                               2:4.15.13+dfsg-0ubuntu1.4                deb        
 sed                                      4.8-1ubuntu2                             deb        
 sensible-utils                           0.0.17                                   deb        
 session-migration                        0.3.6                                    deb        
