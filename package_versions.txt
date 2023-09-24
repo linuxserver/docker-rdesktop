@@ -24,12 +24,12 @@ cairo-gobject                                                 1.17.8-4.fc38     
 cairomm                                                       1.14.4-7.fc38                         rpm        
 cdparanoia-libs                                               10.2-41.fc38                          rpm        
 checkpolicy                                                   3.5-1.fc38                            rpm        
-chromium                                                      116.0.5845.96-1.fc38                  rpm        
-chromium-common                                               116.0.5845.96-1.fc38                  rpm        
+chromium                                                      117.0.5938.88-1.fc38                  rpm        
+chromium-common                                               117.0.5938.88-1.fc38                  rpm        
 cjson                                                         1.7.14-7.fc38                         rpm        
 codec2                                                        1.0.5-2.fc38                          rpm        
 colord-libs                                                   1.4.6-4.fc38                          rpm        
-container-selinux                                             2:2.221.1-1.fc38                      rpm        
+container-selinux                                             2:2.222.0-1.fc38                      rpm        
 containerd                                                    1.6.19-1.fc38                         rpm        
 coreutils                                                     9.1-12.fc38                           rpm        
 coreutils-common                                              9.1-12.fc38                           rpm        
@@ -38,7 +38,7 @@ crypto-policies                                               20230301-1.gita12f
 crypto-policies-scripts                                       20230301-1.gita12f7b2.fc38            rpm        
 cryptsetup-libs                                               2.6.1-1.fc38                          rpm        
 cups-libs                                                     1:2.4.6-4.fc38                        rpm        
-curl                                                          8.0.1-3.fc38                          rpm        
+curl                                                          8.0.1-4.fc38                          rpm        
 cyrus-sasl-lib                                                2.1.28-9.fc38                         rpm        
 dbus                                                          1:1.14.10-1.fc38                      rpm        
 dbus-broker                                                   33-1.fc38                             rpm        
@@ -93,7 +93,7 @@ gdbm-libs                                                     1:1.23-3.fc38     
 gdisk                                                         1.0.9-5.fc38                          rpm        
 gdk-pixbuf2                                                   2.42.10-2.fc38                        rpm        
 gdk-pixbuf2-modules                                           2.42.10-2.fc38                        rpm        
-giflib                                                        5.2.1-15.fc38                         rpm        
+giflib                                                        5.2.1-17.fc38                         rpm        
 github.com/checkpoint-restore/go-criu/v5                      v5.3.0                                go-module  
 github.com/cilium/ebpf                                        v0.7.0                                go-module  
 github.com/containerd/console                                 v1.0.3                                go-module  
@@ -152,7 +152,7 @@ greybird-xfwm4-theme                                          3.23.1-4.fc38     
 gsettings-desktop-schemas                                     44.0-1.fc38                           rpm        
 gsm                                                           1.0.22-2.fc38                         rpm        
 gspell                                                        1.12.2-1.fc38                         rpm        
-gstreamer1                                                    1.22.5-1.fc38                         rpm        
+gstreamer1                                                    1.22.6-1.fc38                         rpm        
 gstreamer1-plugins-base                                       1.22.5-1.fc38                         rpm        
 gtk-murrine-engine                                            0.98.2-26.fc38                        rpm        
 gtk-update-icon-cache                                         3.24.38-1.fc38                        rpm        
@@ -264,7 +264,7 @@ libcloudproviders                                             0.3.2-1.fc38      
 libcom_err                                                    1.46.5-4.fc38                         rpm        
 libcomps                                                      0.1.18                                python     
 libcomps                                                      0.1.18-6.fc38                         rpm        
-libcurl                                                       8.0.1-3.fc38                          rpm        
+libcurl                                                       8.0.1-4.fc38                          rpm        
 libdaemon                                                     0.14-25.fc38                          rpm        
 libdatrie                                                     0.2.13-5.fc38                         rpm        
 libdav1d                                                      1.2.1-1.fc38                          rpm        
@@ -344,7 +344,7 @@ libsmbclient                                                  2:4.18.6-1.fc38   
 libsndfile                                                    1.1.0-6.fc38                          rpm        
 libsodium                                                     1.0.18-11.fc38                        rpm        
 libsolv                                                       0.7.22-4.fc38                         rpm        
-libsoup3                                                      3.4.2-4.fc38                          rpm        
+libsoup3                                                      3.4.3-1.fc38                          rpm        
 libss                                                         1.46.5-4.fc38                         rpm        
 libssh                                                        0.10.5-1.fc38                         rpm        
 libssh-config                                                 0.10.5-1.fc38                         rpm        
@@ -383,7 +383,7 @@ libwayland-cursor                                             1.22.0-1.fc38     
 libwayland-egl                                                1.22.0-1.fc38                         rpm        
 libwayland-server                                             1.22.0-1.fc38                         rpm        
 libwbclient                                                   2:4.18.6-1.fc38                       rpm        
-libwebp                                                       1.3.1-3.fc38                          rpm        
+libwebp                                                       1.3.2-1.fc38                          rpm        
 libwnck3                                                      43.0-4.fc38                           rpm        
 libxcb                                                        1.13.1-11.fc38                        rpm        
 libxcrypt                                                     4.4.36-1.fc38                         rpm        
@@ -477,7 +477,7 @@ pulseaudio-libs                                               16.1-4.fc38       
 pulseaudio-libs-glib2                                         16.1-4.fc38                           rpm        
 python-pip-wheel                                              22.3.1-3.fc38                         rpm        
 python-setuptools-wheel                                       65.5.1-2.fc38                         rpm        
-python3                                                       3.11.4-1.fc38                         rpm        
+python3                                                       3.11.5-1.fc38                         rpm        
 python3-audit                                                 3.1.2-1.fc38                          rpm        
 python3-distro                                                1.8.0-2.fc38                          rpm        
 python3-dnf                                                   4.16.2-1.fc38                         rpm        
@@ -485,7 +485,7 @@ python3-gpg                                                   1.17.1-5.fc38     
 python3-hawkey                                                0.70.2-1.fc38                         rpm        
 python3-libcomps                                              0.1.18-6.fc38                         rpm        
 python3-libdnf                                                0.70.2-1.fc38                         rpm        
-python3-libs                                                  3.11.4-1.fc38                         rpm        
+python3-libs                                                  3.11.5-1.fc38                         rpm        
 python3-libselinux                                            3.5-1.fc38                            rpm        
 python3-libsemanage                                           3.5-2.fc38                            rpm        
 python3-policycoreutils                                       3.5-1.fc38                            rpm        
@@ -493,9 +493,9 @@ python3-rpm                                                   4.18.1-3.fc38     
 python3-setools                                               4.4.3-1.fc38                          rpm        
 python3-setuptools                                            65.5.1-2.fc38                         rpm        
 qt-settings                                                   38.3-1.fc38                           rpm        
-qt5-qtbase                                                    5.15.10-5.fc38                        rpm        
-qt5-qtbase-common                                             5.15.10-5.fc38                        rpm        
-qt5-qtbase-gui                                                5.15.10-5.fc38                        rpm        
+qt5-qtbase                                                    5.15.10-9.fc38                        rpm        
+qt5-qtbase-common                                             5.15.10-9.fc38                        rpm        
+qt5-qtbase-gui                                                5.15.10-9.fc38                        rpm        
 rav1e-libs                                                    0.6.6-1.fc38                          rpm        
 readline                                                      8.2-3.fc38                            rpm        
 redhat-menus                                                  12.0.2-23.fc38                        rpm        
@@ -514,8 +514,8 @@ samba-common                                                  2:4.18.6-1.fc38   
 samba-common-libs                                             2:4.18.6-1.fc38                       rpm        
 sed                                                           4.8-12.fc38                           rpm        
 selinux                                                       3.5                                   python     
-selinux-policy                                                38.27-1.fc38                          rpm        
-selinux-policy-targeted                                       38.27-1.fc38                          rpm        
+selinux-policy                                                38.28-1.fc38                          rpm        
+selinux-policy-targeted                                       38.28-1.fc38                          rpm        
 sepolicy                                                      3.5                                   python     
 setools                                                       4.4.3                                 python     
 setup                                                         2.14.3-2.fc38                         rpm        
@@ -533,10 +533,10 @@ srt-libs                                                      1.5.2-1.fc38      
 startup-notification                                          0.12-25.fc38                          rpm        
 sudo                                                          1.9.13-2.p2.fc38                      rpm        
 svt-av1-libs                                                  1.4.1-2.fc38                          rpm        
-systemd                                                       253.9-1.fc38                          rpm        
-systemd-libs                                                  253.9-1.fc38                          rpm        
-systemd-pam                                                   253.9-1.fc38                          rpm        
-systemd-udev                                                  253.9-1.fc38                          rpm        
+systemd                                                       253.10-1.fc38                         rpm        
+systemd-libs                                                  253.10-1.fc38                         rpm        
+systemd-pam                                                   253.10-1.fc38                         rpm        
+systemd-udev                                                  253.10-1.fc38                         rpm        
 tar                                                           2:1.34-8.fc38                         rpm        
 tigervnc-license                                              1.13.1-3.fc38                         rpm        
 tigervnc-server-minimal                                       1.13.1-3.fc38                         rpm        
