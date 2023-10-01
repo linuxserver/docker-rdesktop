@@ -67,7 +67,7 @@ e2fsprogs                          1.46.5-2ubuntu1.1                        deb
 emacsen-common                     3.0.4                                    deb           
 fdisk                              2.37.2-4ubuntu3                          deb           
 findutils                          4.8.0-1ubuntu3                           deb           
-firefox                            118.0+build1-0ubuntu0.22.04.1~mt1        deb           
+firefox                            118.0.1+build1-0ubuntu0.22.04.1~mt1      deb           
 fontconfig                         2.13.1-4.2ubuntu5                        deb           
 fontconfig-config                  2.13.1-4.2ubuntu5                        deb           
 fonts-dejavu-core                  2.37-2build1                             deb           
