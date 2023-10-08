@@ -347,10 +347,10 @@ libwebrtc-audio-processing1       0.3.1-0ubuntu5                           deb
 libwnck-3-0                       40.1-1                                   deb        
 libwnck-3-common                  40.1-1                                   deb        
 libwrap0                          7.6.q-31build2                           deb        
-libx11-6                          2:1.7.5-1ubuntu0.2                       deb        
-libx11-data                       2:1.7.5-1ubuntu0.2                       deb        
-libx11-dev                        2:1.7.5-1ubuntu0.2                       deb        
-libx11-xcb1                       2:1.7.5-1ubuntu0.2                       deb        
+libx11-6                          2:1.7.5-1ubuntu0.3                       deb        
+libx11-data                       2:1.7.5-1ubuntu0.3                       deb        
+libx11-dev                        2:1.7.5-1ubuntu0.3                       deb        
+libx11-xcb1                       2:1.7.5-1ubuntu0.3                       deb        
 libxau-dev                        1:1.0.9-1build5                          deb        
 libxau6                           1:1.0.9-1build5                          deb        
 libxaw7                           2:1.0.14-1                               deb        
@@ -393,7 +393,7 @@ libxml2                           2.9.13+dfsg-1ubuntu0.3                   deb
 libxmlb2                          0.3.6-2build1                            deb        
 libxmu6                           2:1.1.3-3                                deb        
 libxmuu1                          2:1.1.3-3                                deb        
-libxpm4                           1:3.5.12-1ubuntu0.22.04.1                deb        
+libxpm4                           1:3.5.12-1ubuntu0.22.04.2                deb        
 libxpresent1                      1.0.0-2build1                            deb        
 libxrandr2                        2:1.5.2-1build1                          deb        
 libxrender1                       1:0.9.10-1build4                         deb        
@@ -410,7 +410,7 @@ libxxhash0                        0.8.1-1                                  deb
 libyaml-0-2                       0.2.2-1build2                            deb        
 libzstd1                          1.4.8+dfsg-3build1                       deb        
 lightdm-gtk-greeter               2.0.8-2ubuntu1                           deb        
-locales                           2.35-0ubuntu3.3                          deb        
+locales                           2.35-0ubuntu3.4                          deb        
 login                             1:4.8.1-2ubuntu2.1                       deb        
 logsave                           1.46.5-2ubuntu1.1                        deb        
 lsb-base                          11.1.0ubuntu4                            deb        
