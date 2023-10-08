@@ -5,7 +5,7 @@ accountsservice                                                               23
 alpine-baselayout                                                             3.4.3-r1                                           apk        
 alpine-baselayout-data                                                        3.4.3-r1                                           apk        
 alpine-keys                                                                   2.4-r1                                             apk        
-alpine-release                                                                3.18.3-r0                                          apk        
+alpine-release                                                                3.18.4-r0                                          apk        
 alsa-lib                                                                      1.2.9-r1                                           apk        
 aom-libs                                                                      3.6.1-r0                                           apk        
 apk-tools                                                                     2.14.0-r2                                          apk        
@@ -603,7 +603,7 @@ llvm15-libs                                                                   15
 lm-sensors-libs                                                               3.6.0-r5                                           apk        
 lmdb                                                                          0.9.31-r0                                          apk        
 lua5.4-libs                                                                   5.4.6-r0                                           apk        
-mbedtls                                                                       2.28.4-r0                                          apk        
+mbedtls                                                                       2.28.5-r0                                          apk        
 mcookie                                                                       2.38.1-r8                                          apk        
 mesa                                                                          23.0.4-r0                                          apk        
 mesa-dri-gallium                                                              23.0.4-r0                                          apk        
@@ -671,9 +671,9 @@ pulseaudio-alsa                                                               16
 purpose                                                                       5.105.0-r0                                         apk        
 py3-gobject3                                                                  3.44.1-r2                                          apk        
 pyc                                                                           0.1-r0                                             apk        
-python3                                                                       3.11.5-r0                                          apk        
-python3-pyc                                                                   3.11.5-r0                                          apk        
-python3-pycache-pyc0                                                          3.11.5-r0                                          apk        
+python3                                                                       3.11.6-r0                                          apk        
+python3-pyc                                                                   3.11.6-r0                                          apk        
+python3-pycache-pyc0                                                          3.11.6-r0                                          apk        
 qqc2-desktop-style                                                            5.105.0-r0                                         apk        
 qt5-qtbase                                                                    5.15.9_git20230505-r0                              apk        
 qt5-qtbase-sqlite                                                             5.15.9_git20230505-r0                              apk        
