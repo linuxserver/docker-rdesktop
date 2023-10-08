@@ -2,7 +2,7 @@ NAME                                                                          VE
 alpine-baselayout                                                             3.4.3-r1                                           apk        
 alpine-baselayout-data                                                        3.4.3-r1                                           apk        
 alpine-keys                                                                   2.4-r1                                             apk        
-alpine-release                                                                3.18.3-r0                                          apk        
+alpine-release                                                                3.18.4-r0                                          apk        
 alsa-lib                                                                      1.2.9-r1                                           apk        
 aom-libs                                                                      3.6.1-r0                                           apk        
 apk-tools                                                                     2.14.0-r2                                          apk        
@@ -509,7 +509,7 @@ libzmq                                                                        4.
 linux-pam                                                                     1.5.2-r10                                          apk        
 llvm15-libs                                                                   15.0.7-r6                                          apk        
 lz4-libs                                                                      1.9.4-r4                                           apk        
-mbedtls                                                                       2.28.4-r0                                          apk        
+mbedtls                                                                       2.28.5-r0                                          apk        
 mcookie                                                                       2.38.1-r8                                          apk        
 mesa                                                                          23.0.4-r0                                          apk        
 mesa-dri-gallium                                                              23.0.4-r0                                          apk        
@@ -564,9 +564,9 @@ procps-ng                                                                     4.
 pulseaudio                                                                    16.1-r10                                           apk        
 pulseaudio-alsa                                                               16.1-r10                                           apk        
 pyc                                                                           0.1-r0                                             apk        
-python3                                                                       3.11.5-r0                                          apk        
-python3-pyc                                                                   3.11.5-r0                                          apk        
-python3-pycache-pyc0                                                          3.11.5-r0                                          apk        
+python3                                                                       3.11.6-r0                                          apk        
+python3-pyc                                                                   3.11.6-r0                                          apk        
+python3-pycache-pyc0                                                          3.11.6-r0                                          apk        
 readline                                                                      8.2.1-r1                                           apk        
 ristretto                                                                     0.13.1-r0                                          apk        
 runc                                                                          1.1.7-r3                                           apk        
