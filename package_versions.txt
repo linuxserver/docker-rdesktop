@@ -530,7 +530,7 @@ libvisual-0.4-0                    0.4.0-17build2                           deb
 libvorbis0a                        1.3.7-1build2                            deb           
 libvorbisenc2                      1.3.7-1build2                            deb           
 libvorbisfile3                     1.3.7-1build2                            deb           
-libvpx7                            1.11.0-2ubuntu2                          deb           
+libvpx7                            1.11.0-2ubuntu2.2                        deb           
 libvte-2.91-0                      0.68.0-1                                 deb           
 libvte-2.91-common                 0.68.0-1                                 deb           
 libwavpack1                        5.4.0-1build2                            deb           
@@ -549,10 +549,10 @@ libwoff1                           1.0.2-1build4                            deb
 libwpe-1.0-1                       1.14.0-0ubuntu0.22.04.1                  deb           
 libwpebackend-fdo-1.0-1            1.14.2-0ubuntu0.22.04.1                  deb           
 libwrap0                           7.6.q-31build2                           deb           
-libx11-6                           2:1.7.5-1ubuntu0.2                       deb           
-libx11-data                        2:1.7.5-1ubuntu0.2                       deb           
-libx11-dev                         2:1.7.5-1ubuntu0.2                       deb           
-libx11-xcb1                        2:1.7.5-1ubuntu0.2                       deb           
+libx11-6                           2:1.7.5-1ubuntu0.3                       deb           
+libx11-data                        2:1.7.5-1ubuntu0.3                       deb           
+libx11-dev                         2:1.7.5-1ubuntu0.3                       deb           
+libx11-xcb1                        2:1.7.5-1ubuntu0.3                       deb           
 libxau-dev                         1:1.0.9-1build5                          deb           
 libxau6                            1:1.0.9-1build5                          deb           
 libxaw7                            2:1.0.14-1                               deb           
@@ -588,7 +588,7 @@ libxml2                            2.9.13+dfsg-1ubuntu0.3                   deb
 libxmlb2                           0.3.6-2build1                            deb           
 libxmu6                            2:1.1.3-3                                deb           
 libxmuu1                           2:1.1.3-3                                deb           
-libxpm4                            1:3.5.12-1ubuntu0.22.04.1                deb           
+libxpm4                            1:3.5.12-1ubuntu0.22.04.2                deb           
 libxpresent1                       1.0.0-2build1                            deb           
 libxrandr2                         2:1.5.2-1build1                          deb           
 libxrender1                        1:0.9.10-1build4                         deb           
@@ -607,7 +607,7 @@ libyaml-0-2                        0.2.2-1build2                            deb
 libyelp0                           42.1-1                                   deb           
 libzstd1                           1.4.8+dfsg-3build1                       deb           
 linux-sound-base                   1.0.25+dfsg-0ubuntu7                     deb           
-locales                            2.35-0ubuntu3.3                          deb           
+locales                            2.35-0ubuntu3.4                          deb           
 login                              1:4.8.1-2ubuntu2.1                       deb           
 logsave                            1.46.5-2ubuntu1.1                        deb           
 lsb-base                           11.1.0ubuntu4                            deb           
