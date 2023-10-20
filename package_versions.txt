@@ -8,7 +8,7 @@ alsa-lib                                                                      1.
 alsa-topology-conf                                                            1.2.5.1-3                                 alpm          
 alsa-ucm-conf                                                                 1.2.10-2                                  alpm          
 aom                                                                           3.7.0-1                                   alpm          
-archlinux-keyring                                                             20231012-1                                alpm          
+archlinux-keyring                                                             20231017-1                                alpm          
 argon2                                                                        20190702-5                                alpm          
 at-spi2-core                                                                  2.50.0-1                                  alpm          
 attr                                                                          2.5.1-3                                   alpm          
@@ -29,7 +29,7 @@ ca-certificates-mozilla                                                       3.
 ca-certificates-utils                                                         20220905-1                                alpm          
 cairo                                                                         1.18.0-1                                  alpm          
 cantarell-fonts                                                               1:0.303.1-1                               alpm          
-chromium                                                                      118.0.5993.70-1                           alpm          
+chromium                                                                      118.0.5993.88-1                           alpm          
 cloud.google.com/go                                                           v0.102.1                                  go-module     
 cloud.google.com/go/compute                                                   v1.7.0                                    go-module     
 cloud.google.com/go/logging                                                   v1.4.2                                    go-module     
@@ -72,7 +72,7 @@ flex                                                                          2.
 fontconfig                                                                    2:2.14.2-1                                alpm          
 freetype2                                                                     2.13.2-1                                  alpm          
 fribidi                                                                       1.0.13-2                                  alpm          
-fuse-common                                                                   3.16.1-1                                  alpm          
+fuse-common                                                                   3.16.2-1                                  alpm          
 fuse2                                                                         2.9.9-4                                   alpm          
 garcon                                                                        4.18.1-1                                  alpm          
 gawk                                                                          5.2.2-1                                   alpm          
@@ -359,12 +359,13 @@ grep                                                                          3.
 groff                                                                         1.23.0-5                                  alpm          
 gsettings-desktop-schemas                                                     45.0-1                                    alpm          
 gsm                                                                           1.0.22-1                                  alpm          
+gtk-layer-shell                                                               0.8.1-1                                   alpm          
 gtk-update-icon-cache                                                         1:4.12.3-1                                alpm          
 gtk3                                                                          1:3.24.38-1                               alpm          
 gtksourceview4                                                                4.8.4-1                                   alpm          
 guile                                                                         3.0.9-1                                   alpm          
 gzip                                                                          1.13-2                                    alpm          
-harfbuzz                                                                      8.2.1-1                                   alpm          
+harfbuzz                                                                      8.2.2-1                                   alpm          
 hicolor-icon-theme                                                            0.17-3                                    alpm          
 hidapi                                                                        0.14.0-2                                  alpm          
 highway                                                                       1.0.7-1                                   alpm          
@@ -442,7 +443,7 @@ libfontenc                                                                    1.
 libgcrypt                                                                     1.10.2-1                                  alpm          
 libglvnd                                                                      1.7.0-1                                   alpm          
 libgpg-error                                                                  1.47-1                                    alpm          
-libgtop                                                                       2.41.1-1                                  alpm          
+libgtop                                                                       2.41.2-1                                  alpm          
 libgudev                                                                      238-1                                     alpm          
 libgusb                                                                       0.4.7-1                                   alpm          
 libice                                                                        1.1.1-2                                   alpm          
@@ -455,7 +456,7 @@ libjpeg-turbo                                                                 3.
 libjxl                                                                        0.8.2-2                                   alpm          
 libkeybinder3                                                                 0.3.2-4                                   alpm          
 libksba                                                                       1.6.4-1                                   alpm          
-libldap                                                                       2.6.6-1                                   alpm          
+libldap                                                                       2.6.6-2                                   alpm          
 libmnl                                                                        1.0.5-1                                   alpm          
 libmodplug                                                                    0.8.9.0-5                                 alpm          
 libmpc                                                                        1.3.1-1                                   alpm          
@@ -562,7 +563,7 @@ mesa                                                                          1:
 minizip                                                                       1:1.3-1                                   alpm          
 mousepad                                                                      0.6.1-3                                   alpm          
 mpfr                                                                          4.2.1-1                                   alpm          
-mpg123                                                                        1.32.2-1                                  alpm          
+mpg123                                                                        1.32.3-1                                  alpm          
 mtdev                                                                         1.1.6-2                                   alpm          
 ncurses                                                                       6.4_20230520-1                            alpm          
 nettle                                                                        3.9.1-1                                   alpm          
@@ -572,7 +573,7 @@ nspr                                                                          4.
 nss                                                                           3.94-1                                    alpm          
 ocl-icd                                                                       2.3.2-1                                   alpm          
 onevpl                                                                        2023.3.1-1                                alpm          
-oniguruma                                                                     6.9.8-1                                   alpm          
+oniguruma                                                                     6.9.9-1                                   alpm          
 opencore-amr                                                                  0.1.6-1                                   alpm          
 openexr                                                                       3.2.1-1                                   alpm          
 openjpeg2                                                                     2.5.0-3                                   alpm          
@@ -652,8 +653,8 @@ util-linux-libs                                                               2.
 v4l-utils                                                                     1.24.1-2                                  alpm          
 vid.stab                                                                      1.1.1-1                                   alpm          
 vmaf                                                                          2.3.1-1                                   alpm          
-vte-common                                                                    0.74.0-1                                  alpm          
-vte3                                                                          0.74.0-1                                  alpm          
+vte-common                                                                    0.74.1-1                                  alpm          
+vte3                                                                          0.74.1-1                                  alpm          
 vulkan-icd-loader                                                             1.3.263-1                                 alpm          
 wayland                                                                       1.22.0-1                                  alpm          
 webrtc-audio-processing                                                       0.3.1-4                                   alpm          
@@ -676,12 +677,12 @@ xfce4-power-manager                                                           4.
 xfce4-pulseaudio-plugin                                                       0.4.8-1                                   alpm          
 xfce4-session                                                                 4.18.3-1                                  alpm          
 xfce4-settings                                                                4.18.3-1                                  alpm          
-xfce4-terminal                                                                1.1.0-1                                   alpm          
-xfconf                                                                        4.18.1-2                                  alpm          
+xfce4-terminal                                                                1.1.1-2                                   alpm          
+xfconf                                                                        4.18.2-2                                  alpm          
 xfdesktop                                                                     4.18.1-1                                  alpm          
-xfwm4                                                                         4.18.0-1                                  alpm          
+xfwm4                                                                         4.18.0-2                                  alpm          
 xfwm4-themes                                                                  4.10.0-5                                  alpm          
-xkeyboard-config                                                              2.39-1                                    alpm          
+xkeyboard-config                                                              2.40-1                                    alpm          
 xmlto                                                                         0.0.28-4                                  alpm          
 xorg-fonts-encodings                                                          1.0.7-1                                   alpm          
 xorg-iceauth                                                                  1.0.9-1                                   alpm          
@@ -697,7 +698,7 @@ xorg-xprop                                                                    1.
 xorg-xrdb                                                                     1.2.2-1                                   alpm          
 xorg-xset                                                                     1.2.5-1                                   alpm          
 xorgproto                                                                     2023.2-1                                  alpm          
-xterm                                                                         386-1                                     alpm          
+xterm                                                                         387-1                                     alpm          
 xvidcore                                                                      1.3.7-2                                   alpm          
 xz                                                                            5.4.4-1                                   alpm          
 yelp-tools                                                                    42.1-1                                    alpm          
