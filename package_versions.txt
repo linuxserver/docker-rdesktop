@@ -41,7 +41,7 @@ cpp-11                             11.4.0-1ubuntu1~22.04                    deb
 cryptography                       3.4.8                                    python        
 cryptsetup                         2:2.4.3-1ubuntu1.1                       deb           
 cryptsetup-bin                     2:2.4.3-1ubuntu1.1                       deb           
-curl                               7.81.0-1ubuntu1.13                       deb           
+curl                               7.81.0-1ubuntu1.14                       deb           
 dash                               0.5.11+git20210903+057cd650a4ed-3build1  deb           
 dbus                               1.12.20-2ubuntu4.1                       deb           
 dbus-python                        1.2.18                                   python        
@@ -67,7 +67,7 @@ e2fsprogs                          1.46.5-2ubuntu1.1                        deb
 emacsen-common                     3.0.4                                    deb           
 fdisk                              2.37.2-4ubuntu3                          deb           
 findutils                          4.8.0-1ubuntu3                           deb           
-firefox                            118.0.2+build2-0ubuntu0.22.04.1~mt1      deb           
+firefox                            119.0+build2-0ubuntu0.22.04.1~mt1        deb           
 fontconfig                         2.13.1-4.2ubuntu5                        deb           
 fontconfig-config                  2.13.1-4.2ubuntu5                        deb           
 fonts-dejavu-core                  2.37-2build1                             deb           
@@ -81,8 +81,8 @@ gcc-11-base                        11.4.0-1ubuntu1~22.04                    deb
 gcc-12-base                        12.3.0-1ubuntu1~22.04                    deb           
 gdisk                              1.0.8-4build1                            deb           
 gettext-base                       0.21-4ubuntu4                            deb           
-ghostscript                        9.55.0~dfsg1-0ubuntu5.4                  deb           
-ghostscript-x                      9.55.0~dfsg1-0ubuntu5.4                  deb           
+ghostscript                        9.55.0~dfsg1-0ubuntu5.5                  deb           
+ghostscript-x                      9.55.0~dfsg1-0ubuntu5.5                  deb           
 gir1.2-atk-1.0                     2.36.0-3build1                           deb           
 gir1.2-freedesktop                 1.72.0-1                                 deb           
 gir1.2-gdkpixbuf-2.0               2.42.8+dfsg-1ubuntu0.2                   deb           
@@ -230,7 +230,7 @@ libcrypt1                          1:4.4.27-1                               deb
 libcryptsetup12                    2:2.4.3-1ubuntu1.1                       deb           
 libcups2                           2.4.1op1-1ubuntu4.7                      deb           
 libcurl3-gnutls                    7.81.0-1ubuntu1.14                       deb           
-libcurl4                           7.81.0-1ubuntu1.13                       deb           
+libcurl4                           7.81.0-1ubuntu1.14                       deb           
 libdatrie1                         0.2.13-2                                 deb           
 libdb5.3                           5.3.28+dfsg1-0.8ubuntu3                  deb           
 libdbus-1-3                        1.12.20-2ubuntu4.1                       deb           
@@ -308,8 +308,8 @@ libgphoto2-6                       2.5.27-1build2                           deb
 libgphoto2-port12                  2.5.27-1build2                           deb           
 libgpm2                            1.20.7-10build1                          deb           
 libgraphite2-3                     1.3.14-1build2                           deb           
-libgs9                             9.55.0~dfsg1-0ubuntu5.4                  deb           
-libgs9-common                      9.55.0~dfsg1-0ubuntu5.4                  deb           
+libgs9                             9.55.0~dfsg1-0ubuntu5.5                  deb           
+libgs9-common                      9.55.0~dfsg1-0ubuntu5.5                  deb           
 libgssapi-krb5-2                   1.19.2-2ubuntu0.2                        deb           
 libgstreamer-gl1.0-0               1.20.1-1ubuntu0.1                        deb           
 libgstreamer-plugins-base1.0-0     1.20.1-1ubuntu0.1                        deb           
