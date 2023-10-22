@@ -22,8 +22,8 @@ cairo-gobject                                                 1.17.8-4.fc38     
 cairomm                                                       1.14.5-1.fc38                         rpm        
 cdparanoia-libs                                               10.2-41.fc38                          rpm        
 checkpolicy                                                   3.5-1.fc38                            rpm        
-chromium                                                      117.0.5938.132-2.fc38                 rpm        
-chromium-common                                               117.0.5938.132-2.fc38                 rpm        
+chromium                                                      118.0.5993.70-2.fc38                  rpm        
+chromium-common                                               118.0.5993.70-2.fc38                  rpm        
 cjson                                                         1.7.14-7.fc38                         rpm        
 codec2                                                        1.0.5-2.fc38                          rpm        
 colord-libs                                                   1.4.6-4.fc38                          rpm        
@@ -36,7 +36,7 @@ crypto-policies                                               20230301-1.gita12f
 crypto-policies-scripts                                       20230301-1.gita12f7b2.fc38            rpm        
 cryptsetup-libs                                               2.6.1-1.fc38                          rpm        
 cups-libs                                                     1:2.4.7-1.fc38                        rpm        
-curl                                                          8.0.1-4.fc38                          rpm        
+curl                                                          8.0.1-5.fc38                          rpm        
 cyrus-sasl-lib                                                2.1.28-9.fc38                         rpm        
 dbus                                                          1:1.14.10-1.fc38                      rpm        
 dbus-broker                                                   33-1.fc38                             rpm        
@@ -191,7 +191,7 @@ libXft                                                        2.3.8-2.fc38      
 libXi                                                         1.8.1-1.fc38                          rpm        
 libXinerama                                                   1.1.5-2.fc38                          rpm        
 libXmu                                                        1.1.4-2.fc38                          rpm        
-libXpm                                                        3.5.15-3.fc38                         rpm        
+libXpm                                                        3.5.17-1.fc38                         rpm        
 libXrandr                                                     1.5.2-10.fc38                         rpm        
 libXrender                                                    0.9.11-2.fc38                         rpm        
 libXt                                                         1.2.1-4.fc38                          rpm        
@@ -226,7 +226,7 @@ libcom_err                                                    1.46.5-4.fc38     
 libcomps                                                      0.1.20                                python     
 libcomps                                                      0.1.20-1.fc38                         rpm        
 libconfuse                                                    3.3-8.fc38                            rpm        
-libcurl                                                       8.0.1-4.fc38                          rpm        
+libcurl                                                       8.0.1-5.fc38                          rpm        
 libdaemon                                                     0.14-25.fc38                          rpm        
 libdatrie                                                     0.2.13-5.fc38                         rpm        
 libdav1d                                                      1.2.1-1.fc38                          rpm        
@@ -475,7 +475,7 @@ perl-parent                                                   1:0.241-1.fc38    
 perl-podlators                                                1:5.01-2.fc38                         rpm        
 perl-vars                                                     0:1.05-497.fc38                       rpm        
 pigz                                                          2.7-3.fc38                            rpm        
-pipewire-libs                                                 0.3.82-1.fc38                         rpm        
+pipewire-libs                                                 0.3.82-2.fc38                         rpm        
 pixman                                                        0.42.2-1.fc38                         rpm        
 policycoreutils                                               3.5-1.fc38                            rpm        
 policycoreutils-python-utils                                  3.5-1.fc38                            rpm        
