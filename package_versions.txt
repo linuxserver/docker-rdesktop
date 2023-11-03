@@ -597,7 +597,7 @@ readline                                                                      8.
 resenje.org/singleflight                                                      v0.3.0                                    go-module     
 rtkit                                                                         0.13-2                                    alpm          
 runc                                                                          1.1.10-1                                  alpm          
-sdl2                                                                          2.28.4-1                                  alpm          
+sdl2                                                                          2.28.5-1                                  alpm          
 sed                                                                           4.9-3                                     alpm          
 shadow                                                                        4.14.2-1                                  alpm          
 shared-mime-info                                                              2.3-1                                     alpm          
@@ -607,7 +607,7 @@ sigs.k8s.io/yaml                                                              v1
 snappy                                                                        1.1.10-1                                  alpm          
 speex                                                                         1.2.1-1                                   alpm          
 speexdsp                                                                      1.2.1-1                                   alpm          
-sqlite                                                                        3.43.2-1                                  alpm          
+sqlite                                                                        3.44.0-1                                  alpm          
 srt                                                                           1.5.3-1                                   alpm          
 startup-notification                                                          0.12-8                                    alpm          
 stdlib                                                                        go1.20.4                                  go-module     
