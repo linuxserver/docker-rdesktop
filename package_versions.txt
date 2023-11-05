@@ -38,6 +38,7 @@ colorama                           0.4.4                                    pyth
 coreutils                          8.32-4.1ubuntu1                          deb           
 cpp                                4:11.2.0-1ubuntu1                        deb           
 cpp-11                             11.4.0-1ubuntu1~22.04                    deb           
+cron                               3.0pl1-137ubuntu3                        deb           
 cryptography                       3.4.8                                    python        
 cryptsetup                         2:2.4.3-1ubuntu1.1                       deb           
 cryptsetup-bin                     2:2.4.3-1ubuntu1.1                       deb           
@@ -484,7 +485,7 @@ libsm6                             2:1.2.3-1build2                          deb
 libsmartcols1                      2.37.2-4ubuntu3                          deb           
 libsmbclient                       2:4.15.13+dfsg-0ubuntu1.5                deb           
 libsnapd-glib1                     1.60-0ubuntu1                            deb           
-libsndfile1                        1.0.31-2build1                           deb           
+libsndfile1                        1.0.31-2ubuntu0.1                        deb           
 libsoup-gnome2.4-1                 2.74.2-3                                 deb           
 libsoup2.4-1                       2.74.2-3                                 deb           
 libsoup2.4-common                  2.74.2-3                                 deb           
