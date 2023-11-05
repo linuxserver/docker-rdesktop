@@ -564,7 +564,7 @@ libwbclient                                                                   4.
 libwebp                                                                       1.3.2-r0                                           apk        
 libwoff2common                                                                1.0.2-r2                                           apk        
 libwoff2enc                                                                   1.0.2-r2                                           apk        
-libx11                                                                        1.8.4-r4                                           apk        
+libx11                                                                        1.8.7-r0                                           apk        
 libxau                                                                        1.0.11-r2                                          apk        
 libxaw                                                                        1.0.15-r1                                          apk        
 libxcb                                                                        1.15-r1                                            apk        
@@ -631,7 +631,7 @@ networkmanager-qt                                                             5.
 nghttp2-libs                                                                  1.57.0-r0                                          apk        
 npth                                                                          1.6-r4                                             apk        
 nspr                                                                          4.35-r2                                            apk        
-nss                                                                           3.91-r0                                            apk        
+nss                                                                           3.94-r0                                            apk        
 numactl                                                                       2.0.16-r4                                          apk        
 onevpl-libs                                                                   2023.2.1-r0                                        apk        
 oniguruma                                                                     6.9.8-r1                                           apk        
