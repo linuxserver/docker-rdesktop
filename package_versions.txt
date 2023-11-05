@@ -24,6 +24,7 @@ catdoc                                   1:0.95-5                               
 coreutils                                8.32-4.1ubuntu1                          deb        
 cpp                                      4:11.2.0-1ubuntu1                        deb        
 cpp-11                                   11.4.0-1ubuntu1~22.04                    deb        
+cron                                     3.0pl1-137ubuntu3                        deb        
 cryptography                             3.4.8                                    python     
 curl                                     7.81.0-1ubuntu1.14                       deb        
 dash                                     0.5.11+git20210903+057cd650a4ed-3build1  deb        
@@ -638,7 +639,7 @@ libsmartcols1                            2.37.2-4ubuntu3                        
 libsmbclient                             2:4.15.13+dfsg-0ubuntu1.5                deb        
 libsnapd-glib1                           1.60-0ubuntu1                            deb        
 libsnappy1v5                             1.1.8-1build3                            deb        
-libsndfile1                              1.0.31-2build1                           deb        
+libsndfile1                              1.0.31-2ubuntu0.1                        deb        
 libsndio7.0                              1.8.1-1.1                                deb        
 libsodium23                              1.0.18-1build2                           deb        
 libsoup2.4-1                             2.74.2-3                                 deb        
