@@ -378,8 +378,8 @@ gupnp                                                                         1:
 gupnp-igd                                                                     1.6.0-1                                   alpm          
 gvfs                                                                          1.52.1-1                                  alpm          
 gzip                                                                          1.13-2                                    alpm          
-harfbuzz                                                                      8.2.2-1                                   alpm          
-harfbuzz-icu                                                                  8.2.2-1                                   alpm          
+harfbuzz                                                                      8.3.0-1                                   alpm          
+harfbuzz-icu                                                                  8.3.0-1                                   alpm          
 hicolor-icon-theme                                                            0.17-3                                    alpm          
 hidapi                                                                        0.14.0-2                                  alpm          
 highway                                                                       1.0.7-1                                   alpm          
@@ -696,7 +696,7 @@ vte3                                                                          0.
 vulkan-icd-loader                                                             1.3.269-1                                 alpm          
 wayland                                                                       1.22.0-1                                  alpm          
 wayland-protocols                                                             1.32-1                                    alpm          
-webkit2gtk-4.1                                                                2.42.1-2                                  alpm          
+webkit2gtk-4.1                                                                2.42.2-1                                  alpm          
 webrtc-audio-processing                                                       0.3.1-4                                   alpm          
 which                                                                         2.21-6                                    alpm          
 woff2                                                                         1.0.2-4                                   alpm          
