@@ -365,7 +365,7 @@ gtk3                                                                          1:
 gtksourceview4                                                                4.8.4-1                                   alpm          
 guile                                                                         3.0.9-1                                   alpm          
 gzip                                                                          1.13-2                                    alpm          
-harfbuzz                                                                      8.2.2-1                                   alpm          
+harfbuzz                                                                      8.3.0-1                                   alpm          
 hicolor-icon-theme                                                            0.17-3                                    alpm          
 hidapi                                                                        0.14.0-2                                  alpm          
 highway                                                                       1.0.7-1                                   alpm          
