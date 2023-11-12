@@ -505,7 +505,7 @@ speexdsp                                                                      1.
 sqlite-libs                                                                   3.41.2-r2                                          apk        
 ssl_client                                                                    1.36.1-r4                                          apk        
 st                                                                            0.9-r1                                             apk        
-startup-notification                                                          0.12-r5                                            apk        
+startup-notification                                                          0.12-r6                                            apk        
 stdlib                                                                        go1.20.10                                          go-module  
 sudo                                                                          1.9.13_p3-r2                                       apk        
 svt-av1-libs                                                                  1.6.0-r0                                           apk        
