@@ -10,7 +10,7 @@ alsa-base                          1.0.25+dfsg-0ubuntu7                     deb
 alsa-utils                         1.2.6-1ubuntu1                           deb           
 anacron                            2.3-31ubuntu2                            deb           
 apt                                2.4.10                                   deb           
-apt-transport-https                2.4.10                                   deb           
+apt-transport-https                2.4.11                                   deb           
 apt-utils                          2.4.10                                   deb           
 aptdaemon                          1.1.1+bzr982-0ubuntu39                   deb           
 aptdaemon-data                     1.1.1+bzr982-0ubuntu39                   deb           
@@ -68,7 +68,7 @@ e2fsprogs                          1.46.5-2ubuntu1.1                        deb
 emacsen-common                     3.0.4                                    deb           
 fdisk                              2.37.2-4ubuntu3                          deb           
 findutils                          4.8.0-1ubuntu3                           deb           
-firefox                            119.0.1+build1-0ubuntu0.22.04.1~mt1      deb           
+firefox                            120.0+build2-0ubuntu0.22.04.1~mt1        deb           
 fontconfig                         2.13.1-4.2ubuntu5                        deb           
 fontconfig-config                  2.13.1-4.2ubuntu5                        deb           
 fonts-dejavu-core                  2.37-2build1                             deb           
@@ -754,10 +754,10 @@ sysvinit-utils                     3.01-1ubuntu1                            deb
 tar                                1.34+dfsg-1ubuntu0.1.22.04.1             deb           
 tzdata                             2023c-0ubuntu0.22.04.2                   deb           
 ubuntu-advantage-desktop-daemon    1.10~22.04.1                             deb           
-ubuntu-advantage-tools             29.4~22.04                               deb           
+ubuntu-advantage-tools             30~22.04                                 deb           
 ubuntu-advantage-tools             8001                                     python        
 ubuntu-drivers-common              0.0.0                                    python        
-ubuntu-drivers-common              1:0.9.6.2~0.22.04.4                      deb           
+ubuntu-drivers-common              1:0.9.6.2~0.22.04.6                      deb           
 ubuntu-keyring                     2021.03.26                               deb           
 ubuntu-mate-artwork                22.04.17                                 deb           
 ubuntu-mate-core                   1.282                                    deb           
