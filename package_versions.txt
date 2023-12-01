@@ -16,7 +16,7 @@ audit                                                                         3.
 autoconf                                                                      2.71-4                                    alpm          
 autoconf-archive                                                              1:2023.02.20-1                            alpm          
 automake                                                                      1.16.5-2                                  alpm          
-avahi                                                                         1:0.8+r139+ge5b0bad-1                     alpm          
+avahi                                                                         1:0.8+r189+g35bb1ba-1                     alpm          
 base-devel                                                                    1-1                                       alpm          
 bash                                                                          5.2.021-1                                 alpm          
 binutils                                                                      2.41-3                                    alpm          
@@ -286,7 +286,7 @@ glib2                                                                         2.
 glibc                                                                         2.38-7                                    alpm          
 gmp                                                                           6.3.0-1                                   alpm          
 gnu-netcat                                                                    0.7.1-9                                   alpm          
-gnupg                                                                         2.2.41-2                                  alpm          
+gnupg                                                                         2.4.3-2                                   alpm          
 gnutls                                                                        3.8.2-1                                   alpm          
 go.etcd.io/bbolt                                                              v1.3.7                                    go-module     
 go.etcd.io/etcd/client/pkg/v3                                                 v3.5.6                                    go-module     
@@ -480,7 +480,7 @@ libsysprof-capture                                                            45
 libtasn1                                                                      4.19.0-1                                  alpm          
 libthai                                                                       0.1.29-3                                  alpm          
 libtheora                                                                     1.1.1-6                                   alpm          
-libtiff                                                                       4.6.0-1                                   alpm          
+libtiff                                                                       4.6.0-2                                   alpm          
 libtirpc                                                                      1.3.4-1                                   alpm          
 libtool                                                                       2.4.7+4+g1ec8fa28-6                       alpm          
 libunibreak                                                                   5.1-1                                     alpm          
@@ -493,7 +493,7 @@ libvdpau                                                                      1.
 libverto                                                                      0.3.2-4                                   alpm          
 libvorbis                                                                     1.3.7-3                                   alpm          
 libvpx                                                                        1.13.1-1                                  alpm          
-libwacom                                                                      2.8.0-1                                   alpm          
+libwacom                                                                      2.9.0-1                                   alpm          
 libwebp                                                                       1.3.2-1                                   alpm          
 libx11                                                                        1.8.7-1                                   alpm          
 libxau                                                                        1.0.11-2                                  alpm          
@@ -516,7 +516,7 @@ libxinerama                                                                   1.
 libxkbcommon                                                                  1.6.0-1                                   alpm          
 libxkbcommon-x11                                                              1.6.0-1                                   alpm          
 libxkbfile                                                                    1.1.2-1                                   alpm          
-libxml2                                                                       2.12.0-1                                  alpm          
+libxml2                                                                       2.12.1-1                                  alpm          
 libxmu                                                                        1.1.4-1                                   alpm          
 libxpm                                                                        3.5.17-1                                  alpm          
 libxrandr                                                                     1.5.4-1                                   alpm          
@@ -575,13 +575,13 @@ pango                                                                         1:
 patch                                                                         2.7.6-10                                  alpm          
 pciutils                                                                      3.10.0-1                                  alpm          
 pcre2                                                                         10.42-2                                   alpm          
-perl                                                                          5.38.0-1                                  alpm          
+perl                                                                          5.38.1-1                                  alpm          
 perl-error                                                                    0.17029-5                                 alpm          
 perl-mailtools                                                                2.21-7                                    alpm          
 perl-timedate                                                                 2.33-5                                    alpm          
 pinentry                                                                      1.2.1-3                                   alpm          
 pixman                                                                        0.42.2-1                                  alpm          
-pkgconf                                                                       1.8.1-1                                   alpm          
+pkgconf                                                                       2.0.3-1                                   alpm          
 polkit                                                                        123-1                                     alpm          
 popt                                                                          1.19-1                                    alpm          
 portaudio                                                                     1:19.7.0-2                                alpm          
@@ -589,7 +589,7 @@ procps-ng                                                                     4.
 pulseaudio                                                                    16.1-6                                    alpm          
 python                                                                        3.11.6-1                                  alpm          
 python-lxml                                                                   4.9.2-3                                   alpm          
-qt5-base                                                                      5.15.11+kde+r146-1                        alpm          
+qt5-base                                                                      5.15.11+kde+r147-1                        alpm          
 qt5-translations                                                              5.15.11-1                                 alpm          
 qt5-x11extras                                                                 5.15.11-1                                 alpm          
 rav1e                                                                         0.6.6-3                                   alpm          
@@ -608,7 +608,7 @@ sigs.k8s.io/yaml                                                              v1
 snappy                                                                        1.1.10-1                                  alpm          
 speex                                                                         1.2.1-1                                   alpm          
 speexdsp                                                                      1.2.1-1                                   alpm          
-sqlite                                                                        3.44.1-1                                  alpm          
+sqlite                                                                        3.44.2-2                                  alpm          
 srt                                                                           1.5.3-1                                   alpm          
 startup-notification                                                          0.12-8                                    alpm          
 stdlib                                                                        go1.21.3                                  go-module     
