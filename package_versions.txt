@@ -68,7 +68,7 @@ e2fsprogs                          1.46.5-2ubuntu1.1                        deb
 emacsen-common                     3.0.4                                    deb           
 fdisk                              2.37.2-4ubuntu3                          deb           
 findutils                          4.8.0-1ubuntu3                           deb           
-firefox                            120.0+build2-0ubuntu0.22.04.1~mt1        deb           
+firefox                            120.0.1+build1-0ubuntu0.22.04.1~mt1      deb           
 fontconfig                         2.13.1-4.2ubuntu5                        deb           
 fontconfig-config                  2.13.1-4.2ubuntu5                        deb           
 fonts-dejavu-core                  2.37-2build1                             deb           
@@ -402,7 +402,7 @@ libncurses6                        6.3-2ubuntu0.1                           deb
 libncursesw6                       6.3-2ubuntu0.1                           deb           
 libnettle8                         3.7.3-1build2                            deb           
 libnfs13                           4.0.0-1build2                            deb           
-libnghttp2-14                      1.43.0-1build3                           deb           
+libnghttp2-14                      1.43.0-1ubuntu0.1                        deb           
 libnl-3-200                        3.5.0-0.1                                deb           
 libnl-genl-3-200                   3.5.0-0.1                                deb           
 libnl-route-3-200                  3.5.0-0.1                                deb           
@@ -438,7 +438,7 @@ libpcre3                           2:8.39-13ubuntu0.22.04.1                 deb
 libpcsclite1                       1.9.5-3ubuntu1                           deb           
 libpeas-1.0-0                      1.32.0-1                                 deb           
 libpeas-common                     1.32.0-1                                 deb           
-libperl5.34                        5.34.0-3ubuntu1.2                        deb           
+libperl5.34                        5.34.0-3ubuntu1.3                        deb           
 libpipeline1                       1.5.5-1                                  deb           
 libpixman-1-0                      0.40.0-1ubuntu0.22.04.1                  deb           
 libplist3                          2.2.0-6build2                            deb           
@@ -454,9 +454,9 @@ libpulse-mainloop-glib0            1:15.99.1+dfsg1-1ubuntu2.1               deb
 libpulse0                          1:15.99.1+dfsg1-1ubuntu2.1               deb           
 libpulsedsp                        1:15.99.1+dfsg1-1ubuntu2.1               deb           
 libpython3-stdlib                  3.10.6-1~22.04                           deb           
-libpython3.10                      3.10.12-1~22.04.2                        deb           
-libpython3.10-minimal              3.10.12-1~22.04.2                        deb           
-libpython3.10-stdlib               3.10.12-1~22.04.2                        deb           
+libpython3.10                      3.10.12-1~22.04.3                        deb           
+libpython3.10-minimal              3.10.12-1~22.04.3                        deb           
+libpython3.10-stdlib               3.10.12-1~22.04.3                        deb           
 libraw1394-11                      2.1.2-2build2                            deb           
 librda-common                      0.0.5-1.1                                deb           
 librda0                            0.0.5-1.1                                deb           
@@ -666,9 +666,9 @@ passwd                             1:4.8.1-2ubuntu2.1                       deb
 patch                              2.7.6-7build2                            deb           
 pci.ids                            0.0~2022.01.22-1                         deb           
 pciutils                           1:3.7.0-6                                deb           
-perl                               5.34.0-3ubuntu1.2                        deb           
-perl-base                          5.34.0-3ubuntu1.2                        deb           
-perl-modules-5.34                  5.34.0-3ubuntu1.2                        deb           
+perl                               5.34.0-3ubuntu1.3                        deb           
+perl-base                          5.34.0-3ubuntu1.3                        deb           
+perl-modules-5.34                  5.34.0-3ubuntu1.3                        deb           
 pinentry-curses                    1.1.1-1build2                            deb           
 pkexec                             0.105-33                                 deb           
 pluma                              1.26.0-1ubuntu1                          deb           
@@ -731,8 +731,8 @@ python3-wadllib                    1.3.6-1                                  deb
 python3-xkit                       0.5.0ubuntu5                             deb           
 python3-yaml                       5.4.1-1ubuntu1                           deb           
 python3-zipp                       1.0.0-3                                  deb           
-python3.10                         3.10.12-1~22.04.2                        deb           
-python3.10-minimal                 3.10.12-1~22.04.2                        deb           
+python3.10                         3.10.12-1~22.04.3                        deb           
+python3.10-minimal                 3.10.12-1~22.04.3                        deb           
 readline-common                    8.1.2-1                                  deb           
 rfkill                             2.37.2-4ubuntu3                          deb           
 samba-libs                         2:4.15.13+dfsg-0ubuntu1.5                deb           
