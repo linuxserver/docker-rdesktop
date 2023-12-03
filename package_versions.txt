@@ -43,7 +43,7 @@ elementary-xfce-icon-theme        0.16-0ubuntu1                            deb
 emacsen-common                    3.0.4                                    deb        
 exo-utils                         4.16.3-1                                 deb        
 findutils                         4.8.0-1ubuntu3                           deb        
-firefox                           120.0+build2-0ubuntu0.22.04.1~mt1        deb        
+firefox                           120.0.1+build1-0ubuntu0.22.04.1~mt1      deb        
 fontconfig                        2.13.1-4.2ubuntu5                        deb        
 fontconfig-config                 2.13.1-4.2ubuntu5                        deb        
 fonts-dejavu-core                 2.37-2build1                             deb        
@@ -249,7 +249,7 @@ libncurses6                       6.3-2ubuntu0.1                           deb
 libncursesw6                      6.3-2ubuntu0.1                           deb        
 libnettle8                        3.7.3-1build2                            deb        
 libnewt0.52                       0.52.21-5ubuntu2                         deb        
-libnghttp2-14                     1.43.0-1build3                           deb        
+libnghttp2-14                     1.43.0-1ubuntu0.1                        deb        
 libnotify4                        0.7.9-3ubuntu5.22.04.1                   deb        
 libnpth0                          1.6-3build2                              deb        
 libnsl2                           1.3.0-2build2                            deb        
@@ -284,8 +284,8 @@ libpulse-mainloop-glib0           1:15.99.1+dfsg1-1ubuntu2.1               deb
 libpulse0                         1:15.99.1+dfsg1-1ubuntu2.1               deb        
 libpulsedsp                       1:15.99.1+dfsg1-1ubuntu2.1               deb        
 libpython3-stdlib                 3.10.6-1~22.04                           deb        
-libpython3.10-minimal             3.10.12-1~22.04.2                        deb        
-libpython3.10-stdlib              3.10.12-1~22.04.2                        deb        
+libpython3.10-minimal             3.10.12-1~22.04.3                        deb        
+libpython3.10-stdlib              3.10.12-1~22.04.3                        deb        
 libreadline8                      8.1.2-1                                  deb        
 librtmp1                          2.4+20151223.gitfa8646d.1-2build4        deb        
 libsamplerate0                    0.2.2-1build1                            deb        
@@ -475,8 +475,8 @@ python3-software-properties       0.99.22.8                                deb
 python3-urllib3                   1.26.5-1~exp1ubuntu0.1                   deb        
 python3-wadllib                   1.3.6-1                                  deb        
 python3-zipp                      1.0.0-3                                  deb        
-python3.10                        3.10.12-1~22.04.2                        deb        
-python3.10-minimal                3.10.12-1~22.04.2                        deb        
+python3.10                        3.10.12-1~22.04.3                        deb        
+python3.10-minimal                3.10.12-1~22.04.3                        deb        
 readline-common                   8.1.2-1                                  deb        
 sed                               4.8-1ubuntu2                             deb        
 sensible-utils                    0.0.17                                   deb        
