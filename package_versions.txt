@@ -21,7 +21,7 @@ cairo                                                                         1.
 cairo-gobject                                                                 1.17.8-r1                                          apk        
 cairomm                                                                       1.14.4-r1                                          apk        
 cdparanoia-libs                                                               10.2-r14                                           apk        
-chromium                                                                      117.0.5938.62-r0                                   apk        
+chromium                                                                      119.0.6045.159-r0                                  apk        
 cjson                                                                         1.7.15-r4                                          apk        
 cloud.google.com/go/compute/metadata                                          v0.2.1                                             go-module  
 containerd                                                                    1.7.2-r4                                           apk        
