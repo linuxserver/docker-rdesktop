@@ -28,7 +28,7 @@ ca-certificates-mozilla                                                       3.
 ca-certificates-utils                                                         20220905-1                                alpm          
 cairo                                                                         1.18.0-1                                  alpm          
 cantarell-fonts                                                               1:0.303.1-1                               alpm          
-chromium                                                                      120.0.6099.71-1                           alpm          
+chromium                                                                      120.0.6099.109-1                          alpm          
 cloud.google.com/go                                                           v0.102.1                                  go-module     
 cloud.google.com/go/compute                                                   v1.7.0                                    go-module     
 cloud.google.com/go/logging                                                   v1.4.2                                    go-module     
@@ -383,7 +383,7 @@ k8s.io/cri-api                                                                v0
 k8s.io/klog/v2                                                                v2.80.1                                   go-module     
 k8s.io/klog/v2                                                                v2.90.1                                   go-module     
 k8s.io/utils                                                                  v0.0.0-20230220204549-a5ecb0141aa5        go-module     
-kbd                                                                           2.6.3-1                                   alpm          
+kbd                                                                           2.6.4-1                                   alpm          
 kernel.org/pub/linux/libs/security/libcap/cap                                 v1.2.69                                   go-module     
 kernel.org/pub/linux/libs/security/libcap/psx                                 v1.2.69                                   go-module     
 keyutils                                                                      1.6.3-2                                   alpm          
@@ -445,7 +445,7 @@ libpulse                                                                      16
 librsvg                                                                       2:2.57.0-1                                alpm          
 libsasl                                                                       2.1.28-4                                  alpm          
 libseccomp                                                                    2.5.4-2                                   alpm          
-libsecret                                                                     0.21.1-1                                  alpm          
+libsecret                                                                     0.21.2-1                                  alpm          
 libsm                                                                         1.2.4-1                                   alpm          
 libsndfile                                                                    1.2.2-2                                   alpm          
 libsoup3                                                                      3.4.4-1                                   alpm          
@@ -522,7 +522,7 @@ ncurses                                                                       6.
 nettle                                                                        3.9.1-1                                   alpm          
 noto-fonts                                                                    1:23.12.1-1                               alpm          
 npth                                                                          1.6-4                                     alpm          
-nspr                                                                          4.35-1                                    alpm          
+nspr                                                                          4.35-2                                    alpm          
 nss                                                                           3.95-1                                    alpm          
 obconf-qt                                                                     0.16.3-1                                  alpm          
 oniguruma                                                                     6.9.9-1                                   alpm          
@@ -575,8 +575,8 @@ stdlib                                                                        go
 stdlib                                                                        go1.21.4                                  go-module     
 stdlib                                                                        go1.21.5                                  go-module     
 sudo                                                                          1.9.15.p2-1                               alpm          
-systemd                                                                       255-1                                     alpm          
-systemd-libs                                                                  255-1                                     alpm          
+systemd                                                                       255-2                                     alpm          
+systemd-libs                                                                  255-2                                     alpm          
 tar                                                                           1.35-2                                    alpm          
 tdb                                                                           1.4.9-1                                   alpm          
 texinfo                                                                       7.1-2                                     alpm          
@@ -611,8 +611,8 @@ xfconf                                                                        4.
 xkeyboard-config                                                              2.40-1                                    alpm          
 xmlto                                                                         0.0.28-4                                  alpm          
 xorg-fonts-encodings                                                          1.0.7-1                                   alpm          
-xorg-server                                                                   21.1.9-1                                  alpm          
-xorg-server-common                                                            21.1.9-1                                  alpm          
+xorg-server                                                                   21.1.10-1                                 alpm          
+xorg-server-common                                                            21.1.10-1                                 alpm          
 xorg-setxkbmap                                                                1.3.4-1                                   alpm          
 xorg-xkbcomp                                                                  1.4.6-1                                   alpm          
 xorg-xmessage                                                                 1.0.6-1                                   alpm          
