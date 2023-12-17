@@ -29,7 +29,7 @@ consolekit2                                                                   1.
 containerd                                                                    1.7.2-r4                                           apk        
 coreutils                                                                     9.3-r1                                             apk        
 cups-libs                                                                     2.4.7-r0                                           apk        
-curl                                                                          8.4.0-r0                                           apk        
+curl                                                                          8.5.0-r0                                           apk        
 dbus                                                                          1.14.8-r0                                          apk        
 dbus-daemon-launch-helper                                                     1.14.8-r0                                          apk        
 dbus-glib                                                                     0.112-r5                                           apk        
@@ -318,7 +318,7 @@ icu-libs                                                                      73
 ip6tables                                                                     1.8.9-r2                                           apk        
 iptables                                                                      1.8.9-r2                                           apk        
 iso-codes                                                                     4.15.0-r0                                          apk        
-jq                                                                            1.6-r3                                             apk        
+jq                                                                            1.6-r4                                             apk        
 json-glib                                                                     1.6.6-r1                                           apk        
 jsoncpp                                                                       1.9.5-r0                                           apk        
 k8s.io/api                                                                    v0.22.4                                            go-module  
@@ -354,7 +354,7 @@ libcanberra-gtk3                                                              0.
 libcanberra-pulse                                                             0.30-r9                                            apk        
 libcap2                                                                       2.69-r0                                            apk        
 libcrypto3                                                                    3.1.4-r1                                           apk        
-libcurl                                                                       8.4.0-r0                                           apk        
+libcurl                                                                       8.5.0-r0                                           apk        
 libdav1d                                                                      1.2.1-r0                                           apk        
 libdrm                                                                        2.4.115-r4                                         apk        
 libedit                                                                       20221030.3.1-r1                                    apk        
@@ -617,8 +617,8 @@ xinit                                                                         1.
 xkbcomp                                                                       1.4.6-r1                                           apk        
 xkeyboard-config                                                              2.38-r0                                            apk        
 xmodmap                                                                       1.0.11-r1                                          apk        
-xorg-server                                                                   21.1.9-r0                                          apk        
-xorg-server-common                                                            21.1.9-r0                                          apk        
+xorg-server                                                                   21.1.10-r0                                         apk        
+xorg-server-common                                                            21.1.10-r0                                         apk        
 xorgxrdp                                                                      0.9.19-r0                                          apk        
 xprop                                                                         1.2.6-r0                                           apk        
 xrdb                                                                          1.2.1-r2                                           apk        
