@@ -20,7 +20,7 @@ cpp                               4:11.2.0-1ubuntu1                        deb
 cpp-11                            11.4.0-1ubuntu1~22.04                    deb        
 cron                              3.0pl1-137ubuntu3                        deb        
 cryptography                      3.4.8                                    python     
-curl                              7.81.0-1ubuntu1.14                       deb        
+curl                              7.81.0-1ubuntu1.15                       deb        
 dash                              0.5.11+git20210903+057cd650a4ed-3build1  deb        
 dbus                              1.12.20-2ubuntu4.1                       deb        
 dbus-python                       1.2.18                                   python     
@@ -37,7 +37,7 @@ docker-ce-cli                     5:24.0.7-1~ubuntu.22.04~jammy            deb
 dpkg                              1.21.1ubuntu2.2                          deb        
 e2fsprogs                         1.46.5-2ubuntu1.1                        deb        
 findutils                         4.8.0-1ubuntu3                           deb        
-firefox                           120.0.1+build1-0ubuntu0.22.04.1~mt1      deb        
+firefox                           121.0+build1-0ubuntu0.22.04.1~mt1        deb        
 fontconfig                        2.13.1-4.2ubuntu5                        deb        
 fontconfig-config                 2.13.1-4.2ubuntu5                        deb        
 fonts-dejavu-core                 2.37-2build1                             deb        
@@ -119,10 +119,10 @@ libcbor0.8                        0.8.0-2ubuntu1                           deb
 libcolord2                        1.4.6-1                                  deb        
 libcom-err2                       1.46.5-2ubuntu1.1                        deb        
 libcrypt1                         1:4.4.27-1                               deb        
-libcryptsetup12                   2:2.4.3-1ubuntu1.1                       deb        
+libcryptsetup12                   2:2.4.3-1ubuntu1.2                       deb        
 libcups2                          2.4.1op1-1ubuntu4.7                      deb        
 libcurl3-gnutls                   7.81.0-1ubuntu1.15                       deb        
-libcurl4                          7.81.0-1ubuntu1.14                       deb        
+libcurl4                          7.81.0-1ubuntu1.15                       deb        
 libdatrie1                        0.2.13-2                                 deb        
 libdb5.3                          5.3.28+dfsg1-0.8ubuntu3                  deb        
 libdbus-1-3                       1.12.20-2ubuntu4.1                       deb        
@@ -357,7 +357,7 @@ libxxf86vm1                       1:1.1.4-1build3                          deb
 libxxhash0                        0.8.1-1                                  deb        
 libyaml-0-2                       0.2.2-1build2                            deb        
 libzstd1                          1.4.8+dfsg-3build1                       deb        
-locales                           2.35-0ubuntu3.4                          deb        
+locales                           2.35-0ubuntu3.5                          deb        
 login                             1:4.8.1-2ubuntu2.1                       deb        
 logsave                           1.46.5-2ubuntu1.1                        deb        
 lsb-base                          11.1.0ubuntu4                            deb        
@@ -454,8 +454,8 @@ xkb-data                          2.33-1                                   deb
 xorg-sgml-doctools                1:1.11-1.1                               deb        
 xorgxrdp                          1:0.2.17-1build1                         deb        
 xrdp                              0.9.17-2ubuntu2                          deb        
-xserver-common                    2:21.1.4-2ubuntu1.7~22.04.2              deb        
-xserver-xorg-core                 2:21.1.4-2ubuntu1.7~22.04.2              deb        
+xserver-common                    2:21.1.4-2ubuntu1.7~22.04.5              deb        
+xserver-xorg-core                 2:21.1.4-2ubuntu1.7~22.04.5              deb        
 xserver-xorg-video-amdgpu         22.0.0-1ubuntu0.2                        deb        
 xserver-xorg-video-ati            1:19.1.0-2ubuntu1                        deb        
 xserver-xorg-video-intel          2:2.99.917+git20210115-1                 deb        
