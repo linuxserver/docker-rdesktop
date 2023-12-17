@@ -1,5 +1,5 @@
 NAME                                                          VERSION                               TYPE      
-SDL2                                                          2.26.3-1.fc38                         rpm        
+SDL2                                                          2.28.5-1.fc38                         rpm        
 adwaita-cursor-theme                                          44.0-1.fc38                           rpm        
 adwaita-icon-theme                                            44.0-1.fc38                           rpm        
 alsa-lib                                                      1.2.10-2.fc38                         rpm        
@@ -15,7 +15,7 @@ avahi                                                         0.8-22.fc38       
 avahi-libs                                                    0.8-22.fc38                           rpm        
 basesystem                                                    11-15.fc38                            rpm        
 bash                                                          5.2.21-1.fc38                         rpm        
-bluez-libs                                                    5.70-1.fc38                           rpm        
+bluez-libs                                                    5.70-5.fc38                           rpm        
 busybox                                                       1:1.36.0-2.fc38                       rpm        
 bzip2-libs                                                    1.0.8-13.fc38                         rpm        
 ca-certificates                                               2023.2.60_v7.0.306-1.0.fc38           rpm        
@@ -24,8 +24,8 @@ cairo-gobject                                                 1.17.8-4.fc38     
 cairomm                                                       1.14.5-1.fc38                         rpm        
 cdparanoia-libs                                               10.2-41.fc38                          rpm        
 checkpolicy                                                   3.5-1.fc38                            rpm        
-chromium                                                      120.0.6099.62-2.fc38                  rpm        
-chromium-common                                               120.0.6099.62-2.fc38                  rpm        
+chromium                                                      120.0.6099.109-1.fc38                 rpm        
+chromium-common                                               120.0.6099.109-1.fc38                 rpm        
 cjson                                                         1.7.14-7.fc38                         rpm        
 codec2                                                        1.0.5-2.fc38                          rpm        
 colord-libs                                                   1.4.6-4.fc38                          rpm        
@@ -113,11 +113,11 @@ github.com/syndtr/gocapability                                v0.0.0-20200815063
 github.com/urfave/cli                                         v1.22.1                               go-module  
 github.com/vishvananda/netlink                                v1.1.0                                go-module  
 github.com/vishvananda/netns                                  v0.0.0-20191106174202-0a2b9b5464df    go-module  
-glib2                                                         2.76.5-2.fc38                         rpm        
-glibc                                                         2.37-14.fc38                          rpm        
-glibc-common                                                  2.37-14.fc38                          rpm        
-glibc-gconv-extra                                             2.37-14.fc38                          rpm        
-glibc-minimal-langpack                                        2.37-14.fc38                          rpm        
+glib2                                                         2.76.6-1.fc38                         rpm        
+glibc                                                         2.37-16.fc38                          rpm        
+glibc-common                                                  2.37-16.fc38                          rpm        
+glibc-gconv-extra                                             2.37-16.fc38                          rpm        
+glibc-minimal-langpack                                        2.37-16.fc38                          rpm        
 glibmm2.4                                                     2.66.6-1.fc38                         rpm        
 glx-utils                                                     8.5.0-1.fc38                          rpm        
 gmp                                                           1:6.2.1-4.fc38                        rpm        
@@ -195,7 +195,7 @@ libXv                                                         1.0.11-18.fc38    
 libXvMC                                                       1.0.13-2.fc38                         rpm        
 libXxf86vm                                                    1.1.5-2.fc38                          rpm        
 libacl                                                        2.3.1-6.fc38                          rpm        
-libaom                                                        3.7.0-1.fc38                          rpm        
+libaom                                                        3.7.1-1.fc38                          rpm        
 libarchive                                                    3.6.1-4.fc38                          rpm        
 libargon2                                                     20190702-2.fc38                       rpm        
 libassuan                                                     2.5.6-1.fc38                          rpm        
@@ -224,7 +224,7 @@ libdaemon                                                     0.14-25.fc38      
 libdatrie                                                     0.2.13-5.fc38                         rpm        
 libdav1d                                                      1.2.1-1.fc38                          rpm        
 libdb                                                         5.3.28-55.fc38                        rpm        
-libdecor                                                      0.1.1-2.fc38                          rpm        
+libdecor                                                      0.2.1-2.fc38                          rpm        
 libdnf                                                        0.72.0                                python     
 libdnf                                                        0.72.0-1.fc38                         rpm        
 libdrm                                                        2.4.117-1.fc38                        rpm        
@@ -367,7 +367,7 @@ mpg123-libs                                                   1.31.3-1.fc38     
 mtdev                                                         1.1.6-5.fc38                          rpm        
 ncurses-base                                                  6.4-3.20230114.fc38                   rpm        
 ncurses-libs                                                  6.4-3.20230114.fc38                   rpm        
-netcat                                                        1.225-3.fc38                          rpm        
+netcat                                                        1.226-1.fc38                          rpm        
 nettle                                                        3.8-3.fc38                            rpm        
 npth                                                          1.6-12.fc38                           rpm        
 nspr                                                          4.35.0-12.fc38                        rpm        
@@ -404,7 +404,7 @@ pcre2                                                         10.42-1.fc38.1    
 pcre2-syntax                                                  10.42-1.fc38.1                        rpm        
 pcre2-utf16                                                   10.42-1.fc38.1                        rpm        
 pigz                                                          2.7-3.fc38                            rpm        
-pipewire-libs                                                 1.0.0-1.fc38                          rpm        
+pipewire-libs                                                 1.0.0-2.fc38                          rpm        
 pixman                                                        0.42.2-1.fc38                         rpm        
 policycoreutils                                               3.5-1.fc38                            rpm        
 policycoreutils-python-utils                                  3.5-1.fc38                            rpm        
@@ -436,9 +436,9 @@ python3-setools                                               4.4.3-1.fc38      
 python3-setuptools                                            65.5.1-2.fc38                         rpm        
 pyxdg                                                         0.27                                  python     
 qt-settings                                                   38.3-1.fc38                           rpm        
-qt5-qtbase                                                    5.15.11-3.fc38                        rpm        
-qt5-qtbase-common                                             5.15.11-3.fc38                        rpm        
-qt5-qtbase-gui                                                5.15.11-3.fc38                        rpm        
+qt5-qtbase                                                    5.15.11-7.fc38                        rpm        
+qt5-qtbase-common                                             5.15.11-7.fc38                        rpm        
+qt5-qtbase-gui                                                5.15.11-7.fc38                        rpm        
 qt5-qtx11extras                                               5.15.11-1.fc38                        rpm        
 qt6-qtbase                                                    6.6.0-6.fc38                          rpm        
 qt6-qtbase-common                                             6.6.0-6.fc38                          rpm        
@@ -452,7 +452,7 @@ rpm                                                           4.18.2-1.fc38     
 rpm-build-libs                                                4.18.2-1.fc38                         rpm        
 rpm-libs                                                      4.18.2-1.fc38                         rpm        
 rpm-plugin-selinux                                            4.18.2-1.fc38                         rpm        
-rpm-sequoia                                                   1.5.0-1.fc38                          rpm        
+rpm-sequoia                                                   1.5.0-2.fc38                          rpm        
 rpm-sign-libs                                                 4.18.2-1.fc38                         rpm        
 rtkit                                                         0.11-58.fc38                          rpm        
 runc                                                          2:1.1.8-1.fc38                        rpm        
