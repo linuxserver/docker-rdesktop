@@ -39,7 +39,7 @@ ca-certificates-mozilla                                                       3.
 ca-certificates-utils                                                         20220905-1                                alpm          
 cairo                                                                         1.18.0-1                                  alpm          
 cantarell-fonts                                                               1:0.303.1-1                               alpm          
-cdparanoia                                                                    10.2-8                                    alpm          
+cdparanoia                                                                    10.2-9                                    alpm          
 chromium                                                                      120.0.6099.129-1                          alpm          
 cifs-utils                                                                    7.0-3                                     alpm          
 cloud.google.com/go                                                           v0.102.1                                  go-module     
@@ -522,7 +522,7 @@ libdbusmenu-qt5                                                               0.
 libdeflate                                                                    1.19-1                                    alpm          
 libdmtx                                                                       0.7.7-1                                   alpm          
 libdovi                                                                       3.2.0-2                                   alpm          
-libdrm                                                                        2.4.118-1                                 alpm          
+libdrm                                                                        2.4.119-1                                 alpm          
 libedit                                                                       20230828_3.1-1                            alpm          
 libelf                                                                        0.190-1                                   alpm          
 libepoxy                                                                      1.5.10-2                                  alpm          
@@ -560,7 +560,7 @@ libnftnl                                                                      1.
 libnghttp2                                                                    1.58.0-1                                  alpm          
 libnl                                                                         3.9.0-1                                   alpm          
 libnsl                                                                        2.0.1-1                                   alpm          
-libnvme                                                                       1.6-2                                     alpm          
+libnvme                                                                       1.7.1-1                                   alpm          
 libogg                                                                        1.3.5-1                                   alpm          
 libomxil-bellagio                                                             0.9.3-4                                   alpm          
 libopenmpt                                                                    0.7.3-1                                   alpm          
@@ -745,7 +745,7 @@ qt5-tools                                                                     5.
 qt5-translations                                                              5.15.11-1                                 alpm          
 qt5-wayland                                                                   5.15.11+kde+r60-1                         alpm          
 qt5-webchannel                                                                5.15.11+kde+r3-1                          alpm          
-qt5-webengine                                                                 5.15.15-3                                 alpm          
+qt5-webengine                                                                 5.15.16-1                                 alpm          
 qt5-x11extras                                                                 5.15.11-1                                 alpm          
 rav1e                                                                         0.6.6-3                                   alpm          
 readline                                                                      8.2.007-1                                 alpm          
