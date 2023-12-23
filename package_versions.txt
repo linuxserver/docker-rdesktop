@@ -406,7 +406,7 @@ libcolord                                                                     1.
 libcups                                                                       1:2.4.7-2                                 alpm          
 libdaemon                                                                     0.14-5                                    alpm          
 libdatrie                                                                     0.2.13-4                                  alpm          
-libdrm                                                                        2.4.118-1                                 alpm          
+libdrm                                                                        2.4.119-1                                 alpm          
 libedit                                                                       20230828_3.1-1                            alpm          
 libelf                                                                        0.190-1                                   alpm          
 libepoxy                                                                      1.5.10-2                                  alpm          
