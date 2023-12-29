@@ -9,7 +9,7 @@ alsa-topology-conf                                                            1.
 alsa-ucm-conf                                                                 1.2.10-2                                  alpm          
 aom                                                                           3.8.0-2                                   alpm          
 appstream                                                                     1.0.1-1                                   alpm          
-archlinux-keyring                                                             20231207-1                                alpm          
+archlinux-keyring                                                             20231222-1                                alpm          
 argon2                                                                        20190702-5                                alpm          
 at-spi2-core                                                                  2.50.0-1                                  alpm          
 attr                                                                          2.5.1-3                                   alpm          
@@ -65,7 +65,7 @@ doxygen                                                                       1.
 duktape                                                                       2.7.0-6                                   alpm          
 e2fsprogs                                                                     1.47.0-1                                  alpm          
 enchant                                                                       2.6.4-2                                   alpm          
-exempi                                                                        2.6.4-1                                   alpm          
+exempi                                                                        2.6.5-1                                   alpm          
 expat                                                                         2.5.0-1                                   alpm          
 fakeroot                                                                      1.32.2-1                                  alpm          
 fftw                                                                          3.3.10-4                                  alpm          
@@ -74,7 +74,7 @@ filesystem                                                                    20
 findutils                                                                     4.9.0-3                                   alpm          
 flac                                                                          1.4.3-1                                   alpm          
 flex                                                                          2.6.4-5                                   alpm          
-fontconfig                                                                    2:2.14.2-1                                alpm          
+fontconfig                                                                    2:2.15.0-1                                alpm          
 freetype2                                                                     2.13.2-1                                  alpm          
 fribidi                                                                       1.0.13-2                                  alpm          
 fuse-common                                                                   3.16.2-1                                  alpm          
@@ -372,7 +372,7 @@ gst-plugins-base-libs                                                         1.
 gstreamer                                                                     1.22.8-1                                  alpm          
 gtk-layer-shell                                                               0.8.1-1                                   alpm          
 gtk-update-icon-cache                                                         1:4.12.4-1                                alpm          
-gtk3                                                                          1:3.24.39-1                               alpm          
+gtk3                                                                          1:3.24.39-2                               alpm          
 gtk4                                                                          1:4.12.4-1                                alpm          
 gtksourceview4                                                                4.8.4-1                                   alpm          
 guile                                                                         3.0.9-1                                   alpm          
@@ -385,7 +385,7 @@ harfbuzz-icu                                                                  8.
 hicolor-icon-theme                                                            0.17-3                                    alpm          
 highway                                                                       1.0.7-1                                   alpm          
 hwdata                                                                        0.377-1                                   alpm          
-hwloc                                                                         2.9.1-1                                   alpm          
+hwloc                                                                         2.10.0-1                                  alpm          
 hyphen                                                                        2.8.8-5                                   alpm          
 iana-etc                                                                      20231117-1                                alpm          
 icu                                                                           74.2-1                                    alpm          
@@ -416,7 +416,7 @@ kernel.org/pub/linux/libs/security/libcap/cap                                 v1
 kernel.org/pub/linux/libs/security/libcap/psx                                 v1.2.69                                   go-module     
 keyutils                                                                      1.6.3-2                                   alpm          
 kmod                                                                          31-1                                      alpm          
-krb5                                                                          1.20.1-2                                  alpm          
+krb5                                                                          1.21.2-2                                  alpm          
 lame                                                                          3.100-4                                   alpm          
 lcms2                                                                         2.16-1                                    alpm          
 ldns                                                                          1.8.3-2                                   alpm          
@@ -473,7 +473,7 @@ libldap                                                                       2.
 libmanette                                                                    0.2.6-5                                   alpm          
 libmatekbd                                                                    1.26.0-1                                  alpm          
 libmatemixer                                                                  1.26.1-1                                  alpm          
-libmateweather                                                                1.26.2-1                                  alpm          
+libmateweather                                                                1.26.3-1                                  alpm          
 libmnl                                                                        1.0.5-1                                   alpm          
 libmpc                                                                        1.3.1-1                                   alpm          
 libnetfilter_conntrack                                                        1.0.9-1                                   alpm          
@@ -497,7 +497,7 @@ libpsl                                                                        0.
 libpulse                                                                      16.1-7                                    alpm          
 librsvg                                                                       2:2.57.1-1                                alpm          
 libsasl                                                                       2.1.28-4                                  alpm          
-libseccomp                                                                    2.5.4-2                                   alpm          
+libseccomp                                                                    2.5.5-1                                   alpm          
 libsecret                                                                     0.21.2-1                                  alpm          
 libsm                                                                         1.2.4-1                                   alpm          
 libsndfile                                                                    1.2.2-2                                   alpm          
@@ -578,7 +578,7 @@ mate-backgrounds                                                              1.
 mate-control-center                                                           1.26.1-1                                  alpm          
 mate-desktop                                                                  1.26.2-1                                  alpm          
 mate-icon-theme                                                               1.26.0-1                                  alpm          
-mate-media                                                                    1.26.1-1                                  alpm          
+mate-media                                                                    1.26.2-1                                  alpm          
 mate-menus                                                                    1.26.1-1                                  alpm          
 mate-notification-daemon                                                      1.26.1-1                                  alpm          
 mate-panel                                                                    1.26.4-1                                  alpm          
@@ -654,8 +654,8 @@ stdlib                                                                        go
 stdlib                                                                        go1.21.5                                  go-module     
 sudo                                                                          1.9.15.p4-1                               alpm          
 svt-av1                                                                       1.8.0-1                                   alpm          
-systemd                                                                       255.1-1                                   alpm          
-systemd-libs                                                                  255.1-1                                   alpm          
+systemd                                                                       255.2-1                                   alpm          
+systemd-libs                                                                  255.2-1                                   alpm          
 tar                                                                           1.35-2                                    alpm          
 tdb                                                                           1.4.9-1                                   alpm          
 texinfo                                                                       7.1-2                                     alpm          
@@ -664,7 +664,7 @@ tpm2-tss                                                                      4.
 tracker3                                                                      3.6.0-2                                   alpm          
 ttf-liberation                                                                2.1.5-1                                   alpm          
 turbojpeg                                                                                                               java-archive  
-tzdata                                                                        2023c-2                                   alpm          
+tzdata                                                                        2023d-1                                   alpm          
 udisks2                                                                       2.10.1-2                                  alpm          
 util-linux                                                                    2.39.3-1                                  alpm          
 util-linux-libs                                                               2.39.3-1                                  alpm          
