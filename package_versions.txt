@@ -383,7 +383,7 @@ libcrypto3                                                                    3.
 libcurl                                                                       8.5.0-r0                                           apk        
 libdav1d                                                                      1.2.1-r0                                           apk        
 libdc1394                                                                     2.2.6-r1                                           apk        
-libde265                                                                      1.0.12-r0                                          apk        
+libde265                                                                      1.0.15-r0                                          apk        
 libdrm                                                                        2.4.115-r4                                         apk        
 libedit                                                                       20221030.3.1-r1                                    apk        
 libelf                                                                        0.189-r2                                           apk        
@@ -540,9 +540,9 @@ openexr-libiex                                                                3.
 openexr-libilmthread                                                          3.1.9-r0                                           apk        
 openexr-libopenexr                                                            3.1.9-r0                                           apk        
 openjpeg                                                                      2.5.0-r3                                           apk        
-openssh-client-common                                                         9.3_p2-r0                                          apk        
-openssh-client-default                                                        9.3_p2-r0                                          apk        
-openssh-keygen                                                                9.3_p2-r0                                          apk        
+openssh-client-common                                                         9.3_p2-r1                                          apk        
+openssh-client-default                                                        9.3_p2-r1                                          apk        
+openssh-keygen                                                                9.3_p2-r1                                          apk        
 openssl                                                                       3.1.4-r1                                           apk        
 opus                                                                          1.4-r0                                             apk        
 orc                                                                           0.4.34-r0                                          apk        
