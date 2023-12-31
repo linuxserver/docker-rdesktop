@@ -463,9 +463,9 @@ onevpl-libs                                                                   20
 oniguruma                                                                     6.9.8-r1                                           apk        
 openbox                                                                       3.6.1-r5                                           apk        
 openbox-libs                                                                  3.6.1-r5                                           apk        
-openssh-client-common                                                         9.3_p2-r0                                          apk        
-openssh-client-default                                                        9.3_p2-r0                                          apk        
-openssh-keygen                                                                9.3_p2-r0                                          apk        
+openssh-client-common                                                         9.3_p2-r1                                          apk        
+openssh-client-default                                                        9.3_p2-r1                                          apk        
+openssh-keygen                                                                9.3_p2-r1                                          apk        
 openssl                                                                       3.1.4-r1                                           apk        
 opus                                                                          1.4-r0                                             apk        
 orc                                                                           0.4.34-r0                                          apk        
