@@ -11,7 +11,7 @@ argon2                                                                        20
 at-spi2-core                                                                  2.50.0-1                                  alpm          
 attr                                                                          2.5.1-3                                   alpm          
 audit                                                                         3.1.2-1                                   alpm          
-autoconf                                                                      2.71-4                                    alpm          
+autoconf                                                                      2.72-1                                    alpm          
 autoconf-archive                                                              1:2023.02.20-1                            alpm          
 automake                                                                      1.16.5-2                                  alpm          
 avahi                                                                         1:0.8+r189+g35bb1ba-1                     alpm          
@@ -28,7 +28,7 @@ ca-certificates-mozilla                                                       3.
 ca-certificates-utils                                                         20220905-1                                alpm          
 cairo                                                                         1.18.0-1                                  alpm          
 cantarell-fonts                                                               1:0.303.1-1                               alpm          
-chromium                                                                      120.0.6099.129-1                          alpm          
+chromium                                                                      120.0.6099.199-1                          alpm          
 cloud.google.com/go                                                           v0.102.1                                  go-module     
 cloud.google.com/go/compute                                                   v1.7.0                                    go-module     
 cloud.google.com/go/logging                                                   v1.4.2                                    go-module     
@@ -54,7 +54,7 @@ dnssec-anchors                                                                20
 docbook-xml                                                                   4.5-9                                     alpm          
 docbook-xsl                                                                   1.79.2-7                                  alpm          
 docker                                                                        1:24.0.7-1                                alpm          
-doxygen                                                                       1.9.8-1                                   alpm          
+doxygen                                                                       1.10.0-1                                  alpm          
 duktape                                                                       2.7.0-6                                   alpm          
 e2fsprogs                                                                     1.47.0-1                                  alpm          
 elementary-icon-theme                                                         7.3.1-1                                   alpm          
@@ -67,7 +67,7 @@ filesystem                                                                    20
 findutils                                                                     4.9.0-3                                   alpm          
 flac                                                                          1.4.3-1                                   alpm          
 flex                                                                          2.6.4-5                                   alpm          
-fontconfig                                                                    2:2.15.0-1                                alpm          
+fontconfig                                                                    2:2.15.0-2                                alpm          
 freetype2                                                                     2.13.2-1                                  alpm          
 fribidi                                                                       1.0.13-2                                  alpm          
 fuse-common                                                                   3.16.2-1                                  alpm          
@@ -147,6 +147,7 @@ github.com/coreos/go-systemd/v22                                              v2
 github.com/coreos/go-systemd/v22                                              v22.5.0                                   go-module     
 github.com/cpuguy83/go-md2man/v2                                              v2.0.0-20190314233015-f79a8a8ca69d        go-module     
 github.com/cyphar/filepath-securejoin                                         v0.2.3                                    go-module     
+github.com/cyphar/filepath-securejoin                                         v0.2.4                                    go-module     
 github.com/davecgh/go-spew                                                    v1.1.1                                    go-module     
 github.com/deckarep/golang-set/v2                                             v2.3.0                                    go-module     
 github.com/dimchansky/utfbom                                                  v1.1.1                                    go-module     
@@ -404,7 +405,7 @@ libasyncns                                                                    1:
 libbpf                                                                        1.3.0-1                                   alpm          
 libcanberra                                                                   1:0.30+r2+gc0620e4-3                      alpm          
 libcap                                                                        2.69-3                                    alpm          
-libcap-ng                                                                     0.8.3-2                                   alpm          
+libcap-ng                                                                     0.8.4-1                                   alpm          
 libcloudproviders                                                             0.3.5-1                                   alpm          
 libcolord                                                                     1.4.6-1                                   alpm          
 libcups                                                                       1:2.4.7-2                                 alpm          
@@ -419,7 +420,7 @@ libepoxy                                                                      1.
 libevdev                                                                      1.13.1-1                                  alpm          
 libevent                                                                      2.1.12-4                                  alpm          
 libexif                                                                       0.6.24-2                                  alpm          
-libfdk-aac                                                                    2.0.2-1                                   alpm          
+libfdk-aac                                                                    2.0.3-1                                   alpm          
 libffi                                                                        3.4.4-1                                   alpm          
 libfontenc                                                                    1.1.7-1                                   alpm          
 libgcrypt                                                                     1.10.3-1                                  alpm          
@@ -524,13 +525,13 @@ llvm-libs                                                                     16
 lm_sensors                                                                    1:3.6.0.r41.g31d1f125-2                   alpm          
 luit                                                                          20230201-1                                alpm          
 lxml                                                                          4.9.2                                     python        
-lz4                                                                           1:1.9.4-1                                 alpm          
+lz4                                                                           1:1.9.4-2                                 alpm          
 lzo                                                                           2.10-5                                    alpm          
 m4                                                                            1.4.19-3                                  alpm          
 make                                                                          4.4.1-2                                   alpm          
 mallard-ducktype                                                              1.0.2                                     python        
 mallard-ducktype                                                              1.0.2-9                                   alpm          
-mesa                                                                          1:23.3.1-1                                alpm          
+mesa                                                                          1:23.3.2-2                                alpm          
 minizip                                                                       1:1.3-2                                   alpm          
 mousepad                                                                      0.6.1-3                                   alpm          
 mpfr                                                                          4.2.1-1                                   alpm          
@@ -543,7 +544,7 @@ npth                                                                          1.
 nspr                                                                          4.35-2                                    alpm          
 nss                                                                           3.96.1-1                                  alpm          
 oniguruma                                                                     6.9.9-1                                   alpm          
-openmpi                                                                       4.1.5-5                                   alpm          
+openmpi                                                                       4.1.6-1                                   alpm          
 openpmix                                                                      4.2.6-1                                   alpm          
 openssh                                                                       9.6p1-1                                   alpm          
 openssl                                                                       3.2.0-1                                   alpm          
@@ -575,7 +576,7 @@ python-lxml                                                                   4.
 readline                                                                      8.2.007-1                                 alpm          
 resenje.org/singleflight                                                      v0.3.0                                    go-module     
 rtkit                                                                         0.13-2                                    alpm          
-runc                                                                          1.1.10-1                                  alpm          
+runc                                                                          1.1.11-1                                  alpm          
 sed                                                                           4.9-3                                     alpm          
 shadow                                                                        4.14.2-1                                  alpm          
 shared-mime-info                                                              2.4-1                                     alpm          
@@ -595,7 +596,7 @@ systemd-libs                                                                  25
 tar                                                                           1.35-2                                    alpm          
 tdb                                                                           1.4.9-1                                   alpm          
 texinfo                                                                       7.1-2                                     alpm          
-thunar                                                                        4.18.9-1                                  alpm          
+thunar                                                                        4.18.10-1                                 alpm          
 thunar-volman                                                                 4.18.0-1                                  alpm          
 tpm2-tss                                                                      4.0.1-1                                   alpm          
 tracker3                                                                      3.6.0-2                                   alpm          
@@ -649,7 +650,7 @@ xorg-xprop                                                                    1.
 xorg-xrdb                                                                     1.2.2-1                                   alpm          
 xorg-xset                                                                     1.2.5-1                                   alpm          
 xorgproto                                                                     2023.2-1                                  alpm          
-xterm                                                                         388-1                                     alpm          
+xterm                                                                         389-1                                     alpm          
 xz                                                                            5.4.5-1                                   alpm          
 yelp-tools                                                                    42.1-1                                    alpm          
 yelp-xsl                                                                      42.1-1                                    alpm          
