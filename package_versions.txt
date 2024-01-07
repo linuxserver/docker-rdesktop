@@ -18,7 +18,7 @@ avahi                                                         0.8-22.fc38       
 avahi-libs                                                    0.8-22.fc38                           rpm        
 basesystem                                                    11-15.fc38                            rpm        
 bash                                                          5.2.21-1.fc38                         rpm        
-bluez-libs                                                    5.71-1.fc38                           rpm        
+bluez-libs                                                    5.71-2.fc38                           rpm        
 bubblewrap                                                    0.7.0-1.fc38                          rpm        
 busybox                                                       1:1.36.0-2.fc38                       rpm        
 bzip2-libs                                                    1.0.8-13.fc38                         rpm        
@@ -29,8 +29,8 @@ cairomm                                                       1.14.5-1.fc38     
 caja-schemas                                                  1.26.3-1.fc38                         rpm        
 cdparanoia-libs                                               10.2-41.fc38                          rpm        
 checkpolicy                                                   3.5-1.fc38                            rpm        
-chromium                                                      120.0.6099.129-1.fc38                 rpm        
-chromium-common                                               120.0.6099.129-1.fc38                 rpm        
+chromium                                                      120.0.6099.199-1.fc38                 rpm        
+chromium-common                                               120.0.6099.199-1.fc38                 rpm        
 cjson                                                         1.7.14-7.fc38                         rpm        
 codec2                                                        1.0.5-2.fc38                          rpm        
 colord-libs                                                   1.4.6-4.fc38                          rpm        
@@ -42,7 +42,7 @@ cracklib                                                      2.9.11-1.fc38     
 crypto-policies                                               20230301-1.gita12f7b2.fc38            rpm        
 crypto-policies-scripts                                       20230301-1.gita12f7b2.fc38            rpm        
 cryptsetup-libs                                               2.6.1-1.fc38                          rpm        
-cups-libs                                                     1:2.4.7-4.fc38                        rpm        
+cups-libs                                                     1:2.4.7-5.fc38                        rpm        
 curl                                                          8.0.1-6.fc38                          rpm        
 cyrus-sasl-lib                                                2.1.28-9.fc38                         rpm        
 dbus                                                          1:1.14.10-1.fc38                      rpm        
@@ -252,7 +252,7 @@ libbrotli                                                     1.0.9-11.fc38     
 libbsd                                                        0.11.7-4.fc38                         rpm        
 libcanberra                                                   0.30-31.fc38                          rpm        
 libcanberra-gtk3                                              0.30-31.fc38                          rpm        
-libcap                                                        2.48-7.fc38                           rpm        
+libcap                                                        2.48-8.fc38                           rpm        
 libcap-ng                                                     0.8.3-8.fc38                          rpm        
 libcbor                                                       0.7.0-9.fc38                          rpm        
 libchromaprint                                                1.5.1-8.fc38                          rpm        
@@ -310,8 +310,8 @@ liblerc                                                       4.0.0-3.fc38      
 libmanette                                                    0.2.6-6.fc38                          rpm        
 libmatekbd                                                    1.26.1-1.fc38                         rpm        
 libmatemixer                                                  1.26.1-1.fc38                         rpm        
-libmateweather                                                1.26.2-1.fc38                         rpm        
-libmateweather-data                                           1.26.2-1.fc38                         rpm        
+libmateweather                                                1.26.3-1.fc38                         rpm        
+libmateweather-data                                           1.26.3-1.fc38                         rpm        
 libmd                                                         1.1.0-1.fc38                          rpm        
 libmnl                                                        1.0.5-2.fc38                          rpm        
 libmodplug                                                    1:0.8.9.0-16.fc38                     rpm        
@@ -423,7 +423,7 @@ mate-desktop                                                  1.26.2-1.fc38     
 mate-desktop-configs                                          1.26.2-1.fc38                         rpm        
 mate-desktop-libs                                             1.26.2-1.fc38                         rpm        
 mate-icon-theme                                               1.26.0-4.fc38                         rpm        
-mate-media                                                    1.26.1-1.fc38                         rpm        
+mate-media                                                    1.26.2-1.fc38                         rpm        
 mate-menus                                                    1.26.1-1.fc38                         rpm        
 mate-menus-libs                                               1.26.1-1.fc38                         rpm        
 mate-menus-preferences-category-menu                          1.26.1-1.fc38                         rpm        
@@ -605,8 +605,8 @@ samba-common                                                  2:4.18.9-1.fc38   
 samba-common-libs                                             2:4.18.9-1.fc38                       rpm        
 sed                                                           4.8-12.fc38                           rpm        
 selinux                                                       3.5                                   python     
-selinux-policy                                                38.30-1.fc38                          rpm        
-selinux-policy-targeted                                       38.30-1.fc38                          rpm        
+selinux-policy                                                38.31-1.fc38                          rpm        
+selinux-policy-targeted                                       38.31-1.fc38                          rpm        
 sepolicy                                                      3.5                                   python     
 serd                                                          0.30.16-1.fc38                        rpm        
 setools                                                       4.4.3                                 python     
