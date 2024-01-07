@@ -512,7 +512,7 @@ svt-av1-libs                                                                  1.
 tdb-libs                                                                      1.4.8-r1                                           apk        
 tiff                                                                          4.5.1-r0                                           apk        
 tini-static                                                                   0.19.0-r1                                          apk        
-tzdata                                                                        2023c-r1                                           apk        
+tzdata                                                                        2023d-r0                                           apk        
 util-linux-misc                                                               2.38.1-r8                                          apk        
 util-macros                                                                   1.20.0-r0                                          apk        
 utmps-libs                                                                    0.1.2.1-r1                                         apk        
