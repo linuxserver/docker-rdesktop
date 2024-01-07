@@ -728,7 +728,7 @@ tevent                                                                        0.
 threadweaver                                                                  5.105.0-r0                                         apk        
 tiff                                                                          4.5.1-r0                                           apk        
 tini-static                                                                   0.19.0-r1                                          apk        
-tzdata                                                                        2023c-r1                                           apk        
+tzdata                                                                        2023d-r0                                           apk        
 udisks2                                                                       2.9.4-r1                                           apk        
 udisks2-libs                                                                  2.9.4-r1                                           apk        
 unicode-character-database                                                    15.0.0-r0                                          apk        
