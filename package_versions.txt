@@ -592,7 +592,7 @@ svt-av1-libs                                                                  1.
 tdb-libs                                                                      1.4.8-r1                                           apk        
 tiff                                                                          4.5.1-r0                                           apk        
 tini-static                                                                   0.19.0-r1                                          apk        
-tzdata                                                                        2023c-r1                                           apk        
+tzdata                                                                        2023d-r0                                           apk        
 udev-init-scripts                                                             35-r1                                              apk        
 udisks2-libs                                                                  2.9.4-r1                                           apk        
 upower                                                                        1.90.0-r2                                          apk        
