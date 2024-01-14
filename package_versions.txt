@@ -339,7 +339,7 @@ libcanberra-gstreamer                                                         0.
 libcanberra-gtk3                                                              0.30-r9                                            apk        
 libcanberra-pulse                                                             0.30-r9                                            apk        
 libcap2                                                                       2.69-r0                                            apk        
-libcrypto3                                                                    3.1.4-r1                                           apk        
+libcrypto3                                                                    3.1.4-r3                                           apk        
 libcurl                                                                       8.5.0-r0                                           apk        
 libdav1d                                                                      1.2.1-r0                                           apk        
 libdrm                                                                        2.4.115-r4                                         apk        
@@ -386,7 +386,7 @@ libsndfile                                                                    1.
 libsodium                                                                     1.0.18-r3                                          apk        
 libsrt                                                                        1.5.2-r0                                           apk        
 libssh                                                                        0.10.5-r0                                          apk        
-libssl3                                                                       3.1.4-r1                                           apk        
+libssl3                                                                       3.1.4-r3                                           apk        
 libstdc++                                                                     12.2.1_git20220924-r10                             apk        
 libtasn1                                                                      4.19.0-r1                                          apk        
 libtheora                                                                     1.1.1-r17                                          apk        
@@ -460,7 +460,7 @@ oniguruma                                                                     6.
 openssh-client-common                                                         9.3_p2-r1                                          apk        
 openssh-client-default                                                        9.3_p2-r1                                          apk        
 openssh-keygen                                                                9.3_p2-r1                                          apk        
-openssl                                                                       3.1.4-r1                                           apk        
+openssl                                                                       3.1.4-r3                                           apk        
 opus                                                                          1.4-r0                                             apk        
 orc                                                                           0.4.34-r0                                          apk        
 p11-kit                                                                       0.24.1-r2                                          apk        
