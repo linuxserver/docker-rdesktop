@@ -47,7 +47,7 @@ drkonqi                                  5.24.5-0ubuntu0.1                      
 e2fsprogs                                1.46.5-2ubuntu1.1                        deb        
 fdisk                                    2.37.2-4ubuntu3                          deb        
 findutils                                4.8.0-1ubuntu3                           deb        
-firefox                                  121.0+build1-0ubuntu0.22.04.1~mt1        deb        
+firefox                                  121.0.1+build1-0ubuntu0.22.04.1~mt1      deb        
 fontconfig                               2.13.1-4.2ubuntu5                        deb        
 fontconfig-config                        2.13.1-4.2ubuntu5                        deb        
 fonts-dejavu-core                        2.37-2build1                             deb        
@@ -650,7 +650,7 @@ libspa-0.2-modules                       0.3.48-1ubuntu3                        
 libspatialaudio0                         0.3.0+git20180730+dfsg1-2build1          deb        
 libspeex1                                1.2~rc1.2-1.1ubuntu3                     deb        
 libspeexdsp1                             1.2~rc1.2-1.1ubuntu3                     deb        
-libsqlite3-0                             3.37.2-2ubuntu0.1                        deb        
+libsqlite3-0                             3.37.2-2ubuntu0.3                        deb        
 libsquashfuse0                           0.1.103-3                                deb        
 libsrt1.4-gnutls                         1.4.4-4                                  deb        
 libss2                                   1.46.5-2ubuntu1.1                        deb        
