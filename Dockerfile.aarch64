@@ -12,6 +12,7 @@ RUN \
   echo "**** install packages ****" && \
   apk add --no-cache \
     firefox \
+    icewm \
     st \
     util-linux-misc && \
   echo "**** application tweaks ****" && \
