@@ -107,6 +107,7 @@ app_setup_block: |
 
 # changelog
 changelogs:
+  - { date: "17.01.24:", desc: "Sync webtop logic changes rebase to Alpine 3.19 and Fedora 39." }
   - { date: "18.05.23:", desc: "Rebase all Alpine images to 3.18, deprecate armhf." }
   - { date: "27.10.22:", desc: "Rebase all Ubuntu images to Jammy 22.04." }
   - { date: "26.10.22:", desc: "Rebase Alpine xfce to 3.16, migrate to s6v3." }
