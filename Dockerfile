@@ -1,6 +1,6 @@
 # syntax=docker/dockerfile:1
 
-FROM ghcr.io/linuxserver/baseimage-rdesktop:fedora-38
+FROM ghcr.io/linuxserver/baseimage-rdesktop:fedora-39
 
 # set version label
 ARG BUILD_DATE
