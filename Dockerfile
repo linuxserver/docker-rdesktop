@@ -1,4 +1,4 @@
-FROM ghcr.io/linuxserver/baseimage-rdesktop:3.18
+FROM ghcr.io/linuxserver/baseimage-rdesktop:3.19
 
 # set version label
 ARG BUILD_DATE
@@ -10,16 +10,12 @@ LABEL maintainer="thelamer"
 
 RUN \
   echo "**** install packages ****" && \
-  apk add --no-cache --repository=http://dl-cdn.alpinelinux.org/alpine/edge/testing \
-    icewm && \
   apk add --no-cache \
-    chromium \
+    firefox \
+    icewm \
     st \
     util-linux-misc && \
   echo "**** application tweaks ****" && \
-  mv \
-    /usr/bin/chromium-browser \
-    /usr/bin/chromium-real && \
   ln -s \
     /usr/bin/st \
     /usr/bin/x-terminal-emulator && \
