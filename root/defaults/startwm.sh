@@ -1,5 +1,5 @@
 #!/bin/bash
-
+/startpulse.sh &
 setterm blank 0
 setterm powerdown 0
 if [ -f "${HOME}"/.config/xfce4/xfconf/xfce-perchannel-xml/xfwm4.xml ]; then
