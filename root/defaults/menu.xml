@@ -2,7 +2,7 @@
 <openbox_menu xmlns="http://openbox.org/3.4/menu">
 <menu id="root-menu" label="MENU">
 <item label="st" ><action name="Execute"><command>/usr/bin/st</command></action></item>
-<item label="Chromium" icon="/usr/share/icons/hicolor/48x48/apps/chromium.png"><action name="Execute"><command>/usr/bin/chromium-browser</command></action></item>
+<item label="FireFox" icon="/usr/share/icons/hicolor/48x48/apps/firefox.png"><action name="Execute"><command>/usr/bin/firefox</command></action></item>
 <item label="OBConf" icon="/usr/share/icons/hicolor/48x48/apps/obconf-qt.png"><action name="Execute"><command>/usr/bin/obconf-qt</command></action></item>
 <item label="Reload OB"><action name="Reconfigure"/></item>
 </menu>
