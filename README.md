@@ -352,6 +352,7 @@ Once registered you can define the dockerfile to use with `-f Dockerfile.aarch64
 
 ## Versions
 
+* **17.01.24:** - Sync webtop logic changes rebase to Alpine 3.19 and Fedora 39.
 * **18.05.23:** - Rebase all Alpine images to 3.18, deprecate armhf.
 * **27.10.22:** - Rebase all Ubuntu images to Jammy 22.04.
 * **26.10.22:** - Rebase Alpine xfce to 3.16, migrate to s6v3.
