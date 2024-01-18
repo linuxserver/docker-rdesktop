@@ -28,7 +28,7 @@ ca-certificates-mozilla                                                       3.
 ca-certificates-utils                                                         20220905-1                                alpm          
 cairo                                                                         1.18.0-1                                  alpm          
 cantarell-fonts                                                               1:0.303.1-1                               alpm          
-chromium                                                                      120.0.6099.216-1                          alpm          
+chromium                                                                      120.0.6099.224-1                          alpm          
 cloud.google.com/go                                                           v0.102.1                                  go-module     
 cloud.google.com/go/compute                                                   v1.7.0                                    go-module     
 cloud.google.com/go/logging                                                   v1.4.2                                    go-module     
@@ -360,8 +360,8 @@ grep                                                                          3.
 groff                                                                         1.23.0-5                                  alpm          
 gsettings-desktop-schemas                                                     45.0-1                                    alpm          
 gtk-layer-shell                                                               0.8.2-1                                   alpm          
-gtk-update-icon-cache                                                         1:4.12.4-1                                alpm          
-gtk3                                                                          1:3.24.39-2                               alpm          
+gtk-update-icon-cache                                                         1:4.12.5-1                                alpm          
+gtk3                                                                          1:3.24.40-1                               alpm          
 gtksourceview4                                                                4.8.4-1                                   alpm          
 guile                                                                         3.0.9-1                                   alpm          
 gzip                                                                          1.13-2                                    alpm          
@@ -374,7 +374,7 @@ icu                                                                           74
 imlib2                                                                        1.12.1-1                                  alpm          
 iproute2                                                                      6.7.0-1                                   alpm          
 iptables                                                                      1:1.8.10-1                                alpm          
-iso-codes                                                                     4.15.0-1                                  alpm          
+iso-codes                                                                     4.16.0-1                                  alpm          
 itstool                                                                       1:2.0.7-1                                 alpm          
 jansson                                                                       2.14-2                                    alpm          
 jbigkit                                                                       2.1-7                                     alpm          
