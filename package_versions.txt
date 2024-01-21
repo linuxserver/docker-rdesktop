@@ -28,8 +28,8 @@ cairo-gobject                                                 1.18.0-1.fc39     
 cairomm                                                       1.14.5-1.fc39                         rpm        
 cdparanoia-libs                                               10.2-42.fc39                          rpm        
 checkpolicy                                                   3.5-3.fc39                            rpm        
-chromium                                                      120.0.6099.216-1.fc39                 rpm        
-chromium-common                                               120.0.6099.216-1.fc39                 rpm        
+chromium                                                      120.0.6099.224-1.fc39                 rpm        
+chromium-common                                               120.0.6099.224-1.fc39                 rpm        
 cjson                                                         1.7.15-2.fc39                         rpm        
 codec2                                                        1.2.0-2.fc39                          rpm        
 colord-libs                                                   1.4.6-6.fc39                          rpm        
@@ -442,7 +442,7 @@ python3-rpm                                                   4.19.1-1.fc39     
 python3-setools                                               4.4.3-1.fc39                          rpm        
 python3-setuptools                                            67.7.2-7.fc39                         rpm        
 pyxdg                                                         0.27                                  python     
-qt-settings                                                   39.0-1.fc39                           rpm        
+qt-settings                                                   39.1-1.fc39                           rpm        
 qt5-qtbase                                                    5.15.11-7.fc39                        rpm        
 qt5-qtbase-common                                             5.15.11-7.fc39                        rpm        
 qt5-qtbase-gui                                                5.15.11-7.fc39                        rpm        
