@@ -63,9 +63,9 @@ either                                                                        1.
 encodings                                                                     1.0.7-r1                                     apk         
 eudev-libs                                                                    3.2.14-r0                                    apk         
 fern                                                                          0.6.2                                        rust-crate  
-ffmpeg-libavcodec                                                             6.1-r1                                       apk         
-ffmpeg-libavutil                                                              6.1-r1                                       apk         
-ffmpeg-libswresample                                                          6.1-r1                                       apk         
+ffmpeg-libavcodec                                                             6.1.1-r0                                     apk         
+ffmpeg-libavutil                                                              6.1.1-r0                                     apk         
+ffmpeg-libswresample                                                          6.1.1-r0                                     apk         
 fftw-single-libs                                                              3.3.10-r5                                    apk         
 firefox                                                                       120.0.1-r0                                   apk         
 font-alias                                                                    1.0.5-r0                                     apk         
