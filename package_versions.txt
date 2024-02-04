@@ -40,7 +40,7 @@ dirmngr                                  2.2.27-3ubuntu2.1                      
 distro                                   1.7.0                                    python     
 distro-info-data                         0.52ubuntu0.6                            deb        
 dmidecode                                3.3-3ubuntu0.1                           deb        
-docker-ce-cli                            5:25.0.1-1~ubuntu.22.04~jammy            deb        
+docker-ce-cli                            5:25.0.2-1~ubuntu.22.04~jammy            deb        
 dolphin                                  4:21.12.3-0ubuntu1                       deb        
 dpkg                                     1.21.1ubuntu2.2                          deb        
 drkonqi                                  5.24.5-0ubuntu0.1                        deb        
@@ -60,7 +60,7 @@ gdb                                      12.1-0ubuntu1~22.04                    
 gdisk                                    1.0.8-4build1                            deb        
 gir1.2-glib-2.0                          1.72.0-1                                 deb        
 gir1.2-packagekitglib-1.0                1.2.5-2ubuntu2                           deb        
-github.com/docker/cli/cmd/docker         v25.0.1                                  go-module  
+github.com/docker/cli/cmd/docker         v25.0.2                                  go-module  
 glib-networking                          2.72.0-1                                 deb        
 glib-networking-common                   2.72.0-1                                 deb        
 glib-networking-services                 2.72.0-1                                 deb        
@@ -467,8 +467,8 @@ libkwinxrenderutils13                    4:5.24.7-0ubuntu0.1                    
 libkworkspace5-5                         4:5.24.7-0ubuntu0.1                      deb        
 liblayershellqtinterface5                5.24.6-0ubuntu0.1                        deb        
 liblcms2-2                               2.12~rc1-2build2                         deb        
-libldap-2.5-0                            2.5.16+dfsg-0ubuntu0.22.04.1             deb        
-libldap-common                           2.5.16+dfsg-0ubuntu0.22.04.1             deb        
+libldap-2.5-0                            2.5.16+dfsg-0ubuntu0.22.04.2             deb        
+libldap-common                           2.5.16+dfsg-0ubuntu0.22.04.2             deb        
 libldb2                                  2:2.4.4-0ubuntu0.22.04.2                 deb        
 liblirc-client0                          0.10.1-6.3ubuntu1                        deb        
 libllvm15                                1:15.0.7-0ubuntu0.22.04.3                deb        
@@ -807,7 +807,7 @@ netcat-openbsd                           1.218-4ubuntu1                         
 oauthlib                                 3.2.0                                    python     
 ocl-icd-libopencl1                       2.2.14-3                                 deb        
 openssh-client                           1:8.9p1-3ubuntu0.6                       deb        
-openssl                                  3.0.2-0ubuntu1.12                        deb        
+openssl                                  3.0.2-0ubuntu1.13                        deb        
 oxygen-sounds                            4:5.24.6-0ubuntu0.1                      deb        
 packagekit                               1.2.5-2ubuntu2                           deb        
 parted                                   3.4-2build1                              deb        
@@ -951,8 +951,8 @@ xkb-data                                 2.33-1                                 
 xorg-sgml-doctools                       1:1.11-1.1                               deb        
 xorgxrdp                                 1:0.2.17-1build1                         deb        
 xrdp                                     0.9.17-2ubuntu2                          deb        
-xserver-common                           2:21.1.4-2ubuntu1.7~22.04.7              deb        
-xserver-xorg-core                        2:21.1.4-2ubuntu1.7~22.04.7              deb        
+xserver-common                           2:21.1.4-2ubuntu1.7~22.04.8              deb        
+xserver-xorg-core                        2:21.1.4-2ubuntu1.7~22.04.8              deb        
 xserver-xorg-video-amdgpu                22.0.0-1ubuntu0.2                        deb        
 xserver-xorg-video-ati                   1:19.1.0-2ubuntu1                        deb        
 xserver-xorg-video-intel                 2:2.99.917+git20210115-1                 deb        
