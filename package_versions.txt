@@ -62,13 +62,13 @@ distro-info                        1.1ubuntu0.2                             deb
 distro-info-data                   0.52ubuntu0.6                            deb           
 dmidecode                          3.3-3ubuntu0.1                           deb           
 dmsetup                            2:1.02.175-2.1ubuntu4                    deb           
-docker-ce-cli                      5:25.0.2-1~ubuntu.22.04~jammy            deb           
+docker-ce-cli                      5:25.0.3-1~ubuntu.22.04~jammy            deb           
 dpkg                               1.21.1ubuntu2.2                          deb           
 e2fsprogs                          1.46.5-2ubuntu1.1                        deb           
 emacsen-common                     3.0.4                                    deb           
 fdisk                              2.37.2-4ubuntu3                          deb           
 findutils                          4.8.0-1ubuntu3                           deb           
-firefox                            122.0+build2-0ubuntu0.22.04.1~mt1        deb           
+firefox                            122.0.1+build1-0ubuntu0.22.04.1~mt1      deb           
 fontconfig                         2.13.1-4.2ubuntu5                        deb           
 fontconfig-config                  2.13.1-4.2ubuntu5                        deb           
 fonts-dejavu-core                  2.37-2build1                             deb           
@@ -103,7 +103,7 @@ gir1.2-snapd-1                     1.60-0ubuntu1                            deb
 gir1.2-soup-2.4                    2.74.2-3                                 deb           
 gir1.2-vte-2.91                    0.68.0-1                                 deb           
 gir1.2-webkit2-4.0                 2.42.4-0ubuntu0.22.04.1                  deb           
-github.com/docker/cli/cmd/docker   v25.0.2                                  go-module     
+github.com/docker/cli/cmd/docker   v25.0.3                                  go-module     
 glib-networking                    2.72.0-1                                 deb           
 glib-networking-common             2.72.0-1                                 deb           
 glib-networking-services           2.72.0-1                                 deb           
@@ -659,7 +659,7 @@ netcat-openbsd                     1.218-4ubuntu1                           deb
 oauthlib                           3.2.0                                    python        
 openprinting-ppds                  20220223-0ubuntu1                        deb           
 openssh-client                     1:8.9p1-3ubuntu0.6                       deb           
-openssl                            3.0.2-0ubuntu1.13                        deb           
+openssl                            3.0.2-0ubuntu1.14                        deb           
 packagekit                         1.2.5-2ubuntu2                           deb           
 parted                             3.4-2build1                              deb           
 passwd                             1:4.8.1-2ubuntu2.1                       deb           
