@@ -53,7 +53,7 @@ cloud.google.com/go/logging                                                   v1
 cloud.google.com/go/longrunning                                               v0.5.1                                       go-module                    
 code.cloudfoundry.org/clock                                                   v1.1.0                                       go-module                    
 console                                                                       0.15.5                                       rust-crate                   
-containerd                                                                    1.7.10-r0                                    apk                          
+containerd                                                                    1.7.10-r1                                    apk                          
 coreutils                                                                     9.4-r2                                       apk                          
 coreutils-env                                                                 9.4-r2                                       apk                          
 coreutils-fmt                                                                 9.4-r2                                       apk                          
@@ -76,10 +76,10 @@ dconf                                                                         0.
 device-mapper-libs                                                            2.03.23-r0                                   apk                          
 docbook-xml                                                                   4.5-r8                                       apk                          
 docbook-xsl                                                                   1.79.2-r8                                    apk                          
-docker                                                                        25.0.3-r0                                    apk                          
-docker-cli                                                                    25.0.3-r0                                    apk                          
-docker-cli-buildx                                                             0.12.0-r0                                    apk                          
-docker-engine                                                                 25.0.3-r0                                    apk                          
+docker                                                                        25.0.3-r1                                    apk                          
+docker-cli                                                                    25.0.3-r1                                    apk                          
+docker-cli-buildx                                                             0.12.0-r1                                    apk                          
+docker-engine                                                                 25.0.3-r1                                    apk                          
 dolphin                                                                       23.08.4-r0                                   apk                          
 duktape                                                                       2.7.0-r1                                     apk                          
 e2fsprogs-libs                                                                1.47.0-r5                                    apk                          
@@ -96,7 +96,7 @@ ffmpeg-libavutil                                                              6.
 ffmpeg-libswresample                                                          6.1.1-r0                                     apk                          
 fftw-single-libs                                                              3.3.10-r5                                    apk                          
 file                                                                          5.45-r1                                      apk                          
-firefox                                                                       122.0-r1                                     apk                          
+firefox                                                                       123.0.1-r0                                   apk                          
 font-alias                                                                    1.0.5-r0                                     apk                          
 font-cursor-misc                                                              1.0.4-r1                                     apk                          
 font-hack                                                                     3.003-r5                                     apk                          
@@ -865,7 +865,7 @@ rayon-core                                                                    1.
 readline                                                                      8.2.1-r2                                     apk                          
 resenje.org/singleflight                                                      v0.4.1                                       go-module                    
 roc-toolkit-libs                                                              0.3.0-r0                                     apk                          
-runc                                                                          1.1.12-r0                                    apk                          
+runc                                                                          1.1.12-r1                                    apk                          
 rust_hawktracer                                                               0.7.0                                        rust-crate                   
 rust_hawktracer_normal_macro                                                  0.4.1                                        rust-crate                   
 rust_hawktracer_proc_macro                                                    0.4.1                                        rust-crate                   
@@ -899,9 +899,7 @@ soxr                                                                          0.
 speexdsp                                                                      1.2.1-r2                                     apk                          
 sqlite-libs                                                                   3.44.2-r0                                    apk                          
 ssl_client                                                                    1.36.1-r15                                   apk                          
-stdlib                                                                        go1.21.3                                     go-module                    
-stdlib                                                                        go1.21.4                                     go-module   (+3 duplicates)  
-stdlib                                                                        go1.21.6                                     go-module   (+3 duplicates)  
+stdlib                                                                        go1.21.8                                     go-module   (+8 duplicates)  
 sudo                                                                          1.9.15_p2-r0                                 apk                          
 syn                                                                           1.0.109                                      rust-crate                   
 syn                                                                           2.0.16                                       rust-crate                   
