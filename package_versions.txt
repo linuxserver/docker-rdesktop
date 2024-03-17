@@ -2,7 +2,7 @@ NAME                                     VERSION                                
 PyGObject                                3.42.1                                   python       
 PyJWT                                    2.3.0                                    python       
 SecretStorage                            3.3.1                                    python       
-accountsservice                          22.07.5-2ubuntu1.4                       deb          
+accountsservice                          22.07.5-2ubuntu1.5                       deb          
 adduser                                  3.118ubuntu5                             deb          
 adwaita-icon-theme                       41.0-1ubuntu1                            deb          
 apt                                      2.4.11                                   deb          
@@ -47,7 +47,7 @@ drkonqi                                  5.24.5-0ubuntu0.1                      
 e2fsprogs                                1.46.5-2ubuntu1.1                        deb          
 fdisk                                    2.37.2-4ubuntu3                          deb          
 findutils                                4.8.0-1ubuntu3                           deb          
-firefox                                  123.0.1+build1-0ubuntu0.22.04.1~mt1      deb          
+firefox                                  124.0+build1-0ubuntu0.22.04.1~mt1        deb          
 fontconfig                               2.13.1-4.2ubuntu5                        deb          
 fontconfig-config                        2.13.1-4.2ubuntu5                        deb          
 fonts-dejavu-core                        2.37-2build1                             deb          
@@ -129,7 +129,7 @@ liba52-0.7.4                             0.7.4-20                               
 libaa1                                   1.4p5-50build1                           deb          
 libaccounts-glib0                        1.25-1                                   deb          
 libaccounts-qt5-1                        1.16-2                                   deb          
-libaccountsservice0                      22.07.5-2ubuntu1.4                       deb          
+libaccountsservice0                      22.07.5-2ubuntu1.5                       deb          
 libacl1                                  2.3.1-1                                  deb          
 libaom3                                  3.3.0-1                                  deb          
 libapparmor1                             3.0.4-2ubuntu2.3                         deb          
@@ -234,7 +234,7 @@ libepub0                                 0.2.2-4ubuntu3                         
 libevdev2                                1.12.1+dfsg-1                            deb          
 libevent-2.1-7                           2.1.12-stable-1build3                    deb          
 libexiv2-27                              0.27.5-3ubuntu1                          deb          
-libexpat1                                2.4.7-1ubuntu0.2                         deb          
+libexpat1                                2.4.7-1ubuntu0.3                         deb          
 libext2fs2                               1.46.5-2ubuntu1.1                        deb          
 libfaad2                                 2.10.0-2                                 deb          
 libfdisk1                                2.37.2-4ubuntu3                          deb          
