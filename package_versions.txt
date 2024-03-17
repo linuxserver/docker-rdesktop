@@ -38,7 +38,7 @@ docker-ce-cli                     5:25.0.4-1~ubuntu.22.04~jammy            deb
 dpkg                              1.21.1ubuntu2.2                          deb          
 e2fsprogs                         1.46.5-2ubuntu1.1                        deb          
 findutils                         4.8.0-1ubuntu3                           deb          
-firefox                           123.0.1+build1-0ubuntu0.22.04.1~mt1      deb          
+firefox                           124.0+build1-0ubuntu0.22.04.1~mt1        deb          
 fontconfig                        2.13.1-4.2ubuntu5                        deb          
 fontconfig-config                 2.13.1-4.2ubuntu5                        deb          
 fonts-dejavu-core                 2.37-2build1                             deb          
@@ -145,7 +145,7 @@ libegl1                           1.4.0-1                                  deb
 libelf1                           0.186-1build1                            deb          
 libepoxy0                         1.5.10-1                                 deb          
 libev4                            1:4.33-1                                 deb          
-libexpat1                         2.4.7-1ubuntu0.2                         deb          
+libexpat1                         2.4.7-1ubuntu0.3                         deb          
 libext2fs2                        1.46.5-2ubuntu1.1                        deb          
 libffi8                           3.4.2-4                                  deb          
 libfftw3-single3                  3.3.8-2ubuntu8                           deb          
