@@ -9,9 +9,9 @@ apt                                      2.4.11                                 
 apt-transport-https                      2.4.11                                   deb          
 apt-utils                                2.4.11                                   deb          
 baloo-kf5                                5.92.0-0ubuntu1                          deb          
-base-files                               12ubuntu4.3                              deb          
+base-files                               12ubuntu4.6                              deb          
 base-passwd                              3.5.52build1                             deb          
-bash                                     5.1-6ubuntu1                             deb          
+bash                                     5.1-6ubuntu1.1                           deb          
 bash                                     5.1.16                                   binary       
 blinker                                  1.4                                      python       
 breeze                                   4:5.24.7-0ubuntu0.1                      deb          
@@ -21,7 +21,7 @@ bsdextrautils                            2.37.2-4ubuntu3                        
 bsdutils                                 1:2.37.2-4ubuntu3                        deb          
 ca-certificates                          20230311ubuntu0.22.04.1                  deb          
 catdoc                                   1:0.95-5                                 deb          
-coreutils                                8.32-4.1ubuntu1                          deb          
+coreutils                                8.32-4.1ubuntu1.1                        deb          
 cpp                                      4:11.2.0-1ubuntu1                        deb          
 cpp-11                                   11.4.0-1ubuntu1~22.04                    deb          
 cron                                     3.0pl1-137ubuntu3                        deb          
@@ -40,14 +40,14 @@ dirmngr                                  2.2.27-3ubuntu2.1                      
 distro                                   1.7.0                                    python       
 distro-info-data                         0.52ubuntu0.6                            deb          
 dmidecode                                3.3-3ubuntu0.1                           deb          
-docker-ce-cli                            5:25.0.4-1~ubuntu.22.04~jammy            deb          
+docker-ce-cli                            5:26.0.0-1~ubuntu.22.04~jammy            deb          
 dolphin                                  4:21.12.3-0ubuntu1                       deb          
-dpkg                                     1.21.1ubuntu2.2                          deb          
+dpkg                                     1.21.1ubuntu2.3                          deb          
 drkonqi                                  5.24.5-0ubuntu0.1                        deb          
 e2fsprogs                                1.46.5-2ubuntu1.1                        deb          
 fdisk                                    2.37.2-4ubuntu3                          deb          
 findutils                                4.8.0-1ubuntu3                           deb          
-firefox                                  124.0+build1-0ubuntu0.22.04.1~mt1        deb          
+firefox                                  124.0.1+build1-0ubuntu0.22.04.1~mt1      deb          
 fontconfig                               2.13.1-4.2ubuntu5                        deb          
 fontconfig-config                        2.13.1-4.2ubuntu5                        deb          
 fonts-dejavu-core                        2.37-2build1                             deb          
@@ -60,7 +60,7 @@ gdb                                      12.1-0ubuntu1~22.04                    
 gdisk                                    1.0.8-4build1                            deb          
 gir1.2-glib-2.0                          1.72.0-1                                 deb          
 gir1.2-packagekitglib-1.0                1.2.5-2ubuntu2                           deb          
-github.com/docker/cli/cmd/docker         v25.0.4                                  go-module    
+github.com/docker/cli/cmd/docker         v26.0.0                                  go-module    
 glib-networking                          2.72.0-1                                 deb          
 glib-networking-common                   2.72.0-1                                 deb          
 glib-networking-services                 2.72.0-1                                 deb          
@@ -175,8 +175,8 @@ libboost-regex1.74.0                     1.74.0-14ubuntu3                       
 libbrotli1                               1.0.9-2build6                            deb          
 libbsd0                                  0.11.5-1                                 deb          
 libbz2-1.0                               1.0.8-5build1                            deb          
-libc-bin                                 2.35-0ubuntu3.1                          deb          
-libc6                                    2.35-0ubuntu3.1                          deb          
+libc-bin                                 2.35-0ubuntu3.6                          deb          
+libc6                                    2.35-0ubuntu3.6                          deb          
 libcaca0                                 0.99.beta19-2.2ubuntu4                   deb          
 libcairo-gobject2                        1.16.0-5ubuntu2                          deb          
 libcairo2                                1.16.0-5ubuntu2                          deb          
@@ -268,7 +268,7 @@ libglx-mesa0                             23.2.1-1ubuntu3.1~22.04.2              
 libglx0                                  1.4.0-1                                  deb          
 libgme0                                  0.6.3-2                                  deb          
 libgmp10                                 2:6.2.1+dfsg-3ubuntu1                    deb          
-libgnutls30                              3.7.3-4ubuntu1.2                         deb          
+libgnutls30                              3.7.3-4ubuntu1.4                         deb          
 libgomp1                                 12.3.0-1ubuntu1~22.04                    deb          
 libgpg-error0                            1.43-3                                   deb          
 libgpgme11                               1.16.0-1.2ubuntu4.2                      deb          
@@ -277,7 +277,7 @@ libgpm2                                  1.20.7-10build1                        
 libgps28                                 3.22-4ubuntu2                            deb          
 libgraphite2-3                           1.3.14-1build2                           deb          
 libgsm1                                  1.0.19-1                                 deb          
-libgssapi-krb5-2                         1.19.2-2ubuntu0.2                        deb          
+libgssapi-krb5-2                         1.19.2-2ubuntu0.3                        deb          
 libgstreamer-plugins-base1.0-0           1.20.1-1ubuntu0.1                        deb          
 libgstreamer1.0-0                        1.20.3-0ubuntu1                          deb          
 libgtk-3-0                               3.24.33-1ubuntu2                         deb          
@@ -308,7 +308,7 @@ libjs-underscore                         1.13.2~dfsg-2                          
 libjson-c5                               0.15-3~ubuntu1.22.04.2                   deb          
 libjson-glib-1.0-0                       1.6.6-1build1                            deb          
 libjson-glib-1.0-common                  1.6.6-1build1                            deb          
-libk5crypto3                             1.19.2-2ubuntu0.2                        deb          
+libk5crypto3                             1.19.2-2ubuntu0.3                        deb          
 libkaccounts2                            4:21.12.3-0ubuntu1                       deb          
 libkate1                                 0.4.1-11build1                           deb          
 libkdecorations2-5v5                     4:5.24.4-0ubuntu1                        deb          
@@ -448,8 +448,8 @@ libkf5xmlgui5                            5.92.0-0ubuntu2                        
 libkfontinst5                            4:5.24.7-0ubuntu0.1                      deb          
 libkfontinstui5                          4:5.24.7-0ubuntu0.1                      deb          
 libkmod2                                 29-1ubuntu1                              deb          
-libkrb5-3                                1.19.2-2ubuntu0.2                        deb          
-libkrb5support0                          1.19.2-2ubuntu0.2                        deb          
+libkrb5-3                                1.19.2-2ubuntu0.3                        deb          
+libkrb5support0                          1.19.2-2ubuntu0.3                        deb          
 libksba8                                 1.6.0-2ubuntu0.2                         deb          
 libkscreenlocker5                        5.24.4-0ubuntu1                          deb          
 libksgrd9                                4:5.24.6-0ubuntu0.1                      deb          
@@ -467,8 +467,8 @@ libkwinxrenderutils13                    4:5.24.7-0ubuntu0.1                    
 libkworkspace5-5                         4:5.24.7-0ubuntu0.1                      deb          
 liblayershellqtinterface5                5.24.6-0ubuntu0.1                        deb          
 liblcms2-2                               2.12~rc1-2build2                         deb          
-libldap-2.5-0                            2.5.16+dfsg-0ubuntu0.22.04.2             deb          
-libldap-common                           2.5.16+dfsg-0ubuntu0.22.04.2             deb          
+libldap-2.5-0                            2.5.17+dfsg-0ubuntu0.22.04.1             deb          
+libldap-common                           2.5.17+dfsg-0ubuntu0.22.04.1             deb          
 libldb2                                  2:2.4.4-0ubuntu0.22.04.2                 deb          
 liblirc-client0                          0.10.1-6.3ubuntu1                        deb          
 libllvm15                                1:15.0.7-0ubuntu0.22.04.3                deb          
@@ -523,11 +523,11 @@ liborc-0.4-0                             1:0.4.32-2                             
 libp11-kit0                              0.24.0-6build1                           deb          
 libpackagekit-glib2-18                   1.2.5-2ubuntu2                           deb          
 libpackagekitqt5-1                       1.0.2-1                                  deb          
-libpam-modules                           1.4.0-11ubuntu2.3                        deb          
-libpam-modules-bin                       1.4.0-11ubuntu2.3                        deb          
-libpam-runtime                           1.4.0-11ubuntu2.3                        deb          
+libpam-modules                           1.4.0-11ubuntu2.4                        deb          
+libpam-modules-bin                       1.4.0-11ubuntu2.4                        deb          
+libpam-runtime                           1.4.0-11ubuntu2.4                        deb          
 libpam-systemd                           249.11-0ubuntu3.12                       deb          
-libpam0g                                 1.4.0-11ubuntu2.3                        deb          
+libpam0g                                 1.4.0-11ubuntu2.4                        deb          
 libpango-1.0-0                           1.50.6+ds-2ubuntu1                       deb          
 libpangocairo-1.0-0                      1.50.6+ds-2ubuntu1                       deb          
 libpangoft2-1.0-0                        1.50.6+ds-2ubuntu1                       deb          
@@ -557,7 +557,7 @@ libpopt0                                 1.18-3build1                           
 libpostproc55                            7:4.4.2-0ubuntu0.22.04.1                 deb          
 libprocesscore9                          4:5.24.6-0ubuntu0.1                      deb          
 libprocessui9                            4:5.24.6-0ubuntu0.1                      deb          
-libprocps8                               2:3.3.17-6ubuntu2                        deb          
+libprocps8                               2:3.3.17-6ubuntu2.1                      deb          
 libprotobuf-lite23                       3.12.4-1ubuntu7.22.04.1                  deb          
 libproxy1v5                              0.4.17-2                                 deb          
 libpsl5                                  0.21.0-1.2build2                         deb          
@@ -657,7 +657,7 @@ libss2                                   1.46.5-2ubuntu1.1                      
 libssh-4                                 0.9.6-2ubuntu0.22.04.3                   deb          
 libssh-gcrypt-4                          0.9.6-2ubuntu0.22.04.3                   deb          
 libssh2-1                                1.10.0-3                                 deb          
-libssl3                                  3.0.2-0ubuntu1.10                        deb          
+libssl3                                  3.0.2-0ubuntu1.15                        deb          
 libstdc++6                               12.3.0-1ubuntu1~22.04                    deb          
 libstemmer0d                             2.2.0-1build1                            deb          
 libswresample3                           7:4.4.2-0ubuntu0.22.04.1                 deb          
@@ -790,7 +790,7 @@ libzvbi-common                           0.2.35-19                              
 libzvbi0                                 0.2.35-19                                deb          
 libzxingcore1                            1.2.0-1                                  deb          
 locales                                  2.35-0ubuntu3.6                          deb          
-login                                    1:4.8.1-2ubuntu2.1                       deb          
+login                                    1:4.8.1-2ubuntu2.2                       deb          
 logsave                                  1.46.5-2ubuntu1.1                        deb          
 lsb-base                                 11.1.0ubuntu4                            deb          
 lsb-release                              11.1.0ubuntu4                            deb          
@@ -811,7 +811,7 @@ openssl                                  3.0.2-0ubuntu1.15                      
 oxygen-sounds                            4:5.24.6-0ubuntu0.1                      deb          
 packagekit                               1.2.5-2ubuntu2                           deb          
 parted                                   3.4-2build1                              deb          
-passwd                                   1:4.8.1-2ubuntu2.1                       deb          
+passwd                                   1:4.8.1-2ubuntu2.2                       deb          
 pci.ids                                  0.0~2022.01.22-1                         deb          
 perl                                     5.34.0-3ubuntu1.3                        deb          
 perl-base                                5.34.0-3ubuntu1.3                        deb          
@@ -829,7 +829,7 @@ plasma-workspace-data                    4:5.24.7-0ubuntu0.1                    
 policykit-1                              0.105-33                                 deb          
 polkit-kde-agent-1                       4:5.24.4-0ubuntu1                        deb          
 polkitd                                  0.105-33                                 deb          
-procps                                   2:3.3.17-6ubuntu2                        deb          
+procps                                   2:3.3.17-6ubuntu2.1                      deb          
 psmisc                                   23.4-2build3                             deb          
 publicsuffix                             20211207.1025-1                          deb          
 pulseaudio                               1:15.99.1+dfsg1-1ubuntu2.1               deb          
@@ -922,7 +922,7 @@ systemd                                  249.11-0ubuntu3.12                     
 systemd-sysv                             249.11-0ubuntu3.12                       deb          
 systemsettings                           4:5.24.6-0ubuntu0.1                      deb          
 sysvinit-utils                           3.01-1ubuntu1                            deb          
-tar                                      1.34+dfsg-1ubuntu0.1.22.04.1             deb          
+tar                                      1.34+dfsg-1ubuntu0.1.22.04.2             deb          
 tzdata                                   2024a-0ubuntu0.22.04                     deb          
 ubuntu-keyring                           2021.03.26                               deb          
 ubuntu-mono                              20.10-0ubuntu2                           deb          
