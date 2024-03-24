@@ -30,8 +30,8 @@ cairo-gobject                                                 1.18.0-1.fc39     
 cairomm                                                       1.14.5-1.fc39                         rpm                         
 cdparanoia-libs                                               10.2-42.fc39                          rpm                         
 checkpolicy                                                   3.5-3.fc39                            rpm                         
-chromium                                                      122.0.6261.128-1.fc39                 rpm                         
-chromium-common                                               122.0.6261.128-1.fc39                 rpm                         
+chromium                                                      123.0.6312.58-1.fc39                  rpm                         
+chromium-common                                               123.0.6312.58-1.fc39                  rpm                         
 cjson                                                         1.7.15-2.fc39                         rpm                         
 codec2                                                        1.2.0-2.fc39                          rpm                         
 colord-libs                                                   1.4.6-6.fc39                          rpm                         
@@ -73,7 +73,7 @@ elfutils-libs                                                 0.191-2.fc39      
 enchant2                                                      2.5.0-5.fc39                          rpm                         
 exo                                                           4.18.0-3.fc39                         rpm                         
 expat                                                         2.6.0-1.fc39                          rpm                         
-f39-backgrounds-base                                          39.0.4-1.fc39                         rpm                         
+f39-backgrounds-base                                          39.0.5-2.fc39                         rpm                         
 fdk-aac-free                                                  2.0.0-11.fc39                         rpm                         
 fedora-gpg-keys                                               39-1                                  rpm                         
 fedora-release-common                                         39-36                                 rpm                         
@@ -232,7 +232,7 @@ libXv                                                         1.0.11-19.fc39    
 libXvMC                                                       1.0.13-3.fc39                         rpm                         
 libXxf86vm                                                    1.1.5-3.fc39                          rpm                         
 libacl                                                        2.3.1-9.fc39                          rpm                         
-libaom                                                        3.8.0-1.fc39                          rpm                         
+libaom                                                        3.8.2-1.fc39                          rpm                         
 libarchive                                                    3.7.1-1.fc39                          rpm                         
 libargon2                                                     20190702-3.fc39                       rpm                         
 libassuan                                                     2.5.6-2.fc39                          rpm                         
@@ -401,7 +401,7 @@ libwebp                                                       1.3.2-2.fc39      
 libwnck3                                                      43.0-6.fc39                           rpm                         
 libxcb                                                        1.13.1-12.fc39                        rpm                         
 libxcrypt                                                     4.4.36-2.fc39                         rpm                         
-libxfce4ui                                                    4.18.5-1.fc39                         rpm                         
+libxfce4ui                                                    4.18.6-1.fc39                         rpm                         
 libxfce4util                                                  4.18.2-1.fc39                         rpm                         
 libxkbcommon                                                  1.6.0-1.fc39                          rpm                         
 libxkbcommon-x11                                              1.6.0-1.fc39                          rpm                         
@@ -575,8 +575,8 @@ urw-base35-z003-fonts                                         20200910-18.fc39  
 util-linux                                                    2.39.3-6.fc39                         rpm                         
 util-linux-core                                               2.39.3-6.fc39                         rpm                         
 vapoursynth-libs                                              63-2.fc39                             rpm                         
-vim-data                                                      2:9.1.113-1.fc39                      rpm                         
-vim-minimal                                                   2:9.1.113-1.fc39                      rpm                         
+vim-data                                                      2:9.1.181-1.fc39                      rpm                         
+vim-minimal                                                   2:9.1.181-1.fc39                      rpm                         
 vo-amrwbenc                                                   0.1.3-19.fc39                         rpm                         
 volume_key-libs                                               0.3.12-20.fc39                        rpm                         
 vte-profile                                                   0.74.2-1.fc39                         rpm                         
@@ -598,7 +598,7 @@ xfce4-places-plugin                                           1.8.3-3.fc39      
 xfce4-pulseaudio-plugin                                       0.4.8-1.fc39                          rpm                         
 xfce4-session                                                 4.18.3-2.fc39                         rpm                         
 xfce4-settings                                                4.18.4-1.fc39                         rpm                         
-xfce4-terminal                                                1.1.2-2.fc39                          rpm                         
+xfce4-terminal                                                1.1.3-1.fc39                          rpm                         
 xfconf                                                        4.18.3-1.fc39                         rpm                         
 xfdesktop                                                     4.18.1-3.fc39                         rpm                         
 xfwm4                                                         4.18.0-3.fc39                         rpm                         
@@ -616,10 +616,10 @@ xorg-x11-server-Xorg                                          1.20.14-30.fc39   
 xorg-x11-server-common                                        1.20.14-30.fc39                       rpm                         
 xorg-x11-xauth                                                1:1.1.2-4.fc39                        rpm                         
 xorg-x11-xinit                                                1.4.2-1.fc39                          rpm                         
-xorgxrdp                                                      0.9.19-7.fc39                         rpm                         
+xorgxrdp                                                      0.9.20-1.fc39                         rpm                         
 xprop                                                         1.2.5-4.fc39                          rpm                         
 xrdb                                                          1.2.2-1.fc39                          rpm                         
-xrdp                                                          1:0.9.24-1.fc39                       rpm                         
+xrdp                                                          1:0.9.25-2.fc39                       rpm                         
 xset                                                          1.2.5-3.fc39                          rpm                         
 xterm                                                         385-1.fc39                            rpm                         
 xvidcore                                                      1.3.7-10.fc39                         rpm                         
