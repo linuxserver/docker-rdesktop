@@ -67,7 +67,7 @@ ffmpeg-libavcodec                                                             6.
 ffmpeg-libavutil                                                              6.1.1-r0                                     apk                          
 ffmpeg-libswresample                                                          6.1.1-r0                                     apk                          
 fftw-single-libs                                                              3.3.10-r5                                    apk                          
-firefox                                                                       123.0.1-r0                                   apk                          
+firefox                                                                       124.0.1-r0                                   apk                          
 font-alias                                                                    1.0.5-r0                                     apk                          
 font-cursor-misc                                                              1.0.4-r1                                     apk                          
 font-liberation                                                               2.1.5-r2                                     apk                          
@@ -79,7 +79,7 @@ fuse                                                                          2.
 fuse-common                                                                   3.16.2-r0                                    apk                          
 gdk-pixbuf                                                                    2.42.10-r6                                   apk                          
 getrandom                                                                     0.2.9                                        rust-crate                   
-giflib                                                                        5.2.1-r5                                     apk                          
+giflib                                                                        5.2.2-r0                                     apk                          
 github.com/Graylog2/go-gelf                                                   v0.0.0-20191017102106-1550ee647df0           go-module                    
 github.com/Masterminds/semver/v3                                              v3.2.1                                       go-module                    
 github.com/Microsoft/hcsshim                                                  v0.11.4                                      go-module   (+1 duplicate)   
@@ -592,7 +592,7 @@ orc                                                                           0.
 os_str_bytes                                                                  6.5.0                                        rust-crate                   
 p11-kit                                                                       0.25.3-r0                                    apk                          
 pango                                                                         1.51.0-r0                                    apk                          
-pangomm                                                                       2.46.3-r0                                    apk                          
+pangomm                                                                       2.46.4-r0                                    apk                          
 paste                                                                         1.0.12                                       rust-crate                   
 pavucontrol                                                                   5.0-r4                                       apk                          
 pciutils-libs                                                                 3.10.0-r0                                    apk                          
