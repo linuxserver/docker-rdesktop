@@ -35,8 +35,8 @@ busctl                                                                        25
 busybox                                                                       1.36.1-r15                                   apk                          
 busybox-binsh                                                                 1.36.1-r15                                   apk                          
 c-ares                                                                        1.24.0-r1                                    apk                          
-ca-certificates                                                               20230506-r0                                  apk                          
-ca-certificates-bundle                                                        20230506-r0                                  apk                          
+ca-certificates                                                               20240226-r0                                  apk                          
+ca-certificates-bundle                                                        20240226-r0                                  apk                          
 cairo                                                                         1.18.0-r0                                    apk                          
 cairo-gobject                                                                 1.18.0-r0                                    apk                          
 cairomm                                                                       1.14.5-r0                                    apk                          
@@ -373,7 +373,7 @@ gmp                                                                           6.
 gnupg-dirmngr                                                                 2.4.4-r0                                     apk                          
 gnupg-gpgconf                                                                 2.4.4-r0                                     apk                          
 gnupg-keyboxd                                                                 2.4.4-r0                                     apk                          
-gnutls                                                                        3.8.3-r0                                     apk                          
+gnutls                                                                        3.8.4-r0                                     apk                          
 go.etcd.io/bbolt                                                              v1.3.7                                       go-module   (+1 duplicate)   
 go.etcd.io/etcd/client/pkg/v3                                                 v3.5.6                                       go-module                    
 go.etcd.io/etcd/pkg/v3                                                        v3.5.6                                       go-module                    
@@ -748,7 +748,7 @@ lmdb                                                                          0.
 log                                                                           0.4.17                                       rust-crate                   
 lua5.4-libs                                                                   5.4.6-r1                                     apk                          
 maybe-rayon                                                                   0.1.1                                        rust-crate                   
-mbedtls                                                                       2.28.7-r0                                    apk                          
+mbedtls                                                                       2.28.8-r0                                    apk                          
 mcookie                                                                       2.39.3-r0                                    apk                          
 memchr                                                                        2.5.0                                        rust-crate                   
 memoffset                                                                     0.8.0                                        rust-crate                   
@@ -852,7 +852,7 @@ qt5-qtsvg                                                                     5.
 qt5-qttools                                                                   5.15.10_git20230612-r1                       apk                          
 qt5-qtwayland                                                                 5.15.10_git20230714-r0                       apk                          
 qt5-qtwebchannel                                                              5.15.10_git20230612-r0                       apk                          
-qt5-qtwebengine                                                               5.15.16-r4                                   apk                          
+qt5-qtwebengine                                                               5.15.16-r5                                   apk                          
 qt5-qtx11extras                                                               5.15.10_git20230424-r0                       apk                          
 quote                                                                         1.0.27                                       rust-crate                   
 rand                                                                          0.8.5                                        rust-crate                   
