@@ -5,14 +5,14 @@ SecretStorage                     3.3.1                                    pytho
 adduser                           3.118ubuntu5                             deb          
 adwaita-icon-theme                41.0-1ubuntu1                            deb          
 apt                               2.4.11                                   deb          
-apt-transport-https               2.4.11                                   deb          
+apt-transport-https               2.4.12                                   deb          
 apt-utils                         2.4.11                                   deb          
 base-files                        12ubuntu4.6                              deb          
 base-passwd                       3.5.52build1                             deb          
 bash                              5.1-6ubuntu1.1                           deb          
 bash                              5.1.16                                   binary       
 blinker                           1.4                                      python       
-bsdextrautils                     2.37.2-4ubuntu3                          deb          
+bsdextrautils                     2.37.2-4ubuntu3.3                        deb          
 bsdutils                          1:2.37.2-4ubuntu3                        deb          
 ca-certificates                   20230311ubuntu0.22.04.1                  deb          
 coreutils                         8.32-4.1ubuntu1.1                        deb          
@@ -121,7 +121,7 @@ libcom-err2                       1.46.5-2ubuntu1.1                        deb
 libcrypt1                         1:4.4.27-1                               deb          
 libcryptsetup12                   2:2.4.3-1ubuntu1.2                       deb          
 libcups2                          2.4.1op1-1ubuntu4.8                      deb          
-libcurl3-gnutls                   7.81.0-1ubuntu1.15                       deb          
+libcurl3-gnutls                   7.81.0-1ubuntu1.16                       deb          
 libcurl4                          7.81.0-1ubuntu1.15                       deb          
 libdatrie1                        0.2.13-2                                 deb          
 libdb5.3                          5.3.28+dfsg1-0.8ubuntu3                  deb          
@@ -248,8 +248,8 @@ libprocps8                        2:3.3.17-6ubuntu2.1                      deb
 libproxy1v5                       0.4.17-2                                 deb          
 libpsl5                           0.21.0-1.2build2                         deb          
 libpthread-stubs0-dev             0.4-1build2                              deb          
-libpulse0                         1:15.99.1+dfsg1-1ubuntu2.1               deb          
-libpulsedsp                       1:15.99.1+dfsg1-1ubuntu2.1               deb          
+libpulse0                         1:15.99.1+dfsg1-1ubuntu2.2               deb          
+libpulsedsp                       1:15.99.1+dfsg1-1ubuntu2.2               deb          
 libpython3-stdlib                 3.10.6-1~22.04                           deb          
 libpython3.10-minimal             3.10.12-1~22.04.3                        deb          
 libpython3.10-stdlib              3.10.12-1~22.04.3                        deb          
@@ -384,8 +384,8 @@ policykit-1                       0.105-33                                 deb
 polkitd                           0.105-33                                 deb          
 procps                            2:3.3.17-6ubuntu2.1                      deb          
 publicsuffix                      20211207.1025-1                          deb          
-pulseaudio                        1:15.99.1+dfsg1-1ubuntu2.1               deb          
-pulseaudio-utils                  1:15.99.1+dfsg1-1ubuntu2.1               deb          
+pulseaudio                        1:15.99.1+dfsg1-1ubuntu2.2               deb          
+pulseaudio-utils                  1:15.99.1+dfsg1-1ubuntu2.2               deb          
 pyparsing                         2.4.7                                    python       
 python-apt                        2.4.0+ubuntu3                            python       
 python-apt-common                 2.4.0ubuntu3                             deb          
