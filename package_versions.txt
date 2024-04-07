@@ -20,7 +20,7 @@ bitstream-io                                                                  1.
 brotli-libs                                                                   1.1.0-r1                                     apk                          
 busybox                                                                       1.36.1-r15                                   apk                          
 busybox-binsh                                                                 1.36.1-r15                                   apk                          
-c-ares                                                                        1.24.0-r1                                    apk                          
+c-ares                                                                        1.27.0-r0                                    apk                          
 ca-certificates                                                               20240226-r0                                  apk                          
 ca-certificates-bundle                                                        20240226-r0                                  apk                          
 cairo                                                                         1.18.0-r0                                    apk                          
@@ -679,8 +679,8 @@ xinit                                                                         1.
 xkbcomp                                                                       1.4.7-r0                                     apk                          
 xkeyboard-config                                                              2.40-r0                                      apk                          
 xmodmap                                                                       1.0.11-r1                                    apk                          
-xorg-server                                                                   21.1.11-r0                                   apk                          
-xorg-server-common                                                            21.1.11-r0                                   apk                          
+xorg-server                                                                   21.1.12-r0                                   apk                          
+xorg-server-common                                                            21.1.12-r0                                   apk                          
 xorgxrdp                                                                      0.9.19-r0                                    apk                          
 xrdb                                                                          1.2.2-r0                                     apk                          
 xrdp                                                                          0.9.23.1-r0                                  apk                          
