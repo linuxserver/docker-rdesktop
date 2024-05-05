@@ -79,7 +79,7 @@ ffmpeg-libavutil                                                              6.
 ffmpeg-libswresample                                                          6.1.1-r0                                     apk                          
 fftw-single-libs                                                              3.3.10-r5                                    apk                          
 findutils                                                                     4.9.0-r5                                     apk                          
-firefox                                                                       125.0.2-r0                                   apk                          
+firefox                                                                       125.0.3-r0                                   apk                          
 font-alias                                                                    1.0.5-r0                                     apk                          
 font-cursor-misc                                                              1.0.4-r1                                     apk                          
 font-misc-misc                                                                1.1.3-r1                                     apk                          
