@@ -26,6 +26,7 @@ ca-certificates-bundle                                                        20
 cairo                                                                         1.18.0-r0                                    apk                          
 cairo-gobject                                                                 1.18.0-r0                                    apk                          
 cairomm                                                                       1.14.5-r0                                    apk                          
+catatonit                                                                     0.2.0-r0                                     apk                          
 cdparanoia-libs                                                               10.2-r14                                     apk                          
 cfg-if                                                                        1.0.0                                        rust-crate                   
 clap                                                                          4.0.32                                       rust-crate                   
@@ -334,7 +335,7 @@ github.com/xeipuuv/gojsonschema                                               v1
 github.com/zclconf/go-cty                                                     v1.14.1                                      go-module                    
 github.com/zmap/zcrypto                                                       v0.0.0-20210511125630-18f1e0152cfc           go-module                    
 github.com/zmap/zlint/v3                                                      v3.1.0                                       go-module                    
-glib                                                                          2.78.4-r0                                    apk                          
+glib                                                                          2.78.5-r0                                    apk                          
 glibmm                                                                        2.66.6-r0                                    apk                          
 gmp                                                                           6.3.0-r0                                     apk                          
 gnutls                                                                        3.8.4-r0                                     apk                          
