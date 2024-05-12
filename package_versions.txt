@@ -40,6 +40,7 @@ ca-certificates-bundle                                                        20
 cairo                                                                         1.18.0-r0                                    apk                          
 cairo-gobject                                                                 1.18.0-r0                                    apk                          
 cairomm                                                                       1.14.5-r0                                    apk                          
+catatonit                                                                     0.2.0-r0                                     apk                          
 cdparanoia-libs                                                               10.2-r14                                     apk                          
 cfg-if                                                                        1.0.0                                        rust-crate                   
 cjson                                                                         1.7.17-r0                                    apk                          
@@ -368,7 +369,7 @@ github.com/xeipuuv/gojsonschema                                               v1
 github.com/zclconf/go-cty                                                     v1.14.1                                      go-module                    
 github.com/zmap/zcrypto                                                       v0.0.0-20210511125630-18f1e0152cfc           go-module                    
 github.com/zmap/zlint/v3                                                      v3.1.0                                       go-module                    
-glib                                                                          2.78.4-r0                                    apk                          
+glib                                                                          2.78.5-r0                                    apk                          
 glibmm                                                                        2.66.6-r0                                    apk                          
 gmp                                                                           6.3.0-r0                                     apk                          
 gnupg-dirmngr                                                                 2.4.4-r0                                     apk                          
@@ -628,7 +629,7 @@ libgcrypt                                                                     1.
 libgomp                                                                       13.2.1_git20231014-r0                        apk                          
 libgpg-error                                                                  1.47-r2                                      apk                          
 libgudev                                                                      238-r0                                       apk                          
-libgusb                                                                       0.4.8-r0                                     apk                          
+libgusb                                                                       0.4.9-r0                                     apk                          
 libhunspell                                                                   1.7.2-r4                                     apk                          
 libhwy                                                                        1.0.7-r0                                     apk                          
 libice                                                                        1.1.1-r5                                     apk                          
