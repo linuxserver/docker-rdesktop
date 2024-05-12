@@ -23,7 +23,6 @@ ayatana-indicator-common           0.9.7-1                                  deb
 base-files                         12ubuntu4.6                              deb             
 base-passwd                        3.5.52build1                             deb             
 bash                               5.1-6ubuntu1.1                           deb             
-bash                               5.1.16                                   binary          
 bc                                 1.07.1-3build1                           deb             
 blinker                            1.4                                      python          
 bsdextrautils                      2.37.2-4ubuntu3.4                        deb             
@@ -32,6 +31,7 @@ bubblewrap                         0.6.1-1                                  deb
 ca-certificates                    20230311ubuntu0.22.04.1                  deb             
 caja                               1.26.0-1ubuntu1                          deb             
 caja-common                        1.26.0-1ubuntu1                          deb             
+catatonit                          0.1.7-1                                  deb             
 chardet                            4.0.0                                    python          
 click                              8.0.3                                    python          
 colorama                           0.4.4                                    python          
@@ -59,16 +59,16 @@ dirmngr                            2.2.27-3ubuntu2.1                        deb
 distro                             1.7.0                                    python          
 distro-info                        1.1+ubuntu0.2                            python          
 distro-info                        1.1ubuntu0.2                             deb             
-distro-info-data                   0.52ubuntu0.6                            deb             
+distro-info-data                   0.52ubuntu0.7                            deb             
 dmidecode                          3.3-3ubuntu0.1                           deb             
 dmsetup                            2:1.02.175-2.1ubuntu4                    deb             
-docker-ce-cli                      5:26.1.0-1~ubuntu.22.04~jammy            deb             
+docker-ce-cli                      5:26.1.2-1~ubuntu.22.04~jammy            deb             
 dpkg                               1.21.1ubuntu2.3                          deb             
 e2fsprogs                          1.46.5-2ubuntu1.1                        deb             
 emacsen-common                     3.0.4                                    deb             
 fdisk                              2.37.2-4ubuntu3.4                        deb             
 findutils                          4.8.0-1ubuntu3                           deb             
-firefox                            125.0.3+build1-0ubuntu0.22.04.1~mt1      deb             
+firefox                            126.0+build2-0ubuntu0.22.04.1~mt1        deb             
 fontconfig                         2.13.1-4.2ubuntu5                        deb             
 fontconfig-config                  2.13.1-4.2ubuntu5                        deb             
 fonts-dejavu-core                  2.37-2build1                             deb             
@@ -89,7 +89,7 @@ gir1.2-freedesktop                 1.72.0-1                                 deb
 gir1.2-gdkpixbuf-2.0               2.42.8+dfsg-1ubuntu0.2                   deb             
 gir1.2-glib-2.0                    1.72.0-1                                 deb             
 gir1.2-goa-1.0                     3.44.0-1ubuntu1                          deb             
-gir1.2-gtk-3.0                     3.24.33-1ubuntu2                         deb             
+gir1.2-gtk-3.0                     3.24.33-1ubuntu2.1                       deb             
 gir1.2-gtksource-4                 4.8.3-1                                  deb             
 gir1.2-handy-1                     1.6.1-1                                  deb             
 gir1.2-harfbuzz-0.0                2.7.4-1ubuntu3.1                         deb             
@@ -103,7 +103,7 @@ gir1.2-snapd-1                     1.60-0ubuntu1                            deb
 gir1.2-soup-2.4                    2.74.2-3                                 deb             
 gir1.2-vte-2.91                    0.68.0-1                                 deb             
 gir1.2-webkit2-4.0                 2.44.0-0ubuntu0.22.04.1                  deb             
-github.com/docker/cli/cmd/docker   v26.1.0                                  go-module       
+github.com/docker/cli/cmd/docker   v26.1.2                                  go-module       
 glib-networking                    2.72.0-1                                 deb             
 glib-networking-common             2.72.0-1                                 deb             
 glib-networking-services           2.72.0-1                                 deb             
@@ -129,7 +129,7 @@ gstreamer1.0-alsa                  1.20.1-1ubuntu0.1                        deb
 gstreamer1.0-plugins-base          1.20.1-1ubuntu0.1                        deb             
 gstreamer1.0-plugins-good          1.20.3-0ubuntu1.1                        deb             
 gstreamer1.0-pulseaudio            1.20.3-0ubuntu1.1                        deb             
-gtk-update-icon-cache              3.24.33-1ubuntu2                         deb             
+gtk-update-icon-cache              3.24.33-1ubuntu2.1                       deb             
 gtk2-engines-murrine               0.98.2-3build2                           deb             
 gtk2-engines-pixbuf                2.24.33-2ubuntu2                         deb             
 gvfs                               1.48.2-0ubuntu1                          deb             
@@ -272,7 +272,7 @@ libfontenc1                        1:1.1.4-1build3                          deb
 libfreetype6                       2.11.1+dfsg-1ubuntu0.2                   deb             
 libfribidi0                        1.0.8-2ubuntu3.1                         deb             
 libfuse2                           2.9.9-5ubuntu3                           deb             
-libgail-3-0                        3.24.33-1ubuntu2                         deb             
+libgail-3-0                        3.24.33-1ubuntu2.1                       deb             
 libgbm1                            23.2.1-1ubuntu3.1~22.04.2                deb             
 libgcc-s1                          12.3.0-1ubuntu1~22.04                    deb             
 libgck-1-0                         3.40.0-4                                 deb             
@@ -292,9 +292,9 @@ libglapi-mesa                      23.2.1-1ubuntu3.1~22.04.2                deb
 libgles2                           1.4.0-1                                  deb             
 libglib-object-introspection-perl  0.049-1+build2                           deb             
 libglib-perl                       3:1.329.3-2build1                        deb             
-libglib2.0-0                       2.72.4-0ubuntu2.2                        deb             
-libglib2.0-bin                     2.72.4-0ubuntu2.2                        deb             
-libglib2.0-data                    2.72.4-0ubuntu2.2                        deb             
+libglib2.0-0                       2.72.4-0ubuntu2.3                        deb             
+libglib2.0-bin                     2.72.4-0ubuntu2.3                        deb             
+libglib2.0-data                    2.72.4-0ubuntu2.3                        deb             
 libglu1-mesa                       9.0.2-1                                  deb             
 libglvnd0                          1.4.0-1                                  deb             
 libglx-mesa0                       23.2.1-1ubuntu3.1~22.04.2                deb             
@@ -316,8 +316,8 @@ libgstreamer-gl1.0-0               1.20.1-1ubuntu0.1                        deb
 libgstreamer-plugins-base1.0-0     1.20.1-1ubuntu0.1                        deb             
 libgstreamer-plugins-good1.0-0     1.20.3-0ubuntu1.1                        deb             
 libgstreamer1.0-0                  1.20.3-0ubuntu1                          deb             
-libgtk-3-0                         3.24.33-1ubuntu2                         deb             
-libgtk-3-common                    3.24.33-1ubuntu2                         deb             
+libgtk-3-0                         3.24.33-1ubuntu2.1                       deb             
+libgtk-3-common                    3.24.33-1ubuntu2.1                       deb             
 libgtk-layer-shell0                0.7.0-1                                  deb             
 libgtk2.0-0                        2.24.33-2ubuntu2                         deb             
 libgtk2.0-common                   2.24.33-2ubuntu2                         deb             
@@ -402,7 +402,7 @@ libncurses6                        6.3-2ubuntu0.1                           deb
 libncursesw6                       6.3-2ubuntu0.1                           deb             
 libnettle8                         3.7.3-1build2                            deb             
 libnfs13                           4.0.0-1build2                            deb             
-libnghttp2-14                      1.43.0-1ubuntu0.1                        deb             
+libnghttp2-14                      1.43.0-1ubuntu0.2                        deb             
 libnl-3-200                        3.5.0-0.1                                deb             
 libnl-genl-3-200                   3.5.0-0.1                                deb             
 libnl-route-3-200                  3.5.0-0.1                                deb             
@@ -744,7 +744,7 @@ software-properties-gtk            0.99.22.9                                deb
 sound-theme-freedesktop            0.8-2ubuntu1                             deb             
 spice-vdagent                      0.22.1-1                                 deb             
 ssl-cert                           1.1.2                                    deb             
-stdlib                             go1.21.9                                 go-module       
+stdlib                             go1.21.10                                go-module       
 sudo                               1.9.9-1ubuntu2.4                         deb             
 systemd                            249.11-0ubuntu3.12                       deb             
 systemd-sysv                       249.11-0ubuntu3.12                       deb             
@@ -752,7 +752,7 @@ sysvinit-utils                     3.01-1ubuntu1                            deb
 tar                                1.34+dfsg-1ubuntu0.1.22.04.2             deb             
 tzdata                             2024a-0ubuntu0.22.04                     deb             
 ubuntu-advantage-desktop-daemon    1.10~22.04.1                             deb             
-ubuntu-advantage-tools             31.2.2~22.04                             deb             
+ubuntu-advantage-tools             31.2.3~22.04                             deb             
 ubuntu-drivers-common              0.0.0                                    python          
 ubuntu-drivers-common              1:0.9.6.2~0.22.04.6                      deb             
 ubuntu-keyring                     2021.03.26                               deb             
@@ -767,7 +767,7 @@ ubuntu-mate-wallpapers-common      22.04.17                                 deb
 ubuntu-mate-wallpapers-jammy       22.04.17                                 deb             
 ubuntu-mate-wallpapers-photos      22.04.17                                 deb             
 ubuntu-mono                        20.10-0ubuntu2                           deb             
-ubuntu-pro-client                  31.2.2~22.04                             deb             
+ubuntu-pro-client                  31.2.3~22.04                             deb             
 ubuntu-pro-client                  8001                                     python          
 ubuntu-release-upgrader-core       1:22.04.19                               deb             
 ubuntu-release-upgrader-gtk        1:22.04.19                               deb             
