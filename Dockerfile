@@ -1,6 +1,6 @@
 # syntax=docker/dockerfile:1
 
-FROM ghcr.io/linuxserver/baseimage-rdesktop:fedora-39
+FROM ghcr.io/linuxserver/baseimage-rdesktop:fedora-40
 
 # set version label
 ARG BUILD_DATE
@@ -25,6 +25,7 @@ RUN \
   ln -s \
     /usr/bin/st-fedora \
     /usr/bin/xterm && \
+  printf "Linuxserver.io version: ${VERSION}\nBuild-date: ${BUILD_DATE}" > /build_version && \
   echo "**** cleanup ****" && \
   dnf autoremove -y && \
   dnf clean all && \
@@ -37,4 +38,5 @@ COPY /root /
 
 # ports and volumes
 EXPOSE 3389
+
 VOLUME /config
