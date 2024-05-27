@@ -92,7 +92,7 @@ This image provides various versions that are available via tags. Please read th
 
 **The Default USERNAME and PASSWORD is: abc/abc**
 
-**Unlike our other containers these Desktops are not designed to be upgraded by Docker, you will keep your home directoy but anything you installed system level will be lost if you upgrade an existing container. To keep packages up to date instead use Ubuntu's own apt, Alpine's apk, Fedora's dnf, or Arch's pacman program**
+**Unlike our other containers these Desktops are not designed to be upgraded by Docker, you will keep your home directory but anything you installed system level will be lost if you upgrade an existing container. To keep packages up to date instead use Ubuntu's own apt, Alpine's apk, Fedora's dnf, or Arch's pacman program**
 
 You will need a Remote Desktop client to access this container [Wikipedia List](https://en.wikipedia.org/wiki/Comparison_of_remote_desktop_software), by default it listens on 3389, but you can change that port to whatever you wish on the host side IE `3390:3389`.
 The first thing you should do when you login to the container is to change the abc users password by issuing the `passwd` command.
@@ -100,19 +100,21 @@ The first thing you should do when you login to the container is to change the a
 **Modern GUI desktop apps (including some flavors terminals) have issues with the latest Docker and syscall compatibility, you can use Docker with the `--security-opt seccomp=unconfined` setting to allow these syscalls or try [podman](https://podman.io/) as they have updated their codebase to support them**
 
 If you ever lose your password you can always reset it by execing into the container as root:
-```
+
+```bash
 docker exec -it rdesktop passwd abc
 ```
-By default we perform all logic for the abc user and we reccomend using that user only in the container, but new users can be added as long as there is a `startwm.sh` executable script in their home directory.
-All of these containers are configured with passwordless sudo, we make no efforts to secure or harden these containers and we do not reccomend ever publishing their ports to the public Internet.
+
+By default we perform all logic for the abc user and we recommend using that user only in the container, but new users can be added as long as there is a `startwm.sh` executable script in their home directory.
+All of these containers are configured with passwordless sudo, we make no efforts to secure or harden these containers and we do not recommend ever publishing their ports to the public Internet.
 
 ## Hardware Acceleration (Ubuntu Container Only)
 
-Many desktop application will need access to a GPU to function properly and even some Desktop Environments have compisitor effects that will not function without a GPU. This is not a hard requirement and all base images will function without a video device mounted into the container.
+Many desktop application will need access to a GPU to function properly and even some Desktop Environments have compositor effects that will not function without a GPU. This is not a hard requirement and all base images will function without a video device mounted into the container.
 
 ### Intel/ATI/AMD
 
-To leverage hardware acceleration you will need to mount /dev/dri video device inside of the conainer.
+To leverage hardware acceleration you will need to mount /dev/dri video device inside of the container.
 ```
 --device=/dev/dri:/dev/dri
 ```
@@ -148,7 +150,7 @@ services:
       - TZ=Etc/UTC
     volumes:
       - /var/run/docker.sock:/var/run/docker.sock #optional
-      - /path/to/data:/config #optional
+      - /path/to/rdesktop/data:/config #optional
     ports:
       - 3389:3389
     devices:
@@ -168,7 +170,7 @@ docker run -d \
   -e TZ=Etc/UTC \
   -p 3389:3389 \
   -v /var/run/docker.sock:/var/run/docker.sock `#optional` \
-  -v /path/to/data:/config `#optional` \
+  -v /path/to/rdesktop/data:/config `#optional` \
   --device /dev/dri:/dev/dri `#optional` \
   --shm-size="1gb" `#optional` \
   --restart unless-stopped \
@@ -189,7 +191,7 @@ Containers are configured using parameters passed at runtime (such as those abov
 | `-v /config` | abc users home directory |
 | `--device /dev/dri` | Add this for GL support (Linux hosts only) |
 | `--shm-size=` | We set this to 1 gig to prevent modern web browsers from crashing |
-| `--security-opt seccomp=unconfined` | For Docker Engine only, many modern gui apps need this to function as syscalls are unkown to Docker |
+| `--security-opt seccomp=unconfined` | For Docker Engine only, many modern gui apps need this to function as syscalls are unknown to Docker |
 
 ## Environment variables from files (Docker secrets)
 
@@ -352,12 +354,13 @@ Once registered you can define the dockerfile to use with `-f Dockerfile.aarch64
 
 ## Versions
 
+* **27.05.24:** - Rebase to Alpine 3.20 and Fedora 40.
 * **17.01.24:** - Sync webtop logic changes rebase to Alpine 3.19 and Fedora 39.
 * **18.05.23:** - Rebase all Alpine images to 3.18, deprecate armhf.
 * **27.10.22:** - Rebase all Ubuntu images to Jammy 22.04.
 * **26.10.22:** - Rebase Alpine xfce to 3.16, migrate to s6v3.
 * **05.03.22:** - Organize tags differently to run Ubuntu at latest LTS, make Alpine latest, add docs about GPU accel.
-* **05.05.21:** - Reduce default packages to their flavor specific basics.
-* **05.04.21:** - Add Alpine flavor.
+* **05.05.21:** - Reduce default packages to their flavour specific basics.
+* **05.04.21:** - Add Alpine flavour.
 * **06.04.20:** - Start PulseAudio in images to support audio
 * **28.02.20:** - Initial Releases
