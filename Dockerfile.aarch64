@@ -22,6 +22,7 @@ RUN \
   rm -f \
     /etc/xdg/autostart/mate-power-manager.desktop \
     /etc/xdg/autostart/mate-screensaver.desktop && \
+  printf "Linuxserver.io version: ${VERSION}\nBuild-date: ${BUILD_DATE}" > /build_version && \
   echo "**** cleanup ****" && \
   rm -rf \
     /tmp/*
