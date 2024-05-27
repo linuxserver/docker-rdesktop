@@ -19,7 +19,6 @@ RUN \
     kde-wallpapers \
     kdialog \
     kfind \
-    khotkeys \
     kmenuedit \
     konsole5 \
     kwrite \
