@@ -1,6 +1,6 @@
 # syntax=docker/dockerfile:1
 
-FROM ghcr.io/linuxserver/baseimage-rdesktop:fedora-39
+FROM ghcr.io/linuxserver/baseimage-rdesktop:fedora-40
 
 # set version label
 ARG BUILD_DATE
@@ -41,6 +41,7 @@ RUN \
     '/compositing-manager/{n;s/.*/      <default>false<\/default>/}' \
     /usr/share/glib-2.0/schemas/org.mate.marco.gschema.xml && \
     glib-compile-schemas /usr/share/glib-2.0/schemas/ && \
+  printf "Linuxserver.io version: ${VERSION}\nBuild-date: ${BUILD_DATE}" > /build_version && \
   echo "**** cleanup ****" && \
   dnf autoremove -y && \
   dnf clean all && \
