@@ -17,7 +17,7 @@ RUN \
     kwrite \
     breeze \
     breeze-gtk \
-    breeze-icons5 \
+    breeze-icons \
     kde-gtk-config \
     khotkeys \
     kmenuedit \
