@@ -19,7 +19,6 @@ RUN \
     breeze-gtk \
     breeze-icons \
     kde-gtk-config \
-    khotkeys \
     kmenuedit \
     plasma-browser-integration \
     plasma-desktop \
