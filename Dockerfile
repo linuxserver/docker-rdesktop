@@ -1,6 +1,6 @@
 # syntax=docker/dockerfile:1
 
-FROM ghcr.io/linuxserver/baseimage-rdesktop:fedora-39
+FROM ghcr.io/linuxserver/baseimage-rdesktop:fedora-40
 
 # set version label
 ARG BUILD_DATE
@@ -39,6 +39,7 @@ RUN \
   echo "**** xfce tweaks ****" && \
   rm -f \
     /etc/xdg/autostart/xfce-polkit.desktop && \
+  printf "Linuxserver.io version: ${VERSION}\nBuild-date: ${BUILD_DATE}" > /build_version && \
   echo "**** cleanup ****" && \
   dnf autoremove -y && \
   dnf clean all && \
