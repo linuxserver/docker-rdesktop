@@ -1,6 +1,6 @@
 # syntax=docker/dockerfile:1
 
-FROM ghcr.io/linuxserver/baseimage-rdesktop:fedora-39
+FROM ghcr.io/linuxserver/baseimage-rdesktop:fedora-40
 
 # set version label
 ARG BUILD_DATE
@@ -19,7 +19,6 @@ RUN \
     kde-wallpapers \
     kdialog \
     kfind \
-    khotkeys \
     kmenuedit \
     konsole5 \
     kwrite \
@@ -41,6 +40,7 @@ RUN \
     /etc/xdg/autostart/gmenudbusmenuproxy.desktop \
     /etc/xdg/autostart/polkit-kde-authentication-agent-1.desktop \
     /etc/xdg/autostart/powerdevil.desktop && \
+  printf "Linuxserver.io version: ${VERSION}\nBuild-date: ${BUILD_DATE}" > /build_version && \
   echo "**** cleanup ****" && \
   dnf autoremove -y && \
   dnf clean all && \
