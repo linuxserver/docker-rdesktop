@@ -872,8 +872,8 @@ plasma-browser-integration                                                    6.
 plasma-desktop                                                                6.0.5-r0                                            apk                         
 plasma-integration                                                            6.0.5-r0                                            apk                         
 plasma-systemmonitor                                                          6.0.5-r0                                            apk                         
-plasma-workspace                                                              6.0.5-r0                                            apk                         
-plasma-workspace-libs                                                         6.0.5-r0                                            apk                         
+plasma-workspace                                                              6.0.5.1-r0                                          apk                         
+plasma-workspace-libs                                                         6.0.5.1-r0                                          apk                         
 plasma-workspace-wallpapers                                                   6.0.5-r0                                            apk                         
 plasma5support                                                                6.0.5-r0                                            apk                         
 polkit-noelogind-libs                                                         124-r0                                              apk                         
