@@ -56,7 +56,7 @@ gamin                                    0.1.10-6                               
 gawk                                     1:5.1.0-1ubuntu0.1                       deb          
 gcc-11-base                              11.4.0-1ubuntu1~22.04                    deb          
 gcc-12-base                              12.3.0-1ubuntu1~22.04                    deb          
-gdb                                      12.1-0ubuntu1~22.04                      deb          
+gdb                                      12.1-0ubuntu1~22.04.2                    deb          
 gdisk                                    1.0.8-4build1                            deb          
 gir1.2-glib-2.0                          1.72.0-1                                 deb          
 gir1.2-packagekitglib-1.0                1.2.5-2ubuntu2                           deb          
