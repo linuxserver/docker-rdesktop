@@ -5,7 +5,7 @@ agetty                                                                        2.
 alpine-baselayout                                                             3.6.5-r0                                            apk                         
 alpine-baselayout-data                                                        3.6.5-r0                                            apk                         
 alpine-keys                                                                   2.4-r1                                              apk                         
-alpine-release                                                                3.20.0-r0                                           apk                         
+alpine-release                                                                3.20.1-r0                                           apk                         
 alsa-lib                                                                      1.2.11-r0                                           apk                         
 aom-libs                                                                      3.9.0-r0                                            apk                         
 apk-tools                                                                     2.14.4-r0                                           apk                         
@@ -813,12 +813,12 @@ lsblk                                                                         2.
 lua5.4-libs                                                                   5.4.6-r1                                            apk                         
 mbedtls                                                                       3.6.0-r0                                            apk                         
 mcookie                                                                       2.40.1-r1                                           apk                         
-mesa                                                                          24.0.8-r1                                           apk                         
-mesa-dri-gallium                                                              24.0.8-r1                                           apk                         
-mesa-egl                                                                      24.0.8-r1                                           apk                         
-mesa-gbm                                                                      24.0.8-r1                                           apk                         
-mesa-gl                                                                       24.0.8-r1                                           apk                         
-mesa-glapi                                                                    24.0.8-r1                                           apk                         
+mesa                                                                          24.0.9-r1                                           apk                         
+mesa-dri-gallium                                                              24.0.9-r1                                           apk                         
+mesa-egl                                                                      24.0.9-r1                                           apk                         
+mesa-gbm                                                                      24.0.9-r1                                           apk                         
+mesa-gl                                                                       24.0.9-r1                                           apk                         
+mesa-glapi                                                                    24.0.9-r1                                           apk                         
 milou                                                                         6.0.5-r0                                            apk                         
 mkfontscale                                                                   1.2.2-r6                                            apk                         
 mount                                                                         2.40.1-r1                                           apk                         
