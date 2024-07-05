@@ -821,7 +821,7 @@ smbus                                                                         1.
 snappy                                                                        1.1.10-1                               alpm                           
 solid                                                                         6.3.0-1                                alpm                           
 sonnet                                                                        6.3.0-1                                alpm                           
-sound-theme-freedesktop                                                       0.8-5                                  alpm                           
+sound-theme-freedesktop                                                       0.8-6                                  alpm                           
 spdlog                                                                        1.14.1-1                               alpm                           
 speex                                                                         1.2.1-1                                alpm                           
 speexdsp                                                                      1.2.1-1                                alpm                           
