@@ -38,7 +38,7 @@ coreutils-env                                                                 9.
 coreutils-fmt                                                                 9.5-r1                                              apk                         
 coreutils-sha512sum                                                           9.5-r1                                              apk                         
 cups-libs                                                                     2.4.9-r0                                            apk                         
-curl                                                                          8.7.1-r0                                            apk                         
+curl                                                                          8.8.0-r0                                            apk                         
 dario.cat/mergo                                                               v1.0.0                                              go-module  (+2 duplicates)  
 dbus                                                                          1.14.10-r1                                          apk                         
 dbus-daemon-launch-helper                                                     1.14.10-r1                                          apk                         
@@ -496,8 +496,8 @@ libcanberra-gtk3                                                              0.
 libcanberra-pulse                                                             0.30-r10                                            apk                         
 libcap-ng                                                                     0.8.5-r0                                            apk                         
 libcap2                                                                       2.70-r0                                             apk                         
-libcrypto3                                                                    3.3.1-r0                                            apk                         
-libcurl                                                                       8.7.1-r0                                            apk                         
+libcrypto3                                                                    3.3.1-r1                                            apk                         
+libcurl                                                                       8.8.0-r0                                            apk                         
 libdav1d                                                                      1.4.2-r0                                            apk                         
 libdrm                                                                        2.4.120-r0                                          apk                         
 libeconf                                                                      0.6.3-r0                                            apk                         
@@ -554,7 +554,7 @@ libsm                                                                         1.
 libsmartcols                                                                  2.40.1-r1                                           apk                         
 libsndfile                                                                    1.2.2-r0                                            apk                         
 libsoup                                                                       2.74.3-r2                                           apk                         
-libssl3                                                                       3.3.1-r0                                            apk                         
+libssl3                                                                       3.3.1-r1                                            apk                         
 libstdc++                                                                     13.2.1_git20240309-r0                               apk                         
 libtasn1                                                                      4.19.0-r2                                           apk                         
 libtheora                                                                     1.1.1-r18                                           apk                         
@@ -656,7 +656,7 @@ musl-utils                                                                    1.
 ncurses-terminfo-base                                                         6.4_p20240420-r0                                    apk                         
 netcat-openbsd                                                                1.226-r0                                            apk                         
 nettle                                                                        3.9.1-r0                                            apk                         
-nghttp2-libs                                                                  1.62.0-r0                                           apk                         
+nghttp2-libs                                                                  1.62.1-r0                                           apk                         
 nspr                                                                          4.35-r4                                             apk                         
 nss                                                                           3.101-r0                                            apk                         
 numactl                                                                       2.0.18-r0                                           apk                         
@@ -665,10 +665,10 @@ oniguruma                                                                     6.
 openexr-libiex                                                                3.1.13-r1                                           apk                         
 openexr-libilmthread                                                          3.1.13-r1                                           apk                         
 openexr-libopenexr                                                            3.1.13-r1                                           apk                         
-openssh-client-common                                                         9.7_p1-r3                                           apk                         
-openssh-client-default                                                        9.7_p1-r3                                           apk                         
-openssh-keygen                                                                9.7_p1-r3                                           apk                         
-openssl                                                                       3.3.1-r0                                            apk                         
+openssh-client-common                                                         9.7_p1-r4                                           apk                         
+openssh-client-default                                                        9.7_p1-r4                                           apk                         
+openssh-keygen                                                                9.7_p1-r4                                           apk                         
+openssl                                                                       3.3.1-r1                                            apk                         
 opus                                                                          1.5.2-r0                                            apk                         
 orc                                                                           0.4.37-r0                                           apk                         
 p11-kit                                                                       0.25.3-r0                                           apk                         
