@@ -62,7 +62,7 @@ distro-info                        1.1ubuntu0.2                             deb
 distro-info-data                   0.52ubuntu0.7                            deb             
 dmidecode                          3.3-3ubuntu0.1                           deb             
 dmsetup                            2:1.02.175-2.1ubuntu4                    deb             
-docker-ce-cli                      5:27.0.2-1~ubuntu.22.04~jammy            deb             
+docker-ce-cli                      5:27.0.3-1~ubuntu.22.04~jammy            deb             
 dpkg                               1.21.1ubuntu2.3                          deb             
 e2fsprogs                          1.46.5-2ubuntu1.1                        deb             
 emacsen-common                     3.0.4                                    deb             
@@ -103,7 +103,7 @@ gir1.2-snapd-1                     1.60-0ubuntu1                            deb
 gir1.2-soup-2.4                    2.74.2-3                                 deb             
 gir1.2-vte-2.91                    0.68.0-1ubuntu0.1                        deb             
 gir1.2-webkit2-4.0                 2.44.2-0ubuntu0.22.04.1                  deb             
-github.com/docker/cli/cmd/docker   v27.0.2                                  go-module       
+github.com/docker/cli/cmd/docker   v27.0.3                                  go-module       
 glib-networking                    2.72.0-1                                 deb             
 glib-networking-common             2.72.0-1                                 deb             
 glib-networking-services           2.72.0-1                                 deb             
@@ -222,7 +222,7 @@ libcap2-bin                        1:2.44-1ubuntu0.22.04.1                  deb
 libcbor0.8                         0.8.0-2ubuntu1                           deb             
 libcdio-cdda2                      10.2+2.0.0-1build3                       deb             
 libcdio-paranoia2                  10.2+2.0.0-1build3                       deb             
-libcdio19                          2.1.0-3build1                            deb             
+libcdio19                          2.1.0-3ubuntu0.2                         deb             
 libcdparanoia0                     3.10.2+debian-14build2                   deb             
 libcolord2                         1.4.6-1                                  deb             
 libcom-err2                        1.46.5-2ubuntu1.1                        deb             
@@ -495,7 +495,7 @@ libspeexdsp1                       1.2~rc1.2-1.1ubuntu3                     deb
 libsqlite3-0                       3.37.2-2ubuntu0.3                        deb             
 libss2                             1.46.5-2ubuntu1.1                        deb             
 libssh-4                           0.9.6-2ubuntu0.22.04.3                   deb             
-libssl3                            3.0.2-0ubuntu1.15                        deb             
+libssl3                            3.0.2-0ubuntu1.16                        deb             
 libstartup-notification0           0.12-6build2                             deb             
 libstdc++6                         12.3.0-1ubuntu1~22.04                    deb             
 libstemmer0d                       2.2.0-1build1                            deb             
@@ -656,8 +656,8 @@ netcat                             1.218-4ubuntu1                           deb
 netcat-openbsd                     1.218-4ubuntu1                           deb             
 oauthlib                           3.2.0                                    python          
 openprinting-ppds                  20220223-0ubuntu1                        deb             
-openssh-client                     1:8.9p1-3ubuntu0.7                       deb             
-openssl                            3.0.2-0ubuntu1.15                        deb             
+openssh-client                     1:8.9p1-3ubuntu0.10                      deb             
+openssl                            3.0.2-0ubuntu1.16                        deb             
 packagekit                         1.2.5-2ubuntu2                           deb             
 parted                             3.4-2build1                              deb             
 passwd                             1:4.8.1-2ubuntu2.2                       deb             
@@ -752,7 +752,7 @@ sysvinit-utils                     3.01-1ubuntu1                            deb
 tar                                1.34+dfsg-1ubuntu0.1.22.04.2             deb             
 tzdata                             2024a-0ubuntu0.22.04                     deb             
 ubuntu-advantage-desktop-daemon    1.10~22.04.1                             deb             
-ubuntu-advantage-tools             32.3~22.04                               deb             
+ubuntu-advantage-tools             32.3.1~22.04                             deb             
 ubuntu-drivers-common              0.0.0                                    python          
 ubuntu-drivers-common              1:0.9.6.2~0.22.04.6                      deb             
 ubuntu-keyring                     2021.03.26                               deb             
@@ -767,7 +767,7 @@ ubuntu-mate-wallpapers-common      22.04.17                                 deb
 ubuntu-mate-wallpapers-jammy       22.04.17                                 deb             
 ubuntu-mate-wallpapers-photos      22.04.17                                 deb             
 ubuntu-mono                        20.10-0ubuntu2                           deb             
-ubuntu-pro-client                  32.3~22.04                               deb             
+ubuntu-pro-client                  32.3.1~22.04                             deb             
 ubuntu-pro-client                  8001                                     python          
 ubuntu-release-upgrader-core       1:22.04.19                               deb             
 ubuntu-release-upgrader-gtk        1:22.04.19                               deb             
