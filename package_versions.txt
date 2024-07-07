@@ -40,7 +40,7 @@ dirmngr                                  2.2.27-3ubuntu2.1                      
 distro                                   1.7.0                                    python       
 distro-info-data                         0.52ubuntu0.7                            deb          
 dmidecode                                3.3-3ubuntu0.1                           deb          
-docker-ce-cli                            5:27.0.2-1~ubuntu.22.04~jammy            deb          
+docker-ce-cli                            5:27.0.3-1~ubuntu.22.04~jammy            deb          
 dolphin                                  4:21.12.3-0ubuntu1                       deb          
 dpkg                                     1.21.1ubuntu2.3                          deb          
 drkonqi                                  5.24.5-0ubuntu0.1                        deb          
@@ -60,7 +60,7 @@ gdb                                      12.1-0ubuntu1~22.04.2                  
 gdisk                                    1.0.8-4build1                            deb          
 gir1.2-glib-2.0                          1.72.0-1                                 deb          
 gir1.2-packagekitglib-1.0                1.2.5-2ubuntu2                           deb          
-github.com/docker/cli/cmd/docker         v27.0.2                                  go-module    
+github.com/docker/cli/cmd/docker         v27.0.3                                  go-module    
 glib-networking                          2.72.0-1                                 deb          
 glib-networking-common                   2.72.0-1                                 deb          
 glib-networking-services                 2.72.0-1                                 deb          
@@ -657,7 +657,7 @@ libss2                                   1.46.5-2ubuntu1.1                      
 libssh-4                                 0.9.6-2ubuntu0.22.04.3                   deb          
 libssh-gcrypt-4                          0.9.6-2ubuntu0.22.04.3                   deb          
 libssh2-1                                1.10.0-3                                 deb          
-libssl3                                  3.0.2-0ubuntu1.15                        deb          
+libssl3                                  3.0.2-0ubuntu1.16                        deb          
 libstdc++6                               12.3.0-1ubuntu1~22.04                    deb          
 libstemmer0d                             2.2.0-1build1                            deb          
 libswresample3                           7:4.4.2-0ubuntu0.22.04.1                 deb          
@@ -806,8 +806,8 @@ netcat                                   1.218-4ubuntu1                         
 netcat-openbsd                           1.218-4ubuntu1                           deb          
 oauthlib                                 3.2.0                                    python       
 ocl-icd-libopencl1                       2.2.14-3                                 deb          
-openssh-client                           1:8.9p1-3ubuntu0.7                       deb          
-openssl                                  3.0.2-0ubuntu1.15                        deb          
+openssh-client                           1:8.9p1-3ubuntu0.10                      deb          
+openssl                                  3.0.2-0ubuntu1.16                        deb          
 oxygen-sounds                            4:5.24.6-0ubuntu0.1                      deb          
 packagekit                               1.2.5-2ubuntu2                           deb          
 parted                                   3.4-2build1                              deb          
