@@ -314,7 +314,7 @@ glib-networking                                                               1:
 glib2                                                                         2.80.4-1                               alpm                           
 glibc                                                                         2.39+r52+gf8e4623421-1                 alpm                           
 gmp                                                                           6.3.0-2                                alpm                           
-gnome-themes-extra                                                            3.28+r6+g45b1d457-1                    alpm                           
+gnome-themes-extra                                                            3.28+r6+g45b1d457-2                    alpm                           
 gnu-netcat                                                                    0.7.1-10                               alpm                           
 gnupg                                                                         2.4.5-1                                alpm                           
 gnutls                                                                        3.8.6-1                                alpm                           
