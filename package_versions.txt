@@ -37,7 +37,7 @@ docker-ce-cli                     5:27.0.3-1~ubuntu.22.04~jammy            deb
 dpkg                              1.21.1ubuntu2.3                          deb          
 e2fsprogs                         1.46.5-2ubuntu1.1                        deb          
 findutils                         4.8.0-1ubuntu3                           deb          
-firefox                           127.0.2+build1-0ubuntu0.22.04.1~mt1      deb          
+firefox                           128.0+build2-0ubuntu0.22.04.1~mt1        deb          
 fontconfig                        2.13.1-4.2ubuntu5                        deb          
 fontconfig-config                 2.13.1-4.2ubuntu5                        deb          
 fonts-dejavu-core                 2.37-2build1                             deb          
@@ -251,8 +251,8 @@ libpthread-stubs0-dev             0.4-1build2                              deb
 libpulse0                         1:15.99.1+dfsg1-1ubuntu2.2               deb          
 libpulsedsp                       1:15.99.1+dfsg1-1ubuntu2.2               deb          
 libpython3-stdlib                 3.10.6-1~22.04                           deb          
-libpython3.10-minimal             3.10.12-1~22.04.3                        deb          
-libpython3.10-stdlib              3.10.12-1~22.04.3                        deb          
+libpython3.10-minimal             3.10.12-1~22.04.4                        deb          
+libpython3.10-stdlib              3.10.12-1~22.04.4                        deb          
 libreadline8                      8.1.2-1                                  deb          
 librsvg2-2                        2.52.5+dfsg-3ubuntu0.2                   deb          
 librtmp1                          2.4+20151223.gitfa8646d.1-2build4        deb          
@@ -415,8 +415,8 @@ python3-six                       1.16.0-3ubuntu1                          deb
 python3-software-properties       0.99.22.9                                deb          
 python3-wadllib                   1.3.6-1                                  deb          
 python3-zipp                      1.0.0-3                                  deb          
-python3.10                        3.10.12-1~22.04.3                        deb          
-python3.10-minimal                3.10.12-1~22.04.3                        deb          
+python3.10                        3.10.12-1~22.04.4                        deb          
+python3.10-minimal                3.10.12-1~22.04.4                        deb          
 readline-common                   8.1.2-1                                  deb          
 sed                               4.8-1ubuntu2                             deb          
 sensible-utils                    0.0.17                                   deb          
@@ -432,7 +432,7 @@ systemd                           249.11-0ubuntu3.12                       deb
 systemd-sysv                      249.11-0ubuntu3.12                       deb          
 sysvinit-utils                    3.01-1ubuntu1                            deb          
 tar                               1.34+dfsg-1ubuntu0.1.22.04.2             deb          
-tzdata                            2024a-0ubuntu0.22.04                     deb          
+tzdata                            2024a-0ubuntu0.22.04.1                   deb          
 ubuntu-keyring                    2021.03.26                               deb          
 ubuntu-mono                       20.10-0ubuntu2                           deb          
 ucf                               3.0043                                   deb          
@@ -454,8 +454,8 @@ xkb-data                          2.33-1                                   deb
 xorg-sgml-doctools                1:1.11-1.1                               deb          
 xorgxrdp                          1:0.2.17-1build1                         deb          
 xrdp                              0.9.17-2ubuntu2                          deb          
-xserver-common                    2:21.1.4-2ubuntu1.7~22.04.10             deb          
-xserver-xorg-core                 2:21.1.4-2ubuntu1.7~22.04.10             deb          
+xserver-common                    2:21.1.4-2ubuntu1.7~22.04.11             deb          
+xserver-xorg-core                 2:21.1.4-2ubuntu1.7~22.04.11             deb          
 xserver-xorg-video-amdgpu         22.0.0-1ubuntu0.2                        deb          
 xserver-xorg-video-ati            1:19.1.0-2ubuntu1                        deb          
 xserver-xorg-video-intel          2:2.99.917+git20210115-1                 deb          
