@@ -21,7 +21,7 @@ avahi-glib                                                    0.8-26.fc40       
 avahi-libs                                                    0.8-26.fc40                           rpm                         
 basesystem                                                    11-20.fc40                            rpm                         
 bash                                                          5.2.26-3.fc40                         rpm                         
-bluez-libs                                                    5.76-1.fc40                           rpm                         
+bluez-libs                                                    5.77-1.fc40                           rpm                         
 busybox                                                       1:1.36.1-7.fc40                       rpm                         
 bzip2                                                         1.0.8-18.fc40                         rpm                         
 bzip2-libs                                                    1.0.8-18.fc40                         rpm                         
@@ -85,7 +85,7 @@ fedora-repos                                                  40-1              
 fftw-libs-single                                              3.3.10-12.fc40                        rpm                         
 file-libs                                                     5.45-4.fc40                           rpm                         
 filesystem                                                    3.18-8.fc40                           rpm                         
-findutils                                                     1:4.9.0-8.fc40                        rpm                         
+findutils                                                     1:4.9.0-9.fc40                        rpm                         
 flac-libs                                                     1.4.3-4.fc40                          rpm                         
 fontconfig                                                    2.15.0-6.fc40                         rpm                         
 fonts-filesystem                                              1:2.0.5-14.fc40                       rpm                         
@@ -316,7 +316,7 @@ libidn2                                                       2.3.7-1.fc40      
 libijs                                                        0.35-22.fc40                          rpm                         
 libinput                                                      1.26.1-1.fc40                         rpm                         
 libjpeg-turbo                                                 3.0.2-1.fc40                          rpm                         
-libjxl                                                        1:0.8.2-6.fc40                        rpm                         
+libjxl                                                        1:0.8.3-1.fc40                        rpm                         
 libksba                                                       1.6.6-1.fc40                          rpm                         
 liblc3                                                        1.1.1-1.fc40                          rpm                         
 libldac                                                       2.0.2.3-15.fc40                       rpm                         
@@ -376,7 +376,7 @@ libtevent                                                     0.16.1-1.fc40     
 libthai                                                       0.1.29-8.fc40                         rpm                         
 libtheora                                                     1:1.1.1-36.fc40                       rpm                         
 libtiff                                                       4.6.0-2.fc40                          rpm                         
-libtirpc                                                      1.3.4-1.rc3.fc40                      rpm                         
+libtirpc                                                      1.3.4-1.rc3.fc40                      rpm        (+1 duplicate)   
 libtool-ltdl                                                  2.4.7-10.fc40                         rpm                         
 libtracker-sparql                                             3.7.3-1.fc40                          rpm                         
 libudfread                                                    1.1.2-8.fc40                          rpm                         
@@ -393,7 +393,7 @@ libvisual                                                     1:0.4.1-4.fc40    
 libvmaf                                                       2.3.0-7.fc40                          rpm                         
 libvorbis                                                     1:1.3.7-10.fc40                       rpm                         
 libvpl                                                        1:2.11.0-1.fc40                       rpm                         
-libvpx                                                        1.14.0-2.fc40                         rpm                         
+libvpx                                                        1.14.1-1.fc40                         rpm                         
 libwacom                                                      2.11.0-1.fc40                         rpm                         
 libwacom-data                                                 2.11.0-1.fc40                         rpm                         
 libwayland-client                                             1.22.0-3.fc40                         rpm                         
@@ -443,12 +443,12 @@ nettle                                                        3.9.1-6.fc40      
 npth                                                          1.7-1.fc40                            rpm                         
 nspr                                                          4.35.0-24.fc40                        rpm                         
 nss                                                           3.101.0-1.fc40                        rpm                         
-nss-mdns                                                      0.15.1-11.fc40                        rpm                         
+nss-mdns                                                      0.15.1-11.fc40                        rpm        (+1 duplicate)   
 nss-softokn                                                   3.101.0-1.fc40                        rpm                         
 nss-softokn-freebl                                            3.101.0-1.fc40                        rpm                         
 nss-sysinit                                                   3.101.0-1.fc40                        rpm                         
 nss-util                                                      3.101.0-1.fc40                        rpm                         
-ocl-icd                                                       2.3.2-5.fc40                          rpm                         
+ocl-icd                                                       2.3.2-6.fc40                          rpm                         
 oniguruma                                                     6.9.9-3.fc40                          rpm                         
 opencore-amr                                                  0.1.6-6.fc40                          rpm                         
 openh264                                                      2.4.1-2.fc40                          rpm                         
@@ -507,9 +507,9 @@ qt-settings                                                   40.0-1.fc40       
 qt5-qtbase                                                    5.15.14-1.fc40                        rpm                         
 qt5-qtbase-common                                             5.15.14-1.fc40                        rpm                         
 qt5-qtbase-gui                                                5.15.14-1.fc40                        rpm                         
-qt6-qtbase                                                    6.7.2-2.fc40                          rpm                         
-qt6-qtbase-common                                             6.7.2-2.fc40                          rpm                         
-qt6-qtbase-gui                                                6.7.2-2.fc40                          rpm                         
+qt6-qtbase                                                    6.7.2-3.fc40                          rpm                         
+qt6-qtbase-common                                             6.7.2-3.fc40                          rpm                         
+qt6-qtbase-gui                                                6.7.2-3.fc40                          rpm                         
 rav1e-libs                                                    0.7.1-2.fc40                          rpm                         
 readline                                                      8.2-8.fc40                            rpm                         
 redhat-menus                                                  12.0.2-26.fc40                        rpm                         
