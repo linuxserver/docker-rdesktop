@@ -1,5 +1,4 @@
 NAME                                                          VERSION                               TYPE                       
-SDL2                                                          2.30.3-1.fc40                         rpm                         
 abattis-cantarell-vf-fonts                                    0.301-12.fc40                         rpm                         
 adobe-mappings-cmap                                           20230622-3.fc40                       rpm                         
 adobe-mappings-cmap-deprecated                                20230622-3.fc40                       rpm                         
@@ -31,8 +30,8 @@ cairomm1.16                                                   1.18.0-3.fc40     
 catatonit                                                     0.1.7-22.fc40                         rpm                         
 cdparanoia-libs                                               10.2-44.fc40                          rpm                         
 checkpolicy                                                   3.6-3.fc40                            rpm                         
-chromium                                                      126.0.6478.126-1.fc40                 rpm                         
-chromium-common                                               126.0.6478.126-1.fc40                 rpm                         
+chromium                                                      126.0.6478.182-1.fc40                 rpm                         
+chromium-common                                               126.0.6478.182-1.fc40                 rpm                         
 cjson                                                         1.7.17-1.fc40                         rpm                         
 codec2                                                        1.2.0-4.fc40                          rpm                         
 colord-libs                                                   1.4.7-3.fc40                          rpm                         
@@ -130,7 +129,6 @@ glibc-common                                                  2.39-6.fc40       
 glibc-gconv-extra                                             2.39-6.fc40                           rpm                         
 glibc-minimal-langpack                                        2.39-6.fc40                           rpm                         
 glibmm2.68                                                    2.80.0-1.fc40                         rpm                         
-glx-utils                                                     9.0.0-6.fc40                          rpm                         
 gmp                                                           1:6.2.1-8.fc40                        rpm                         
 gnupg2                                                        2.4.4-1.fc40                          rpm                         
 gnutls                                                        3.8.3-2.fc40                          rpm                         
@@ -152,13 +150,13 @@ gstreamer1                                                    1.24.5-1.fc40     
 gstreamer1-plugins-bad-free-libs                              1.24.5-1.fc40                         rpm                         
 gstreamer1-plugins-base                                       1.24.5-1.fc40                         rpm                         
 gtk-update-icon-cache                                         3.24.42-2.fc40                        rpm                         
-gtk3                                                          3.24.42-2.fc40                        rpm                         
+gtk3                                                          3.24.43-1.fc40                        rpm                         
 gtk4                                                          4.14.4-2.fc40                         rpm                         
 gtkmm4.0                                                      4.14.0-1.fc40                         rpm                         
 gupnp                                                         1.6.6-2.fc40                          rpm                         
 gupnp-igd                                                     1.6.0-4.fc40                          rpm                         
 gzip                                                          1.13-1.fc40                           rpm                         
-harfbuzz                                                      8.4.0-1.fc40                          rpm                         
+harfbuzz                                                      8.5.0-1.fc40                          rpm                         
 hicolor-icon-theme                                            0.17-18.fc40                          rpm                         
 highway                                                       1.2.0-2.fc40                          rpm                         
 hostname                                                      3.23-12.fc40                          rpm                         
@@ -223,9 +221,9 @@ libarchive                                                    3.7.2-3.fc40      
 libassuan                                                     2.5.7-1.fc40                          rpm                         
 libasyncns                                                    0.8-28.fc40                           rpm                         
 libattr                                                       2.5.2-3.fc40                          rpm                         
-libavcodec-free                                               6.1.1-14.fc40                         rpm                         
-libavformat-free                                              6.1.1-14.fc40                         rpm                         
-libavutil-free                                                6.1.1-14.fc40                         rpm                         
+libavcodec-free                                               6.1.1-19.fc40                         rpm                         
+libavformat-free                                              6.1.1-19.fc40                         rpm                         
+libavutil-free                                                6.1.1-19.fc40                         rpm                         
 libb2                                                         0.98.1-11.fc40                        rpm                         
 libblkid                                                      2.40-0.9.rc1.fc40                     rpm                         
 libbluray                                                     1.3.4-5.fc40                          rpm                         
@@ -246,7 +244,6 @@ libcurl                                                       8.6.0-8.fc40      
 libdaemon                                                     0.14-29.fc40                          rpm                         
 libdatrie                                                     0.2.13-9.fc40                         rpm                         
 libdav1d                                                      1.4.3-1.fc40                          rpm                         
-libdecor                                                      0.2.2-3.fc40                          rpm                         
 libdnf                                                        0.73.0                                python                      
 libdnf                                                        0.73.0-1.fc40                         rpm                         
 libdrm                                                        2.4.121-1.fc40                        rpm                         
@@ -269,7 +266,6 @@ libgcrypt                                                     1.10.3-3.fc40     
 libglvnd                                                      1:1.7.0-4.fc40                        rpm                         
 libglvnd-egl                                                  1:1.7.0-4.fc40                        rpm                         
 libglvnd-glx                                                  1:1.7.0-4.fc40                        rpm                         
-libglvnd-opengl                                               1:1.7.0-4.fc40                        rpm                         
 libgomp                                                       14.0.1-0.15.fc40                      rpm                         
 libgpg-error                                                  1.48-1.fc40                           rpm                         
 libgs                                                         10.02.1-10.fc40                       rpm                         
@@ -303,7 +299,6 @@ libopenmpt                                                    0.7.8-1.fc40      
 libpaper                                                      1:2.1.1-3.fc40                        rpm                         
 libpciaccess                                                  0.16-12.fc40                          rpm                         
 libpng                                                        2:1.6.40-3.fc40                       rpm                         
-libproxy                                                      0.5.5-1.fc40                          rpm                         
 libpsl                                                        0.21.5-3.fc40                         rpm                         
 libpwquality                                                  1.4.5-9.fc40                          rpm                         
 librabbitmq                                                   0.14.0-2.fc40                         rpm                         
@@ -330,7 +325,7 @@ libssh                                                        0.10.6-5.fc40     
 libssh-config                                                 0.10.6-5.fc40                         rpm                         
 libstdc++                                                     14.0.1-0.15.fc40                      rpm                         
 libstemmer                                                    2.2.0-10.fc40                         rpm                         
-libswresample-free                                            6.1.1-14.fc40                         rpm                         
+libswresample-free                                            6.1.1-19.fc40                         rpm                         
 libtalloc                                                     2.4.2-1.fc40                          rpm                         
 libtasn1                                                      4.19.0-6.fc40                         rpm                         
 libtdb                                                        1.4.10-1.fc40                         rpm                         
@@ -380,12 +375,12 @@ lpcnetfreedv                                                  0.5-5.fc40        
 lua-libs                                                      5.4.6-5.fc40                          rpm                         
 lz4-libs                                                      1.9.4-6.fc40                          rpm                         
 mbedtls                                                       2.28.8-1.fc40                         rpm                         
-mesa-dri-drivers                                              24.1.2-7.fc40                         rpm                         
-mesa-filesystem                                               24.1.2-7.fc40                         rpm                         
-mesa-libEGL                                                   24.1.2-7.fc40                         rpm                         
-mesa-libGL                                                    24.1.2-7.fc40                         rpm                         
-mesa-libgbm                                                   24.1.2-7.fc40                         rpm                         
-mesa-libglapi                                                 24.1.2-7.fc40                         rpm                         
+mesa-dri-drivers                                              24.1.2-8.fc40                         rpm                         
+mesa-filesystem                                               24.1.2-8.fc40                         rpm                         
+mesa-libEGL                                                   24.1.2-8.fc40                         rpm                         
+mesa-libGL                                                    24.1.2-8.fc40                         rpm                         
+mesa-libgbm                                                   24.1.2-8.fc40                         rpm                         
+mesa-libglapi                                                 24.1.2-8.fc40                         rpm                         
 mkfontscale                                                   1.2.2-6.fc40                          rpm                         
 moby-engine                                                   24.0.5-4.fc40                         rpm                         
 mpdecimal                                                     2.5.1-9.fc40                          rpm                         
@@ -427,7 +422,6 @@ pangomm2.48                                                   2.52.0-1.fc40     
 pavucontrol                                                   6.0-2.fc40                            rpm                         
 pcre2                                                         10.42-2.fc40.2                        rpm                         
 pcre2-syntax                                                  10.42-2.fc40.2                        rpm                         
-pcre2-utf16                                                   10.42-2.fc40.2                        rpm                         
 perl-AnyEvent                                                 7.17-17.fc40                          rpm                         
 perl-AnyEvent-I3                                              0.17-23.fc40                          rpm                         
 perl-AutoLoader                                               0:5.74-506.fc40                       rpm                         
@@ -524,13 +518,6 @@ python3-policycoreutils                                       3.6-3.fc40        
 python3-rpm                                                   4.19.1.1-1.fc40                       rpm                         
 python3-setools                                               4.5.1-2.fc40                          rpm                         
 python3-setuptools                                            69.0.3-3.fc40                         rpm                         
-qt-settings                                                   40.0-1.fc40                           rpm                         
-qt5-qtbase                                                    5.15.14-1.fc40                        rpm                         
-qt5-qtbase-common                                             5.15.14-1.fc40                        rpm                         
-qt5-qtbase-gui                                                5.15.14-1.fc40                        rpm                         
-qt6-qtbase                                                    6.7.2-3.fc40                          rpm                         
-qt6-qtbase-common                                             6.7.2-3.fc40                          rpm                         
-qt6-qtbase-gui                                                6.7.2-3.fc40                          rpm                         
 rav1e-libs                                                    0.7.1-2.fc40                          rpm                         
 readline                                                      8.2-8.fc40                            rpm                         
 rootfiles                                                     8.1-36.fc40                           rpm                         
@@ -549,8 +536,8 @@ samba-common                                                  2:4.20.2-1.fc40   
 samba-common-libs                                             2:4.20.2-1.fc40                       rpm                         
 sed                                                           4.9-1.fc40                            rpm                         
 selinux                                                       3.6                                   python                      
-selinux-policy                                                40.23-1.fc40                          rpm                         
-selinux-policy-targeted                                       40.23-1.fc40                          rpm                         
+selinux-policy                                                40.24-1.fc40                          rpm                         
+selinux-policy-targeted                                       40.24-1.fc40                          rpm                         
 sepolicy                                                      3.6                                   python                      
 setools                                                       4.5.1                                 python                      
 setup                                                         2.14.5-2.fc40                         rpm                         
@@ -578,7 +565,6 @@ tar                                                           2:1.35-3.fc40     
 tigervnc-license                                              1.13.1-14.fc40                        rpm                         
 tigervnc-server-minimal                                       1.13.1-14.fc40                        rpm                         
 tpm2-tss                                                      4.0.1-7.fc40                          rpm                         
-tslib                                                         1.22-10.fc40                          rpm                         
 twolame-libs                                                  0.4.0-4.fc40                          rpm                         
 tzdata                                                        2024a-5.fc40                          rpm                         
 urw-base35-bookman-fonts                                      20200910-20.fc40                      rpm                         
