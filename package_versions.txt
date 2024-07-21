@@ -1,5 +1,4 @@
 NAME                                                          VERSION                               TYPE                       
-SDL2                                                          2.30.3-1.fc40                         rpm                         
 Thunar                                                        4.18.10-3.fc40                        rpm                         
 abattis-cantarell-vf-fonts                                    0.301-12.fc40                         rpm                         
 adobe-mappings-cmap                                           20230622-3.fc40                       rpm                         
@@ -32,8 +31,8 @@ cairomm1.16                                                   1.18.0-3.fc40     
 catatonit                                                     0.1.7-22.fc40                         rpm                         
 cdparanoia-libs                                               10.2-44.fc40                          rpm                         
 checkpolicy                                                   3.6-3.fc40                            rpm                         
-chromium                                                      126.0.6478.126-1.fc40                 rpm                         
-chromium-common                                               126.0.6478.126-1.fc40                 rpm                         
+chromium                                                      126.0.6478.182-1.fc40                 rpm                         
+chromium-common                                               126.0.6478.182-1.fc40                 rpm                         
 cjson                                                         1.7.17-1.fc40                         rpm                         
 codec2                                                        1.2.0-4.fc40                          rpm                         
 colord-libs                                                   1.4.7-3.fc40                          rpm                         
@@ -137,7 +136,6 @@ glibc-common                                                  2.39-6.fc40       
 glibc-gconv-extra                                             2.39-6.fc40                           rpm                         
 glibc-minimal-langpack                                        2.39-6.fc40                           rpm                         
 glibmm2.68                                                    2.80.0-1.fc40                         rpm                         
-glx-utils                                                     9.0.0-6.fc40                          rpm                         
 gmp                                                           1:6.2.1-8.fc40                        rpm                         
 gnome-icon-theme                                              3.12.0-22.fc40                        rpm                         
 gnupg2                                                        2.4.4-1.fc40                          rpm                         
@@ -169,7 +167,7 @@ gtk-murrine-engine                                            0.98.2-29.fc40    
 gtk-update-icon-cache                                         3.24.42-2.fc40                        rpm                         
 gtk-xfce-engine                                               3.2.0-20.fc40                         rpm                         
 gtk2                                                          2.24.33-18.fc40                       rpm                         
-gtk3                                                          3.24.42-2.fc40                        rpm                         
+gtk3                                                          3.24.43-1.fc40                        rpm                         
 gtk4                                                          4.14.4-2.fc40                         rpm                         
 gtkmm4.0                                                      4.14.0-1.fc40                         rpm                         
 gtksourceview4                                                4.8.4-6.fc40                          rpm                         
@@ -178,7 +176,7 @@ gupnp-igd                                                     1.6.0-4.fc40      
 gvfs                                                          1.54.2-1.fc40                         rpm                         
 gvfs-client                                                   1.54.2-1.fc40                         rpm                         
 gzip                                                          1.13-1.fc40                           rpm                         
-harfbuzz                                                      8.4.0-1.fc40                          rpm                         
+harfbuzz                                                      8.5.0-1.fc40                          rpm                         
 hicolor-icon-theme                                            0.17-18.fc40                          rpm                         
 highway                                                       1.2.0-2.fc40                          rpm                         
 hostname                                                      3.23-12.fc40                          rpm                         
@@ -247,9 +245,9 @@ libassuan                                                     2.5.7-1.fc40      
 libasyncns                                                    0.8-28.fc40                           rpm                         
 libatasmart                                                   0.19-28.fc40                          rpm                         
 libattr                                                       2.5.2-3.fc40                          rpm                         
-libavcodec-free                                               6.1.1-14.fc40                         rpm                         
-libavformat-free                                              6.1.1-14.fc40                         rpm                         
-libavutil-free                                                6.1.1-14.fc40                         rpm                         
+libavcodec-free                                               6.1.1-19.fc40                         rpm                         
+libavformat-free                                              6.1.1-19.fc40                         rpm                         
+libavutil-free                                                6.1.1-19.fc40                         rpm                         
 libb2                                                         0.98.1-11.fc40                        rpm                         
 libblkid                                                      2.40-0.9.rc1.fc40                     rpm                         
 libblockdev                                                   3.1.1-1.fc40                          rpm                         
@@ -283,7 +281,6 @@ libdatrie                                                     0.2.13-9.fc40     
 libdav1d                                                      1.4.3-1.fc40                          rpm                         
 libdbusmenu                                                   16.04.0-27.fc40                       rpm                         
 libdbusmenu-gtk3                                              16.04.0-27.fc40                       rpm                         
-libdecor                                                      0.2.2-3.fc40                          rpm                         
 libdnf                                                        0.73.0                                python                      
 libdnf                                                        0.73.0-1.fc40                         rpm                         
 libdrm                                                        2.4.121-1.fc40                        rpm                         
@@ -303,7 +300,6 @@ libgcrypt                                                     1.10.3-3.fc40     
 libglvnd                                                      1:1.7.0-4.fc40                        rpm                         
 libglvnd-egl                                                  1:1.7.0-4.fc40                        rpm                         
 libglvnd-glx                                                  1:1.7.0-4.fc40                        rpm                         
-libglvnd-opengl                                               1:1.7.0-4.fc40                        rpm                         
 libgomp                                                       14.0.1-0.15.fc40                      rpm                         
 libgpg-error                                                  1.48-1.fc40                           rpm                         
 libgs                                                         10.02.1-10.fc40                       rpm                         
@@ -340,7 +336,6 @@ libopenmpt                                                    0.7.8-1.fc40      
 libpaper                                                      1:2.1.1-3.fc40                        rpm                         
 libpciaccess                                                  0.16-12.fc40                          rpm                         
 libpng                                                        2:1.6.40-3.fc40                       rpm                         
-libproxy                                                      0.5.5-1.fc40                          rpm                         
 libpsl                                                        0.21.5-3.fc40                         rpm                         
 libpwquality                                                  1.4.5-9.fc40                          rpm                         
 librabbitmq                                                   0.14.0-2.fc40                         rpm                         
@@ -368,7 +363,7 @@ libssh                                                        0.10.6-5.fc40     
 libssh-config                                                 0.10.6-5.fc40                         rpm                         
 libstdc++                                                     14.0.1-0.15.fc40                      rpm                         
 libstemmer                                                    2.2.0-10.fc40                         rpm                         
-libswresample-free                                            6.1.1-14.fc40                         rpm                         
+libswresample-free                                            6.1.1-19.fc40                         rpm                         
 libtalloc                                                     2.4.2-1.fc40                          rpm                         
 libtasn1                                                      4.19.0-6.fc40                         rpm                         
 libtdb                                                        1.4.10-1.fc40                         rpm                         
@@ -408,7 +403,6 @@ libxcrypt                                                     4.4.36-5.fc40     
 libxfce4ui                                                    4.18.6-1.fc40                         rpm                         
 libxfce4util                                                  4.18.2-1.fc40                         rpm                         
 libxkbcommon                                                  1.6.0-2.fc40                          rpm                         
-libxkbcommon-x11                                              1.6.0-2.fc40                          rpm                         
 libxkbfile                                                    1.1.3-1.fc40                          rpm                         
 libxklavier                                                   5.4-25.fc40                           rpm                         
 libxml2                                                       2.12.5-1.fc40                         rpm                         
@@ -424,12 +418,12 @@ lua-libs                                                      5.4.6-5.fc40      
 lz4-libs                                                      1.9.4-6.fc40                          rpm                         
 mbedtls                                                       2.28.8-1.fc40                         rpm                         
 mdadm                                                         4.2-8.fc40                            rpm                         
-mesa-dri-drivers                                              24.1.2-7.fc40                         rpm                         
-mesa-filesystem                                               24.1.2-7.fc40                         rpm                         
-mesa-libEGL                                                   24.1.2-7.fc40                         rpm                         
-mesa-libGL                                                    24.1.2-7.fc40                         rpm                         
-mesa-libgbm                                                   24.1.2-7.fc40                         rpm                         
-mesa-libglapi                                                 24.1.2-7.fc40                         rpm                         
+mesa-dri-drivers                                              24.1.2-8.fc40                         rpm                         
+mesa-filesystem                                               24.1.2-8.fc40                         rpm                         
+mesa-libEGL                                                   24.1.2-8.fc40                         rpm                         
+mesa-libGL                                                    24.1.2-8.fc40                         rpm                         
+mesa-libgbm                                                   24.1.2-8.fc40                         rpm                         
+mesa-libglapi                                                 24.1.2-8.fc40                         rpm                         
 moby-engine                                                   24.0.5-4.fc40                         rpm                         
 mousepad                                                      0.6.2-1.fc40                          rpm                         
 mpdecimal                                                     2.5.1-9.fc40                          rpm                         
@@ -470,7 +464,6 @@ pangomm2.48                                                   2.52.0-1.fc40     
 pavucontrol                                                   6.0-2.fc40                            rpm                         
 pcre2                                                         10.42-2.fc40.2                        rpm                         
 pcre2-syntax                                                  10.42-2.fc40.2                        rpm                         
-pcre2-utf16                                                   10.42-2.fc40.2                        rpm                         
 pigz                                                          2.8-4.fc40                            rpm                         
 pipewire-libs                                                 1.0.7-2.fc40                          rpm                         
 pixman                                                        0.43.4-1.fc40                         rpm                         
@@ -503,13 +496,6 @@ python3-policycoreutils                                       3.6-3.fc40        
 python3-rpm                                                   4.19.1.1-1.fc40                       rpm                         
 python3-setools                                               4.5.1-2.fc40                          rpm                         
 python3-setuptools                                            69.0.3-3.fc40                         rpm                         
-qt-settings                                                   40.0-1.fc40                           rpm                         
-qt5-qtbase                                                    5.15.14-1.fc40                        rpm                         
-qt5-qtbase-common                                             5.15.14-1.fc40                        rpm                         
-qt5-qtbase-gui                                                5.15.14-1.fc40                        rpm                         
-qt6-qtbase                                                    6.7.2-3.fc40                          rpm                         
-qt6-qtbase-common                                             6.7.2-3.fc40                          rpm                         
-qt6-qtbase-gui                                                6.7.2-3.fc40                          rpm                         
 rav1e-libs                                                    0.7.1-2.fc40                          rpm                         
 readline                                                      8.2-8.fc40                            rpm                         
 redhat-menus                                                  12.0.2-26.fc40                        rpm                         
@@ -529,8 +515,8 @@ samba-common                                                  2:4.20.2-1.fc40   
 samba-common-libs                                             2:4.20.2-1.fc40                       rpm                         
 sed                                                           4.9-1.fc40                            rpm                         
 selinux                                                       3.6                                   python                      
-selinux-policy                                                40.23-1.fc40                          rpm                         
-selinux-policy-targeted                                       40.23-1.fc40                          rpm                         
+selinux-policy                                                40.24-1.fc40                          rpm                         
+selinux-policy-targeted                                       40.24-1.fc40                          rpm                         
 sepolicy                                                      3.6                                   python                      
 setools                                                       4.5.1                                 python                      
 setup                                                         2.14.5-2.fc40                         rpm                         
@@ -557,7 +543,6 @@ tar                                                           2:1.35-3.fc40     
 tigervnc-license                                              1.13.1-14.fc40                        rpm                         
 tigervnc-server-minimal                                       1.13.1-14.fc40                        rpm                         
 tpm2-tss                                                      4.0.1-7.fc40                          rpm                         
-tslib                                                         1.22-10.fc40                          rpm                         
 tumbler                                                       4.18.2-2.fc40                         rpm                         
 twolame-libs                                                  0.4.0-4.fc40                          rpm                         
 tzdata                                                        2024a-5.fc40                          rpm                         
@@ -590,11 +575,6 @@ webrtc-audio-processing0.3                                    0.3.1-12.fc40     
 which                                                         2.21-41.fc40                          rpm                         
 wsdd                                                          0.8-1.fc40                            rpm                         
 xcb-util                                                      0.4.1-5.fc40                          rpm                         
-xcb-util-cursor                                               0.1.4-4.fc40                          rpm                         
-xcb-util-image                                                0.4.1-5.fc40                          rpm                         
-xcb-util-keysyms                                              0.4.1-5.fc40                          rpm                         
-xcb-util-renderutil                                           0.3.10-5.fc40                         rpm                         
-xcb-util-wm                                                   0.4.2-5.fc40                          rpm                         
 xfce-polkit                                                   0.3-12.fc40                           rpm                         
 xfce4-appfinder                                               4.18.1-2.fc40                         rpm                         
 xfce4-datetime-plugin                                         0.8.2-4.fc40                          rpm                         
