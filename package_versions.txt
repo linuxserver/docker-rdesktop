@@ -62,7 +62,7 @@ distro-info                        1.1ubuntu0.2                             deb
 distro-info-data                   0.52ubuntu0.7                            deb             
 dmidecode                          3.3-3ubuntu0.1                           deb             
 dmsetup                            2:1.02.175-2.1ubuntu4                    deb             
-docker-ce-cli                      5:27.0.3-1~ubuntu.22.04~jammy            deb             
+docker-ce-cli                      5:27.1.1-1~ubuntu.22.04~jammy            deb             
 dpkg                               1.21.1ubuntu2.3                          deb             
 e2fsprogs                          1.46.5-2ubuntu1.1                        deb             
 emacsen-common                     3.0.4                                    deb             
@@ -103,7 +103,7 @@ gir1.2-snapd-1                     1.60-0ubuntu1                            deb
 gir1.2-soup-2.4                    2.74.2-3                                 deb             
 gir1.2-vte-2.91                    0.68.0-1ubuntu0.1                        deb             
 gir1.2-webkit2-4.0                 2.44.2-0ubuntu0.22.04.1                  deb             
-github.com/docker/cli/cmd/docker   v27.0.3                                  go-module       
+github.com/docker/cli/cmd/docker   v27.1.1                                  go-module       
 glib-networking                    2.72.0-1                                 deb             
 glib-networking-common             2.72.0-1                                 deb             
 glib-networking-services           2.72.0-1                                 deb             
@@ -728,7 +728,7 @@ python3-update-manager             1:22.04.20                               deb
 python3-wadllib                    1.3.6-1                                  deb             
 python3-xkit                       0.5.0ubuntu5                             deb             
 python3-yaml                       5.4.1-1ubuntu1                           deb             
-python3-zipp                       1.0.0-3                                  deb             
+python3-zipp                       1.0.0-3ubuntu0.1                         deb             
 python3.10                         3.10.12-1~22.04.4                        deb             
 python3.10-minimal                 3.10.12-1~22.04.4                        deb             
 readline-common                    8.1.2-1                                  deb             
@@ -744,7 +744,7 @@ software-properties-gtk            0.99.22.9                                deb
 sound-theme-freedesktop            0.8-2ubuntu1                             deb             
 spice-vdagent                      0.22.1-1                                 deb             
 ssl-cert                           1.1.2                                    deb             
-stdlib                             go1.21.11                                go-module       
+stdlib                             go1.21.12                                go-module       
 sudo                               1.9.9-1ubuntu2.4                         deb             
 systemd                            249.11-0ubuntu3.12                       deb             
 systemd-sysv                       249.11-0ubuntu3.12                       deb             
