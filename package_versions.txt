@@ -1,5 +1,4 @@
 NAME                                                                          VERSION                                             TYPE                       
-PyGObject                                                                     3.48.2                                              python                      
 accountsservice                                                               23.13.9-r2                                          apk                         
 agetty                                                                        2.40.1-r1                                           apk                         
 alpine-baselayout                                                             3.6.5-r0                                            apk                         
@@ -7,7 +6,7 @@ alpine-baselayout-data                                                        3.
 alpine-keys                                                                   2.4-r1                                              apk                         
 alpine-release                                                                3.20.1-r0                                           apk                         
 alsa-lib                                                                      1.2.11-r0                                           apk                         
-aom-libs                                                                      3.9.0-r0                                            apk                         
+aom-libs                                                                      3.9.1-r0                                            apk                         
 apk-tools                                                                     2.14.4-r0                                           apk                         
 appstream                                                                     1.0.2-r2                                            apk                         
 appstream-qt                                                                  1.0.2-r2                                            apk                         
@@ -89,7 +88,7 @@ fftw-single-libs                                                              3.
 file                                                                          5.45-r1                                             apk                         
 findmnt                                                                       2.40.1-r1                                           apk                         
 findutils                                                                     4.9.0-r5                                            apk                         
-firefox                                                                       126.0.1-r0                                          apk                         
+firefox                                                                       128.0.3-r0                                          apk                         
 flite                                                                         2.2-r2                                              apk                         
 flock                                                                         2.40.1-r1                                           apk                         
 font-alias                                                                    1.0.5-r0                                            apk                         
@@ -711,7 +710,7 @@ libncursesw                                                                   6.
 libndp                                                                        1.8-r2                                              apk                         
 libnftnl                                                                      1.2.6-r0                                            apk                         
 libnl3                                                                        3.9.0-r1                                            apk                         
-libnm                                                                         1.46.0-r0                                           apk                         
+libnm                                                                         1.46.2-r0                                           apk                         
 libnotify                                                                     0.8.3-r1                                            apk                         
 libnvme                                                                       1.9-r0                                              apk                         
 libogg                                                                        1.3.5-r5                                            apk                         
@@ -833,8 +832,8 @@ ncurses-terminfo-base                                                         6.
 ndctl-libs                                                                    78-r1                                               apk                         
 netcat-openbsd                                                                1.226-r0                                            apk                         
 nettle                                                                        3.9.1-r0                                            apk                         
-networkmanager                                                                1.46.0-r0                                           apk                         
-networkmanager-common                                                         1.46.0-r0                                           apk                         
+networkmanager                                                                1.46.2-r0                                           apk                         
+networkmanager-common                                                         1.46.2-r0                                           apk                         
 networkmanager-qt                                                             6.2.0-r0                                            apk                         
 nghttp2-libs                                                                  1.62.1-r0                                           apk                         
 npth                                                                          1.6-r4                                              apk                         
@@ -887,6 +886,7 @@ pulseaudio-alsa                                                               17
 purpose                                                                       6.2.0-r0                                            apk                         
 py3-gobject3                                                                  3.48.2-r0                                           apk                         
 pyc                                                                           3.12.3-r1                                           apk                         
+pygobject                                                                     3.48.2                                              python                      
 python3                                                                       3.12.3-r1                                           apk                         
 python3-pyc                                                                   3.12.3-r1                                           apk                         
 python3-pycache-pyc0                                                          3.12.3-r1                                           apk                         
