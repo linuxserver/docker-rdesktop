@@ -1,7 +1,4 @@
 NAME                              VERSION                                  TYPE        
-PyGObject                         3.42.1                                   python       
-PyJWT                             2.3.0                                    python       
-SecretStorage                     3.3.1                                    python       
 adduser                           3.118ubuntu5                             deb          
 adwaita-icon-theme                41.0-1ubuntu1                            deb          
 apt                               2.4.12                                   deb          
@@ -38,7 +35,7 @@ docker-ce-cli                     5:27.1.1-1~ubuntu.22.04~jammy            deb
 dpkg                              1.21.1ubuntu2.3                          deb          
 e2fsprogs                         1.46.5-2ubuntu1.1                        deb          
 findutils                         4.8.0-1ubuntu3                           deb          
-firefox                           128.0+build2-0ubuntu0.22.04.1~mt1        deb          
+firefox                           128.0.3+build1-0ubuntu0.22.04.1~mt2      deb          
 fontconfig                        2.13.1-4.2ubuntu5                        deb          
 fontconfig-config                 2.13.1-4.2ubuntu5                        deb          
 fonts-dejavu-core                 2.37-2build1                             deb          
@@ -47,7 +44,7 @@ gcc-11-base                       11.4.0-1ubuntu1~22.04                    deb
 gcc-12-base                       12.3.0-1ubuntu1~22.04                    deb          
 gir1.2-glib-2.0                   1.72.0-1                                 deb          
 gir1.2-packagekitglib-1.0         1.2.5-2ubuntu2                           deb          
-github.com/docker/cli/cmd/docker  v27.1.1                                  go-module    
+github.com/docker/cli/cmd/docker  27.1.1                                   go-module    
 glib-networking                   2.72.0-1                                 deb          
 glib-networking-common            2.72.0-1                                 deb          
 glib-networking-services          2.72.0-1                                 deb          
@@ -82,8 +79,8 @@ jq                                1.6-2.1ubuntu3                           deb
 keyboard-configuration            1.205ubuntu3                             deb          
 keyring                           23.5.0                                   python       
 launchpadlib                      1.10.16                                  python       
-lazr.restfulclient                0.14.4                                   python       
-lazr.uri                          1.0.6                                    python       
+lazr-restfulclient                0.14.4                                   python       
+lazr-uri                          1.0.6                                    python       
 libacl1                           2.3.1-1                                  deb          
 libapparmor1                      3.0.4-2ubuntu2.3                         deb          
 libappstream4                     0.15.2-2                                 deb          
@@ -205,8 +202,8 @@ libkrb5-3                         1.19.2-2ubuntu0.3                        deb
 libkrb5support0                   1.19.2-2ubuntu0.3                        deb          
 libksba8                          1.6.0-2ubuntu0.2                         deb          
 liblcms2-2                        2.12~rc1-2build2                         deb          
-libldap-2.5-0                     2.5.18+dfsg-0ubuntu0.22.04.1             deb          
-libldap-common                    2.5.18+dfsg-0ubuntu0.22.04.1             deb          
+libldap-2.5-0                     2.5.18+dfsg-0ubuntu0.22.04.2             deb          
+libldap-common                    2.5.18+dfsg-0ubuntu0.22.04.2             deb          
 libllvm15                         1:15.0.7-0ubuntu0.22.04.3                deb          
 liblocale-gettext-perl            1.07-4build3                             deb          
 libltdl7                          2.4.6-15build2                           deb          
@@ -255,8 +252,8 @@ libpthread-stubs0-dev             0.4-1build2                              deb
 libpulse0                         1:15.99.1+dfsg1-1ubuntu2.2               deb          
 libpulsedsp                       1:15.99.1+dfsg1-1ubuntu2.2               deb          
 libpython3-stdlib                 3.10.6-1~22.04                           deb          
-libpython3.10-minimal             3.10.12-1~22.04.4                        deb          
-libpython3.10-stdlib              3.10.12-1~22.04.4                        deb          
+libpython3.10-minimal             3.10.12-1~22.04.5                        deb          
+libpython3.10-stdlib              3.10.12-1~22.04.5                        deb          
 libreadline8                      8.1.2-1                                  deb          
 librtmp1                          2.4+20151223.gitfa8646d.1-2build4        deb          
 libsamplerate0                    0.2.2-1build1                            deb          
@@ -402,6 +399,8 @@ procps                            2:3.3.17-6ubuntu2.1                      deb
 publicsuffix                      20211207.1025-1                          deb          
 pulseaudio                        1:15.99.1+dfsg1-1ubuntu2.2               deb          
 pulseaudio-utils                  1:15.99.1+dfsg1-1ubuntu2.2               deb          
+pygobject                         3.42.1                                   python       
+pyjwt                             2.3.0                                    python       
 pyparsing                         2.4.7                                    python       
 python-apt                        2.4.0+ubuntu3                            python       
 python-apt-common                 2.4.0ubuntu3                             deb          
@@ -431,9 +430,10 @@ python3-six                       1.16.0-3ubuntu1                          deb
 python3-software-properties       0.99.22.9                                deb          
 python3-wadllib                   1.3.6-1                                  deb          
 python3-zipp                      1.0.0-3ubuntu0.1                         deb          
-python3.10                        3.10.12-1~22.04.4                        deb          
-python3.10-minimal                3.10.12-1~22.04.4                        deb          
+python3.10                        3.10.12-1~22.04.5                        deb          
+python3.10-minimal                3.10.12-1~22.04.5                        deb          
 readline-common                   8.1.2-1                                  deb          
+secretstorage                     3.3.1                                    python       
 sed                               4.8-1ubuntu2                             deb          
 sensible-utils                    0.0.17                                   deb          
 session-migration                 0.3.6                                    deb          
