@@ -1,12 +1,11 @@
 NAME                                                                          VERSION                                             TYPE                       
-PyGObject                                                                     3.48.2                                              python                      
 agetty                                                                        2.40.1-r1                                           apk                         
 alpine-baselayout                                                             3.6.5-r0                                            apk                         
 alpine-baselayout-data                                                        3.6.5-r0                                            apk                         
 alpine-keys                                                                   2.4-r1                                              apk                         
 alpine-release                                                                3.20.1-r0                                           apk                         
 alsa-lib                                                                      1.2.11-r0                                           apk                         
-aom-libs                                                                      3.9.0-r0                                            apk                         
+aom-libs                                                                      3.9.1-r0                                            apk                         
 apk-tools                                                                     2.14.4-r0                                           apk                         
 at-spi2-core                                                                  2.52.0-r0                                           apk                         
 atkmm                                                                         2.28.4-r0                                           apk                         
@@ -65,7 +64,7 @@ ffmpeg-libswresample                                                          6.
 fftw-single-libs                                                              3.3.10-r5                                           apk                         
 findmnt                                                                       2.40.1-r1                                           apk                         
 findutils                                                                     4.9.0-r5                                            apk                         
-firefox                                                                       126.0.1-r0                                          apk                         
+firefox                                                                       128.0.3-r0                                          apk                         
 flock                                                                         2.40.1-r1                                           apk                         
 font-alias                                                                    1.0.5-r0                                            apk                         
 font-cursor-misc                                                              1.0.4-r1                                            apk                         
@@ -710,6 +709,7 @@ py3-gobject3                                                                  3.
 py3-lxml                                                                      5.1.0-r0                                            apk                         
 py3-lxml-pyc                                                                  5.1.0-r0                                            apk                         
 pyc                                                                           3.12.3-r1                                           apk                         
+pygobject                                                                     3.48.2                                              python                      
 python3                                                                       3.12.3-r1                                           apk                         
 python3-pyc                                                                   3.12.3-r1                                           apk                         
 python3-pycache-pyc0                                                          3.12.3-r1                                           apk                         
