@@ -1,7 +1,4 @@
 NAME                                     VERSION                                  TYPE        
-PyGObject                                3.42.1                                   python       
-PyJWT                                    2.3.0                                    python       
-SecretStorage                            3.3.1                                    python       
 accountsservice                          22.07.5-2ubuntu1.5                       deb          
 adduser                                  3.118ubuntu5                             deb          
 adwaita-icon-theme                       41.0-1ubuntu1                            deb          
@@ -47,7 +44,7 @@ drkonqi                                  5.24.5-0ubuntu0.1                      
 e2fsprogs                                1.46.5-2ubuntu1.1                        deb          
 fdisk                                    2.37.2-4ubuntu3.4                        deb          
 findutils                                4.8.0-1ubuntu3                           deb          
-firefox                                  128.0+build2-0ubuntu0.22.04.1~mt1        deb          
+firefox                                  128.0.3+build1-0ubuntu0.22.04.1~mt2      deb          
 fontconfig                               2.13.1-4.2ubuntu5                        deb          
 fontconfig-config                        2.13.1-4.2ubuntu5                        deb          
 fonts-dejavu-core                        2.37-2build1                             deb          
@@ -60,7 +57,7 @@ gdb                                      12.1-0ubuntu1~22.04.2                  
 gdisk                                    1.0.8-4build1                            deb          
 gir1.2-glib-2.0                          1.72.0-1                                 deb          
 gir1.2-packagekitglib-1.0                1.2.5-2ubuntu2                           deb          
-github.com/docker/cli/cmd/docker         v27.1.1                                  go-module    
+github.com/docker/cli/cmd/docker         27.1.1                                   go-module    
 glib-networking                          2.72.0-1                                 deb          
 glib-networking-common                   2.72.0-1                                 deb          
 glib-networking-services                 2.72.0-1                                 deb          
@@ -123,8 +120,8 @@ kwin-style-breeze                        4:5.24.7-0ubuntu0.2                    
 kwin-x11                                 4:5.24.7-0ubuntu0.2                      deb          
 kwrite                                   4:21.12.3-0ubuntu1                       deb          
 launchpadlib                             1.10.16                                  python       
-lazr.restfulclient                       0.14.4                                   python       
-lazr.uri                                 1.0.6                                    python       
+lazr-restfulclient                       0.14.4                                   python       
+lazr-uri                                 1.0.6                                    python       
 liba52-0.7.4                             0.7.4-20                                 deb          
 libaa1                                   1.4p5-50build1                           deb          
 libaccounts-glib0                        1.25-1                                   deb          
@@ -467,8 +464,8 @@ libkwinxrenderutils13                    4:5.24.7-0ubuntu0.2                    
 libkworkspace5-5                         4:5.24.7-0ubuntu0.2                      deb          
 liblayershellqtinterface5                5.24.6-0ubuntu0.2                        deb          
 liblcms2-2                               2.12~rc1-2build2                         deb          
-libldap-2.5-0                            2.5.18+dfsg-0ubuntu0.22.04.1             deb          
-libldap-common                           2.5.18+dfsg-0ubuntu0.22.04.1             deb          
+libldap-2.5-0                            2.5.18+dfsg-0ubuntu0.22.04.2             deb          
+libldap-common                           2.5.18+dfsg-0ubuntu0.22.04.2             deb          
 libldb2                                  2:2.4.4-0ubuntu0.22.04.2                 deb          
 liblirc-client0                          0.10.1-6.3ubuntu1                        deb          
 libllvm15                                1:15.0.7-0ubuntu0.22.04.3                deb          
@@ -566,9 +563,9 @@ libpulse-mainloop-glib0                  1:15.99.1+dfsg1-1ubuntu2.2             
 libpulse0                                1:15.99.1+dfsg1-1ubuntu2.2               deb          
 libpulsedsp                              1:15.99.1+dfsg1-1ubuntu2.2               deb          
 libpython3-stdlib                        3.10.6-1~22.04                           deb          
-libpython3.10                            3.10.12-1~22.04.4                        deb          
-libpython3.10-minimal                    3.10.12-1~22.04.4                        deb          
-libpython3.10-stdlib                     3.10.12-1~22.04.4                        deb          
+libpython3.10                            3.10.12-1~22.04.5                        deb          
+libpython3.10-minimal                    3.10.12-1~22.04.5                        deb          
+libpython3.10-stdlib                     3.10.12-1~22.04.5                        deb          
 libqaccessibilityclient-qt5-0            0.4.1-1build1                            deb          
 libqalculate-data                        3.22.0-3build1                           deb          
 libqalculate22                           3.22.0-3build1                           deb          
@@ -834,6 +831,8 @@ psmisc                                   23.4-2build3                           
 publicsuffix                             20211207.1025-1                          deb          
 pulseaudio                               1:15.99.1+dfsg1-1ubuntu2.2               deb          
 pulseaudio-utils                         1:15.99.1+dfsg1-1ubuntu2.2               deb          
+pygobject                                3.42.1                                   python       
+pyjwt                                    2.3.0                                    python       
 pyparsing                                2.4.7                                    python       
 python-apt                               2.4.0+ubuntu3                            python       
 python-apt-common                        2.4.0ubuntu3                             deb          
@@ -865,8 +864,8 @@ python3-software-properties              0.99.22.9                              
 python3-talloc                           2.3.3-2build1                            deb          
 python3-wadllib                          1.3.6-1                                  deb          
 python3-zipp                             1.0.0-3ubuntu0.1                         deb          
-python3.10                               3.10.12-1~22.04.4                        deb          
-python3.10-minimal                       3.10.12-1~22.04.4                        deb          
+python3.10                               3.10.12-1~22.04.5                        deb          
+python3.10-minimal                       3.10.12-1~22.04.5                        deb          
 qdbus-qt5                                5.15.3-1                                 deb          
 qml-module-org-kde-activities            5.92.0-0ubuntu1                          deb          
 qml-module-org-kde-bluezqt               5.92.0-0ubuntu1                          deb          
@@ -908,6 +907,7 @@ qml-module-ubuntu-onlineaccounts         0.6+17.04.20170405-0ubuntu5            
 qtchooser                                66-2build1                               deb          
 readline-common                          8.1.2-1                                  deb          
 samba-libs                               2:4.15.13+dfsg-0ubuntu1.6                deb          
+secretstorage                            3.3.1                                    python       
 sed                                      4.8-1ubuntu2                             deb          
 sensible-utils                           0.0.17                                   deb          
 session-migration                        0.3.6                                    deb          
