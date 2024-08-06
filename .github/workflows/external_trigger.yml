@@ -4,13 +4,13 @@ on:
   workflow_dispatch:
 
 jobs:
-  external-trigger-ubuntu-xfce:
+  external-trigger-debian-xfce:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4.1.1
 
       - name: External Trigger
-        if: github.ref == 'refs/heads/ubuntu-xfce'
+        if: github.ref == 'refs/heads/debian-xfce'
         run: |
           echo "**** No external release, exiting ****"
           echo "No external release, exiting" >> $GITHUB_STEP_SUMMARY

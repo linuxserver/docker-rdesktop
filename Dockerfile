@@ -1,4 +1,4 @@
-FROM ghcr.io/linuxserver/baseimage-rdesktop:ubuntunoble
+FROM ghcr.io/linuxserver/baseimage-rdesktop:debianbookworm
 
 # set version label
 ARG BUILD_DATE
@@ -6,27 +6,38 @@ ARG VERSION
 LABEL build_version="Linuxserver.io version:- ${VERSION} Build-date:- ${BUILD_DATE}"
 LABEL maintainer="thelamer"
 
-# prevent Ubuntu's firefox stub from being installed
-COPY /root/etc/apt/preferences.d/firefox-no-snap /etc/apt/preferences.d/firefox-no-snap
-
 RUN \
   echo "**** install packages ****" && \
-  add-apt-repository -y ppa:mozillateam/ppa && \
   apt-get update && \
   DEBIAN_FRONTEND=noninteractive \
-  apt-get install --no-install-recommends -y \
-    firefox \
+  apt-get install -y --no-install-recommends \
+    chromium \
+    chromium-l10n \
+    libxfce4ui-utils \
     mousepad \
+    tango-icon-theme \
+    thunar \
+    xfce4-appfinder \
+    xfce4-panel \
+    xfce4-session \
+    xfce4-settings \
+    xfce4-taskmanager \
     xfce4-terminal \
-    xfce4 \
-    xubuntu-default-settings \
-    xubuntu-icon-theme && \
+    xfconf \
+    xfdesktop4 \
+    xfwm4 && \
+  echo "**** application tweaks ****" && \
+  sed -i \
+    's#^Exec=.*#Exec=/usr/local/bin/wrapped-chromium#g' \
+    /usr/share/applications/chromium.desktop && \
+  mv /usr/bin/exo-open /usr/bin/exo-open-real && \
   echo "**** xfce tweaks ****" && \
   rm -f \
     /etc/xdg/autostart/xscreensaver.desktop && \
   echo "**** cleanup ****" && \
   apt-get autoclean && \
   rm -rf \
+    /config/.cache \
     /var/lib/apt/lists/* \
     /var/tmp/* \
     /tmp/*
