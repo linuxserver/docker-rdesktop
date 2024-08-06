@@ -4,8 +4,8 @@
 project_name: docker-rdesktop
 external_type: os
 release_type: prerelease
-release_tag: ubuntu-openbox
-ls_branch: ubuntu-openbox
+release_tag: debian-openbox
+ls_branch: debian-openbox
 build_armhf: false
 repo_vars:
   - BUILD_VERSION_ARG = 'OS_VERSION'
