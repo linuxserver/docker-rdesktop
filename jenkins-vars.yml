@@ -4,8 +4,8 @@
 project_name: docker-rdesktop
 external_type: os
 release_type: prerelease
-release_tag: ubuntu-icewm
-ls_branch: ubuntu-icewm
+release_tag: debian-icewm
+ls_branch: debian-icewm
 build_armhf: false
 repo_vars:
   - BUILD_VERSION_ARG = 'OS_VERSION'
