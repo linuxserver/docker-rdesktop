@@ -1,6 +1,6 @@
 # syntax=docker/dockerfile:1
 
-FROM ghcr.io/linuxserver/baseimage-rdesktop:fedora-40
+FROM ghcr.io/linuxserver/baseimage-rdesktop:fedora40
 
 # set version label
 ARG BUILD_DATE
@@ -11,7 +11,9 @@ LABEL maintainer="thelamer"
 RUN \
   echo "**** install packages ****" && \
   dnf install -y --setopt=install_weak_deps=False --best \
+    caja \
     chromium \
+    dconf-editor \
     marco \
     mate-control-center \
     mate-desktop \
