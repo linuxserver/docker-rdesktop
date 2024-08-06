@@ -1,4 +1,4 @@
-FROM ghcr.io/linuxserver/baseimage-rdesktop:arch-dbus
+FROM ghcr.io/linuxserver/baseimage-rdesktop:arch
 
 # set version label
 ARG BUILD_DATE
@@ -11,7 +11,6 @@ RUN \
   echo "**** install packages ****" && \
   pacman -Sy --noconfirm --needed \
     chromium \
-    openbox \
     obconf-qt \
     xfce4-terminal && \
   echo "**** application tweaks ****" && \
