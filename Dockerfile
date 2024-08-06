@@ -1,4 +1,4 @@
-FROM ghcr.io/linuxserver/baseimage-rdesktop:jammy
+FROM ghcr.io/linuxserver/baseimage-rdesktop:ubuntunoble
 
 # set version label
 ARG BUILD_DATE
@@ -16,7 +16,6 @@ RUN \
   DEBIAN_FRONTEND=noninteractive \
   apt-get install --no-install-recommends -y \
     firefox \
-    openbox \
     obconf \
     stterm && \
   echo "**** application tweaks ****" && \
