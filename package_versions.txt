@@ -1,28 +1,35 @@
 NAME                                                                          VERSION                                             TYPE                       
 accountsservice                                                               23.13.9-r2                                          apk                         
+accountsservice-lang                                                          23.13.9-r2                                          apk                         
 agetty                                                                        2.40.1-r1                                           apk                         
 alpine-baselayout                                                             3.6.5-r0                                            apk                         
 alpine-baselayout-data                                                        3.6.5-r0                                            apk                         
 alpine-keys                                                                   2.4-r1                                              apk                         
-alpine-release                                                                3.20.1-r0                                           apk                         
+alpine-release                                                                3.20.2-r0                                           apk                         
 alsa-lib                                                                      1.2.11-r0                                           apk                         
 aom-libs                                                                      3.9.1-r0                                            apk                         
 apk-tools                                                                     2.14.4-r0                                           apk                         
 appstream                                                                     1.0.2-r2                                            apk                         
+appstream-lang                                                                1.0.2-r2                                            apk                         
 appstream-qt                                                                  1.0.2-r2                                            apk                         
 at-spi2-core                                                                  2.52.0-r0                                           apk                         
+at-spi2-core-lang                                                             2.52.0-r0                                           apk                         
 atkmm                                                                         2.28.4-r0                                           apk                         
 attica                                                                        6.2.0-r0                                            apk                         
 attica5                                                                       5.115.0-r0                                          apk                         
 avahi                                                                         0.8-r17                                             apk                         
+avahi-lang                                                                    0.8-r17                                             apk                         
 avahi-libs                                                                    0.8-r17                                             apk                         
 baloo                                                                         6.2.0-r0                                            apk                         
+baloo-lang                                                                    6.2.0-r0                                            apk                         
 baloo-widgets                                                                 24.02.2-r0                                          apk                         
+baloo-widgets-lang                                                            24.02.2-r0                                          apk                         
 bash                                                                          5.2.26-r0                                           apk                         
 blkid                                                                         2.40.1-r1                                           apk                         
 breeze                                                                        6.0.5-r0                                            apk                         
 breeze-gtk                                                                    6.0.5-r0                                            apk                         
 breeze-icons                                                                  6.2.0-r0                                            apk                         
+breeze-lang                                                                   6.0.5-r0                                            apk                         
 brotli-libs                                                                   1.1.0-r2                                            apk                         
 busctl                                                                        252.9-r5                                            apk                         
 busybox                                                                       1.36.1-r29                                          apk                         
@@ -52,7 +59,7 @@ coreutils-fmt                                                                 9.
 coreutils-sha512sum                                                           9.5-r1                                              apk                         
 cryptsetup-libs                                                               2.7.2-r0                                            apk                         
 cups-libs                                                                     2.4.9-r0                                            apk                         
-curl                                                                          8.8.0-r0                                            apk                         
+curl                                                                          8.9.0-r0                                            apk                         
 dario.cat/mergo                                                               v1.0.0                                              go-module  (+2 duplicates)  
 dbus                                                                          1.14.10-r1                                          apk                         
 dbus-daemon-launch-helper                                                     1.14.10-r1                                          apk                         
@@ -63,17 +70,19 @@ device-mapper-libs                                                            2.
 dmesg                                                                         2.40.1-r1                                           apk                         
 docbook-xml                                                                   4.5-r9                                              apk                         
 docbook-xsl                                                                   1.79.2-r9                                           apk                         
-docker                                                                        26.1.3-r2                                           apk                         
-docker-cli                                                                    26.1.3-r2                                           apk                         
+docker                                                                        26.1.5-r0                                           apk                         
+docker-cli                                                                    26.1.5-r0                                           apk                         
 docker-cli-buildx                                                             0.14.0-r3                                           apk                         
 docker-cli-compose                                                            2.27.0-r3                                           apk                         
-docker-engine                                                                 26.1.3-r2                                           apk                         
+docker-engine                                                                 26.1.5-r0                                           apk                         
 dolphin                                                                       24.02.2-r0                                          apk                         
+dolphin-lang                                                                  24.02.2-r0                                          apk                         
 double-conversion                                                             3.3.0-r0                                            apk                         
 duktape                                                                       2.7.0-r1                                            apk                         
 e2fsprogs-libs                                                                1.47.0-r5                                           apk                         
 elogind                                                                       252.9-r5                                            apk                         
 elogind-common                                                                252.9-r5                                            apk                         
+elogind-lang                                                                  252.9-r5                                            apk                         
 encodings                                                                     1.0.7-r1                                            apk                         
 eudev-libs                                                                    3.2.14-r2                                           apk                         
 exiv2                                                                         0.28.3-r0                                           apk                         
@@ -102,6 +111,7 @@ font-noto-math                                                                23
 font-noto-symbols                                                             23.7.1-r0                                           apk                         
 fontconfig                                                                    2.15.0-r1                                           apk                         
 fprintd                                                                       1.94.3-r0                                           apk                         
+fprintd-lang                                                                  1.94.3-r0                                           apk                         
 frameworkintegration                                                          6.2.0-r0                                            apk                         
 frameworkintegration5                                                         5.115.0-r0                                          apk                         
 freetype                                                                      2.13.2-r0                                           apk                         
@@ -111,12 +121,12 @@ fuse                                                                          2.
 fuse-common                                                                   3.16.2-r0                                           apk                         
 gdbm                                                                          1.23-r1                                             apk                         
 gdk-pixbuf                                                                    2.42.11-r1                                          apk                         
+gdk-pixbuf-lang                                                               2.42.11-r1                                          apk                         
 giflib                                                                        5.2.2-r0                                            apk                         
 github.com/AlecAivazis/survey/v2                                              v2.3.7                                              go-module                   
 github.com/Graylog2/go-gelf                                                   v0.0.0-20191017102106-1550ee647df0                  go-module                   
 github.com/Masterminds/semver/v3                                              v3.2.1                                              go-module  (+1 duplicate)   
-github.com/Microsoft/hcsshim                                                  v0.11.4                                             go-module                   
-github.com/Microsoft/hcsshim                                                  v0.11.5                                             go-module                   
+github.com/Microsoft/hcsshim                                                  v0.11.5                                             go-module  (+1 duplicate)   
 github.com/RackSec/srslog                                                     v0.0.0-20180709174129-a4725f04ec91                  go-module                   
 github.com/acarl005/stripansi                                                 v0.0.0-20180116102854-5a71ef0e047d                  go-module                   
 github.com/agext/levenshtein                                                  v1.2.3                                              go-module  (+1 duplicate)   
@@ -163,10 +173,11 @@ github.com/containerd/console                                                 v1
 github.com/containerd/console                                                 v1.0.4                                              go-module  (+2 duplicates)  
 github.com/containerd/containerd                                              (devel)                                             go-module  (+1 duplicate)   
 github.com/containerd/containerd                                              v1.7.15                                             go-module  (+1 duplicate)   
-github.com/containerd/containerd                                              v1.7.16                                             go-module                   
 github.com/containerd/containerd                                              v1.7.17                                             go-module  (+1 duplicate)   
+github.com/containerd/containerd                                              v1.7.18                                             go-module                   
 github.com/containerd/continuity                                              v0.4.2                                              go-module  (+3 duplicates)  
 github.com/containerd/continuity                                              v0.4.3                                              go-module  (+2 duplicates)  
+github.com/containerd/errdefs                                                 v0.1.0                                              go-module                   
 github.com/containerd/fifo                                                    v1.1.0                                              go-module  (+4 duplicates)  
 github.com/containerd/go-cni                                                  v1.1.9                                              go-module  (+1 duplicate)   
 github.com/containerd/go-runc                                                 v1.0.0                                              go-module  (+3 duplicates)  
@@ -176,8 +187,8 @@ github.com/containerd/log                                                     v0
 github.com/containerd/nri                                                     v0.6.1                                              go-module                   
 github.com/containerd/nydus-snapshotter                                       v0.13.7                                             go-module                   
 github.com/containerd/stargz-snapshotter/estargz                              v0.15.1                                             go-module                   
-github.com/containerd/ttrpc                                                   v1.2.3                                              go-module  (+2 duplicates)  
-github.com/containerd/ttrpc                                                   v1.2.4                                              go-module  (+3 duplicates)  
+github.com/containerd/ttrpc                                                   v1.2.3                                              go-module  (+1 duplicate)   
+github.com/containerd/ttrpc                                                   v1.2.4                                              go-module  (+4 duplicates)  
 github.com/containerd/typeurl                                                 v1.0.2                                              go-module                   
 github.com/containerd/typeurl/v2                                              v2.1.1                                              go-module  (+6 duplicates)  
 github.com/containerd/zfs                                                     v1.1.0                                              go-module                   
@@ -198,12 +209,12 @@ github.com/docker/buildx                                                      v0
 github.com/docker/cli                                                         v26.0.1-0.20240410153731-b6c552212837+incompatible  go-module                   
 github.com/docker/cli                                                         v26.1.0+incompatible                                go-module                   
 github.com/docker/cli-docs-tool                                               v0.7.0                                              go-module                   
-github.com/docker/cli/cmd/docker                                              26.1.3                                              go-module                   
+github.com/docker/cli/cmd/docker                                              26.1.5                                              go-module                   
 github.com/docker/compose/v2                                                  v2.27.0                                             go-module                   
 github.com/docker/distribution                                                v2.8.2+incompatible                                 go-module                   
 github.com/docker/distribution                                                v2.8.3+incompatible                                 go-module  (+1 duplicate)   
 github.com/docker/docker                                                      (devel)                                             go-module                   
-github.com/docker/docker                                                      26.1.3                                              go-module                   
+github.com/docker/docker                                                      26.1.5                                              go-module                   
 github.com/docker/docker                                                      v26.0.0+incompatible                                go-module                   
 github.com/docker/docker                                                      v26.1.0+incompatible                                go-module                   
 github.com/docker/docker-credential-helpers                                   v0.8.0                                              go-module  (+1 duplicate)   
@@ -326,8 +337,8 @@ github.com/mrunalp/fileutils                                                  v0
 github.com/munnerz/goautoneg                                                  v0.0.0-20191010083416-a7dc8b61c822                  go-module  (+1 duplicate)   
 github.com/mxk/go-flowrate                                                    v0.0.0-20140419014527-cca7078d478f                  go-module  (+1 duplicate)   
 github.com/opencontainers/go-digest                                           v1.0.0                                              go-module  (+5 duplicates)  
-github.com/opencontainers/image-spec                                          v1.1.0                                              go-module  (+3 duplicates)  
-github.com/opencontainers/image-spec                                          v1.1.0-rc5                                          go-module  (+1 duplicate)   
+github.com/opencontainers/image-spec                                          v1.1.0                                              go-module  (+4 duplicates)  
+github.com/opencontainers/image-spec                                          v1.1.0-rc5                                          go-module                   
 github.com/opencontainers/runc                                                (devel)                                             go-module                   
 github.com/opencontainers/runc                                                v1.1.12                                             go-module                   
 github.com/opencontainers/runtime-spec                                        v1.0.3-0.20210326190908-1c3f411f0417                go-module                   
@@ -395,6 +406,7 @@ github.com/zclconf/go-cty                                                     v1
 github.com/zmap/zcrypto                                                       v0.0.0-20210511125630-18f1e0152cfc                  go-module                   
 github.com/zmap/zlint/v3                                                      v3.1.0                                              go-module                   
 glib                                                                          2.80.2-r0                                           apk                         
+glib-lang                                                                     2.80.2-r0                                           apk                         
 glibmm                                                                        2.66.7-r0                                           apk                         
 glslang-libs                                                                  1.3.261.1-r0                                        apk                         
 gmp                                                                           6.3.0-r1                                            apk                         
@@ -444,7 +456,7 @@ golang.org/x/crypto                                                           v0
 golang.org/x/exp                                                              v0.0.0-20231006140011-7918f672742d                  go-module                   
 golang.org/x/exp                                                              v0.0.0-20240112132812-db7319d0e0e3                  go-module  (+1 duplicate)   
 golang.org/x/mod                                                              v0.12.0                                             go-module                   
-golang.org/x/mod                                                              v0.13.0                                             go-module                   
+golang.org/x/mod                                                              v0.17.0                                             go-module                   
 golang.org/x/net                                                              v0.23.0                                             go-module  (+4 duplicates)  
 golang.org/x/net                                                              v0.8.0                                              go-module                   
 golang.org/x/oauth2                                                           v0.11.0                                             go-module  (+3 duplicates)  
@@ -483,23 +495,30 @@ gpsd                                                                          3.
 graphene                                                                      1.10.8-r4                                           apk                         
 graphite2                                                                     1.3.14-r6                                           apk                         
 gsettings-desktop-schemas                                                     46.0-r0                                             apk                         
+gsettings-desktop-schemas-lang                                                46.0-r0                                             apk                         
 gst-plugins-base                                                              1.24.3-r0                                           apk                         
+gst-plugins-base-lang                                                         1.24.3-r0                                           apk                         
 gstreamer                                                                     1.24.3-r0                                           apk                         
+gstreamer-lang                                                                1.24.3-r0                                           apk                         
 gtk+2.0                                                                       2.24.33-r11                                         apk                         
-gtk+3.0                                                                       3.24.42-r0                                          apk                         
+gtk+2.0-lang                                                                  2.24.33-r11                                         apk                         
+gtk+3.0                                                                       3.24.43-r0                                          apk                         
+gtk+3.0-lang                                                                  3.24.43-r0                                          apk                         
 gtk-engines                                                                   2.21.0-r3                                           apk                         
 gtk-engines-clearlooks                                                        2.21.0-r3                                           apk                         
 gtk-engines-crux                                                              2.21.0-r3                                           apk                         
 gtk-engines-industrial                                                        2.21.0-r3                                           apk                         
+gtk-engines-lang                                                              2.21.0-r3                                           apk                         
 gtk-engines-mist                                                              2.21.0-r3                                           apk                         
 gtk-engines-redmond                                                           2.21.0-r3                                           apk                         
 gtk-engines-thinice                                                           2.21.0-r3                                           apk                         
-gtk-update-icon-cache                                                         3.24.42-r0                                          apk                         
+gtk-update-icon-cache                                                         3.24.43-r0                                          apk                         
 gtkmm3                                                                        3.24.9-r0                                           apk                         
 harfbuzz                                                                      8.5.0-r0                                            apk                         
 hexdump                                                                       2.40.1-r1                                           apk                         
 hicolor-icon-theme                                                            0.17-r2                                             apk                         
 hunspell                                                                      1.7.2-r4                                            apk                         
+hunspell-lang                                                                 1.7.2-r4                                            apk                         
 hwdata                                                                        0.382-r0                                            apk                         
 hwdata-net                                                                    0.382-r0                                            apk                         
 hwdata-pci                                                                    0.382-r0                                            apk                         
@@ -509,16 +528,20 @@ ibus                                                                          1.
 ibus-emoji                                                                    1.5.30-r0                                           apk                         
 ibus-gtk2                                                                     1.5.30-r0                                           apk                         
 ibus-gtk3                                                                     1.5.30-r0                                           apk                         
+ibus-lang                                                                     1.5.30-r0                                           apk                         
 ibus-pyc                                                                      1.5.30-r0                                           apk                         
 icu-data-full                                                                 74.2-r0                                             apk                         
 icu-libs                                                                      74.2-r0                                             apk                         
 imath                                                                         3.1.11-r2                                           apk                         
+imlib2                                                                        1.12.2-r0                                           apk                         
 iptables                                                                      1.8.10-r3                                           apk                         
 iso-codes                                                                     4.16.0-r0                                           apk                         
+iso-codes-lang                                                                4.16.0-r0                                           apk                         
 jansson                                                                       2.14-r4                                             apk                         
 jq                                                                            1.7.1-r0                                            apk                         
 json-c                                                                        0.17-r0                                             apk                         
 json-glib                                                                     1.8.0-r1                                            apk                         
+json-glib-lang                                                                1.8.0-r1                                            apk                         
 k8s.io/api                                                                    v0.26.2                                             go-module                   
 k8s.io/api                                                                    v0.29.2                                             go-module  (+1 duplicate)   
 k8s.io/apimachinery                                                           v0.26.2                                             go-module                   
@@ -535,102 +558,177 @@ k8s.io/kube-openapi                                                           v0
 k8s.io/utils                                                                  v0.0.0-20230220204549-a5ecb0141aa5                  go-module                   
 k8s.io/utils                                                                  v0.0.0-20230726121419-3b25d923346b                  go-module  (+1 duplicate)   
 kactivitymanagerd                                                             6.0.5-r0                                            apk                         
+kactivitymanagerd-lang                                                        6.0.5-r0                                            apk                         
 karchive                                                                      6.2.0-r0                                            apk                         
+karchive-lang                                                                 6.2.0-r0                                            apk                         
 karchive5                                                                     5.115.0-r0                                          apk                         
+karchive5-lang                                                                5.115.0-r0                                          apk                         
 kate-common                                                                   24.02.2-r0                                          apk                         
 kauth                                                                         6.2.0-r0                                            apk                         
+kauth-lang                                                                    6.2.0-r0                                            apk                         
 kauth5                                                                        5.115.0-r1                                          apk                         
+kauth5-lang                                                                   5.115.0-r1                                          apk                         
 kbookmarks                                                                    6.2.0-r0                                            apk                         
+kbookmarks-lang                                                               6.2.0-r0                                            apk                         
 kbookmarks5                                                                   5.115.0-r0                                          apk                         
+kbookmarks5-lang                                                              5.115.0-r0                                          apk                         
 kcmutils                                                                      6.2.0-r0                                            apk                         
+kcmutils-lang                                                                 6.2.0-r0                                            apk                         
 kcodecs                                                                       6.2.0-r0                                            apk                         
+kcodecs-lang                                                                  6.2.0-r0                                            apk                         
 kcodecs5                                                                      5.115.0-r0                                          apk                         
+kcodecs5-lang                                                                 5.115.0-r0                                          apk                         
 kcolorscheme                                                                  6.2.0-r0                                            apk                         
+kcolorscheme-lang                                                             6.2.0-r0                                            apk                         
 kcompletion                                                                   6.2.0-r0                                            apk                         
+kcompletion-lang                                                              6.2.0-r0                                            apk                         
 kcompletion5                                                                  5.115.0-r0                                          apk                         
+kcompletion5-lang                                                             5.115.0-r0                                          apk                         
 kconfig                                                                       6.2.0-r0                                            apk                         
+kconfig-lang                                                                  6.2.0-r0                                            apk                         
 kconfig5                                                                      5.115.0-r0                                          apk                         
+kconfig5-lang                                                                 5.115.0-r0                                          apk                         
 kconfigwidgets                                                                6.2.0-r0                                            apk                         
+kconfigwidgets-lang                                                           6.2.0-r0                                            apk                         
 kconfigwidgets5                                                               5.115.0-r0                                          apk                         
+kconfigwidgets5-lang                                                          5.115.0-r0                                          apk                         
 kcoreaddons                                                                   6.2.0-r0                                            apk                         
+kcoreaddons-lang                                                              6.2.0-r0                                            apk                         
 kcoreaddons5                                                                  5.115.0-r1                                          apk                         
+kcoreaddons5-lang                                                             5.115.0-r1                                          apk                         
 kcrash                                                                        6.2.0-r0                                            apk                         
 kcrash5                                                                       5.115.0-r0                                          apk                         
 kdbusaddons                                                                   6.2.0-r0                                            apk                         
+kdbusaddons-lang                                                              6.2.0-r0                                            apk                         
 kdbusaddons5                                                                  5.115.0-r0                                          apk                         
+kdbusaddons5-lang                                                             5.115.0-r0                                          apk                         
 kde-cli-tools                                                                 6.0.5-r0                                            apk                         
+kde-cli-tools-lang                                                            6.0.5-r0                                            apk                         
 kde-default-icon-theme                                                        6.2.0-r0                                            apk                         
 kde-gtk-config                                                                6.0.5-r0                                            apk                         
 kdeclarative                                                                  6.2.0-r0                                            apk                         
+kdeclarative-lang                                                             6.2.0-r0                                            apk                         
 kdecoration                                                                   6.0.5-r0                                            apk                         
+kdecoration-lang                                                              6.0.5-r0                                            apk                         
 kded                                                                          6.2.0-r0                                            apk                         
 kdesu                                                                         6.2.0-r0                                            apk                         
+kdesu-lang                                                                    6.2.0-r0                                            apk                         
 kdnssd                                                                        6.2.0-r0                                            apk                         
+kdnssd-lang                                                                   6.2.0-r0                                            apk                         
 kdoctools                                                                     6.2.0-r0                                            apk                         
 kdoctools5                                                                    5.115.0-r0                                          apk                         
 kdsoap-qt6                                                                    2.2.0-r0                                            apk                         
 kdsoap-ws-discovery-client                                                    0.4.0-r0                                            apk                         
 keyutils-libs                                                                 1.6.3-r3                                            apk                         
 kfilemetadata                                                                 6.2.0-r0                                            apk                         
+kfilemetadata-lang                                                            6.2.0-r0                                            apk                         
 kglobalaccel                                                                  6.2.0-r0                                            apk                         
+kglobalaccel-lang                                                             6.2.0-r0                                            apk                         
 kglobalaccel5                                                                 5.115.0-r0                                          apk                         
+kglobalaccel5-lang                                                            5.115.0-r0                                          apk                         
 kglobalacceld                                                                 6.0.5-r0                                            apk                         
 kguiaddons                                                                    6.2.0-r0                                            apk                         
 kguiaddons5                                                                   5.115.0-r0                                          apk                         
 kholidays                                                                     6.2.0-r0                                            apk                         
+kholidays-lang                                                                6.2.0-r0                                            apk                         
 ki18n                                                                         6.2.0-r0                                            apk                         
+ki18n-lang                                                                    6.2.0-r0                                            apk                         
 ki18n5                                                                        5.115.0-r0                                          apk                         
+ki18n5-lang                                                                   5.115.0-r0                                          apk                         
 kiconthemes                                                                   6.2.0-r0                                            apk                         
+kiconthemes-lang                                                              6.2.0-r0                                            apk                         
 kiconthemes5                                                                  5.115.0-r0                                          apk                         
+kiconthemes5-lang                                                             5.115.0-r0                                          apk                         
 kidletime                                                                     6.2.0-r0                                            apk                         
 kio                                                                           6.2.0-r0                                            apk                         
 kio-extras                                                                    24.02.2-r0                                          apk                         
+kio-extras-lang                                                               24.02.2-r0                                          apk                         
+kio-lang                                                                      6.2.0-r0                                            apk                         
 kio5                                                                          5.115.0-r0                                          apk                         
+kio5-lang                                                                     5.115.0-r0                                          apk                         
 kirigami                                                                      6.2.1-r0                                            apk                         
 kirigami-addons                                                               1.2.1-r0                                            apk                         
+kirigami-addons-lang                                                          1.2.1-r0                                            apk                         
+kirigami-lang                                                                 6.2.1-r0                                            apk                         
 kirigami-libs                                                                 6.2.1-r0                                            apk                         
 kirigami2                                                                     5.115.0-r0                                          apk                         
+kirigami2-lang                                                                5.115.0-r0                                          apk                         
 kirigami2-libs                                                                5.115.0-r0                                          apk                         
 kitemmodels                                                                   6.2.0-r0                                            apk                         
 kitemviews                                                                    6.2.0-r0                                            apk                         
+kitemviews-lang                                                               6.2.0-r0                                            apk                         
 kitemviews5                                                                   5.115.0-r0                                          apk                         
+kitemviews5-lang                                                              5.115.0-r0                                          apk                         
 kjobwidgets                                                                   6.2.0-r0                                            apk                         
+kjobwidgets-lang                                                              6.2.0-r0                                            apk                         
 kjobwidgets5                                                                  5.115.0-r0                                          apk                         
+kjobwidgets5-lang                                                             5.115.0-r0                                          apk                         
 kmenuedit                                                                     6.0.5-r0                                            apk                         
+kmenuedit-lang                                                                6.0.5-r0                                            apk                         
 kmod-libs                                                                     32-r0                                               apk                         
 knewstuff                                                                     6.2.0-r0                                            apk                         
+knewstuff-lang                                                                6.2.0-r0                                            apk                         
 knewstuff5                                                                    5.115.0-r0                                          apk                         
+knewstuff5-lang                                                               5.115.0-r0                                          apk                         
 knotifications                                                                6.2.0-r0                                            apk                         
+knotifications-lang                                                           6.2.0-r0                                            apk                         
 knotifications5                                                               5.115.0-r0                                          apk                         
+knotifications5-lang                                                          5.115.0-r0                                          apk                         
 knotifyconfig                                                                 6.2.0-r0                                            apk                         
+knotifyconfig-lang                                                            6.2.0-r0                                            apk                         
 konsole                                                                       24.02.2-r0                                          apk                         
+konsole-lang                                                                  24.02.2-r0                                          apk                         
 kpackage                                                                      6.2.0-r0                                            apk                         
+kpackage-lang                                                                 6.2.0-r0                                            apk                         
 kpackage5                                                                     5.115.0-r0                                          apk                         
+kpackage5-lang                                                                5.115.0-r0                                          apk                         
 kparts                                                                        6.2.0-r0                                            apk                         
+kparts-lang                                                                   6.2.0-r0                                            apk                         
 kpipewire                                                                     6.0.5-r0                                            apk                         
+kpipewire-lang                                                                6.0.5-r0                                            apk                         
 kpty                                                                          6.2.0-r0                                            apk                         
+kpty-lang                                                                     6.2.0-r0                                            apk                         
 krunner                                                                       6.2.0-r0                                            apk                         
 kscreenlocker                                                                 6.0.5-r0                                            apk                         
+kscreenlocker-lang                                                            6.0.5-r0                                            apk                         
 kservice                                                                      6.2.0-r0                                            apk                         
+kservice-lang                                                                 6.2.0-r0                                            apk                         
 kservice5                                                                     5.115.0-r0                                          apk                         
+kservice5-lang                                                                5.115.0-r0                                          apk                         
 kstatusnotifieritem                                                           6.2.0-r0                                            apk                         
+kstatusnotifieritem-lang                                                      6.2.0-r0                                            apk                         
 ksvg                                                                          6.2.0-r0                                            apk                         
 ksystemstats                                                                  6.0.5-r0                                            apk                         
+ksystemstats-lang                                                             6.0.5-r0                                            apk                         
 ktexteditor                                                                   6.2.0-r0                                            apk                         
+ktexteditor-lang                                                              6.2.0-r0                                            apk                         
 ktextwidgets                                                                  6.2.0-r0                                            apk                         
+ktextwidgets-lang                                                             6.2.0-r0                                            apk                         
 ktextwidgets5                                                                 5.115.0-r0                                          apk                         
+ktextwidgets5-lang                                                            5.115.0-r0                                          apk                         
 kuserfeedback                                                                 6.2.0-r0                                            apk                         
+kuserfeedback-lang                                                            6.2.0-r0                                            apk                         
 kwallet                                                                       6.2.1-r0                                            apk                         
+kwallet-lang                                                                  6.2.1-r0                                            apk                         
 kwayland                                                                      6.0.5-r0                                            apk                         
 kwidgetsaddons                                                                6.2.2-r0                                            apk                         
+kwidgetsaddons-lang                                                           6.2.2-r0                                            apk                         
 kwidgetsaddons5                                                               5.115.0-r0                                          apk                         
+kwidgetsaddons5-lang                                                          5.115.0-r0                                          apk                         
 kwin                                                                          6.0.5-r0                                            apk                         
+kwin-lang                                                                     6.0.5-r0                                            apk                         
 kwindowsystem                                                                 6.2.0-r0                                            apk                         
+kwindowsystem-lang                                                            6.2.0-r0                                            apk                         
 kwindowsystem5                                                                5.115.0-r0                                          apk                         
+kwindowsystem5-lang                                                           5.115.0-r0                                          apk                         
 kwrite                                                                        24.02.2-r0                                          apk                         
+kwrite-lang                                                                   24.02.2-r0                                          apk                         
 kxmlgui                                                                       6.2.0-r0                                            apk                         
+kxmlgui-lang                                                                  6.2.0-r0                                            apk                         
 kxmlgui5                                                                      5.115.0-r0                                          apk                         
+kxmlgui5-lang                                                                 5.115.0-r0                                          apk                         
 lame-libs                                                                     3.100-r5                                            apk                         
+lang                                                                          0.1-r2                                              apk                         
 layer-shell-qt                                                                6.0.5-r0                                            apk                         
 lcms2                                                                         2.16-r0                                             apk                         
 ldb                                                                           2.8.0-r1                                            apk                         
@@ -649,6 +747,7 @@ libblockdev                                                                   3.
 libbluray                                                                     1.3.4-r1                                            apk                         
 libbsd                                                                        0.12.2-r0                                           apk                         
 libbytesize                                                                   2.10-r3                                             apk                         
+libbytesize-lang                                                              2.10-r3                                             apk                         
 libbz2                                                                        1.0.8-r6                                            apk                         
 libcamera                                                                     0.3.0-r0                                            apk                         
 libcamera-ipa                                                                 0.3.0-r0                                            apk                         
@@ -660,7 +759,7 @@ libcap-ng                                                                     0.
 libcap2                                                                       2.70-r0                                             apk                         
 libcom_err                                                                    1.47.0-r5                                           apk                         
 libcrypto3                                                                    3.3.1-r3                                            apk                         
-libcurl                                                                       8.8.0-r0                                            apk                         
+libcurl                                                                       8.9.0-r0                                            apk                         
 libdaemon                                                                     0.14-r4                                             apk                         
 libdav1d                                                                      1.4.2-r0                                            apk                         
 libdbusmenu-glib                                                              16.04.0-r6                                          apk                         
@@ -690,6 +789,7 @@ libgusb                                                                       0.
 libhunspell                                                                   1.7.2-r4                                            apk                         
 libhwy                                                                        1.0.7-r0                                            apk                         
 libice                                                                        1.1.1-r6                                            apk                         
+libid3tag                                                                     0.16.2-r2                                           apk                         
 libidn2                                                                       2.3.7-r0                                            apk                         
 libinput-libs                                                                 1.25.0-r0                                           apk                         
 libintl                                                                       0.22.5-r0                                           apk                         
@@ -698,7 +798,9 @@ libjxl                                                                        0.
 libkexiv2                                                                     24.02.2-r0                                          apk                         
 libksba                                                                       1.6.6-r0                                            apk                         
 libkscreen                                                                    6.0.5-r0                                            apk                         
+libkscreen-lang                                                               6.0.5-r0                                            apk                         
 libksysguard                                                                  6.0.5-r0                                            apk                         
+libksysguard-lang                                                             6.0.5-r0                                            apk                         
 libldap                                                                       2.6.7-r0                                            apk                         
 libltdl                                                                       2.4.7-r3                                            apk                         
 libmagic                                                                      5.45-r1                                             apk                         
@@ -721,6 +823,7 @@ libpciaccess                                                                  0.
 libpcre2-16                                                                   10.43-r0                                            apk                         
 libplacebo                                                                    6.338.2-r1                                          apk                         
 libplasma                                                                     6.0.5-r0                                            apk                         
+libplasma-lang                                                                6.0.5-r0                                            apk                         
 libpng                                                                        1.6.43-r0                                           apk                         
 libproc2                                                                      4.0.4-r0                                            apk                         
 libproxy                                                                      0.5.6-r0                                            apk                         
@@ -729,9 +832,11 @@ libpulse                                                                      17
 libpulse-mainloop-glib                                                        17.0-r0                                             apk                         
 libqaccessibilityclient                                                       0.6.0-r0                                            apk                         
 libqalculate                                                                  5.0.0-r0                                            apk                         
+libqalculate-lang                                                             5.0.0-r0                                            apk                         
 libqca-qt6                                                                    2.3.8-r0                                            apk                         
 libqrencode                                                                   4.1.1-r2                                            apk                         
 librist                                                                       0.2.10-r1                                           apk                         
+librsvg                                                                       2.58.0-r0                                           apk                         
 libsasl                                                                       2.1.28-r6                                           apk                         
 libseccomp                                                                    2.5.5-r1                                            apk                         
 libsharpyuv                                                                   1.3.2-r0                                            apk                         
@@ -818,7 +923,13 @@ mesa-egl                                                                      24
 mesa-gbm                                                                      24.0.9-r1                                           apk                         
 mesa-gl                                                                       24.0.9-r1                                           apk                         
 mesa-glapi                                                                    24.0.9-r1                                           apk                         
+mesa-va-gallium                                                               24.0.9-r1                                           apk                         
+mesa-vulkan-ati                                                               24.0.9-r1                                           apk                         
+mesa-vulkan-intel                                                             24.0.9-r1                                           apk                         
+mesa-vulkan-layers                                                            24.0.9-r1                                           apk                         
+mesa-vulkan-swrast                                                            24.0.9-r1                                           apk                         
 milou                                                                         6.0.5-r0                                            apk                         
+milou-lang                                                                    6.0.5-r0                                            apk                         
 mkfontscale                                                                   1.2.2-r6                                            apk                         
 mount                                                                         2.40.1-r1                                           apk                         
 mpdecimal                                                                     4.0.0-r0                                            apk                         
@@ -827,6 +938,8 @@ mpg123-libs                                                                   1.
 mtdev                                                                         1.1.6-r3                                            apk                         
 musl                                                                          1.2.5-r0                                            apk                         
 musl-fts                                                                      1.2.7-r6                                            apk                         
+musl-locales                                                                  0.1.0-r1                                            apk                         
+musl-locales-lang                                                             0.1.0-r1                                            apk                         
 musl-utils                                                                    1.2.5-r0                                            apk                         
 ncurses-terminfo-base                                                         6.4_p20240420-r0                                    apk                         
 ndctl-libs                                                                    78-r1                                               apk                         
@@ -834,6 +947,7 @@ netcat-openbsd                                                                1.
 nettle                                                                        3.9.1-r0                                            apk                         
 networkmanager                                                                1.46.2-r0                                           apk                         
 networkmanager-common                                                         1.46.2-r0                                           apk                         
+networkmanager-lang                                                           1.46.2-r0                                           apk                         
 networkmanager-qt                                                             6.2.0-r0                                            apk                         
 nghttp2-libs                                                                  1.62.1-r0                                           apk                         
 npth                                                                          1.6-r4                                              apk                         
@@ -842,6 +956,9 @@ nss                                                                           3.
 numactl                                                                       2.0.18-r0                                           apk                         
 onevpl-libs                                                                   2023.3.1-r2                                         apk                         
 oniguruma                                                                     6.9.9-r0                                            apk                         
+openbox                                                                       3.6.1-r8                                            apk                         
+openbox-lang                                                                  3.6.1-r8                                            apk                         
+openbox-libs                                                                  3.6.1-r8                                            apk                         
 openexr-libiex                                                                3.1.13-r1                                           apk                         
 openexr-libilmthread                                                          3.1.13-r1                                           apk                         
 openexr-libopenexr                                                            3.1.13-r1                                           apk                         
@@ -857,33 +974,44 @@ pangomm                                                                       2.
 parted                                                                        3.6-r2                                              apk                         
 partx                                                                         2.40.1-r1                                           apk                         
 pavucontrol                                                                   5.0-r4                                              apk                         
+pavucontrol-lang                                                              5.0-r4                                              apk                         
 pciutils-libs                                                                 3.12.0-r1                                           apk                         
 pcre2                                                                         10.43-r0                                            apk                         
 phonon-qt6                                                                    4.12.0-r0                                           apk                         
 pinentry                                                                      1.3.0-r0                                            apk                         
 pipewire                                                                      1.0.6-r1                                            apk                         
+pipewire-lang                                                                 1.0.6-r1                                            apk                         
 pipewire-libs                                                                 1.0.6-r1                                            apk                         
 pixman                                                                        0.43.2-r0                                           apk                         
 pkgconf                                                                       2.2.0-r0                                            apk                         
 plasma-activities-libs                                                        6.0.5-r0                                            apk                         
 plasma-activities-stats                                                       6.0.5-r0                                            apk                         
 plasma-browser-integration                                                    6.0.5-r0                                            apk                         
+plasma-browser-integration-lang                                               6.0.5-r0                                            apk                         
 plasma-desktop                                                                6.0.5-r0                                            apk                         
+plasma-desktop-lang                                                           6.0.5-r0                                            apk                         
 plasma-integration                                                            6.0.5-r0                                            apk                         
+plasma-integration-lang                                                       6.0.5-r0                                            apk                         
 plasma-systemmonitor                                                          6.0.5-r0                                            apk                         
+plasma-systemmonitor-lang                                                     6.0.5-r0                                            apk                         
 plasma-workspace                                                              6.0.5.1-r0                                          apk                         
+plasma-workspace-lang                                                         6.0.5.1-r0                                          apk                         
 plasma-workspace-libs                                                         6.0.5.1-r0                                          apk                         
 plasma-workspace-wallpapers                                                   6.0.5-r0                                            apk                         
 plasma5support                                                                6.0.5-r0                                            apk                         
+plasma5support-lang                                                           6.0.5-r0                                            apk                         
 polkit-noelogind-libs                                                         124-r0                                              apk                         
 polkit-qt5                                                                    0.200.0-r0                                          apk                         
 polkit-qt6                                                                    0.200.0-r0                                          apk                         
 popt                                                                          1.19-r3                                             apk                         
 prison                                                                        6.2.0-r0                                            apk                         
 procps-ng                                                                     4.0.4-r0                                            apk                         
+procps-ng-lang                                                                4.0.4-r0                                            apk                         
 pulseaudio                                                                    17.0-r0                                             apk                         
 pulseaudio-alsa                                                               17.0-r0                                             apk                         
+pulseaudio-lang                                                               17.0-r0                                             apk                         
 purpose                                                                       6.2.0-r0                                            apk                         
+purpose-lang                                                                  6.2.0-r0                                            apk                         
 py3-gobject3                                                                  3.48.2-r0                                           apk                         
 pyc                                                                           3.12.3-r1                                           apk                         
 pygobject                                                                     3.48.2                                              python                      
@@ -934,6 +1062,7 @@ sfdisk                                                                        2.
 shaderc                                                                       2024.0-r0                                           apk                         
 shadow                                                                        4.15.1-r0                                           apk                         
 shared-mime-info                                                              2.4-r0                                              apk                         
+shared-mime-info-lang                                                         2.4-r0                                              apk                         
 sigs.k8s.io/json                                                              v0.0.0-20220713155537-f223a00ba0e2                  go-module                   
 sigs.k8s.io/json                                                              v0.0.0-20221116044647-bc3834ca7abd                  go-module  (+1 duplicate)   
 sigs.k8s.io/structured-merge-diff/v4                                          v4.2.3                                              go-module                   
@@ -943,7 +1072,9 @@ skalibs                                                                       2.
 solid-libs                                                                    6.2.0-r0                                            apk                         
 solid5-libs                                                                   5.115.0-r0                                          apk                         
 sonnet                                                                        6.2.0-r0                                            apk                         
+sonnet-lang                                                                   6.2.0-r0                                            apk                         
 sonnet5                                                                       5.115.0-r0                                          apk                         
+sonnet5-lang                                                                  5.115.0-r0                                          apk                         
 sord-libs                                                                     0.16.16-r0                                          apk                         
 sound-theme-freedesktop                                                       0.8-r1                                              apk                         
 soxr                                                                          0.1.3-r7                                            apk                         
@@ -952,11 +1083,14 @@ spirv-tools                                                                   1.
 sqlite-libs                                                                   3.45.3-r1                                           apk                         
 sratom                                                                        0.6.16-r0                                           apk                         
 ssl_client                                                                    1.36.1-r29                                          apk                         
+startup-notification                                                          0.12-r7                                             apk                         
 stdlib                                                                        go1.22.5                                            go-module  (+9 duplicates)  
 sudo                                                                          1.9.15_p5-r0                                        apk                         
 syndication5                                                                  5.115.0-r0                                          apk                         
 syntax-highlighting                                                           6.2.0-r0                                            apk                         
+syntax-highlighting-lang                                                      6.2.0-r0                                            apk                         
 systemsettings                                                                6.0.5-r0                                            apk                         
+systemsettings-lang                                                           6.0.5-r0                                            apk                         
 tags.cncf.io/container-device-interface                                       v0.6.2                                              go-module                   
 tags.cncf.io/container-device-interface                                       v0.7.2                                              go-module  (+1 duplicate)   
 tags.cncf.io/container-device-interface/specs-go                              v0.7.0                                              go-module  (+1 duplicate)   
@@ -968,6 +1102,7 @@ tini-static                                                                   0.
 tslib                                                                         1.23-r0                                             apk                         
 tzdata                                                                        2024a-r1                                            apk                         
 udisks2                                                                       2.10.1-r0                                           apk                         
+udisks2-lang                                                                  2.10.1-r0                                           apk                         
 udisks2-libs                                                                  2.10.1-r0                                           apk                         
 umount                                                                        2.40.1-r1                                           apk                         
 unicode-character-database                                                    15.1.0-r1                                           apk                         
@@ -986,6 +1121,7 @@ wayland-libs-server                                                           1.
 webrtc-audio-processing-1                                                     1.3-r0                                              apk                         
 wipefs                                                                        2.40.1-r1                                           apk                         
 wireplumber                                                                   0.5.2-r0                                            apk                         
+wireplumber-lang                                                              0.5.2-r0                                            apk                         
 wireplumber-libs                                                              0.5.2-r0                                            apk                         
 x264-libs                                                                     0.164_git20231001-r0                                apk                         
 x265-libs                                                                     3.6-r0                                              apk                         
@@ -997,13 +1133,17 @@ xcb-util-keysyms                                                              0.
 xcb-util-renderutil                                                           0.3.10-r0                                           apk                         
 xcb-util-wm                                                                   0.4.2-r0                                            apk                         
 xdg-user-dirs                                                                 0.18-r0                                             apk                         
+xdg-user-dirs-lang                                                            0.18-r0                                             apk                         
 xdg-utils                                                                     1.2.1-r0                                            apk                         
 xf86-video-amdgpu                                                             23.0.0-r3                                           apk                         
 xf86-video-ati                                                                22.0.0-r3                                           apk                         
 xf86-video-intel                                                              2.99.917_git20221028-r7                             apk                         
+xf86-video-nouveau                                                            1.0.17-r5                                           apk                         
+xf86-video-qxl                                                                0.1.6-r3                                            apk                         
 xinit                                                                         1.4.2-r1                                            apk                         
 xkbcomp                                                                       1.4.7-r0                                            apk                         
 xkeyboard-config                                                              2.41-r0                                             apk                         
+xkeyboard-config-lang                                                         2.41-r0                                             apk                         
 xmodmap                                                                       1.0.11-r1                                           apk                         
 xorg-server                                                                   21.1.13-r0                                          apk                         
 xorg-server-common                                                            21.1.13-r0                                          apk                         
@@ -1015,7 +1155,7 @@ xset                                                                          1.
 xterm                                                                         391-r0                                              apk                         
 xvidcore                                                                      1.3.7-r2                                            apk                         
 xwayland                                                                      23.2.6-r0                                           apk                         
-xz-libs                                                                       5.6.1-r3                                            apk                         
+xz-libs                                                                       5.6.2-r0                                            apk                         
 yaml                                                                          0.2.5-r2                                            apk                         
 zimg                                                                          3.0.5-r2                                            apk                         
 zix-libs                                                                      0.4.2-r0                                            apk                         
