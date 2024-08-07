@@ -1,4 +1,4 @@
-FROM ghcr.io/linuxserver/baseimage-rdesktop:arm64v8-ubunutnoble
+FROM ghcr.io/linuxserver/baseimage-rdesktop:arm64v8-ubuntunoble
 
 # set version label
 ARG BUILD_DATE
