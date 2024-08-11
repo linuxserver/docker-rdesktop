@@ -69,7 +69,7 @@ dpkg                               1.22.6ubuntu6                             deb
 e2fsprogs                          1.47.0-2.4~exp1ubuntu4                    deb                           
 emacsen-common                     3.0.5                                     deb                           
 findutils                          4.9.0-5build1                             deb                           
-firefox                            128.0.3+build1-0ubuntu0.24.04.1~mt2       deb                           
+firefox                            129.0+build2-0ubuntu0.24.04.1~mt1         deb                           
 fontconfig                         2.15.0-1.1ubuntu2                         deb                           
 fontconfig-config                  2.15.0-1.1ubuntu2                         deb                           
 fonts-dejavu-core                  2.37-8                                    deb                           
@@ -105,7 +105,7 @@ gir1.2-snapd-2                     1.64-0ubuntu5                             deb
 gir1.2-soup-3.0                    3.4.4-5build2                             deb                           
 gir1.2-vte-2.91                    0.76.0-1ubuntu0.1                         deb                           
 gir1.2-webkit2-4.1                 2.44.2-0ubuntu0.24.04.2                   deb                           
-github.com/docker/cli/cmd/docker   27.1.1                                    go-module                     
+github.com/docker/cli/cmd/docker   v27.1.1                                   go-module                     
 glib-networking                    2.80.0-1build1                            deb                           
 glib-networking-common             2.80.0-1build1                            deb                           
 glib-networking-services           2.80.0-1build1                            deb                           
@@ -542,7 +542,7 @@ libspeexdsp1                       1.2.1-1ubuntu3                            deb
 libsqlite3-0                       3.45.1-1ubuntu2                           deb                           
 libss2                             1.47.0-2.4~exp1ubuntu4                    deb                           
 libssh-4                           0.10.6-2build2                            deb                           
-libssl3t64                         3.0.13-0ubuntu3.1                         deb                           
+libssl3t64                         3.0.13-0ubuntu3.2                         deb                           
 libstartup-notification0           0.12-6build3                              deb                           
 libstdc++6                         14-20240412-0ubuntu1                      deb                           
 libstemmer0d                       2.2.0-4build1                             deb                           
@@ -727,7 +727,7 @@ ocl-icd-libopencl1                 2.3.2-1build1                             deb
 openbox                            3.6.1-12build5                            deb                           
 openprinting-ppds                  20230202-1                                deb                           
 openssh-client                     1:9.6p1-3ubuntu13.4                       deb                           
-openssl                            3.0.13-0ubuntu3.1                         deb                           
+openssl                            3.0.13-0ubuntu3.2                         deb                           
 packagekit                         1.2.8-2build3                             deb                           
 parted                             3.6-4build1                               deb                           
 passwd                             1:4.13+dfsg1-4ubuntu3                     deb                           
@@ -760,7 +760,7 @@ python-apt-common                  2.7.7ubuntu1                              deb
 python-dateutil                    2.8.2                                     python                        
 python-debian                      0.1.49+ubuntu2                            python                        
 python3                            3.12.3-0ubuntu1                           deb                           
-python3-apport                     2.28.1-0ubuntu3                           deb                           
+python3-apport                     2.28.1-0ubuntu3.1                         deb                           
 python3-apt                        2.7.7ubuntu1                              deb                           
 python3-aptdaemon                  1.1.1+bzr982-0ubuntu44                    deb                           
 python3-aptdaemon.gtk3widgets      1.1.1+bzr982-0ubuntu44                    deb                           
@@ -789,7 +789,7 @@ python3-lazr.uri                   1.0.6-3                                   deb
 python3-minimal                    3.12.3-0ubuntu1                           deb                           
 python3-oauthlib                   3.2.2-1                                   deb                           
 python3-pkg-resources              68.1.2-2ubuntu1                           deb                           
-python3-problem-report             2.28.1-0ubuntu3                           deb                           
+python3-problem-report             2.28.1-0ubuntu3.1                         deb                           
 python3-pyparsing                  3.1.1-1                                   deb                           
 python3-requests                   2.31.0+dfsg-1ubuntu1                      deb                           
 python3-six                        1.16.0-4                                  deb                           
