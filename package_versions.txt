@@ -48,7 +48,7 @@ elementary-xfce-icon-theme        0.19-1                                    deb
 emacsen-common                    3.0.5                                     deb                        
 exo-utils                         4.18.0-1build4                            deb                        
 findutils                         4.9.0-5build1                             deb                        
-firefox                           128.0.3+build1-0ubuntu0.24.04.1~mt2       deb                        
+firefox                           129.0+build2-0ubuntu0.24.04.1~mt1         deb                        
 fontconfig                        2.15.0-1.1ubuntu2                         deb                        
 fontconfig-config                 2.15.0-1.1ubuntu2                         deb                        
 fonts-noto-color-emoji            2.042-1                                   deb                        
@@ -62,7 +62,7 @@ gcc-14-base                       14-20240412-0ubuntu1                      deb
 gir1.2-girepository-2.0           1.80.1-1                                  deb                        
 gir1.2-glib-2.0                   2.80.0-6ubuntu3.1                         deb                        
 gir1.2-packagekitglib-1.0         1.2.8-2build3                             deb                        
-github.com/docker/cli/cmd/docker  27.1.1                                    go-module                  
+github.com/docker/cli/cmd/docker  v27.1.1                                   go-module                  
 glib-networking                   2.80.0-1build1                            deb                        
 glib-networking-common            2.80.0-1build1                            deb                        
 glib-networking-services          2.80.0-1build1                            deb                        
@@ -353,7 +353,7 @@ libspeexdsp1                      1.2.1-1ubuntu3                            deb
 libsqlite3-0                      3.45.1-1ubuntu2                           deb                        
 libss2                            1.47.0-2.4~exp1ubuntu4                    deb                        
 libssh-4                          0.10.6-2build2                            deb                        
-libssl3t64                        3.0.13-0ubuntu3.1                         deb                        
+libssl3t64                        3.0.13-0ubuntu3.2                         deb                        
 libstartup-notification0          0.12-6build3                              deb                        
 libstdc++6                        14-20240412-0ubuntu1                      deb                        
 libstemmer0d                      2.2.0-4build1                             deb                        
@@ -490,7 +490,7 @@ oauthlib                          3.2.2                                     pyth
 ocl-icd-libopencl1                2.3.2-1build1                             deb                        
 openbox                           3.6.1-12build5                            deb                        
 openssh-client                    1:9.6p1-3ubuntu13.4                       deb                        
-openssl                           3.0.13-0ubuntu3.1                         deb                        
+openssl                           3.0.13-0ubuntu3.2                         deb                        
 packagekit                        1.2.8-2build3                             deb                        
 passwd                            1:4.13+dfsg1-4ubuntu3                     deb                        
 perl                              5.38.2-3.2build2                          deb                        
