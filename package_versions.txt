@@ -55,7 +55,7 @@ crypto-policies                                                               20
 crypto-policies-scripts                                                       20240201-2.git9f501f3.fc40             rpm                         
 cryptsetup-libs                                                               2.7.4-1.fc40                           rpm                         
 cups-libs                                                                     1:2.4.10-3.fc40                        rpm                         
-curl                                                                          8.6.0-9.fc40                           rpm                         
+curl                                                                          8.6.0-10.fc40                          rpm                         
 cyrus-sasl-lib                                                                2.1.28-19.fc40                         rpm                         
 dario.cat/mergo                                                               v1.0.0                                 go-module  (+2 duplicates)  
 dbus                                                                          1:1.14.10-3.fc40                       rpm                         
@@ -99,7 +99,7 @@ fedora-release-common                                                         40
 fedora-release-container                                                      40-38                                  rpm                         
 fedora-release-identity-container                                             40-38                                  rpm                         
 fedora-repos                                                                  40-1                                   rpm                         
-ffmpeg-libs                                                                   6.1.1-15.fc40                          rpm                         
+ffmpeg-libs                                                                   6.1.2-1.fc40                           rpm                         
 fftw-libs-double                                                              3.3.10-12.fc40                         rpm                         
 fftw-libs-single                                                              3.3.10-12.fc40                         rpm                         
 file-libs                                                                     5.45-4.fc40                            rpm                         
@@ -195,7 +195,7 @@ github.com/davecgh/go-spew                                                    v1
 github.com/deckarep/golang-set/v2                                             v2.3.0                                 go-module                   
 github.com/dimchansky/utfbom                                                  v1.1.1                                 go-module                   
 github.com/distribution/reference                                             v0.6.0                                 go-module  (+3 duplicates)  
-github.com/docker/cli/cmd/docker                                              27.1.1                                 go-module                   
+github.com/docker/cli/cmd/docker                                              v27.1.1                                go-module                   
 github.com/docker/distribution                                                v2.8.3+incompatible                    go-module                   
 github.com/docker/docker                                                      v27.1.1                                go-module  (+1 duplicate)   
 github.com/docker/go-connections                                              v0.5.0                                 go-module                   
@@ -468,7 +468,7 @@ hostname                                                                      3.
 hunspell                                                                      1.7.2-7.fc40                           rpm                         
 hunspell-en-US                                                                0.20201207-9.fc40                      rpm                         
 hunspell-filesystem                                                           1.7.2-7.fc40                           rpm                         
-hwdata                                                                        0.383-1.fc40                           rpm                         
+hwdata                                                                        0.385-1.fc40                           rpm                         
 hyphen                                                                        2.8.8-24.fc40                          rpm                         
 ilbc                                                                          3.0.4-10.fc40                          rpm                         
 ima-evm-utils                                                                 1.5-4.fc40                             rpm                         
@@ -520,7 +520,7 @@ libXdamage                                                                    1.
 libXdmcp                                                                      1.1.4-3.fc40                           rpm                         
 libXext                                                                       1.3.6-1.fc40                           rpm                         
 libXfixes                                                                     6.0.1-3.fc40                           rpm                         
-libXfont2                                                                     2.0.6-3.fc40                           rpm                         
+libXfont2                                                                     2.0.7-1.fc40                           rpm                         
 libXft                                                                        2.3.8-6.fc40                           rpm                         
 libXi                                                                         1.8.1-5.fc40                           rpm                         
 libXinerama                                                                   1.1.5-6.fc40                           rpm                         
@@ -576,7 +576,7 @@ libcloudproviders                                                             0.
 libcom_err                                                                    1.47.0-5.fc40                          rpm                         
 libcomps                                                                      0.1.20                                 python                      
 libcomps                                                                      0.1.20-5.fc40                          rpm                         
-libcurl                                                                       8.6.0-9.fc40                           rpm                         
+libcurl                                                                       8.6.0-10.fc40                          rpm                         
 libdaemon                                                                     0.14-29.fc40                           rpm                         
 libdatrie                                                                     0.2.13-9.fc40                          rpm                         
 libdav1d                                                                      1.4.3-1.fc40                           rpm                         
@@ -667,7 +667,7 @@ libsepol                                                                      3.
 libshaderc                                                                    2024.0-1.fc40                          rpm                         
 libsigc++30                                                                   3.6.0-3.fc40                           rpm                         
 libsmartcols                                                                  2.40-0.9.rc1.fc40                      rpm                         
-libsmbclient                                                                  2:4.20.2-1.fc40                        rpm                         
+libsmbclient                                                                  2:4.20.4-1.fc40                        rpm                         
 libsndfile                                                                    1.2.2-2.fc40                           rpm                         
 libsodium                                                                     1.0.20-1.fc40                          rpm                         
 libsolv                                                                       0.7.28-1.fc40                          rpm                         
@@ -709,7 +709,7 @@ libwayland-client                                                             1.
 libwayland-cursor                                                             1.22.0-3.fc40                          rpm                         
 libwayland-egl                                                                1.22.0-3.fc40                          rpm                         
 libwayland-server                                                             1.22.0-3.fc40                          rpm                         
-libwbclient                                                                   2:4.20.2-1.fc40                        rpm                         
+libwbclient                                                                   2:4.20.4-1.fc40                        rpm                         
 libwebp                                                                       1.3.2-5.fc40                           rpm                         
 libwnck3                                                                      43.0-8.fc40                            rpm                         
 libxcb                                                                        1.17.0-1.fc40                          rpm                         
@@ -793,7 +793,7 @@ openssh-clients                                                               9.
 openssl                                                                       1:3.2.1-2.fc40                         rpm                         
 openssl-libs                                                                  1:3.2.1-2.fc40                         rpm                         
 opus                                                                          1.5.1-1.fc40                           rpm                         
-orc                                                                           0.4.38-2.fc40                          rpm                         
+orc                                                                           0.4.39-1.fc40                          rpm                         
 p11-kit                                                                       0.25.3-4.fc40                          rpm                         
 p11-kit-trust                                                                 0.25.3-4.fc40                          rpm                         
 pam                                                                           1.6.0-2.fc40                           rpm                         
@@ -900,7 +900,7 @@ python3-policycoreutils                                                       3.
 python3-pyxdg                                                                 0.27-11.fc40                           rpm                         
 python3-rpm                                                                   4.19.1.1-1.fc40                        rpm                         
 python3-setools                                                               4.5.1-2.fc40                           rpm                         
-python3-setuptools                                                            69.0.3-3.fc40                          rpm                         
+python3-setuptools                                                            69.0.3-4.fc40                          rpm                         
 python3-six                                                                   1.16.0-14.fc40                         rpm                         
 python3-systemd                                                               235-9.fc40                             rpm                         
 pyxdg                                                                         0.27                                   python                      
@@ -921,9 +921,9 @@ rpmfusion-nonfree-release                                                     40
 rsvg-pixbuf-loader                                                            2.57.1-6.fc40                          rpm                         
 rtkit                                                                         0.11-63.fc40                           rpm                         
 rubberband                                                                    3.3.0-6.fc40                           rpm                         
-samba-client-libs                                                             2:4.20.2-1.fc40                        rpm                         
-samba-common                                                                  2:4.20.2-1.fc40                        rpm                         
-samba-common-libs                                                             2:4.20.2-1.fc40                        rpm                         
+samba-client-libs                                                             2:4.20.4-1.fc40                        rpm                         
+samba-common                                                                  2:4.20.4-1.fc40                        rpm                         
+samba-common-libs                                                             2:4.20.4-1.fc40                        rpm                         
 sed                                                                           4.9-1.fc40                             rpm                         
 selinux                                                                       3.6                                    python                      
 selinux-policy                                                                40.26-1.fc40                           rpm                         
@@ -954,11 +954,11 @@ startup-notification                                                          0.
 stdlib                                                                        go1.21.12                              go-module  (+9 duplicates)  
 sudo                                                                          1.9.15-2.p5.fc40                       rpm                         
 svt-av1-libs                                                                  2.1.0-1.fc40                           rpm                         
-systemd                                                                       255.10-1.fc40                          rpm                         
-systemd-libs                                                                  255.10-1.fc40                          rpm                         
-systemd-pam                                                                   255.10-1.fc40                          rpm                         
+systemd                                                                       255.10-3.fc40                          rpm                         
+systemd-libs                                                                  255.10-3.fc40                          rpm                         
+systemd-pam                                                                   255.10-3.fc40                          rpm                         
 systemd-python                                                                235                                    python                      
-systemd-udev                                                                  255.10-1.fc40                          rpm                         
+systemd-udev                                                                  255.10-3.fc40                          rpm                         
 tags.cncf.io/container-device-interface                                       v0.7.2                                 go-module  (+1 duplicate)   
 tags.cncf.io/container-device-interface/specs-go                              v0.7.0                                 go-module  (+1 duplicate)   
 tar                                                                           2:1.35-3.fc40                          rpm                         
@@ -1022,10 +1022,10 @@ xorg-x11-server-Xorg                                                          1.
 xorg-x11-server-common                                                        1.20.14-35.fc40                        rpm                         
 xorg-x11-xauth                                                                1:1.1.2-6.fc40                         rpm                         
 xorg-x11-xinit                                                                1.4.2-2.fc40                           rpm                         
-xorgxrdp                                                                      0.10.1-1.fc40                          rpm                         
+xorgxrdp                                                                      0.10.2-1.fc40                          rpm                         
 xprop                                                                         1.2.7-1.fc40                           rpm                         
 xrdb                                                                          1.2.2-3.fc40                           rpm                         
-xrdp                                                                          1:0.10.0-4.fc40                        rpm                         
+xrdp                                                                          1:0.10.1-1.fc40                        rpm                         
 xterm                                                                         389-2.fc40                             rpm                         
 xvidcore                                                                      1.3.7-11.fc40                          rpm                         
 xz                                                                            1:5.4.6-3.fc40                         rpm                         
