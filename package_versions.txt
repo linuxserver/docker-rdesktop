@@ -19,9 +19,9 @@ ca-certificates                   20230311                             deb
 caja                              1.26.1-1+deb12u1                     deb                        
 caja-common                       1.26.1-1+deb12u1                     deb                        
 catatonit                         0.1.7-1+b1                           deb                        
-chromium                          127.0.6533.88-1~deb12u1              deb                        
-chromium-common                   127.0.6533.88-1~deb12u1              deb                        
-chromium-l10n                     127.0.6533.88-1~deb12u1              deb                        
+chromium                          127.0.6533.99-1~deb12u1              deb                        
+chromium-common                   127.0.6533.99-1~deb12u1              deb                        
+chromium-l10n                     127.0.6533.99-1~deb12u1              deb                        
 coreutils                         9.1-1                                deb                        
 cpp                               4:12.2.0-3                           deb                        
 cpp-12                            12.2.0-14                            deb                        
@@ -85,7 +85,7 @@ gir1.2-packagekitglib-1.0         1.2.6-5                              deb
 gir1.2-pango-1.0                  1.50.12+ds-1                         deb                        
 gir1.2-peas-1.0                   1.34.0-1+b1                          deb                        
 gir1.2-pluma-1.0                  1.26.0-1+deb12u1                     deb                        
-github.com/docker/cli/cmd/docker  27.1.1                               go-module                  
+github.com/docker/cli/cmd/docker  v27.1.1                              go-module                  
 glib-networking                   2.74.0-4                             deb                        
 glib-networking-common            2.74.0-4                             deb                        
 glib-networking-services          2.74.0-4                             deb                        
