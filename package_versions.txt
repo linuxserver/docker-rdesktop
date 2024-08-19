@@ -48,7 +48,7 @@ distro                                   1.8.0                                py
 distro-info-data                         0.58+deb12u2                         deb                        
 dmidecode                                3.4-1                                deb                        
 dmsetup                                  2:1.02.185-2                         deb                        
-docker-ce-cli                            5:27.1.1-1~debian.12~bookworm        deb                        
+docker-ce-cli                            5:27.1.2-1~debian.12~bookworm        deb                        
 dolphin                                  4:22.12.3-1                          deb                        
 dpkg                                     1.21.22                              deb                        
 drkonqi                                  5.27.5-2                             deb                        
@@ -71,7 +71,7 @@ gdb-minimal                              13.1-3                               de
 gdisk                                    1.0.9-2.1                            deb                        
 gir1.2-glib-2.0                          1.74.0-3                             deb                        
 gir1.2-packagekitglib-1.0                1.2.6-5                              deb                        
-github.com/docker/cli/cmd/docker         v27.1.1                              go-module                  
+github.com/docker/cli/cmd/docker         v27.1.2                              go-module                  
 gnupg                                    2.2.40-1.1                           deb                        
 gnupg-l10n                               2.2.40-1.1                           deb                        
 gnupg-utils                              2.2.40-1.1                           deb                        
@@ -164,9 +164,9 @@ libavahi-client3                         0.8-10                               de
 libavahi-common-data                     0.8-10                               deb                        
 libavahi-common3                         0.8-10                               deb                        
 libavc1394-0                             0.5.4-5                              deb                        
-libavcodec59                             7:5.1.5-0+deb12u1                    deb                        
-libavformat59                            7:5.1.5-0+deb12u1                    deb                        
-libavutil57                              7:5.1.5-0+deb12u1                    deb                        
+libavcodec59                             7:5.1.6-0+deb12u1                    deb                        
+libavformat59                            7:5.1.6-0+deb12u1                    deb                        
+libavutil57                              7:5.1.6-0+deb12u1                    deb                        
 libblkid1                                2.38.1-5+deb12u1                     deb                        
 libblockdev-fs2                          2.28-2                               deb                        
 libblockdev-loop2                        2.28-2                               deb                        
@@ -587,7 +587,7 @@ libpolkit-qt5-1-1                        0.114.0-2                            de
 libpoppler-qt5-1                         22.12.0-2+b1                         deb                        
 libpoppler126                            22.12.0-2+b1                         deb                        
 libpopt0                                 1.19+dfsg-1                          deb                        
-libpostproc56                            7:5.1.5-0+deb12u1                    deb                        
+libpostproc56                            7:5.1.6-0+deb12u1                    deb                        
 libproc2-0                               2:4.0.2-3                            deb                        
 libprocesscore9                          4:5.27.5-2                           deb                        
 libprocessui9                            4:5.27.5-2                           deb                        
@@ -691,8 +691,8 @@ libstartup-notification0                 0.12-6+b1                            de
 libstdc++6                               12.2.0-14                            deb                        
 libstemmer0d                             2.2.0-2                              deb                        
 libsvtav1enc1                            1.4.1+dfsg-1                         deb                        
-libswresample4                           7:5.1.5-0+deb12u1                    deb                        
-libswscale6                              7:5.1.5-0+deb12u1                    deb                        
+libswresample4                           7:5.1.6-0+deb12u1                    deb                        
+libswscale6                              7:5.1.6-0+deb12u1                    deb                        
 libsystemd-shared                        252.26-1~deb12u2                     deb                        
 libsystemd0                              252.26-1~deb12u2                     deb                        
 libtag1v5                                1.13-2                               deb                        
@@ -951,7 +951,7 @@ six                                      1.16.0                               py
 software-properties-common               0.99.30-4.1~deb12u1                  deb                        
 sound-theme-freedesktop                  0.8-2                                deb                        
 ssl-cert                                 1.1.2                                deb                        
-stdlib                                   go1.21.12                            go-module                  
+stdlib                                   go1.21.13                            go-module                  
 sudo                                     1.9.13p3-1+deb12u1                   deb                        
 systemd                                  252.26-1~deb12u2                     deb                        
 systemd-sysv                             252.26-1~deb12u2                     deb                        
