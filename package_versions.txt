@@ -1013,11 +1013,11 @@ pulseaudio-lang                                                               17
 purpose                                                                       6.2.0-r0                                            apk                         
 purpose-lang                                                                  6.2.0-r0                                            apk                         
 py3-gobject3                                                                  3.48.2-r0                                           apk                         
-pyc                                                                           3.12.3-r1                                           apk                         
+pyc                                                                           3.12.3-r2                                           apk                         
 pygobject                                                                     3.48.2                                              python                      
-python3                                                                       3.12.3-r1                                           apk                         
-python3-pyc                                                                   3.12.3-r1                                           apk                         
-python3-pycache-pyc0                                                          3.12.3-r1                                           apk                         
+python3                                                                       3.12.3-r2                                           apk                         
+python3-pyc                                                                   3.12.3-r2                                           apk                         
+python3-pycache-pyc0                                                          3.12.3-r2                                           apk                         
 qqc2-breeze-style                                                             6.0.5-r0                                            apk                         
 qqc2-desktop-style                                                            6.2.0-r0                                            apk                         
 qt5-qtbase                                                                    5.15.10_git20230714-r2                              apk                         
