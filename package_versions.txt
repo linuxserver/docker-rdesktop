@@ -760,10 +760,10 @@ procps-ng-lang                                                                4.
 pulseaudio                                                                    17.0-r0                                             apk                         
 pulseaudio-alsa                                                               17.0-r0                                             apk                         
 pulseaudio-lang                                                               17.0-r0                                             apk                         
-pyc                                                                           3.12.3-r1                                           apk                         
-python3                                                                       3.12.3-r1                                           apk                         
-python3-pyc                                                                   3.12.3-r1                                           apk                         
-python3-pycache-pyc0                                                          3.12.3-r1                                           apk                         
+pyc                                                                           3.12.3-r2                                           apk                         
+python3                                                                       3.12.3-r2                                           apk                         
+python3-pyc                                                                   3.12.3-r2                                           apk                         
+python3-pycache-pyc0                                                          3.12.3-r2                                           apk                         
 rav1e-libs                                                                    0.7.1-r0                                            apk                         
 readline                                                                      8.2.10-r0                                           apk                         
 resenje.org/singleflight                                                      v0.4.1                                              go-module                   
