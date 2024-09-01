@@ -915,7 +915,7 @@ logger                                                                        2.
 losetup                                                                       2.40.1-r1                                           apk                         
 lsblk                                                                         2.40.1-r1                                           apk                         
 lua5.4-libs                                                                   5.4.6-r1                                            apk                         
-mbedtls                                                                       3.6.0-r0                                            apk                         
+mbedtls                                                                       3.6.1-r0                                            apk                         
 mcookie                                                                       2.40.1-r1                                           apk                         
 mesa                                                                          24.0.9-r1                                           apk                         
 mesa-dri-gallium                                                              24.0.9-r1                                           apk                         
