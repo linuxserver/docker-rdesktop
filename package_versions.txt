@@ -69,7 +69,7 @@ dpkg                               1.22.6ubuntu6.1                           deb
 e2fsprogs                          1.47.0-2.4~exp1ubuntu4.1                  deb                           
 emacsen-common                     3.0.5                                     deb                           
 findutils                          4.9.0-5build1                             deb                           
-firefox                            129.0.2+build1-0ubuntu0.24.04.1~mt1       deb                           
+firefox                            130.0+build2-0ubuntu0.24.04.1~mt1         deb                           
 fontconfig                         2.15.0-1.1ubuntu2                         deb                           
 fontconfig-config                  2.15.0-1.1ubuntu2                         deb                           
 fonts-dejavu-core                  2.37-8                                    deb                           
@@ -238,7 +238,7 @@ libcolord2                         1.4.7-1build2                             deb
 libcom-err2                        1.47.0-2.4~exp1ubuntu4.1                  deb                           
 libcpufreq0                        008-2build2                               deb                           
 libcrypt1                          1:4.4.36-4build1                          deb                           
-libcryptsetup12                    2:2.7.0-1ubuntu4                          deb                           
+libcryptsetup12                    2:2.7.0-1ubuntu4.1                        deb                           
 libcups2t64                        2.4.7-1.2ubuntu7.2                        deb                           
 libcurl3t64-gnutls                 8.5.0-2ubuntu10.3                         deb                           
 libcurl4t64                        8.5.0-2ubuntu10.3                         deb                           
@@ -253,7 +253,7 @@ libdconf1                          0.40.0-4build2                            deb
 libde265-0                         1.0.15-1build3                            deb                           
 libdebconfclient0                  0.271ubuntu3                              deb                           
 libdeflate0                        1.19-1build1.1                            deb                           
-libdevmapper1.02.1                 2:1.02.185-3ubuntu3                       deb                           
+libdevmapper1.02.1                 2:1.02.185-3ubuntu3.1                     deb                           
 libdrm-amdgpu1                     2.4.120-2build1                           deb                           
 libdrm-common                      2.4.120-2build1                           deb                           
 libdrm-intel1                      2.4.120-2build1                           deb                           
@@ -542,7 +542,7 @@ libspeexdsp1                       1.2.1-1ubuntu3                            deb
 libsqlite3-0                       3.45.1-1ubuntu2                           deb                           
 libss2                             1.47.0-2.4~exp1ubuntu4.1                  deb                           
 libssh-4                           0.10.6-2build2                            deb                           
-libssl3t64                         3.0.13-0ubuntu3.3                         deb                           
+libssl3t64                         3.0.13-0ubuntu3.4                         deb                           
 libstartup-notification0           0.12-6build3                              deb                           
 libstdc++6                         14-20240412-0ubuntu1                      deb                           
 libstemmer0d                       2.2.0-4build1                             deb                           
@@ -727,7 +727,7 @@ ocl-icd-libopencl1                 2.3.2-1build1                             deb
 openbox                            3.6.1-12build5                            deb                           
 openprinting-ppds                  20230202-1                                deb                           
 openssh-client                     1:9.6p1-3ubuntu13.5                       deb                           
-openssl                            3.0.13-0ubuntu3.3                         deb                           
+openssl                            3.0.13-0ubuntu3.4                         deb                           
 packagekit                         1.2.8-2build3                             deb                           
 parted                             3.6-4build1                               deb                           
 passwd                             1:4.13+dfsg1-4ubuntu3                     deb                           
