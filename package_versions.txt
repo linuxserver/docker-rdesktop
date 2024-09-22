@@ -35,7 +35,7 @@ coreutils-env                                                                 9.
 coreutils-fmt                                                                 9.5-r1                                              apk                         
 coreutils-sha512sum                                                           9.5-r1                                              apk                         
 cups-libs                                                                     2.4.9-r0                                            apk                         
-curl                                                                          8.9.1-r1                                            apk                         
+curl                                                                          8.10.0-r0                                           apk                         
 dario.cat/mergo                                                               v1.0.0                                              go-module  (+2 duplicates)  
 dbus                                                                          1.14.10-r1                                          apk                         
 dbus-daemon-launch-helper                                                     1.14.10-r1                                          apk                         
@@ -359,8 +359,8 @@ github.com/xeipuuv/gojsonschema                                               v1
 github.com/zclconf/go-cty                                                     v1.14.4                                             go-module                   
 github.com/zmap/zcrypto                                                       v0.0.0-20210511125630-18f1e0152cfc                  go-module                   
 github.com/zmap/zlint/v3                                                      v3.1.0                                              go-module                   
-glib                                                                          2.80.4-r0                                           apk                         
-glib-lang                                                                     2.80.4-r0                                           apk                         
+glib                                                                          2.80.5-r0                                           apk                         
+glib-lang                                                                     2.80.5-r0                                           apk                         
 glibmm                                                                        2.66.7-r0                                           apk                         
 gmp                                                                           6.3.0-r1                                            apk                         
 gnutls                                                                        3.8.5-r0                                            apk                         
@@ -489,7 +489,7 @@ libcanberra-pulse                                                             0.
 libcap-ng                                                                     0.8.5-r0                                            apk                         
 libcap2                                                                       2.70-r0                                             apk                         
 libcrypto3                                                                    3.3.2-r0                                            apk                         
-libcurl                                                                       8.9.1-r1                                            apk                         
+libcurl                                                                       8.10.0-r0                                           apk                         
 libdav1d                                                                      1.4.2-r0                                            apk                         
 libdrm                                                                        2.4.120-r0                                          apk                         
 libeconf                                                                      0.6.3-r0                                            apk                         
@@ -524,7 +524,7 @@ libogg                                                                        1.
 libpanelw                                                                     6.4_p20240420-r1                                    apk                         
 libpciaccess                                                                  0.18.1-r0                                           apk                         
 libpcre2-16                                                                   10.43-r0                                            apk                         
-libpng                                                                        1.6.43-r0                                           apk                         
+libpng                                                                        1.6.44-r0                                           apk                         
 libproc2                                                                      4.0.4-r0                                            apk                         
 libpsl                                                                        0.21.5-r1                                           apk                         
 libpulse                                                                      17.0-r0                                             apk                         
