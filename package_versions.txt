@@ -41,7 +41,7 @@ cpp-x86-64-linux-gnu               4:13.2.0-7ubuntu1                         deb
 cron                               3.0pl1-184ubuntu2                         deb                           
 cron-daemon-common                 3.0pl1-184ubuntu2                         deb                           
 cryptography                       41.0.7                                    python        (+1 duplicate)  
-curl                               8.5.0-2ubuntu10.3                         deb                           
+curl                               8.5.0-2ubuntu10.4                         deb                           
 dash                               0.5.12-6ubuntu5                           deb                           
 dbus                               1.14.10-4ubuntu4.1                        deb                           
 dbus-bin                           1.14.10-4ubuntu4.1                        deb                           
@@ -64,12 +64,12 @@ distro-info                        1.7+build1                                pyt
 distro-info                        1.7build1                                 deb                           
 distro-info-data                   0.60ubuntu0.1                             deb                           
 dmidecode                          3.5-3build1                               deb                           
-docker-ce-cli                      5:27.2.1-1~ubuntu.24.04~noble             deb                           
+docker-ce-cli                      5:27.3.0-1~ubuntu.24.04~noble             deb                           
 dpkg                               1.22.6ubuntu6.1                           deb                           
 e2fsprogs                          1.47.0-2.4~exp1ubuntu4.1                  deb                           
 emacsen-common                     3.0.5                                     deb                           
 findutils                          4.9.0-5build1                             deb                           
-firefox                            130.0+build2-0ubuntu0.24.04.1~mt1         deb                           
+firefox                            130.0.1+build1-0ubuntu0.24.04.1~mt1       deb                           
 fontconfig                         2.15.0-1.1ubuntu2                         deb                           
 fontconfig-config                  2.15.0-1.1ubuntu2                         deb                           
 fonts-dejavu-core                  2.37-8                                    deb                           
@@ -105,7 +105,7 @@ gir1.2-snapd-2                     1.64-0ubuntu5                             deb
 gir1.2-soup-3.0                    3.4.4-5build2                             deb                           
 gir1.2-vte-2.91                    0.76.0-1ubuntu0.1                         deb                           
 gir1.2-webkit2-4.1                 2.44.3-0ubuntu0.24.04.1                   deb                           
-github.com/docker/cli/cmd/docker   v27.2.1                                   go-module                     
+github.com/docker/cli/cmd/docker   v27.3.0                                   go-module                     
 glib-networking                    2.80.0-1build1                            deb                           
 glib-networking-common             2.80.0-1build1                            deb                           
 glib-networking-services           2.80.0-1build1                            deb                           
@@ -164,7 +164,7 @@ libaccountsservice0                23.13.9-2ubuntu6                          deb
 libacl1                            2.3.2-1build1                             deb                           
 libadwaita-1-0                     1.5.0-1ubuntu2                            deb                           
 libaom3                            3.8.2-2ubuntu0.1                          deb                           
-libapparmor1                       4.0.1really4.0.0-beta3-0ubuntu0.1         deb                           
+libapparmor1                       4.0.1really4.0.1-0ubuntu0.24.04.3         deb                           
 libappstream5                      1.0.2-1build6                             deb                           
 libapt-pkg6.0t64                   2.7.14build2                              deb                           
 libarchive13t64                    3.7.2-2ubuntu0.1                          deb                           
@@ -240,8 +240,8 @@ libcpufreq0                        008-2build2                               deb
 libcrypt1                          1:4.4.36-4build1                          deb                           
 libcryptsetup12                    2:2.7.0-1ubuntu4.1                        deb                           
 libcups2t64                        2.4.7-1.2ubuntu7.2                        deb                           
-libcurl3t64-gnutls                 8.5.0-2ubuntu10.3                         deb                           
-libcurl4t64                        8.5.0-2ubuntu10.3                         deb                           
+libcurl3t64-gnutls                 8.5.0-2ubuntu10.4                         deb                           
+libcurl4t64                        8.5.0-2ubuntu10.4                         deb                           
 libdatrie1                         0.2.13-3build1                            deb                           
 libdav1d7                          1.4.1-1build1                             deb                           
 libdb5.3t64                        5.3.28+dfsg2-7                            deb                           
@@ -490,9 +490,9 @@ libpthread-stubs0-dev              0.4-1build3                               deb
 libpulse-mainloop-glib0            1:16.1+dfsg1-2ubuntu10                    deb                           
 libpulse0                          1:16.1+dfsg1-2ubuntu10                    deb                           
 libpython3-stdlib                  3.12.3-0ubuntu2                           deb                           
-libpython3.12-minimal              3.12.3-1ubuntu0.1                         deb                           
-libpython3.12-stdlib               3.12.3-1ubuntu0.1                         deb                           
-libpython3.12t64                   3.12.3-1ubuntu0.1                         deb                           
+libpython3.12-minimal              3.12.3-1ubuntu0.2                         deb                           
+libpython3.12-stdlib               3.12.3-1ubuntu0.2                         deb                           
+libpython3.12t64                   3.12.3-1ubuntu0.2                         deb                           
 librav1e0                          0.7.1-2                                   deb                           
 libraw1394-11                      2.1.2-2build3                             deb                           
 librda-common                      0.0.5-1.1build2                           deb                           
@@ -799,8 +799,8 @@ python3-urllib3                    2.0.7-1                                   deb
 python3-wadllib                    1.3.6-5                                   deb                           
 python3-xkit                       0.5.0ubuntu6                              deb                           
 python3-yaml                       6.0.1-2build2                             deb                           
-python3.12                         3.12.3-1ubuntu0.1                         deb                           
-python3.12-minimal                 3.12.3-1ubuntu0.1                         deb                           
+python3.12                         3.12.3-1ubuntu0.2                         deb                           
+python3.12-minimal                 3.12.3-1ubuntu0.2                         deb                           
 pyyaml                             6.0.1                                     python                        
 readline-common                    8.2-4build1                               deb                           
 requests                           2.31.0                                    python                        
@@ -840,7 +840,7 @@ ubuntu-mate-wallpapers-common      24.04.0                                   deb
 ubuntu-mate-wallpapers-noble       24.04.0                                   deb                           
 ubuntu-mate-wallpapers-photos      24.04.0                                   deb                           
 ubuntu-mono                        24.04-0ubuntu1                            deb                           
-ubuntu-pro-client                  33.2~24.04.1                              deb                           
+ubuntu-pro-client                  34~24.04                                  deb                           
 ubuntu-pro-client                  8001                                      python                        
 ubuntu-release-upgrader-core       1:24.04.23                                deb                           
 ubuntu-release-upgrader-gtk        1:24.04.23                                deb                           
