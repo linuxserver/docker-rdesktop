@@ -408,8 +408,8 @@ gupnp                                                                         1:
 gupnp-igd                                                                     1.6.0-1                                alpm                           
 gvfs                                                                          1.56.0-1                               alpm                           
 gzip                                                                          1.13-4                                 alpm                           
-harfbuzz                                                                      9.0.0-1                                alpm                           
-harfbuzz-icu                                                                  9.0.0-1                                alpm                           
+harfbuzz                                                                      10.0.1-1                               alpm                           
+harfbuzz-icu                                                                  10.0.1-1                               alpm                           
 hicolor-icon-theme                                                            0.18-1                                 alpm                           
 highway                                                                       1.2.0-1                                alpm                           
 hwdata                                                                        0.387-1                                alpm                           
@@ -532,7 +532,7 @@ libpng                                                                        1.
 libproxy                                                                      0.5.8-1                                alpm                           
 libpsl                                                                        0.21.5-2                               alpm                           
 libpulse                                                                      17.0-3                                 alpm                           
-librsvg                                                                       2:2.59.0-1                             alpm                           
+librsvg                                                                       2:2.59.1-1                             alpm                           
 libsasl                                                                       2.1.28-5                               alpm                           
 libseccomp                                                                    2.5.5-3                                alpm                           
 libsecret                                                                     0.21.4-1                               alpm                           
@@ -548,7 +548,7 @@ libtasn1                                                                      4.
 libthai                                                                       0.1.29-3                               alpm                           
 libtiff                                                                       4.7.0-1                                alpm                           
 libtirpc                                                                      1.3.5-1                                alpm                           
-libtool                                                                       2.5.2+r1+g2fe3a3e2-1                   alpm                           
+libtool                                                                       2.5.3-1                                alpm                           
 libunistring                                                                  1.2-1                                  alpm                           
 libunwind                                                                     1.8.1-3                                alpm                           
 libusb                                                                        1.0.27-1                               alpm                           
