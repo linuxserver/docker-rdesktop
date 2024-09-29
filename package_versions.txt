@@ -14,9 +14,9 @@ bsdextrautils                     2.38.1-5+deb12u1                 deb
 bsdutils                          1:2.38.1-5+deb12u1               deb                        
 ca-certificates                   20230311                         deb                        
 catatonit                         0.1.7-1+b1                       deb                        
-chromium                          129.0.6668.58-1~deb12u1          deb                        
-chromium-common                   129.0.6668.58-1~deb12u1          deb                        
-chromium-l10n                     129.0.6668.58-1~deb12u1          deb                        
+chromium                          129.0.6668.70-1~deb12u1          deb                        
+chromium-common                   129.0.6668.70-1~deb12u1          deb                        
+chromium-l10n                     129.0.6668.70-1~deb12u1          deb                        
 coreutils                         9.1-1                            deb                        
 cpp                               4:12.2.0-3                       deb                        
 cpp-12                            12.2.0-14                        deb                        
@@ -44,7 +44,7 @@ dirmngr                           2.2.40-1.1                       deb
 distro                            1.8.0                            python                     
 distro-info-data                  0.58+deb12u2                     deb                        
 dmsetup                           2:1.02.185-2                     deb                        
-docker-ce-cli                     5:27.3.0-1~debian.12~bookworm    deb                        
+docker-ce-cli                     5:27.3.1-1~debian.12~bookworm    deb                        
 dpkg                              1.21.22                          deb                        
 e2fsprogs                         1.47.0-2                         deb                        
 emacsen-common                    3.0.5                            deb                        
@@ -63,7 +63,7 @@ gawk                              1:5.2.1-2                        deb
 gcc-12-base                       12.2.0-14                        deb                        
 gir1.2-glib-2.0                   1.74.0-3                         deb                        
 gir1.2-packagekitglib-1.0         1.2.6-5                          deb                        
-github.com/docker/cli/cmd/docker  v27.3.0                          go-module                  
+github.com/docker/cli/cmd/docker  v27.3.1                          go-module                  
 gnupg                             2.2.40-1.1                       deb                        
 gnupg-l10n                        2.2.40-1.1                       deb                        
 gnupg-utils                       2.2.40-1.1                       deb                        
@@ -86,6 +86,7 @@ hunspell-en-us                    1:2020.12.07-2                   deb
 init-system-helpers               1.65.2                           deb                        
 iso-codes                         4.15.0-1                         deb                        
 jq                                1.6-2.1                          deb                        
+jq                                1.7.1                            binary                     
 keyboard-configuration            1.221                            deb                        
 krb5-locales                      1.20.1-2+deb12u2                 deb                        
 lazr-restfulclient                0.14.5                           python                     
