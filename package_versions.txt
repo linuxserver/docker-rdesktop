@@ -42,9 +42,9 @@ cairo-gobject                                                                 1.
 cairomm1.16                                                                   1.18.0-3.fc40                          rpm                         
 catatonit                                                                     0.1.7-22.fc40                          rpm                         
 cdparanoia-libs                                                               10.2-44.fc40                           rpm                         
-checkpolicy                                                                   3.6-3.fc40                             rpm                         
-chromium                                                                      129.0.6668.58-1.fc40                   rpm                         
-chromium-common                                                               129.0.6668.58-1.fc40                   rpm                         
+checkpolicy                                                                   3.7-2.fc40                             rpm                         
+chromium                                                                      129.0.6668.70-1.fc40                   rpm                         
+chromium-common                                                               129.0.6668.70-1.fc40                   rpm                         
 cloud.google.com/go/compute/metadata                                          v0.3.0                                 go-module                   
 cloud.google.com/go/logging                                                   v1.9.0                                 go-module                   
 cloud.google.com/go/longrunning                                               v0.5.4                                 go-module                   
@@ -86,8 +86,8 @@ dnf-data                                                                      4.
 dnf-plugins-core                                                              4.9.0-1.fc40                           rpm                         
 docbook-dtds                                                                  1.0-85.fc40                            rpm                         
 docbook-style-xsl                                                             1.79.2-22.fc40                         rpm                         
-docker-ce                                                                     3:27.3.0-1.fc40                        rpm                         
-docker-ce-cli                                                                 1:27.3.0-1.fc40                        rpm                         
+docker-ce                                                                     3:27.3.1-1.fc40                        rpm                         
+docker-ce-cli                                                                 1:27.3.1-1.fc40                        rpm                         
 dolphin                                                                       24.08.0-1.fc40                         rpm                         
 dolphin-libs                                                                  24.08.0-1.fc40                         rpm                         
 double-conversion                                                             3.3.0-3.fc40                           rpm                         
@@ -206,9 +206,9 @@ github.com/davecgh/go-spew                                                    v1
 github.com/deckarep/golang-set/v2                                             v2.3.0                                 go-module                   
 github.com/dimchansky/utfbom                                                  v1.1.1                                 go-module                   
 github.com/distribution/reference                                             v0.6.0                                 go-module  (+3 duplicates)  
-github.com/docker/cli/cmd/docker                                              v27.3.0                                go-module                   
+github.com/docker/cli/cmd/docker                                              v27.3.1                                go-module                   
 github.com/docker/distribution                                                v2.8.3+incompatible                    go-module                   
-github.com/docker/docker                                                      v27.3.0                                go-module  (+1 duplicate)   
+github.com/docker/docker                                                      v27.3.1                                go-module  (+1 duplicate)   
 github.com/docker/go-connections                                              v0.5.0                                 go-module                   
 github.com/docker/go-events                                                   v0.0.0-20190806004212-e31b211e4f1c     go-module  (+5 duplicates)  
 github.com/docker/go-metrics                                                  v0.0.1                                 go-module  (+2 duplicates)  
@@ -451,9 +451,9 @@ grep                                                                          3.
 gsettings-desktop-schemas                                                     46.1-1.fc40                            rpm                         
 gsm                                                                           1.0.22-6.fc40                          rpm                         
 gssdp                                                                         1.6.3-2.fc40                           rpm                         
-gstreamer1                                                                    1.24.7-1.fc40                          rpm                         
-gstreamer1-plugins-bad-free-libs                                              1.24.7-1.fc40                          rpm                         
-gstreamer1-plugins-base                                                       1.24.7-1.fc40                          rpm                         
+gstreamer1                                                                    1.24.8-1.fc40                          rpm                         
+gstreamer1-plugins-bad-free-libs                                              1.24.8-1.fc40                          rpm                         
+gstreamer1-plugins-base                                                       1.24.8-1.fc40                          rpm                         
 gtk-update-icon-cache                                                         3.24.43-1.fc40                         rpm                         
 gtk3                                                                          3.24.43-1.fc40                         rpm                         
 gtk4                                                                          4.14.5-1.fc40                          rpm                         
@@ -639,7 +639,7 @@ kf6-syndication                                                               6.
 kf6-syntax-highlighting                                                       6.6.0-1.fc40                           rpm                         
 kfind                                                                         24.08.0-1.fc40                         rpm                         
 kglobalacceld                                                                 6.1.5-1.fc40                           rpm                         
-kio-extras                                                                    24.08.0-1.fc40                         rpm                         
+kio-extras                                                                    24.08.0-3.fc40                         rpm                         
 kio-fuse                                                                      5.1.0-5.fc40                           rpm                         
 kmenuedit                                                                     6.1.5-1.fc40                           rpm                         
 kmod                                                                          31-5.fc40                              rpm                         
@@ -670,7 +670,7 @@ libSM                                                                         1.
 libX11                                                                        1.8.10-2.fc40                          rpm                         
 libX11-common                                                                 1.8.10-2.fc40                          rpm                         
 libX11-xcb                                                                    1.8.10-2.fc40                          rpm                         
-libXNVCtrl                                                                    535.113.01-4.fc40                      rpm                         
+libXNVCtrl                                                                    560.35.03-3.fc40                       rpm                         
 libXScrnSaver                                                                 1.2.4-3.fc40                           rpm                         
 libXau                                                                        1.0.11-6.fc40                          rpm                         
 libXaw                                                                        1.0.15-3.fc40                          rpm                         
@@ -985,9 +985,9 @@ popt                                                                          1.
 powerdevil                                                                    6.1.5-1.fc40                           rpm                         
 procps-ng                                                                     4.0.4-3.fc40                           rpm                         
 publicsuffix-list-dafsa                                                       20240107-3.fc40                        rpm                         
-pulseaudio                                                                    16.1-7.fc40                            rpm                         
-pulseaudio-libs                                                               16.1-7.fc40                            rpm                         
-pulseaudio-libs-glib2                                                         16.1-7.fc40                            rpm                         
+pulseaudio                                                                    16.1-8.fc40                            rpm                         
+pulseaudio-libs                                                               16.1-8.fc40                            rpm                         
+pulseaudio-libs-glib2                                                         16.1-8.fc40                            rpm                         
 pycairo                                                                       1.25.1                                 python                      
 pygobject                                                                     3.48.2                                 python                      
 python-dateutil                                                               2.8.2                                  python                      
