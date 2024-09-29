@@ -21,7 +21,7 @@ automake                                                                      1.
 avahi                                                                         1:0.8+r194+g3f79789-2                  alpm                           
 ayatana-ido                                                                   0.10.4-1                               alpm                           
 base-devel                                                                    1-2                                    alpm                           
-bash                                                                          5.2.032-2                              alpm                           
+bash                                                                          5.2.037-1                              alpm                           
 binutils                                                                      2.43+r4+g7999dae6961-1                 alpm                           
 bison                                                                         3.8.2-8                                alpm                           
 bridge-utils                                                                  1.7.1-2                                alpm                           
