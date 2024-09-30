@@ -45,7 +45,7 @@ dirmngr                                  2.4.4-2ubuntu17                      de
 distro                                   1.9.0                                python                     
 distro-info-data                         0.60ubuntu0.1                        deb                        
 dmidecode                                3.5-3build1                          deb                        
-docker-ce-cli                            5:27.3.0-1~ubuntu.24.04~noble        deb                        
+docker-ce-cli                            5:27.3.1-1~ubuntu.24.04~noble        deb                        
 dolphin                                  4:23.08.5-0ubuntu4                   deb                        
 dpkg                                     1.22.6ubuntu6.1                      deb                        
 drkonqi                                  5.27.11-0ubuntu3                     deb                        
@@ -66,7 +66,7 @@ gdb                                      15.0.50.20240403-0ubuntu1            de
 gir1.2-girepository-2.0                  1.80.1-1                             deb                        
 gir1.2-glib-2.0                          2.80.0-6ubuntu3.1                    deb                        
 gir1.2-packagekitglib-1.0                1.2.8-2build3                        deb                        
-github.com/docker/cli/cmd/docker         v27.3.0                              go-module                  
+github.com/docker/cli/cmd/docker         v27.3.1                              go-module                  
 glib-networking                          2.80.0-1build1                       deb                        
 glib-networking-common                   2.80.0-1build1                       deb                        
 glib-networking-services                 2.80.0-1build1                       deb                        
@@ -93,6 +93,7 @@ humanity-icon-theme                      0.6.16                               de
 hwdata                                   0.379-1                              deb                        
 init-system-helpers                      1.66ubuntu1                          deb                        
 iso-codes                                4.16.0-1                             deb                        
+jq                                       1.7.1                                binary                     
 jq                                       1.7.1-3build1                        deb                        
 kactivitymanagerd                        5.27.11-0ubuntu3                     deb                        
 kate                                     4:23.08.5-0ubuntu3                   deb                        
@@ -205,7 +206,7 @@ libcolord2                               1.4.7-1build2                        de
 libcom-err2                              1.47.0-2.4~exp1ubuntu4.1             deb                        
 libcrypt1                                1:4.4.36-4build1                     deb                        
 libcryptsetup12                          2:2.7.0-1ubuntu4.1                   deb                        
-libcups2t64                              2.4.7-1.2ubuntu7.2                   deb                        
+libcups2t64                              2.4.7-1.2ubuntu7.3                   deb                        
 libcurl3t64-gnutls                       8.5.0-2ubuntu10.4                    deb                        
 libcurl4t64                              8.5.0-2ubuntu10.4                    deb                        
 libdatrie1                               0.2.13-3build1                       deb                        
@@ -551,7 +552,7 @@ libogg0                                  1.3.5-3build1                        de
 libonig5                                 6.9.9-1build1                        deb                        
 libopenexr-3-1-30                        3.1.5-5.1build3                      deb                        
 libopengl0                               1.7.0-1build1                        deb                        
-libopenjp2-7                             2.5.0-2build3                        deb                        
+libopenjp2-7                             2.5.0-2ubuntu0.1                     deb                        
 libopenmpt-modplug1                      0.8.9.0-openmpt1-2build2             deb                        
 libopenmpt0t64                           0.7.3-1.1build3                      deb                        
 libopus0                                 1.4-1build1                          deb                        
@@ -590,7 +591,7 @@ libpoppler-qt5-1t64                      24.02.0-1ubuntu9.1                   de
 libpoppler134                            24.02.0-1ubuntu9.1                   deb                        
 libpopt0                                 1.19+dfsg-1build1                    deb                        
 libpostproc57                            7:6.1.1-3ubuntu5                     deb                        
-libproc2-0                               2:4.0.4-4ubuntu3                     deb                        
+libproc2-0                               2:4.0.4-4ubuntu3.1                   deb                        
 libprocesscore9                          4:5.27.11-0ubuntu3                   deb                        
 libprocessui9                            4:5.27.11-0ubuntu3                   deb                        
 libprotobuf-lite32t64                    3.21.12-8.2build1                    deb                        
@@ -877,7 +878,7 @@ plasma-workspace-data                    4:5.27.11-0ubuntu4.1                 de
 polkit-kde-agent-1                       4:5.27.11-0ubuntu3                   deb                        
 polkitd                                  124-2ubuntu1                         deb                        
 poppler-data                             0.4.12-1                             deb                        
-procps                                   2:4.0.4-4ubuntu3                     deb                        
+procps                                   2:4.0.4-4ubuntu3.1                   deb                        
 psmisc                                   23.7-1build1                         deb                        
 publicsuffix                             20231001.0357-0.1                    deb                        
 pulseaudio                               1:16.1+dfsg1-2ubuntu10               deb                        
