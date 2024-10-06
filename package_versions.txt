@@ -24,7 +24,7 @@ bc                                 1.07.1-3ubuntu4                           deb
 blinker                            1.7.0                                     python                        
 bsdextrautils                      2.39.3-9ubuntu6.1                         deb                           
 bsdutils                           1:2.39.3-9ubuntu6.1                       deb                           
-bubblewrap                         0.9.0-1build1                             deb                           
+bubblewrap                         0.9.0-1ubuntu0.1                          deb                           
 ca-certificates                    20240203                                  deb                           
 caja                               1.26.3-1build3                            deb                           
 caja-common                        1.26.3-1build3                            deb                           
@@ -69,7 +69,7 @@ dpkg                               1.22.6ubuntu6.1                           deb
 e2fsprogs                          1.47.0-2.4~exp1ubuntu4.1                  deb                           
 emacsen-common                     3.0.5                                     deb                           
 findutils                          4.9.0-5build1                             deb                           
-firefox                            130.0.1+build1-0ubuntu0.24.04.1~mt1       deb                           
+firefox                            131.0+build1-0ubuntu0.24.04.1~mt1         deb                           
 fontconfig                         2.15.0-1.1ubuntu2                         deb                           
 fontconfig-config                  2.15.0-1.1ubuntu2                         deb                           
 fonts-dejavu-core                  2.37-8                                    deb                           
@@ -848,7 +848,7 @@ ubuntu-release-upgrader-gtk        1:24.04.23                                deb
 ucf                                3.0043+nmu1                               deb                           
 udev                               255.4-1ubuntu8.4                          deb                           
 udisks2                            2.10.1-6build1                            deb                           
-unzip                              6.0-28ubuntu4                             deb                           
+unzip                              6.0-28ubuntu4.1                           deb                           
 update-manager                     1:24.04.8                                 deb                           
 update-manager-core                1:24.04.8                                 deb                           
 update-notifier                    3.192.68build3                            deb                           
