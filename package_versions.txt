@@ -69,7 +69,7 @@ ffmpeg-libswresample                                                          6.
 fftw-single-libs                                                              3.3.10-r5                                           apk                         
 findmnt                                                                       2.40.1-r1                                           apk                         
 findutils                                                                     4.9.0-r5                                            apk                         
-firefox                                                                       130.0.1-r0                                          apk                         
+firefox                                                                       131.0.2-r0                                          apk                         
 flock                                                                         2.40.1-r1                                           apk                         
 font-alias                                                                    1.0.5-r0                                            apk                         
 font-cursor-misc                                                              1.0.4-r1                                            apk                         
@@ -771,11 +771,11 @@ pulseaudio-lang                                                               17
 py3-gobject3                                                                  3.48.2-r0                                           apk                         
 py3-lxml                                                                      5.1.0-r0                                            apk                         
 py3-lxml-pyc                                                                  5.1.0-r0                                            apk                         
-pyc                                                                           3.12.6-r0                                           apk                         
+pyc                                                                           3.12.7-r0                                           apk                         
 pygobject                                                                     3.48.2                                              python                      
-python3                                                                       3.12.6-r0                                           apk                         
-python3-pyc                                                                   3.12.6-r0                                           apk                         
-python3-pycache-pyc0                                                          3.12.6-r0                                           apk                         
+python3                                                                       3.12.7-r0                                           apk                         
+python3-pyc                                                                   3.12.7-r0                                           apk                         
+python3-pycache-pyc0                                                          3.12.7-r0                                           apk                         
 rav1e-libs                                                                    0.7.1-r0                                            apk                         
 readline                                                                      8.2.10-r0                                           apk                         
 resenje.org/singleflight                                                      v0.4.1                                              go-module                   
