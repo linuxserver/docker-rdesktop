@@ -14,9 +14,9 @@ bsdextrautils                     2.38.1-5+deb12u1                 deb
 bsdutils                          1:2.38.1-5+deb12u1               deb                        
 ca-certificates                   20230311                         deb                        
 catatonit                         0.1.7-1+b1                       deb                        
-chromium                          129.0.6668.89-1~deb12u1          deb                        
-chromium-common                   129.0.6668.89-1~deb12u1          deb                        
-chromium-l10n                     129.0.6668.89-1~deb12u1          deb                        
+chromium                          129.0.6668.100-1~deb12u1         deb                        
+chromium-common                   129.0.6668.100-1~deb12u1         deb                        
+chromium-l10n                     129.0.6668.100-1~deb12u1         deb                        
 coreutils                         9.1-1                            deb                        
 cpp                               4:12.2.0-3                       deb                        
 cpp-12                            12.2.0-14                        deb                        
