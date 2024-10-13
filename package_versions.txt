@@ -78,7 +78,7 @@ ffmpegthumbnailer                                                             2.
 fftw-single-libs                                                              3.3.10-r5                                           apk                         
 findmnt                                                                       2.40.1-r1                                           apk                         
 findutils                                                                     4.9.0-r5                                            apk                         
-firefox                                                                       130.0.1-r0                                          apk                         
+firefox                                                                       131.0.2-r0                                          apk                         
 flite                                                                         2.2-r2                                              apk                         
 flock                                                                         2.40.1-r1                                           apk                         
 font-alias                                                                    1.0.5-r0                                            apk                         
@@ -523,7 +523,7 @@ lang                                                                          0.
 lcms2                                                                         2.16-r0                                             apk                         
 libSvtAv1Enc                                                                  2.0.0-r1                                            apk                         
 libacl                                                                        2.3.2-r0                                            apk                         
-libarchive                                                                    3.7.5-r0                                            apk                         
+libarchive                                                                    3.7.6-r0                                            apk                         
 libass                                                                        0.17.2-r0                                           apk                         
 libasyncns                                                                    0.8-r3                                              apk                         
 libatk-1.0                                                                    2.52.0-r0                                           apk                         
@@ -758,10 +758,10 @@ procps-ng-lang                                                                4.
 pulseaudio                                                                    17.0-r0                                             apk                         
 pulseaudio-alsa                                                               17.0-r0                                             apk                         
 pulseaudio-lang                                                               17.0-r0                                             apk                         
-pyc                                                                           3.12.6-r0                                           apk                         
-python3                                                                       3.12.6-r0                                           apk                         
-python3-pyc                                                                   3.12.6-r0                                           apk                         
-python3-pycache-pyc0                                                          3.12.6-r0                                           apk                         
+pyc                                                                           3.12.7-r0                                           apk                         
+python3                                                                       3.12.7-r0                                           apk                         
+python3-pyc                                                                   3.12.7-r0                                           apk                         
+python3-pycache-pyc0                                                          3.12.7-r0                                           apk                         
 rav1e-libs                                                                    0.7.1-r0                                            apk                         
 readline                                                                      8.2.10-r0                                           apk                         
 resenje.org/singleflight                                                      v0.4.1                                              go-module                   
