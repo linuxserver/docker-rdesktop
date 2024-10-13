@@ -56,7 +56,7 @@ fftw-single-libs                                                              3.
 file                                                                          5.45-r1                                             apk                         
 findmnt                                                                       2.40.1-r1                                           apk                         
 findutils                                                                     4.9.0-r5                                            apk                         
-firefox                                                                       130.0.1-r0                                          apk                         
+firefox                                                                       131.0.2-r0                                          apk                         
 flock                                                                         2.40.1-r1                                           apk                         
 font-alias                                                                    1.0.5-r0                                            apk                         
 font-cursor-misc                                                              1.0.4-r1                                            apk                         
@@ -645,10 +645,10 @@ procps-ng-lang                                                                4.
 pulseaudio                                                                    17.0-r0                                             apk                         
 pulseaudio-alsa                                                               17.0-r0                                             apk                         
 pulseaudio-lang                                                               17.0-r0                                             apk                         
-pyc                                                                           3.12.6-r0                                           apk                         
-python3                                                                       3.12.6-r0                                           apk                         
-python3-pyc                                                                   3.12.6-r0                                           apk                         
-python3-pycache-pyc0                                                          3.12.6-r0                                           apk                         
+pyc                                                                           3.12.7-r0                                           apk                         
+python3                                                                       3.12.7-r0                                           apk                         
+python3-pyc                                                                   3.12.7-r0                                           apk                         
+python3-pycache-pyc0                                                          3.12.7-r0                                           apk                         
 qt5-qtbase                                                                    5.15.10_git20230714-r2                              apk                         
 qt5-qtbase-x11                                                                5.15.10_git20230714-r2                              apk                         
 qt5-qtdeclarative                                                             5.15.10_git20230629-r0                              apk                         
