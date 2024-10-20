@@ -31,8 +31,8 @@ cairomm1.16                                                                   1.
 catatonit                                                                     0.1.7-22.fc40                          rpm                         
 cdparanoia-libs                                                               10.2-44.fc40                           rpm                         
 checkpolicy                                                                   3.7-2.fc40                             rpm                         
-chromium                                                                      129.0.6668.100-1.fc40                  rpm                         
-chromium-common                                                               129.0.6668.100-1.fc40                  rpm                         
+chromium                                                                      130.0.6723.58-1.fc40                   rpm                         
+chromium-common                                                               130.0.6723.58-1.fc40                   rpm                         
 cloud.google.com/go/compute/metadata                                          v0.3.0                                 go-module                   
 cloud.google.com/go/logging                                                   v1.9.0                                 go-module                   
 cloud.google.com/go/longrunning                                               v0.5.4                                 go-module                   
@@ -47,7 +47,7 @@ cracklib                                                                      2.
 crypto-policies                                                               20240201-2.git9f501f3.fc40             rpm                         
 crypto-policies-scripts                                                       20240201-2.git9f501f3.fc40             rpm                         
 cryptsetup-libs                                                               2.7.5-1.fc40                           rpm                         
-cups-libs                                                                     1:2.4.10-7.fc40                        rpm                         
+cups-libs                                                                     1:2.4.11-1.fc40                        rpm                         
 curl                                                                          8.6.0-10.fc40                          rpm                         
 cyrus-sasl-lib                                                                2.1.28-19.fc40                         rpm                         
 dario.cat/mergo                                                               v1.0.0                                 go-module  (+2 duplicates)  
@@ -62,8 +62,8 @@ dbus-x11                                                                      1:
 default-fonts-core-sans                                                       4.0-13.fc40                            rpm                         
 dejavu-sans-mono-fonts                                                        2.37-23.fc40                           rpm                         
 desktop-backgrounds-compat                                                    40.0.0-1.fc40                          rpm                         
-device-mapper                                                                 1.02.197-1.fc40                        rpm                         
-device-mapper-libs                                                            1.02.197-1.fc40                        rpm                         
+device-mapper                                                                 1.02.199-1.fc40                        rpm                         
+device-mapper-libs                                                            1.02.199-1.fc40                        rpm                         
 dex-autostart                                                                 0.10.1-1.fc40                          rpm                         
 diffutils                                                                     3.10-5.fc40                            rpm                         
 distro                                                                        1.9.0                                  python                      
@@ -585,7 +585,7 @@ libglvnd-glx                                                                  1:
 libgomp                                                                       14.0.1-0.15.fc40                       rpm                         
 libgpg-error                                                                  1.48-1.fc40                            rpm                         
 libgs                                                                         10.02.1-12.fc40                        rpm                         
-libgsf                                                                        1.14.51-4.fc40                         rpm                         
+libgsf                                                                        1.14.53-1.fc40                         rpm                         
 libgudev                                                                      238-5.fc40                             rpm                         
 libgusb                                                                       0.4.9-1.fc40                           rpm                         
 libheif                                                                       1.17.6-1.fc40                          rpm                         
@@ -606,7 +606,7 @@ libmodplug                                                                    1:
 libmodulemd                                                                   2.15.0-9.fc40                          rpm                         
 libmount                                                                      2.40-0.9.rc1.fc40                      rpm                         
 libmousepad0                                                                  0.6.2-1.fc40                           rpm                         
-libmysofa                                                                     1.2.1-7.fc40                           rpm                         
+libmysofa                                                                     1.3.2-3.20240917git2297dd8.fc40        rpm                         
 libnetfilter_conntrack                                                        1.0.9-5.fc40                           rpm                         
 libnfnetlink                                                                  1.0.1-27.fc40                          rpm                         
 libnghttp2                                                                    1.59.0-2.fc40                          rpm                         
@@ -615,7 +615,7 @@ libnotify                                                                     0.
 libnsl2                                                                       2.0.1-1.fc40                           rpm                         
 libnvme                                                                       1.8-1.fc40                             rpm                         
 libogg                                                                        2:1.3.5-8.fc40                         rpm                         
-libopenmpt                                                                    0.7.8-1.fc40                           rpm                         
+libopenmpt                                                                    0.7.10-1.fc40                          rpm                         
 libpaper                                                                      1:2.1.1-3.fc40                         rpm                         
 libpciaccess                                                                  0.16-12.fc40                           rpm                         
 libplacebo                                                                    6.338.2-1.fc40                         rpm                         
@@ -842,11 +842,11 @@ startup-notification                                                          0.
 stdlib                                                                        go1.22.7                               go-module  (+9 duplicates)  
 sudo                                                                          1.9.15-2.p5.fc40                       rpm                         
 svt-av1-libs                                                                  2.1.0-1.fc40                           rpm                         
-systemd                                                                       255.12-1.fc40                          rpm                         
-systemd-libs                                                                  255.12-1.fc40                          rpm                         
-systemd-pam                                                                   255.12-1.fc40                          rpm                         
+systemd                                                                       255.13-1.fc40                          rpm                         
+systemd-libs                                                                  255.13-1.fc40                          rpm                         
+systemd-pam                                                                   255.13-1.fc40                          rpm                         
 systemd-python                                                                235                                    python                      
-systemd-udev                                                                  255.12-1.fc40                          rpm                         
+systemd-udev                                                                  255.13-1.fc40                          rpm                         
 tags.cncf.io/container-device-interface                                       v0.7.2                                 go-module  (+1 duplicate)   
 tags.cncf.io/container-device-interface/specs-go                              v0.7.0                                 go-module  (+1 duplicate)   
 tar                                                                           2:1.35-3.fc40                          rpm                         
