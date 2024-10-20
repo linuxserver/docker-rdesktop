@@ -125,9 +125,9 @@ github.com/containerd/cgroups/v3                                              v3
 github.com/containerd/cgroups/v3                                              v3.0.3                                              go-module                   
 github.com/containerd/console                                                 v1.0.3                                              go-module  (+4 duplicates)  
 github.com/containerd/console                                                 v1.0.4                                              go-module  (+2 duplicates)  
-github.com/containerd/containerd                                              (devel)                                             go-module  (+1 duplicate)   
+github.com/containerd/containerd                                              (devel)                                             go-module                   
 github.com/containerd/containerd                                              v1.7.15                                             go-module  (+1 duplicate)   
-github.com/containerd/containerd                                              v1.7.17                                             go-module  (+1 duplicate)   
+github.com/containerd/containerd                                              v1.7.17                                             go-module  (+2 duplicates)  
 github.com/containerd/containerd                                              v1.7.18                                             go-module                   
 github.com/containerd/continuity                                              v0.4.2                                              go-module  (+3 duplicates)  
 github.com/containerd/continuity                                              v0.4.3                                              go-module  (+2 duplicates)  
