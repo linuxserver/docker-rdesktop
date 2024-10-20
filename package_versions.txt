@@ -19,9 +19,9 @@ ca-certificates                   20230311                             deb
 caja                              1.26.1-1+deb12u1                     deb                        
 caja-common                       1.26.1-1+deb12u1                     deb                        
 catatonit                         0.1.7-1+b1                           deb                        
-chromium                          129.0.6668.100-1~deb12u1             deb                        
-chromium-common                   129.0.6668.100-1~deb12u1             deb                        
-chromium-l10n                     129.0.6668.100-1~deb12u1             deb                        
+chromium                          130.0.6723.58-1~deb12u1              deb                        
+chromium-common                   130.0.6723.58-1~deb12u1              deb                        
+chromium-l10n                     130.0.6723.58-1~deb12u1              deb                        
 coreutils                         9.1-1                                deb                        
 cpp                               4:12.2.0-3                           deb                        
 cpp-12                            12.2.0-14                            deb                        
@@ -317,7 +317,7 @@ libip4tc2                         1.8.9-2                              deb
 libisl23                          0.25-1.1                             deb                        
 libjack-jackd2-0                  1.9.21~dfsg-3                        deb                        
 libjansson4                       2.14-2                               deb                        
-libjavascriptcoregtk-4.1-0        2.44.3-1~deb12u1                     deb                        
+libjavascriptcoregtk-4.1-0        2.46.0-2~deb12u1                     deb                        
 libjbig0                          2.1-6.1                              deb                        
 libjbig2dec0                      0.19-3                               deb                        
 libjpeg62-turbo                   1:2.1.5-2                            deb                        
@@ -520,7 +520,7 @@ libwayland-cursor0                1.21.0-1                             deb
 libwayland-egl1                   1.21.0-1                             deb                        
 libwayland-server0                1.21.0-1                             deb                        
 libwbclient0                      2:4.17.12+dfsg-0+deb12u1             deb                        
-libwebkit2gtk-4.1-0               2.44.3-1~deb12u1                     deb                        
+libwebkit2gtk-4.1-0               2.46.0-2~deb12u1                     deb                        
 libwebp7                          1.2.4-0.2+deb12u1                    deb                        
 libwebpdemux2                     1.2.4-0.2+deb12u1                    deb                        
 libwebpmux3                       1.2.4-0.2+deb12u1                    deb                        
