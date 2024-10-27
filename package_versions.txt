@@ -756,7 +756,7 @@ libcanberra-pulse                                                             0.
 libcap-ng                                                                     0.8.5-r0                                            apk                         
 libcap2                                                                       2.70-r0                                             apk                         
 libcom_err                                                                    1.47.0-r5                                           apk                         
-libcrypto3                                                                    3.3.2-r0                                            apk                         
+libcrypto3                                                                    3.3.2-r1                                            apk                         
 libcurl                                                                       8.9.1-r2                                            apk                         
 libdaemon                                                                     0.14-r4                                             apk                         
 libdav1d                                                                      1.4.2-r0                                            apk                         
@@ -846,7 +846,7 @@ libsndfile                                                                    1.
 libsodium                                                                     1.0.19-r0                                           apk                         
 libsrt                                                                        1.5.3-r0                                            apk                         
 libssh                                                                        0.10.6-r0                                           apk                         
-libssl3                                                                       3.3.2-r0                                            apk                         
+libssl3                                                                       3.3.2-r1                                            apk                         
 libstdc++                                                                     13.2.1_git20240309-r0                               apk                         
 libtag                                                                        1.13.1-r0                                           apk                         
 libtasn1                                                                      4.19.0-r2                                           apk                         
@@ -963,9 +963,9 @@ openexr-libopenexr                                                            3.
 openssh-client-common                                                         9.7_p1-r4                                           apk                         
 openssh-client-default                                                        9.7_p1-r4                                           apk                         
 openssh-keygen                                                                9.7_p1-r4                                           apk                         
-openssl                                                                       3.3.2-r0                                            apk                         
+openssl                                                                       3.3.2-r1                                            apk                         
 opus                                                                          1.5.2-r0                                            apk                         
-orc                                                                           0.4.39-r0                                           apk                         
+orc                                                                           0.4.40-r0                                           apk                         
 p11-kit                                                                       0.25.3-r0                                           apk                         
 pango                                                                         1.52.2-r0                                           apk                         
 pangomm                                                                       2.46.4-r0                                           apk                         
