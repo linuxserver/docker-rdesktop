@@ -14,9 +14,9 @@ bsdextrautils                     2.38.1-5+deb12u1                deb
 bsdutils                          1:2.38.1-5+deb12u1              deb                        
 ca-certificates                   20230311                        deb                        
 catatonit                         0.1.7-1+b1                      deb                        
-chromium                          130.0.6723.58-1~deb12u1         deb                        
-chromium-common                   130.0.6723.58-1~deb12u1         deb                        
-chromium-l10n                     130.0.6723.58-1~deb12u1         deb                        
+chromium                          130.0.6723.91-1~deb12u1         deb                        
+chromium-common                   130.0.6723.91-1~deb12u1         deb                        
+chromium-l10n                     130.0.6723.91-1~deb12u1         deb                        
 coreutils                         9.1-1                           deb                        
 cpp                               4:12.2.0-3                      deb                        
 cpp-12                            12.2.0-14                       deb                        
@@ -202,7 +202,7 @@ libgtk-3-0                        3.24.38-2~deb12u2               deb
 libgtk-3-common                   3.24.38-2~deb12u2               deb                        
 libharfbuzz-subset0               6.0.0+dfsg-3                    deb                        
 libharfbuzz0b                     6.0.0+dfsg-3                    deb                        
-libheif1                          1.15.1-1                        deb                        
+libheif1                          1.15.1-1+deb12u1                deb                        
 libhogweed6                       3.8.1-2                         deb                        
 libhwy1                           1.0.3-3+deb12u1                 deb                        
 libice6                           2:1.0.10-1                      deb                        
@@ -520,8 +520,8 @@ xml-core                          0.18+nmu1                       deb
 xorg-sgml-doctools                1:1.11-1.1                      deb                        
 xorgxrdp                          1:0.9.19-1                      deb                        
 xrdp                              0.9.24-5~bpo12+1                deb                        
-xserver-common                    2:21.1.7-3+deb12u7              deb                        
-xserver-xorg-core                 2:21.1.7-3+deb12u7              deb                        
+xserver-common                    2:21.1.7-3+deb12u8              deb                        
+xserver-xorg-core                 2:21.1.7-3+deb12u8              deb                        
 xserver-xorg-video-amdgpu         23.0.0-1                        deb                        
 xserver-xorg-video-ati            1:19.1.0-3                      deb                        
 xserver-xorg-video-intel          2:2.99.917+git20210115-1        deb                        
