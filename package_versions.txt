@@ -48,7 +48,7 @@ elementary-xfce-icon-theme        0.19-1                                    deb
 emacsen-common                    3.0.5                                     deb                        
 exo-utils                         4.18.0-1build4                            deb                        
 findutils                         4.9.0-5build1                             deb                        
-firefox                           132.0+build1-0ubuntu0.24.04.1~mt1         deb                        
+firefox                           132.0.1+build2-0ubuntu0.24.04.1~mt1       deb                        
 fontconfig                        2.15.0-1.1ubuntu2                         deb                        
 fontconfig-config                 2.15.0-1.1ubuntu2                         deb                        
 fonts-noto-color-emoji            2.042-1                                   deb                        
@@ -276,7 +276,7 @@ libmousepad0                      0.6.1-1build2                             deb
 libmp3lame0                       3.100-6build1                             deb                        
 libmpc3                           1.3.1-1build1                             deb                        
 libmpfr6                          4.2.1-1build1                             deb                        
-libmpg123-0t64                    1.32.5-1ubuntu1                           deb                        
+libmpg123-0t64                    1.32.5-1ubuntu1.1                         deb                        
 libncursesw6                      6.4+20240113-1ubuntu2                     deb                        
 libnettle8t64                     3.9.1-2.2build1.1                         deb                        
 libnewt0.52                       0.52.24-2ubuntu2                          deb                        
@@ -288,7 +288,7 @@ libobrender32v5                   3.6.1-12build5                            deb
 libobt2v5                         3.6.1-12build5                            deb                        
 libogg0                           1.3.5-3build1                             deb                        
 libonig5                          6.9.9-1build1                             deb                        
-libopenjp2-7                      2.5.0-2ubuntu0.1                          deb                        
+libopenjp2-7                      2.5.0-2ubuntu0.2                          deb                        
 libopus0                          1.4-1build1                               deb                        
 liborc-0.4-0t64                   1:0.4.38-1ubuntu0.1                       deb                        
 libp11-kit0                       0.25.3-4ubuntu2.1                         deb                        
@@ -490,7 +490,7 @@ numix-gtk-theme                   2.6.7-7                                   deb
 oauthlib                          3.2.2                                     python                     
 ocl-icd-libopencl1                2.3.2-1build1                             deb                        
 openbox                           3.6.1-12build5                            deb                        
-openssh-client                    1:9.6p1-3ubuntu13.5                       deb                        
+openssh-client                    1:9.6p1-3ubuntu13.7                       deb                        
 openssl                           3.0.13-0ubuntu3.4                         deb                        
 packagekit                        1.2.8-2build3                             deb                        
 passwd                            1:4.13+dfsg1-4ubuntu3.2                   deb                        
