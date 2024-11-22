@@ -9,7 +9,7 @@ adwaita-icon-theme-legacy                                                     46
 alsa-lib                                                                      1.2.12-1                               alpm                           
 alsa-topology-conf                                                            1.2.5.1-4                              alpm                           
 alsa-ucm-conf                                                                 1.2.12-1                               alpm                           
-aom                                                                           3.10.0-1                               alpm                           
+aom                                                                           3.11.0-1                               alpm                           
 appstream                                                                     1.0.3-1                                alpm                           
 archlinux-keyring                                                             20241015-1                             alpm                           
 argon2                                                                        20190702-6                             alpm                           
@@ -36,7 +36,7 @@ cairo                                                                         1.
 caja                                                                          1.28.0-2                               alpm                           
 cantarell-fonts                                                               1:0.303.1-2                            alpm                           
 catatonit                                                                     0.2.0-3                                alpm                           
-chromium                                                                      131.0.6778.69-1                        alpm                           
+chromium                                                                      131.0.6778.85-1                        alpm                           
 cloud.google.com/go/compute/metadata                                          v0.3.0                                 go-module                      
 cloud.google.com/go/logging                                                   v1.9.0                                 go-module                      
 cloud.google.com/go/longrunning                                               v0.5.4                                 go-module                      
@@ -408,9 +408,9 @@ gst-plugins-base-libs                                                         1.
 gstreamer                                                                     1.24.9-3                               alpm                           
 gtest                                                                         1.15.2-1                               alpm                           
 gtk-layer-shell                                                               0.9.0-1                                alpm                           
-gtk-update-icon-cache                                                         1:4.16.5-1                             alpm                           
+gtk-update-icon-cache                                                         1:4.16.6-1                             alpm                           
 gtk3                                                                          1:3.24.43-4                            alpm                           
-gtk4                                                                          1:4.16.5-1                             alpm                           
+gtk4                                                                          1:4.16.6-1                             alpm                           
 gtksourceview4                                                                4.8.4-1                                alpm                           
 guile                                                                         3.0.10-1                               alpm                           
 gupnp                                                                         1:1.6.7-1                              alpm                           
@@ -428,7 +428,7 @@ icu                                                                           75
 imlib2                                                                        1.12.3-2                               alpm                           
 intel-gmmlib                                                                  22.5.2-1                               alpm                           
 intel-media-driver                                                            24.4.2-1                               alpm                           
-iproute2                                                                      6.11.0-1                               alpm                           
+iproute2                                                                      6.12.0-1                               alpm                           
 iptables                                                                      1:1.8.10-2                             alpm                           
 iso-codes                                                                     4.17.0-1                               alpm                           
 jansson                                                                       2.14-4                                 alpm                           
@@ -464,14 +464,14 @@ libatasmart                                                                   0.
 libavif                                                                       1.1.1-2                                alpm                           
 libayatana-appindicator                                                       0.5.93-1                               alpm                           
 libayatana-indicator                                                          0.9.4-1                                alpm                           
-libblockdev                                                                   3.2.1-1                                alpm                           
-libblockdev-crypto                                                            3.2.1-1                                alpm                           
-libblockdev-fs                                                                3.2.1-1                                alpm                           
-libblockdev-loop                                                              3.2.1-1                                alpm                           
-libblockdev-mdraid                                                            3.2.1-1                                alpm                           
-libblockdev-nvme                                                              3.2.1-1                                alpm                           
-libblockdev-part                                                              3.2.1-1                                alpm                           
-libblockdev-swap                                                              3.2.1-1                                alpm                           
+libblockdev                                                                   3.2.1-2                                alpm                           
+libblockdev-crypto                                                            3.2.1-2                                alpm                           
+libblockdev-fs                                                                3.2.1-2                                alpm                           
+libblockdev-loop                                                              3.2.1-2                                alpm                           
+libblockdev-mdraid                                                            3.2.1-2                                alpm                           
+libblockdev-nvme                                                              3.2.1-2                                alpm                           
+libblockdev-part                                                              3.2.1-2                                alpm                           
+libblockdev-swap                                                              3.2.1-2                                alpm                           
 libbluray                                                                     1.3.4-2                                alpm                           
 libbluray-awt-j2se                                                            1.3.4                                  java-archive                   
 libbluray-j2se                                                                1.3.4                                  java-archive                   
@@ -509,7 +509,7 @@ libgudev                                                                      23
 libhandy                                                                      1.8.3-2                                alpm                           
 libice                                                                        1.1.1-3                                alpm                           
 libidn2                                                                       2.3.7-1                                alpm                           
-libinput                                                                      1.26.2-1                               alpm                           
+libinput                                                                      1.27.0-1                               alpm                           
 libisl                                                                        0.27-1                                 alpm                           
 libjpeg-turbo                                                                 3.0.4-1                                alpm                           
 libjxl                                                                        0.11.0-2                               alpm                           
@@ -530,7 +530,7 @@ libnice                                                                       0.
 libnl                                                                         3.11.0-1                               alpm                           
 libnotify                                                                     0.8.3-1                                alpm                           
 libnsl                                                                        2.0.1-1                                alpm                           
-libnvme                                                                       1.10-1                                 alpm                           
+libnvme                                                                       1.11.1-1                               alpm                           
 libogg                                                                        1.3.5-2                                alpm                           
 libomxil-bellagio                                                             0.9.3-5                                alpm                           
 libp11-kit                                                                    0.25.5-1                               alpm                           
@@ -599,7 +599,7 @@ libxres                                                                       1.
 libxshmfence                                                                  1.3.2-2                                alpm                           
 libxslt                                                                       1.1.42-1                               alpm                           
 libxss                                                                        1.2.4-2                                alpm                           
-libxt                                                                         1.3.0-2                                alpm                           
+libxt                                                                         1.3.1-1                                alpm                           
 libxtst                                                                       1.2.5-1                                alpm                           
 libxv                                                                         1.0.12-2                               alpm                           
 libxvmc                                                                       1.0.14-1                               alpm                           
@@ -610,7 +610,7 @@ linux-api-headers                                                             6.
 llvm-libs                                                                     18.1.8-4                               alpm                           
 lm_sensors                                                                    1:3.6.0.r41.g31d1f125-3                alpm                           
 lmdb                                                                          0.9.33-1                               alpm                           
-luit                                                                          20240102-2                             alpm                           
+luit                                                                          20240910-1                             alpm                           
 lz4                                                                           1:1.10.0-2                             alpm                           
 lzo                                                                           2.10-5                                 alpm                           
 m4                                                                            1.4.19-3                               alpm                           
@@ -676,7 +676,7 @@ rav1e                                                                         0.
 readline                                                                      8.2.013-1                              alpm                           
 resenje.org/singleflight                                                      v0.4.1                                 go-module                      
 rtkit                                                                         0.13-3                                 alpm                           
-runc                                                                          1.2.1-1                                alpm                           
+runc                                                                          1.2.2-1                                alpm                           
 sed                                                                           4.9-3                                  alpm                           
 shadow                                                                        4.16.0-1                               alpm                           
 shared-mime-info                                                              2.4-1                                  alpm                           
@@ -691,8 +691,9 @@ spice-protocol                                                                0.
 sqlite                                                                        3.46.1-1                               alpm                           
 startup-notification                                                          0.12-8                                 alpm                           
 stdlib                                                                        go1.23.1                               go-module     (+2 duplicates)  
-stdlib                                                                        go1.23.2                               go-module     (+5 duplicates)  
-sudo                                                                          1.9.16-1                               alpm                           
+stdlib                                                                        go1.23.2                               go-module     (+4 duplicates)  
+stdlib                                                                        go1.23.3                               go-module                      
+sudo                                                                          1.9.16.p1-1                            alpm                           
 svt-av1                                                                       2.2.1-1                                alpm                           
 systemd                                                                       256.8-1                                alpm                           
 systemd-libs                                                                  256.8-1                                alpm                           
@@ -703,7 +704,7 @@ tags.cncf.io/container-device-interface/specs-go                              v0
 tar                                                                           1.35-2                                 alpm                           
 tdb                                                                           1.4.12-1                               alpm                           
 texinfo                                                                       7.1.1-1                                alpm                           
-tinysparql                                                                    3.8.0-1                                alpm                           
+tinysparql                                                                    3.8.1-1                                alpm                           
 tpm2-tss                                                                      4.1.3-1                                alpm                           
 ttf-liberation                                                                2.1.5-2                                alpm                           
 turbojpeg                                                                     UNKNOWN                                java-archive                   
