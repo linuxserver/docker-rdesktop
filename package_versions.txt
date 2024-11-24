@@ -470,7 +470,7 @@ hostname                                                                      3.
 hunspell                                                                      1.7.2-7.fc40                           rpm                         
 hunspell-en-US                                                                0.20201207-9.fc40                      rpm                         
 hunspell-filesystem                                                           1.7.2-7.fc40                           rpm                         
-hwdata                                                                        0.388-1.fc40                           rpm                         
+hwdata                                                                        0.389-1.fc40                           rpm                         
 i2c-tools                                                                     4.3-10.fc40                            rpm                         
 ibus-libs                                                                     1.5.30-7.fc40                          rpm                         
 iceauth                                                                       1.0.9-7.fc40                           rpm                         
@@ -655,10 +655,10 @@ kscreenlocker                                                                 6.
 ksystemstats                                                                  6.2.3-1.fc40                           rpm                         
 kwayland                                                                      6.2.3-1.fc40                           rpm                         
 kwayland-integration                                                          6.2.3-1.fc40                           rpm                         
-kwin                                                                          6.2.3-1.fc40                           rpm                         
-kwin-common                                                                   6.2.3-1.fc40                           rpm                         
-kwin-libs                                                                     6.2.3-1.fc40                           rpm                         
-kwin-wayland                                                                  6.2.3-1.fc40                           rpm                         
+kwin                                                                          6.2.3-2.fc40                           rpm                         
+kwin-common                                                                   6.2.3-2.fc40                           rpm                         
+kwin-libs                                                                     6.2.3-2.fc40                           rpm                         
+kwin-wayland                                                                  6.2.3-2.fc40                           rpm                         
 kwin-x11                                                                      6.2.3-1.fc40                           rpm                         
 kwrite                                                                        24.08.3-1.fc40                         rpm                         
 kwrited                                                                       6.2.3-1.fc40                           rpm                         
@@ -755,7 +755,7 @@ libglvnd-glx                                                                  1:
 libglvnd-opengl                                                               1:1.7.0-4.fc40                         rpm                         
 libgomp                                                                       14.0.1-0.15.fc40                       rpm                         
 libgpg-error                                                                  1.48-1.fc40                            rpm                         
-libgs                                                                         10.02.1-12.fc40                        rpm                         
+libgs                                                                         10.02.1-13.fc40                        rpm                         
 libgudev                                                                      238-5.fc40                             rpm                         
 libgusb                                                                       0.4.9-1.fc40                           rpm                         
 libheif                                                                       1.17.6-1.fc40                          rpm                         
@@ -1119,11 +1119,11 @@ stdlib                                                                        go
 sudo                                                                          1.9.15-2.p5.fc40                       rpm                         
 svt-av1-libs                                                                  2.1.0-1.fc40                           rpm                         
 switcheroo-control                                                            2.6-5.fc40                             rpm                         
-systemd                                                                       255.13-1.fc40                          rpm                         
-systemd-libs                                                                  255.13-1.fc40                          rpm                         
-systemd-pam                                                                   255.13-1.fc40                          rpm                         
+systemd                                                                       255.14-1.fc40                          rpm                         
+systemd-libs                                                                  255.14-1.fc40                          rpm                         
+systemd-pam                                                                   255.14-1.fc40                          rpm                         
 systemd-python                                                                235                                    python                      
-systemd-udev                                                                  255.13-1.fc40                          rpm                         
+systemd-udev                                                                  255.14-1.fc40                          rpm                         
 taglib                                                                        1.12-10.fc40                           rpm                         
 tags.cncf.io/container-device-interface                                       v0.7.2                                 go-module  (+1 duplicate)   
 tags.cncf.io/container-device-interface/specs-go                              v0.7.0                                 go-module  (+1 duplicate)   
