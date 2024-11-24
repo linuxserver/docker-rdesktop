@@ -444,8 +444,8 @@ gtkmm4.0                                                                      4.
 gtksourceview4                                                                4.8.4-6.fc40                           rpm                         
 gupnp                                                                         1.6.6-2.fc40                           rpm                         
 gupnp-igd                                                                     1.6.0-4.fc40                           rpm                         
-gvfs                                                                          1.54.3-1.fc40                          rpm                         
-gvfs-client                                                                   1.54.3-1.fc40                          rpm                         
+gvfs                                                                          1.54.4-1.fc40                          rpm                         
+gvfs-client                                                                   1.54.4-1.fc40                          rpm                         
 gzip                                                                          1.13-1.fc40                            rpm                         
 harfbuzz                                                                      8.5.0-1.fc40                           rpm                         
 hicolor-icon-theme                                                            0.17-18.fc40                           rpm                         
@@ -454,7 +454,7 @@ hostname                                                                      3.
 hunspell                                                                      1.7.2-7.fc40                           rpm                         
 hunspell-en-US                                                                0.20201207-9.fc40                      rpm                         
 hunspell-filesystem                                                           1.7.2-7.fc40                           rpm                         
-hwdata                                                                        0.388-1.fc40                           rpm                         
+hwdata                                                                        0.389-1.fc40                           rpm                         
 iceauth                                                                       1.0.9-7.fc40                           rpm                         
 ilbc                                                                          3.0.4-10.fc40                          rpm                         
 ima-evm-utils                                                                 1.5-4.fc40                             rpm                         
@@ -586,8 +586,8 @@ libglvnd-egl                                                                  1:
 libglvnd-glx                                                                  1:1.7.0-4.fc40                         rpm                         
 libgomp                                                                       14.0.1-0.15.fc40                       rpm                         
 libgpg-error                                                                  1.48-1.fc40                            rpm                         
-libgs                                                                         10.02.1-12.fc40                        rpm                         
-libgsf                                                                        1.14.53-1.fc40                         rpm                         
+libgs                                                                         10.02.1-13.fc40                        rpm                         
+libgsf                                                                        1.14.53-2.fc40                         rpm                         
 libgudev                                                                      238-5.fc40                             rpm                         
 libgusb                                                                       0.4.9-1.fc40                           rpm                         
 libheif                                                                       1.17.6-1.fc40                          rpm                         
@@ -846,11 +846,11 @@ stdlib                                                                        go
 stdlib                                                                        go1.22.9                               go-module  (+6 duplicates)  
 sudo                                                                          1.9.15-2.p5.fc40                       rpm                         
 svt-av1-libs                                                                  2.1.0-1.fc40                           rpm                         
-systemd                                                                       255.13-1.fc40                          rpm                         
-systemd-libs                                                                  255.13-1.fc40                          rpm                         
-systemd-pam                                                                   255.13-1.fc40                          rpm                         
+systemd                                                                       255.14-1.fc40                          rpm                         
+systemd-libs                                                                  255.14-1.fc40                          rpm                         
+systemd-pam                                                                   255.14-1.fc40                          rpm                         
 systemd-python                                                                235                                    python                      
-systemd-udev                                                                  255.13-1.fc40                          rpm                         
+systemd-udev                                                                  255.14-1.fc40                          rpm                         
 tags.cncf.io/container-device-interface                                       v0.7.2                                 go-module  (+1 duplicate)   
 tags.cncf.io/container-device-interface/specs-go                              v0.7.0                                 go-module  (+1 duplicate)   
 tar                                                                           2:1.35-3.fc40                          rpm                         
