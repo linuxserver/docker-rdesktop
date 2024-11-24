@@ -56,7 +56,7 @@ fftw-single-libs                                                              3.
 file                                                                          5.45-r1                                             apk                         
 findmnt                                                                       2.40.1-r1                                           apk                         
 findutils                                                                     4.9.0-r5                                            apk                         
-firefox                                                                       132.0-r0                                            apk                         
+firefox                                                                       132.0.2-r0                                          apk                         
 flock                                                                         2.40.1-r1                                           apk                         
 font-alias                                                                    1.0.5-r0                                            apk                         
 font-cursor-misc                                                              1.0.4-r1                                            apk                         
