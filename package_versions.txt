@@ -78,7 +78,7 @@ ffmpegthumbnailer                                                             2.
 fftw-single-libs                                                              3.3.10-r5                                           apk                         
 findmnt                                                                       2.40.1-r1                                           apk                         
 findutils                                                                     4.9.0-r5                                            apk                         
-firefox                                                                       132.0-r0                                            apk                         
+firefox                                                                       132.0.2-r0                                          apk                         
 flite                                                                         2.2-r2                                              apk                         
 flock                                                                         2.40.1-r1                                           apk                         
 font-alias                                                                    1.0.5-r0                                            apk                         
