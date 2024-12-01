@@ -540,7 +540,7 @@ tango-icon-theme                  0.8.90-11                        deb
 tar                               1.34+dfsg-1.2+deb12u1            deb                        
 thunar                            4.18.4-1                         deb                        
 thunar-data                       4.18.4-1                         deb                        
-tzdata                            2024a-0+deb12u1                  deb                        
+tzdata                            2024b-0+deb12u1                  deb                        
 ucf                               3.0043+nmu1                      deb                        
 udev                              252.31-1~deb12u1                 deb                        
 urllib3                           1.26.12                          python                     
