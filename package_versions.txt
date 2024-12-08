@@ -6,7 +6,7 @@ alpine-keys                                                                   2.
 alpine-release                                                                3.20.3-r0                                           apk                         
 alsa-lib                                                                      1.2.11-r0                                           apk                         
 aom-libs                                                                      3.9.1-r0                                            apk                         
-apk-tools                                                                     2.14.4-r0                                           apk                         
+apk-tools                                                                     2.14.4-r1                                           apk                         
 at-spi2-core                                                                  2.52.0-r0                                           apk                         
 at-spi2-core-lang                                                             2.52.0-r0                                           apk                         
 atkmm                                                                         2.28.4-r0                                           apk                         
@@ -41,7 +41,7 @@ coreutils-env                                                                 9.
 coreutils-fmt                                                                 9.5-r1                                              apk                         
 coreutils-sha512sum                                                           9.5-r1                                              apk                         
 cups-libs                                                                     2.4.9-r1                                            apk                         
-curl                                                                          8.9.1-r2                                            apk                         
+curl                                                                          8.11.0-r2                                           apk                         
 dario.cat/mergo                                                               v1.0.0                                              go-module  (+2 duplicates)  
 dbus                                                                          1.14.10-r1                                          apk                         
 dbus-daemon-launch-helper                                                     1.14.10-r1                                          apk                         
@@ -513,7 +513,7 @@ libcanberra-pulse                                                             0.
 libcap-ng                                                                     0.8.5-r0                                            apk                         
 libcap2                                                                       2.70-r0                                             apk                         
 libcrypto3                                                                    3.3.2-r1                                            apk                         
-libcurl                                                                       8.9.1-r2                                            apk                         
+libcurl                                                                       8.11.0-r2                                           apk                         
 libdav1d                                                                      1.4.2-r0                                            apk                         
 libdrm                                                                        2.4.120-r0                                          apk                         
 libeconf                                                                      0.6.3-r0                                            apk                         
@@ -771,11 +771,11 @@ pulseaudio-lang                                                               17
 py3-gobject3                                                                  3.48.2-r0                                           apk                         
 py3-lxml                                                                      5.1.0-r0                                            apk                         
 py3-lxml-pyc                                                                  5.1.0-r0                                            apk                         
-pyc                                                                           3.12.7-r0                                           apk                         
+pyc                                                                           3.12.8-r0                                           apk                         
 pygobject                                                                     3.48.2                                              python                      
-python3                                                                       3.12.7-r0                                           apk                         
-python3-pyc                                                                   3.12.7-r0                                           apk                         
-python3-pycache-pyc0                                                          3.12.7-r0                                           apk                         
+python3                                                                       3.12.8-r0                                           apk                         
+python3-pyc                                                                   3.12.8-r0                                           apk                         
+python3-pycache-pyc0                                                          3.12.8-r0                                           apk                         
 rav1e-libs                                                                    0.7.1-r0                                            apk                         
 readline                                                                      8.2.10-r0                                           apk                         
 resenje.org/singleflight                                                      v0.4.1                                              go-module                   
