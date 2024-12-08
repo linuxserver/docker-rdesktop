@@ -8,7 +8,7 @@ alpine-keys                                                                   2.
 alpine-release                                                                3.20.3-r0                                           apk                         
 alsa-lib                                                                      1.2.11-r0                                           apk                         
 aom-libs                                                                      3.9.1-r0                                            apk                         
-apk-tools                                                                     2.14.4-r0                                           apk                         
+apk-tools                                                                     2.14.4-r1                                           apk                         
 appstream                                                                     1.0.2-r2                                            apk                         
 appstream-lang                                                                1.0.2-r2                                            apk                         
 appstream-qt                                                                  1.0.2-r2                                            apk                         
@@ -59,7 +59,7 @@ coreutils-fmt                                                                 9.
 coreutils-sha512sum                                                           9.5-r1                                              apk                         
 cryptsetup-libs                                                               2.7.2-r0                                            apk                         
 cups-libs                                                                     2.4.9-r1                                            apk                         
-curl                                                                          8.9.1-r2                                            apk                         
+curl                                                                          8.11.0-r2                                           apk                         
 dario.cat/mergo                                                               v1.0.0                                              go-module  (+2 duplicates)  
 dbus                                                                          1.14.10-r1                                          apk                         
 dbus-daemon-launch-helper                                                     1.14.10-r1                                          apk                         
@@ -757,7 +757,7 @@ libcap-ng                                                                     0.
 libcap2                                                                       2.70-r0                                             apk                         
 libcom_err                                                                    1.47.0-r5                                           apk                         
 libcrypto3                                                                    3.3.2-r1                                            apk                         
-libcurl                                                                       8.9.1-r2                                            apk                         
+libcurl                                                                       8.11.0-r2                                           apk                         
 libdaemon                                                                     0.14-r4                                             apk                         
 libdav1d                                                                      1.4.2-r0                                            apk                         
 libdbusmenu-glib                                                              16.04.0-r6                                          apk                         
@@ -1011,11 +1011,11 @@ pulseaudio-lang                                                               17
 purpose                                                                       6.2.0-r0                                            apk                         
 purpose-lang                                                                  6.2.0-r0                                            apk                         
 py3-gobject3                                                                  3.48.2-r0                                           apk                         
-pyc                                                                           3.12.7-r0                                           apk                         
+pyc                                                                           3.12.8-r0                                           apk                         
 pygobject                                                                     3.48.2                                              python                      
-python3                                                                       3.12.7-r0                                           apk                         
-python3-pyc                                                                   3.12.7-r0                                           apk                         
-python3-pycache-pyc0                                                          3.12.7-r0                                           apk                         
+python3                                                                       3.12.8-r0                                           apk                         
+python3-pyc                                                                   3.12.8-r0                                           apk                         
+python3-pycache-pyc0                                                          3.12.8-r0                                           apk                         
 qqc2-breeze-style                                                             6.0.5-r0                                            apk                         
 qqc2-desktop-style                                                            6.2.0-r0                                            apk                         
 qt5-qtbase                                                                    5.15.10_git20230714-r2                              apk                         
