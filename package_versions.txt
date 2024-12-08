@@ -19,9 +19,9 @@ bsdextrautils                            2.38.1-5+deb12u2                     de
 bsdutils                                 1:2.38.1-5+deb12u2                   deb                        
 ca-certificates                          20230311                             deb                        
 catatonit                                0.1.7-1+b1                           deb                        
-chromium                                 131.0.6778.85-1~deb12u1              deb                        
-chromium-common                          131.0.6778.85-1~deb12u1              deb                        
-chromium-l10n                            131.0.6778.85-1~deb12u1              deb                        
+chromium                                 131.0.6778.108-1~deb12u1             deb                        
+chromium-common                          131.0.6778.108-1~deb12u1             deb                        
+chromium-l10n                            131.0.6778.108-1~deb12u1             deb                        
 coreutils                                9.1-1                                deb                        
 cpp                                      4:12.2.0-3                           deb                        
 cpp-12                                   12.2.0-14                            deb                        
@@ -181,8 +181,8 @@ libboost-filesystem1.74.0                1.74.0+ds1-21                        de
 libbrotli1                               1.0.9-2+b6                           deb                        
 libbsd0                                  0.11.7-2                             deb                        
 libbz2-1.0                               1.0.8-5+b1                           deb                        
-libc++1-16                               1:16.0.6-15~deb12u1                  deb                        
-libc++abi1-16                            1:16.0.6-15~deb12u1                  deb                        
+libc++1-19                               1:19.1.4-1~deb12u1                   deb                        
+libc++abi1-19                            1:19.1.4-1~deb12u1                   deb                        
 libc-bin                                 2.36-9+deb12u9                       deb                        
 libc-l10n                                2.36-9+deb12u9                       deb                        
 libc6                                    2.36-9+deb12u9                       deb                        
@@ -717,7 +717,7 @@ libudfread0                              1.1.2-1                              de
 libudisks2-0                             2.9.4-4                              deb                        
 libunbound8                              1.17.1-2+deb12u2                     deb                        
 libunistring2                            1.0-2                                deb                        
-libunwind-16                             1:16.0.6-15~deb12u1                  deb                        
+libunwind-19                             1:19.1.4-1~deb12u1                   deb                        
 libunwind8                               1.6.2-3                              deb                        
 libupnp13                                1:1.8.4-2                            deb                        
 libusb-1.0-0                             2:1.0.26-1                           deb                        
