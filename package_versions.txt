@@ -473,8 +473,8 @@ gsettings-desktop-schemas-lang                                                46
 gsm                                                                           1.0.22-r3                                           apk                         
 gspell                                                                        1.12.2-r2                                           apk                         
 gspell-lang                                                                   1.12.2-r2                                           apk                         
-gst-plugins-bad                                                               1.24.9-r0                                           apk                         
-gst-plugins-bad-lang                                                          1.24.9-r0                                           apk                         
+gst-plugins-bad                                                               1.24.10-r0                                          apk                         
+gst-plugins-bad-lang                                                          1.24.10-r0                                          apk                         
 gst-plugins-base                                                              1.24.9-r0                                           apk                         
 gst-plugins-base-lang                                                         1.24.9-r0                                           apk                         
 gstreamer                                                                     1.24.9-r0                                           apk                         
@@ -758,10 +758,10 @@ procps-ng-lang                                                                4.
 pulseaudio                                                                    17.0-r0                                             apk                         
 pulseaudio-alsa                                                               17.0-r0                                             apk                         
 pulseaudio-lang                                                               17.0-r0                                             apk                         
-pyc                                                                           3.12.8-r0                                           apk                         
-python3                                                                       3.12.8-r0                                           apk                         
-python3-pyc                                                                   3.12.8-r0                                           apk                         
-python3-pycache-pyc0                                                          3.12.8-r0                                           apk                         
+pyc                                                                           3.12.8-r1                                           apk                         
+python3                                                                       3.12.8-r1                                           apk                         
+python3-pyc                                                                   3.12.8-r1                                           apk                         
+python3-pycache-pyc0                                                          3.12.8-r1                                           apk                         
 rav1e-libs                                                                    0.7.1-r0                                            apk                         
 readline                                                                      8.2.10-r0                                           apk                         
 resenje.org/singleflight                                                      v0.4.1                                              go-module                   
