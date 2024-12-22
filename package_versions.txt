@@ -19,9 +19,9 @@ ca-certificates                   20230311                             deb
 caja                              1.26.1-1+deb12u1                     deb                        
 caja-common                       1.26.1-1+deb12u1                     deb                        
 catatonit                         0.1.7-1+b1                           deb                        
-chromium                          131.0.6778.139-1~deb12u1             deb                        
-chromium-common                   131.0.6778.139-1~deb12u1             deb                        
-chromium-l10n                     131.0.6778.139-1~deb12u1             deb                        
+chromium                          131.0.6778.204-1~deb12u1             deb                        
+chromium-common                   131.0.6778.204-1~deb12u1             deb                        
+chromium-l10n                     131.0.6778.204-1~deb12u1             deb                        
 coreutils                         9.1-1                                deb                        
 cpp                               4:12.2.0-3                           deb                        
 cpp-12                            12.2.0-14                            deb                        
@@ -51,7 +51,7 @@ distro                            1.8.0                                python
 distro-info-data                  0.58+deb12u3                         deb                        
 dmidecode                         3.4-1                                deb                        
 dmsetup                           2:1.02.185-2                         deb                        
-docker-ce-cli                     5:27.4.0-1~debian.12~bookworm        deb                        
+docker-ce-cli                     5:27.4.1-1~debian.12~bookworm        deb                        
 dpkg                              1.21.22                              deb                        
 e2fsprogs                         1.47.0-2                             deb                        
 emacsen-common                    3.0.5                                deb                        
@@ -85,7 +85,7 @@ gir1.2-packagekitglib-1.0         1.2.6-5                              deb
 gir1.2-pango-1.0                  1.50.12+ds-1                         deb                        
 gir1.2-peas-1.0                   1.34.0-1+b1                          deb                        
 gir1.2-pluma-1.0                  1.26.0-1+deb12u1                     deb                        
-github.com/docker/cli/cmd/docker  v27.4.0                              go-module                  
+github.com/docker/cli/cmd/docker  v27.4.1                              go-module                  
 glib-networking                   2.74.0-4                             deb                        
 glib-networking-common            2.74.0-4                             deb                        
 glib-networking-services          2.74.0-4                             deb                        
@@ -283,7 +283,7 @@ libgssdp-1.6-0                    1.6.2-2                              deb
 libgstreamer-gl1.0-0              1.22.0-3+deb12u3                     deb                        
 libgstreamer-plugins-bad1.0-0     1.22.0-4+deb12u5                     deb                        
 libgstreamer-plugins-base1.0-0    1.22.0-3+deb12u3                     deb                        
-libgstreamer1.0-0                 1.22.0-2                             deb                        
+libgstreamer1.0-0                 1.22.0-2+deb12u1                     deb                        
 libgtk-3-0                        3.24.38-2~deb12u3                    deb                        
 libgtk-3-common                   3.24.38-2~deb12u3                    deb                        
 libgtk-layer-shell0               0.8.0-1                              deb                        
