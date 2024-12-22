@@ -30,8 +30,8 @@ cairomm1.16                                                                   1.
 catatonit                                                                     0.1.7-22.fc40                          rpm                         
 cdparanoia-libs                                                               10.2-44.fc40                           rpm                         
 checkpolicy                                                                   3.7-2.fc40                             rpm                         
-chromium                                                                      131.0.6778.139-1.fc40                  rpm                         
-chromium-common                                                               131.0.6778.139-1.fc40                  rpm                         
+chromium                                                                      131.0.6778.204-1.fc40                  rpm                         
+chromium-common                                                               131.0.6778.204-1.fc40                  rpm                         
 cloud.google.com/go/compute/metadata                                          v0.3.0                                 go-module                   
 cloud.google.com/go/logging                                                   v1.9.0                                 go-module                   
 cloud.google.com/go/longrunning                                               v0.5.4                                 go-module                   
@@ -70,8 +70,8 @@ dnf                                                                           4.
 dnf                                                                           4.22.0-1.fc40                          rpm                         
 dnf-data                                                                      4.22.0-1.fc40                          rpm                         
 dnf-plugins-core                                                              4.10.0-1.fc40                          rpm                         
-docker-ce                                                                     3:27.4.0-1.fc40                        rpm                         
-docker-ce-cli                                                                 1:27.4.0-1.fc40                        rpm                         
+docker-ce                                                                     3:27.4.1-1.fc40                        rpm                         
+docker-ce-cli                                                                 1:27.4.1-1.fc40                        rpm                         
 double-conversion                                                             3.3.0-3.fc40                           rpm                         
 duktape                                                                       2.7.0-7.fc40                           rpm                         
 elfutils-default-yama-scope                                                   0.192-7.fc40                           rpm                         
@@ -177,9 +177,9 @@ github.com/davecgh/go-spew                                                    v1
 github.com/deckarep/golang-set/v2                                             v2.3.0                                 go-module                   
 github.com/dimchansky/utfbom                                                  v1.1.1                                 go-module                   
 github.com/distribution/reference                                             v0.6.0                                 go-module  (+3 duplicates)  
-github.com/docker/cli/cmd/docker                                              v27.4.0                                go-module                   
+github.com/docker/cli/cmd/docker                                              v27.4.1                                go-module                   
 github.com/docker/distribution                                                v2.8.3+incompatible                    go-module                   
-github.com/docker/docker                                                      v27.4.0                                go-module  (+1 duplicate)   
+github.com/docker/docker                                                      v27.4.1                                go-module  (+1 duplicate)   
 github.com/docker/go-connections                                              v0.5.0                                 go-module                   
 github.com/docker/go-events                                                   v0.0.0-20190806004212-e31b211e4f1c     go-module  (+5 duplicates)  
 github.com/docker/go-metrics                                                  v0.0.1                                 go-module  (+2 duplicates)  
@@ -323,12 +323,12 @@ github.com/weppos/publicsuffix-go                                             v0
 github.com/zmap/zcrypto                                                       v0.0.0-20210511125630-18f1e0152cfc     go-module                   
 github.com/zmap/zlint/v3                                                      v3.1.0                                 go-module                   
 glib2                                                                         2.80.3-1.fc40                          rpm                         
-glibc                                                                         2.39-30.fc40                           rpm                         
-glibc-all-langpacks                                                           2.39-30.fc40                           rpm                         
-glibc-common                                                                  2.39-30.fc40                           rpm                         
-glibc-gconv-extra                                                             2.39-30.fc40                           rpm                         
-glibc-locale-source                                                           2.39-30.fc40                           rpm                         
-glibc-minimal-langpack                                                        2.39-30.fc40                           rpm                         
+glibc                                                                         2.39-32.fc40                           rpm                         
+glibc-all-langpacks                                                           2.39-32.fc40                           rpm                         
+glibc-common                                                                  2.39-32.fc40                           rpm                         
+glibc-gconv-extra                                                             2.39-32.fc40                           rpm                         
+glibc-locale-source                                                           2.39-32.fc40                           rpm                         
+glibc-minimal-langpack                                                        2.39-32.fc40                           rpm                         
 glibmm2.68                                                                    2.80.0-1.fc40                          rpm                         
 gmp                                                                           1:6.2.1-8.fc40                         rpm                         
 gnupg2                                                                        2.4.4-1.fc40                           rpm                         
@@ -527,7 +527,7 @@ libdatrie                                                                     0.
 libdav1d                                                                      1.5.0-2.fc40                           rpm                         
 libdnf                                                                        0.73.4                                 python                      
 libdnf                                                                        0.73.4-1.fc40                          rpm                         
-libdovi                                                                       3.3.0-2.fc40                           rpm                         
+libdovi                                                                       3.3.1-1.fc40                           rpm                         
 libdrm                                                                        2.4.123-1.fc40                         rpm                         
 libeconf                                                                      0.6.2-2.fc40                           rpm                         
 libedit                                                                       3.1-53.20240808cvs.fc40                rpm                         
@@ -602,7 +602,7 @@ libsmbclient                                                                  2:
 libsndfile                                                                    1.2.2-4.fc40                           rpm                         
 libsodium                                                                     1.0.20-1.fc40                          rpm                         
 libsolv                                                                       0.7.31-1.fc40                          rpm                         
-libsoup3                                                                      3.4.4-5.fc40                           rpm                         
+libsoup3                                                                      3.4.5-1.fc40                           rpm                         
 libspectre                                                                    0.2.12-6.fc40                          rpm                         
 libssh                                                                        0.10.6-5.fc40                          rpm                         
 libssh-config                                                                 0.10.6-5.fc40                          rpm                         
@@ -678,13 +678,13 @@ ncurses-libs                                                                  6.
 netcat                                                                        1.228-1.fc40                           rpm                         
 nettle                                                                        3.9.1-6.fc40                           rpm                         
 npth                                                                          1.7-1.fc40                             rpm                         
-nspr                                                                          4.36.0-1.fc40                          rpm                         
-nss                                                                           3.106.0-1.fc40                         rpm                         
+nspr                                                                          4.36.0-2.fc40                          rpm                         
+nss                                                                           3.107.0-1.fc40                         rpm                         
 nss-mdns                                                                      0.15.1-11.fc40                         rpm        (+1 duplicate)   
-nss-softokn                                                                   3.106.0-1.fc40                         rpm                         
-nss-softokn-freebl                                                            3.106.0-1.fc40                         rpm                         
-nss-sysinit                                                                   3.106.0-1.fc40                         rpm                         
-nss-util                                                                      3.106.0-1.fc40                         rpm                         
+nss-softokn                                                                   3.107.0-1.fc40                         rpm                         
+nss-softokn-freebl                                                            3.107.0-1.fc40                         rpm                         
+nss-sysinit                                                                   3.107.0-1.fc40                         rpm                         
+nss-util                                                                      3.107.0-1.fc40                         rpm                         
 numactl-libs                                                                  2.0.16-5.fc40                          rpm                         
 ocl-icd                                                                       2.3.2-6.fc40                           rpm                         
 oniguruma                                                                     6.9.9-3.fc40                           rpm                         
