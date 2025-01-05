@@ -322,12 +322,12 @@ github.com/weppos/publicsuffix-go                                             v0
 github.com/zmap/zcrypto                                                       v0.0.0-20210511125630-18f1e0152cfc     go-module                   
 github.com/zmap/zlint/v3                                                      v3.1.0                                 go-module                   
 glib2                                                                         2.80.3-1.fc40                          rpm                         
-glibc                                                                         2.39-32.fc40                           rpm                         
-glibc-all-langpacks                                                           2.39-32.fc40                           rpm                         
-glibc-common                                                                  2.39-32.fc40                           rpm                         
-glibc-gconv-extra                                                             2.39-32.fc40                           rpm                         
-glibc-locale-source                                                           2.39-32.fc40                           rpm                         
-glibc-minimal-langpack                                                        2.39-32.fc40                           rpm                         
+glibc                                                                         2.39-33.fc40                           rpm                         
+glibc-all-langpacks                                                           2.39-33.fc40                           rpm                         
+glibc-common                                                                  2.39-33.fc40                           rpm                         
+glibc-gconv-extra                                                             2.39-33.fc40                           rpm                         
+glibc-locale-source                                                           2.39-33.fc40                           rpm                         
+glibc-minimal-langpack                                                        2.39-33.fc40                           rpm                         
 glibmm2.68                                                                    2.80.0-1.fc40                          rpm                         
 gmp                                                                           1:6.2.1-8.fc40                         rpm                         
 gnupg2                                                                        2.4.4-1.fc40                           rpm                         
@@ -572,7 +572,7 @@ libnghttp2                                                                    1.
 libnice                                                                       0.1.22-1.fc40                          rpm                         
 libnsl2                                                                       2.0.1-1.fc40                           rpm                         
 libogg                                                                        2:1.3.5-8.fc40                         rpm                         
-libopenmpt                                                                    0.7.11-1.fc40                          rpm                         
+libopenmpt                                                                    0.7.12-1.fc40                          rpm                         
 libpaper                                                                      1:2.1.1-3.fc40                         rpm                         
 libpciaccess                                                                  0.16-12.fc40                           rpm                         
 libplacebo                                                                    6.338.2-1.fc40                         rpm                         
@@ -624,7 +624,7 @@ libverto                                                                      0.
 libvisual                                                                     1:0.4.1-4.fc40                         rpm                         
 libvmaf                                                                       2.3.0-7.fc40                           rpm                         
 libvorbis                                                                     1:1.3.7-10.fc40                        rpm                         
-libvpl                                                                        1:2.13.0-1.fc40                        rpm                         
+libvpl                                                                        1:2.14.0-1.fc40                        rpm                         
 libvpx                                                                        1.14.1-1.fc40                          rpm                         
 libwacom                                                                      2.11.0-1.fc40                          rpm                         
 libwacom-data                                                                 2.11.0-1.fc40                          rpm                         
@@ -633,9 +633,9 @@ libwayland-cursor                                                             1.
 libwayland-egl                                                                1.23.0-2.fc40                          rpm                         
 libwayland-server                                                             1.23.0-2.fc40                          rpm                         
 libwbclient                                                                   2:4.20.6-1.fc40                        rpm                         
-libwebp                                                                       1.3.2-5.fc40                           rpm                         
+libwebp                                                                       1.5.0-1.fc40                           rpm                         
 libxcb                                                                        1.17.0-2.fc40                          rpm                         
-libxcrypt                                                                     4.4.36-11.fc40                         rpm                         
+libxcrypt                                                                     4.4.36-12.fc40                         rpm                         
 libxcvt                                                                       0.1.2-6.fc40                           rpm                         
 libxkbcommon                                                                  1.6.0-2.fc40                           rpm                         
 libxkbfile                                                                    1.1.3-1.fc40                           rpm                         
@@ -775,7 +775,7 @@ pulseaudio-libs                                                               16
 pulseaudio-libs-glib2                                                         16.1-8.fc40                            rpm                         
 python-dateutil                                                               2.8.2                                  python                      
 python-pip-wheel                                                              23.3.2-2.fc40                          rpm                         
-python3                                                                       3.12.7-1.fc40                          rpm                         
+python3                                                                       3.12.8-2.fc40                          rpm                         
 python3-audit                                                                 4.0.2-1.fc40                           rpm                         
 python3-dateutil                                                              1:2.8.2-13.fc40                        rpm                         
 python3-dbus                                                                  1.3.2-6.fc40                           rpm                         
@@ -785,7 +785,7 @@ python3-dnf-plugins-core                                                      4.
 python3-hawkey                                                                0.73.4-1.fc40                          rpm                         
 python3-libcomps                                                              0.1.20-5.fc40                          rpm                         
 python3-libdnf                                                                0.73.4-1.fc40                          rpm                         
-python3-libs                                                                  3.12.7-1.fc40                          rpm                         
+python3-libs                                                                  3.12.8-2.fc40                          rpm                         
 python3-libselinux                                                            3.7-5.fc40                             rpm                         
 python3-libsemanage                                                           3.7-2.fc40                             rpm                         
 python3-policycoreutils                                                       3.7-3.fc40                             rpm                         
@@ -861,8 +861,8 @@ tar                                                                           2:
 tesseract                                                                     5.3.4-4.fc40                           rpm                         
 tesseract-langpack-eng                                                        4.1.0-7.fc40                           rpm                         
 tesseract-tessdata-doc                                                        4.1.0-7.fc40                           rpm                         
-tigervnc-license                                                              1.14.1-2.fc40                          rpm                         
-tigervnc-server-minimal                                                       1.14.1-2.fc40                          rpm                         
+tigervnc-license                                                              1.14.1-3.fc40                          rpm                         
+tigervnc-server-minimal                                                       1.14.1-3.fc40                          rpm                         
 tpm2-tss                                                                      4.1.3-1.fc40                           rpm                         
 twolame-libs                                                                  0.4.0-4.fc40                           rpm                         
 tzdata                                                                        2024a-5.fc40                           rpm                         
