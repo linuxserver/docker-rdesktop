@@ -842,7 +842,7 @@ libsigc++                                                                     2.
 libsm                                                                         1.2.4-r4                                            apk                         
 libsmartcols                                                                  2.40.1-r1                                           apk                         
 libsmbclient                                                                  4.19.9-r0                                           apk                         
-libsndfile                                                                    1.2.2-r0                                            apk                         
+libsndfile                                                                    1.2.2-r1                                            apk                         
 libsodium                                                                     1.0.19-r0                                           apk                         
 libsrt                                                                        1.5.3-r0                                            apk                         
 libssh                                                                        0.10.6-r0                                           apk                         
