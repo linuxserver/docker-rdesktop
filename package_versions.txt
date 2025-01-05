@@ -613,7 +613,7 @@ libsharpyuv                                                                   1.
 libsigc++                                                                     2.12.1-r0                                           apk                         
 libsm                                                                         1.2.4-r4                                            apk                         
 libsmartcols                                                                  2.40.1-r1                                           apk                         
-libsndfile                                                                    1.2.2-r0                                            apk                         
+libsndfile                                                                    1.2.2-r1                                            apk                         
 libsodium                                                                     1.0.19-r0                                           apk                         
 libsoup3                                                                      3.4.4-r0                                            apk                         
 libsoup3-lang                                                                 3.4.4-r0                                            apk                         
