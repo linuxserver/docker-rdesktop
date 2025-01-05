@@ -535,7 +535,7 @@ libsharpyuv                                                                   1.
 libsigc++                                                                     2.12.1-r0                                           apk                         
 libsm                                                                         1.2.4-r4                                            apk                         
 libsmartcols                                                                  2.40.1-r1                                           apk                         
-libsndfile                                                                    1.2.2-r0                                            apk                         
+libsndfile                                                                    1.2.2-r1                                            apk                         
 libssl3                                                                       3.3.2-r1                                            apk                         
 libstdc++                                                                     13.2.1_git20240309-r0                               apk                         
 libtasn1                                                                      4.19.0-r2                                           apk                         
