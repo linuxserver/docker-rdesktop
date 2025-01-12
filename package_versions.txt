@@ -69,7 +69,7 @@ dpkg                               1.22.6ubuntu6.1                           deb
 e2fsprogs                          1.47.0-2.4~exp1ubuntu4.1                  deb                           
 emacsen-common                     3.0.5                                     deb                           
 findutils                          4.9.0-5build1                             deb                           
-firefox                            133.0.3+build1-0ubuntu0.24.04.1~mt1       deb                           
+firefox                            134.0+build1-0ubuntu0.24.04.1~mt1         deb                           
 fontconfig                         2.15.0-1.1ubuntu2                         deb                           
 fontconfig-config                  2.15.0-1.1ubuntu2                         deb                           
 fonts-dejavu-core                  2.37-8                                    deb                           
@@ -488,8 +488,8 @@ libproc2-0                         2:4.0.4-4ubuntu3.2                        deb
 libproxy1v5                        0.5.4-4build1                             deb                           
 libpsl5t64                         0.21.2-1.1build1                          deb                           
 libpthread-stubs0-dev              0.4-1build3                               deb                           
-libpulse-mainloop-glib0            1:16.1+dfsg1-2ubuntu10                    deb                           
-libpulse0                          1:16.1+dfsg1-2ubuntu10                    deb                           
+libpulse-mainloop-glib0            1:16.1+dfsg1-2ubuntu10.1                  deb                           
+libpulse0                          1:16.1+dfsg1-2ubuntu10.1                  deb                           
 libpython3-stdlib                  3.12.3-0ubuntu2                           deb                           
 libpython3.12-minimal              3.12.3-1ubuntu0.3                         deb                           
 libpython3.12-stdlib               3.12.3-1ubuntu0.3                         deb                           
@@ -751,8 +751,8 @@ printer-driver-pnm2ppa             1.13+nondbs-0ubuntu10                     deb
 procps                             2:4.0.4-4ubuntu3.2                        deb                           
 psmisc                             23.7-1build1                              deb                           
 publicsuffix                       20231001.0357-0.1                         deb                           
-pulseaudio                         1:16.1+dfsg1-2ubuntu10                    deb                           
-pulseaudio-utils                   1:16.1+dfsg1-2ubuntu10                    deb                           
+pulseaudio                         1:16.1+dfsg1-2ubuntu10.1                  deb                           
+pulseaudio-utils                   1:16.1+dfsg1-2ubuntu10.1                  deb                           
 pygobject                          3.48.2                                    python                        
 pyjwt                              2.7.0                                     python                        
 pyparsing                          3.1.1                                     python                        
