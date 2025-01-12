@@ -15,13 +15,13 @@ breeze                                   4:5.27.5-2                           de
 breeze-cursor-theme                      4:5.27.5-2                           deb                        
 breeze-icon-theme                        4:5.103.0-1                          deb                        
 bsd-mailx                                8.1.2-0.20220412cvs-1                deb                        
-bsdextrautils                            2.38.1-5+deb12u2                     deb                        
-bsdutils                                 1:2.38.1-5+deb12u2                   deb                        
+bsdextrautils                            2.38.1-5+deb12u3                     deb                        
+bsdutils                                 1:2.38.1-5+deb12u3                   deb                        
 ca-certificates                          20230311                             deb                        
 catatonit                                0.1.7-1+b1                           deb                        
-chromium                                 131.0.6778.204-1~deb12u1             deb                        
-chromium-common                          131.0.6778.204-1~deb12u1             deb                        
-chromium-l10n                            131.0.6778.204-1~deb12u1             deb                        
+chromium                                 131.0.6778.264-1~deb12u1             deb                        
+chromium-common                          131.0.6778.264-1~deb12u1             deb                        
+chromium-l10n                            131.0.6778.264-1~deb12u1             deb                        
 coreutils                                9.1-1                                deb                        
 cpp                                      4:12.2.0-3                           deb                        
 cpp-12                                   12.2.0-14                            deb                        
@@ -56,7 +56,7 @@ e2fsprogs                                1.47.0-2                             de
 exim4-base                               4.96-15+deb12u6                      deb                        
 exim4-config                             4.96-15+deb12u6                      deb                        
 exim4-daemon-light                       4.96-15+deb12u6                      deb                        
-fdisk                                    2.38.1-5+deb12u2                     deb                        
+fdisk                                    2.38.1-5+deb12u3                     deb                        
 findutils                                4.9.0-4                              deb                        
 fontconfig                               2.14.1-4                             deb                        
 fontconfig-config                        2.14.1-4                             deb                        
@@ -168,7 +168,7 @@ libavc1394-0                             0.5.4-5                              de
 libavcodec59                             7:5.1.6-0+deb12u1                    deb                        
 libavformat59                            7:5.1.6-0+deb12u1                    deb                        
 libavutil57                              7:5.1.6-0+deb12u1                    deb                        
-libblkid1                                2.38.1-5+deb12u2                     deb                        
+libblkid1                                2.38.1-5+deb12u3                     deb                        
 libblockdev-fs2                          2.28-2                               deb                        
 libblockdev-loop2                        2.28-2                               deb                        
 libblockdev-part-err2                    2.28-2                               deb                        
@@ -233,7 +233,7 @@ libdvbpsi10                              1.3.3-1                              de
 libdvdnav4                               6.1.1-1                              deb                        
 libdvdread8                              6.1.3-1                              deb                        
 libdw1                                   0.188-2.1                            deb                        
-libebml5                                 1.4.4-1                              deb                        
+libebml5                                 1.4.4-1+deb12u1                      deb                        
 libedit2                                 3.1-20221030-2                       deb                        
 libeditorconfig0                         0.12.6-0.1                           deb                        
 libegl-mesa0                             22.3.6-1+deb12u1                     deb                        
@@ -247,7 +247,7 @@ libexiv2-27                              0.27.6-1                             de
 libexpat1                                2.5.0-1+deb12u1                      deb                        
 libext2fs2                               1.47.0-2                             deb                        
 libfaad2                                 2.10.1-1                             deb                        
-libfdisk1                                2.38.1-5+deb12u2                     deb                        
+libfdisk1                                2.38.1-5+deb12u3                     deb                        
 libffi8                                  3.4.4-1                              deb                        
 libfftw3-single3                         3.3.10-1                             deb                        
 libfido2-1                               1.12.0-2+b1                          deb                        
@@ -514,7 +514,7 @@ libmd0                                   1.0.4-2                              de
 libmd4c0                                 0.4.8-1                              deb                        
 libmfx1                                  22.5.4-1                             deb                        
 libminizip1                              1.1-8+deb12u1                        deb                        
-libmount1                                2.38.1-5+deb12u2                     deb                        
+libmount1                                2.38.1-5+deb12u3                     deb                        
 libmp3lame0                              3.100-6                              deb                        
 libmpc3                                  1.3.1-1                              deb                        
 libmpcdec6                               2:0.1~r495-2                         deb                        
@@ -667,7 +667,7 @@ libsignon-qt5-1                          8.61-1                               de
 libsigsegv2                              2.14-1                               deb                        
 libslang2                                2.3.3-3                              deb                        
 libsm6                                   2:1.2.3-1                            deb                        
-libsmartcols1                            2.38.1-5+deb12u2                     deb                        
+libsmartcols1                            2.38.1-5+deb12u3                     deb                        
 libsmbclient                             2:4.17.12+dfsg-0+deb12u1             deb                        
 libsnappy1v5                             1.1.9-3                              deb                        
 libsndfile1                              1.2.0-1                              deb                        
@@ -680,7 +680,7 @@ libspeex1                                1.2.1-2                              de
 libspeexdsp1                             1.2.1-1                              deb                        
 libsqlite3-0                             3.40.1-2+deb12u1                     deb                        
 libsquashfuse0                           0.1.105-1                            deb                        
-libsrt1.5-gnutls                         1.5.1-1                              deb                        
+libsrt1.5-gnutls                         1.5.1-1+deb12u1                      deb                        
 libss2                                   1.47.0-2                             deb                        
 libssh-4                                 0.10.6-0+deb12u1                     deb                        
 libssh-gcrypt-4                          0.10.6-0+deb12u1                     deb                        
@@ -720,7 +720,7 @@ libupnp13                                1:1.8.4-2                            de
 libusb-1.0-0                             2:1.0.26-1                           deb                        
 libusbmuxd6                              2.0.2-3                              deb                        
 libutempter0                             1.2.1-3                              deb                        
-libuuid1                                 2.38.1-5+deb12u2                     deb                        
+libuuid1                                 2.38.1-5+deb12u3                     deb                        
 libva-drm2                               2.17.0-1                             deb                        
 libva-wayland2                           2.17.0-1                             deb                        
 libva-x11-2                              2.17.0-1                             deb                        
@@ -838,7 +838,7 @@ media-types                              10.0.0                               de
 mesa-va-drivers                          22.3.6-1+deb12u1                     deb                        
 mesa-vulkan-drivers                      22.3.6-1+deb12u1                     deb                        
 milou                                    4:5.27.5-2                           deb                        
-mount                                    2.38.1-5+deb12u2                     deb                        
+mount                                    2.38.1-5+deb12u3                     deb                        
 ncurses-base                             6.4-4                                deb                        
 ncurses-bin                              6.4-4                                deb                        
 netbase                                  6.4                                  deb                        
@@ -962,8 +962,8 @@ udev                                     252.31-1~deb12u1                     de
 udisks2                                  2.9.4-4                              deb                        
 usb.ids                                  2024.07.04-0+deb12u1                 deb                        
 usr-is-merged                            37~deb12u1                           deb                        
-util-linux                               2.38.1-5+deb12u2                     deb                        
-util-linux-extra                         2.38.1-5+deb12u2                     deb                        
+util-linux                               2.38.1-5+deb12u3                     deb                        
+util-linux-extra                         2.38.1-5+deb12u3                     deb                        
 vlc-data                                 3.0.21-0+deb12u1                     deb                        
 vlc-plugin-base                          3.0.21-0+deb12u1                     deb                        
 vlc-plugin-video-output                  3.0.21-0+deb12u1                     deb                        
