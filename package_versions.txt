@@ -543,7 +543,7 @@ libxv                                                                         1.
 libxvmc                                                                       1.0.14-1                               alpm                           
 libxxf86vm                                                                    1.1.6-1                                alpm                           
 linux-api-headers                                                             6.10-1                                 alpm                           
-llvm-libs                                                                     19.1.6-3                               alpm                           
+llvm-libs                                                                     19.1.7-1                               alpm                           
 lm_sensors                                                                    1:3.6.0.r41.g31d1f125-3                alpm                           
 lmdb                                                                          0.9.33-1                               alpm                           
 luit                                                                          20240910-1                             alpm                           
@@ -601,7 +601,7 @@ sigs.k8s.io/yaml                                                              v1
 speexdsp                                                                      1.2.1-2                                alpm                           
 spice                                                                         0.15.2-1                               alpm                           
 spice-protocol                                                                0.14.4-2                               alpm                           
-spirv-tools                                                                   2024.4.rc1-1                           alpm                           
+spirv-tools                                                                   2024.4.rc2-1                           alpm                           
 sqlite                                                                        3.48.0-2                               alpm                           
 startup-notification                                                          0.12-8                                 alpm                           
 stdlib                                                                        go1.23.1                               go-module     (+2 duplicates)  
@@ -621,7 +621,7 @@ tinysparql                                                                    3.
 tpm2-tss                                                                      4.1.3-1                                alpm                           
 ttf-liberation                                                                2.1.5-2                                alpm                           
 turbojpeg                                                                     UNKNOWN                                java-archive                   
-tzdata                                                                        2024b-2                                alpm                           
+tzdata                                                                        2025a-1                                alpm                           
 util-linux                                                                    2.40.4-1                               alpm                           
 util-linux-libs                                                               2.40.4-1                               alpm                           
 vte-common                                                                    0.78.2-1                               alpm                           
