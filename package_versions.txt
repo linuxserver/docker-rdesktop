@@ -14,8 +14,8 @@ blinker                                  1.7.0                                py
 breeze                                   4:5.27.11-0ubuntu3                   deb                        
 breeze-cursor-theme                      4:5.27.11-0ubuntu3                   deb                        
 breeze-icon-theme                        4:5.115.0-0ubuntu3                   deb                        
-bsdextrautils                            2.39.3-9ubuntu6.1                    deb                        
-bsdutils                                 1:2.39.3-9ubuntu6.1                  deb                        
+bsdextrautils                            2.39.3-9ubuntu6.2                    deb                        
+bsdutils                                 1:2.39.3-9ubuntu6.2                  deb                        
 ca-certificates                          20240203                             deb                        
 catatonit                                0.1.7-1                              deb                        
 catdoc                                   1:0.95-5build1                       deb                        
@@ -45,13 +45,13 @@ dirmngr                                  2.4.4-2ubuntu17                      de
 distro                                   1.9.0                                python                     
 distro-info-data                         0.60ubuntu0.2                        deb                        
 dmidecode                                3.5-3ubuntu0.1                       deb                        
-docker-ce-cli                            5:27.5.0-1~ubuntu.24.04~noble        deb                        
+docker-ce-cli                            5:27.5.1-1~ubuntu.24.04~noble        deb                        
 dolphin                                  4:23.08.5-0ubuntu4                   deb                        
 dpkg                                     1.22.6ubuntu6.1                      deb                        
 drkonqi                                  5.27.11-0ubuntu3                     deb                        
 e2fsprogs                                1.47.0-2.4~exp1ubuntu4.1             deb                        
 findutils                                4.9.0-5build1                        deb                        
-firefox                                  134.0.1+build1-0ubuntu0.24.04.1~mt1  deb                        
+firefox                                  134.0.2+build1-0ubuntu0.24.04.1~mt1  deb                        
 fontconfig                               2.15.0-1.1ubuntu2                    deb                        
 fontconfig-config                        2.15.0-1.1ubuntu2                    deb                        
 fonts-noto-color-emoji                   2.042-1                              deb                        
@@ -66,7 +66,7 @@ gdb                                      15.0.50.20240403-0ubuntu1            de
 gir1.2-girepository-2.0                  1.80.1-1                             deb                        
 gir1.2-glib-2.0                          2.80.0-6ubuntu3.2                    deb                        
 gir1.2-packagekitglib-1.0                1.2.8-2ubuntu1.1                     deb                        
-github.com/docker/cli/cmd/docker         v27.5.0                              go-module                  
+github.com/docker/cli/cmd/docker         v27.5.1                              go-module                  
 glib-networking                          2.80.0-1build1                       deb                        
 glib-networking-common                   2.80.0-1build1                       deb                        
 glib-networking-services                 2.80.0-1build1                       deb                        
@@ -169,7 +169,7 @@ libavcodec60                             7:6.1.1-3ubuntu5                     de
 libavformat60                            7:6.1.1-3ubuntu5                     deb                        
 libavutil58                              7:6.1.1-3ubuntu5                     deb                        
 libbabeltrace1                           1.5.11-3build3                       deb                        
-libblkid1                                2.39.3-9ubuntu6.1                    deb                        
+libblkid1                                2.39.3-9ubuntu6.2                    deb                        
 libblockdev-crypto3                      3.1.1-1                              deb                        
 libblockdev-fs3                          3.1.1-1                              deb                        
 libblockdev-loop3                        3.1.1-1                              deb                        
@@ -251,7 +251,7 @@ libexiv2-27                              0.27.6-1build1                       de
 libexpat1                                2.6.1-2ubuntu0.2                     deb                        
 libext2fs2t64                            1.47.0-2.4~exp1ubuntu4.1             deb                        
 libfaad2                                 2.11.1-1build1                       deb                        
-libfdisk1                                2.39.3-9ubuntu6.1                    deb                        
+libfdisk1                                2.39.3-9ubuntu6.2                    deb                        
 libffi8                                  3.4.6-1build1                        deb                        
 libfftw3-single3                         3.3.10-1ubuntu3                      deb                        
 libfido2-1                               1.14.0-1build3                       deb                        
@@ -521,7 +521,7 @@ libmbedcrypto7t64                        2.28.8-1                             de
 libmd0                                   1.1.0-2build1                        deb                        
 libmd4c0                                 0.4.8-1build1                        deb                        
 libminizip1t64                           1:1.3.dfsg-3.1ubuntu2.1              deb                        
-libmount1                                2.39.3-9ubuntu6.1                    deb                        
+libmount1                                2.39.3-9ubuntu6.2                    deb                        
 libmp3lame0                              3.100-6build1                        deb                        
 libmpc3                                  1.3.1-1build1                        deb                        
 libmpcdec6                               2:0.1~r495-2build1                   deb                        
@@ -552,7 +552,7 @@ libogg0                                  1.3.5-3build1                        de
 libonig5                                 6.9.9-1build1                        deb                        
 libopenexr-3-1-30                        3.1.5-5.1build3                      deb                        
 libopengl0                               1.7.0-1build1                        deb                        
-libopenjp2-7                             2.5.0-2ubuntu0.2                     deb                        
+libopenjp2-7                             2.5.0-2ubuntu0.3                     deb                        
 libopenmpt-modplug1                      0.8.9.0-openmpt1-2build2             deb                        
 libopenmpt0t64                           0.7.3-1.1build3                      deb                        
 libopus0                                 1.4-1build1                          deb                        
@@ -584,8 +584,8 @@ libpixman-1-0                            0.42.2-1build1                       de
 libplasma-geolocation-interface5         4:5.27.11-0ubuntu4.1                 deb                        
 libplist-2.0-4                           2.3.0-1~exp2build2                   deb                        
 libpng16-16t64                           1.6.43-5build1                       deb                        
-libpolkit-agent-1-0                      124-2ubuntu1                         deb                        
-libpolkit-gobject-1-0                    124-2ubuntu1                         deb                        
+libpolkit-agent-1-0                      124-2ubuntu1.24.04.2                 deb                        
+libpolkit-gobject-1-0                    124-2ubuntu1.24.04.2                 deb                        
 libpolkit-qt5-1-1                        0.200.0-1build4                      deb                        
 libpoppler-qt5-1t64                      24.02.0-1ubuntu9.2                   deb                        
 libpoppler134                            24.02.0-1ubuntu9.2                   deb                        
@@ -601,9 +601,9 @@ libpthread-stubs0-dev                    0.4-1build3                          de
 libpulse-mainloop-glib0                  1:16.1+dfsg1-2ubuntu10.1             deb                        
 libpulse0                                1:16.1+dfsg1-2ubuntu10.1             deb                        
 libpython3-stdlib                        3.12.3-0ubuntu2                      deb                        
-libpython3.12-minimal                    3.12.3-1ubuntu0.3                    deb                        
-libpython3.12-stdlib                     3.12.3-1ubuntu0.3                    deb                        
-libpython3.12t64                         3.12.3-1ubuntu0.3                    deb                        
+libpython3.12-minimal                    3.12.3-1ubuntu0.4                    deb                        
+libpython3.12-stdlib                     3.12.3-1ubuntu0.4                    deb                        
+libpython3.12t64                         3.12.3-1ubuntu0.4                    deb                        
 libqaccessibilityclient-qt5-0            0.6.0-1build2                        deb                        
 libqalculate-data                        4.9.0-1.1build2                      deb                        
 libqalculate22t64                        4.9.0-1.1build2                      deb                        
@@ -671,7 +671,7 @@ libsignon-qt5-1                          8.61-1ubuntu5                        de
 libsigsegv2                              2.14-1ubuntu2                        deb                        
 libslang2                                2.3.3-3build2                        deb                        
 libsm6                                   2:1.2.3-1build3                      deb                        
-libsmartcols1                            2.39.3-9ubuntu6.1                    deb                        
+libsmartcols1                            2.39.3-9ubuntu6.2                    deb                        
 libsmbclient0                            2:4.19.5+dfsg-4ubuntu9               deb                        
 libsnapd-glib-2-1                        1.64-0ubuntu5                        deb                        
 libsnappy1v5                             1.1.10-1build1                       deb                        
@@ -729,7 +729,7 @@ libupnp17t64                             1:1.14.18-1.1ubuntu2                 de
 libusb-1.0-0                             2:1.0.27-1                           deb                        
 libusbmuxd6                              2.0.2-4build3                        deb                        
 libutempter0                             1.2.1-3build1                        deb                        
-libuuid1                                 2.39.3-9ubuntu6.1                    deb                        
+libuuid1                                 2.39.3-9ubuntu6.2                    deb                        
 libva-drm2                               2.20.0-2build1                       deb                        
 libva-wayland2                           2.20.0-2build1                       deb                        
 libva-x11-2                              2.20.0-2build1                       deb                        
@@ -847,7 +847,7 @@ media-types                              10.1.0                               de
 mesa-va-drivers                          24.0.9-0ubuntu0.3                    deb                        
 mesa-vulkan-drivers                      24.0.9-0ubuntu0.3                    deb                        
 milou                                    4:5.27.11-0ubuntu2                   deb                        
-mount                                    2.39.3-9ubuntu6.1                    deb                        
+mount                                    2.39.3-9ubuntu6.2                    deb                        
 ncurses-base                             6.4+20240113-1ubuntu2                deb                        
 ncurses-bin                              6.4+20240113-1ubuntu2                deb                        
 netbase                                  6.4                                  deb                        
@@ -876,7 +876,7 @@ plasma-integration                       5.27.11-0ubuntu3                     de
 plasma-workspace                         4:5.27.11-0ubuntu4.1                 deb                        
 plasma-workspace-data                    4:5.27.11-0ubuntu4.1                 deb                        
 polkit-kde-agent-1                       4:5.27.11-0ubuntu3                   deb                        
-polkitd                                  124-2ubuntu1                         deb                        
+polkitd                                  124-2ubuntu1.24.04.2                 deb                        
 poppler-data                             0.4.12-1                             deb                        
 procps                                   2:4.0.4-4ubuntu3.2                   deb                        
 psmisc                                   23.7-1build1                         deb                        
@@ -908,8 +908,8 @@ python3-pyparsing                        3.1.1-1                              de
 python3-six                              1.16.0-4                             deb                        
 python3-software-properties              0.99.49.1                            deb                        
 python3-wadllib                          1.3.6-5                              deb                        
-python3.12                               3.12.3-1ubuntu0.3                    deb                        
-python3.12-minimal                       3.12.3-1ubuntu0.3                    deb                        
+python3.12                               3.12.3-1ubuntu0.4                    deb                        
+python3.12-minimal                       3.12.3-1ubuntu0.4                    deb                        
 qdbus-qt5                                5.15.13-1                            deb                        
 qml-module-org-kde-activities            5.115.0-0ubuntu3                     deb                        
 qml-module-org-kde-bluezqt               5.115.0-0ubuntu6                     deb                        
@@ -964,7 +964,7 @@ six                                      1.16.0                               py
 software-properties-common               0.99.49.1                            deb                        
 sound-theme-freedesktop                  0.8-2ubuntu1                         deb                        
 ssl-cert                                 1.1.2ubuntu1                         deb                        
-stdlib                                   go1.22.10                            go-module                  
+stdlib                                   go1.22.11                            go-module                  
 sudo                                     1.9.15p5-3ubuntu5                    deb                        
 systemd                                  255.4-1ubuntu8.4                     deb                        
 systemd-dev                              255.4-1ubuntu8.4                     deb                        
@@ -979,7 +979,7 @@ ucf                                      3.0043+nmu1                          de
 udev                                     255.4-1ubuntu8.4                     deb                        
 udisks2                                  2.10.1-6ubuntu1                      deb                        
 usb.ids                                  2024.03.18-1                         deb                        
-util-linux                               2.39.3-9ubuntu6.1                    deb                        
+util-linux                               2.39.3-9ubuntu6.2                    deb                        
 vlc-data                                 3.0.20-3build6                       deb                        
 vlc-plugin-base                          3.0.20-3build6                       deb                        
 vlc-plugin-video-output                  3.0.20-3build6                       deb                        
