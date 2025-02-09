@@ -538,7 +538,7 @@ libcxx                                                                        18
 libcxxabi                                                                     18.1.8-1.fc40                          rpm                         
 libdaemon                                                                     0.14-29.fc40                           rpm                         
 libdatrie                                                                     0.2.13-9.fc40                          rpm                         
-libdav1d                                                                      1.5.0-2.fc40                           rpm                         
+libdav1d                                                                      1.5.1-1.fc40                           rpm                         
 libdnf                                                                        0.73.4                                 python                      
 libdnf                                                                        0.73.4-1.fc40                          rpm                         
 libdovi                                                                       3.3.1-1.fc40                           rpm                         
