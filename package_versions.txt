@@ -573,7 +573,7 @@ libcxx                                                                        18
 libcxxabi                                                                     18.1.8-1.fc40                          rpm                         
 libdaemon                                                                     0.14-29.fc40                           rpm                         
 libdatrie                                                                     0.2.13-9.fc40                          rpm                         
-libdav1d                                                                      1.5.0-2.fc40                           rpm                         
+libdav1d                                                                      1.5.1-1.fc40                           rpm                         
 libdbusmenu                                                                   16.04.0-27.fc40                        rpm                         
 libdbusmenu-gtk3                                                              16.04.0-27.fc40                        rpm                         
 libdnf                                                                        0.73.4                                 python                      
