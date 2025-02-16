@@ -5,7 +5,7 @@ apt                               2.7.14build2                       deb
 apt-transport-https               2.7.14build2                       deb                        
 apt-utils                         2.7.14build2                       deb                        
 at-spi2-common                    2.52.0-1build1                     deb                        
-base-files                        13ubuntu10.1                       deb                        
+base-files                        13ubuntu10.2                       deb                        
 base-passwd                       3.6.3build1                        deb                        
 bash                              5.2.21-2ubuntu4                    deb                        
 blinker                           1.7.0                              python                     
@@ -84,7 +84,7 @@ jq                                1.7.1                              binary
 jq                                1.7.1-3build1                      deb                        
 keyboard-configuration            1.226ubuntu1                       deb                        
 keyboxd                           2.4.4-2ubuntu17                    deb                        
-krb5-locales                      1.20.1-6ubuntu2.2                  deb                        
+krb5-locales                      1.20.1-6ubuntu2.3                  deb                        
 launchpadlib                      1.11.0                             python                     
 lazr-restfulclient                0.14.6                             python                     
 lazr-uri                          1.0.6                              python                     
@@ -190,7 +190,7 @@ libgs-common                      10.02.1~dfsg1-0ubuntu7.4           deb
 libgs10                           10.02.1~dfsg1-0ubuntu7.4           deb                        
 libgs10-common                    10.02.1~dfsg1-0ubuntu7.4           deb                        
 libgsm1                           1.0.22-1build1                     deb                        
-libgssapi-krb5-2                  1.20.1-6ubuntu2.2                  deb                        
+libgssapi-krb5-2                  1.20.1-6ubuntu2.3                  deb                        
 libgstreamer-plugins-base1.0-0    1.24.2-1ubuntu0.2                  deb                        
 libgstreamer1.0-0                 1.24.2-1ubuntu0.1                  deb                        
 libgtk-3-0t64                     3.24.41-4ubuntu1.2                 deb                        
@@ -219,11 +219,11 @@ libjson-c5                        0.17-1build1                       deb
 libjson-glib-1.0-0                1.8.0-2build2                      deb                        
 libjson-glib-1.0-common           1.8.0-2build2                      deb                        
 libjxl0.7                         0.7.0-10.2ubuntu6                  deb                        
-libk5crypto3                      1.20.1-6ubuntu2.2                  deb                        
+libk5crypto3                      1.20.1-6ubuntu2.3                  deb                        
 libkeyutils1                      1.6.3-3build1                      deb                        
 libkmod2                          31+20240202-2ubuntu7.1             deb                        
-libkrb5-3                         1.20.1-6ubuntu2.2                  deb                        
-libkrb5support0                   1.20.1-6ubuntu2.2                  deb                        
+libkrb5-3                         1.20.1-6ubuntu2.3                  deb                        
+libkrb5support0                   1.20.1-6ubuntu2.3                  deb                        
 libksba8                          1.6.6-1build1                      deb                        
 liblcms2-2                        2.14-2build1                       deb                        
 libldap-common                    2.6.7+dfsg-1~exp1ubuntu8.1         deb                        
@@ -486,7 +486,7 @@ systemd-dev                       255.4-1ubuntu8.5                   deb
 systemd-sysv                      255.4-1ubuntu8.5                   deb                        
 sysvinit-utils                    3.08-6ubuntu3                      deb                        
 tar                               1.35+dfsg-3build1                  deb                        
-tzdata                            2024b-0ubuntu0.24.04               deb                        
+tzdata                            2024b-0ubuntu0.24.04.1             deb                        
 ubuntu-keyring                    2023.11.28.1                       deb                        
 ubuntu-mono                       24.04-0ubuntu1                     deb                        
 ucf                               3.0043+nmu1                        deb                        
