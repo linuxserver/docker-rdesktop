@@ -17,7 +17,7 @@ at-spi2-common                     2.52.0-1build1                            deb
 at-spi2-core                       2.52.0-1build1                            deb                           
 ayatana-indicator-application      22.2.0-1build2                            deb                           
 ayatana-indicator-common           0.9.10-1build2                            deb                           
-base-files                         13ubuntu10.1                              deb                           
+base-files                         13ubuntu10.2                              deb                           
 base-passwd                        3.6.3build1                               deb                           
 bash                               5.2.21-2ubuntu4                           deb                           
 bc                                 1.07.1-3ubuntu4                           deb                           
@@ -153,7 +153,7 @@ jq                                 1.7.1-3build1                             deb
 keyboard-configuration             1.226ubuntu1                              deb                           
 keyboxd                            2.4.4-2ubuntu17                           deb                           
 kmod                               31+20240202-2ubuntu7.1                    deb                           
-krb5-locales                       1.20.1-6ubuntu2.2                         deb                           
+krb5-locales                       1.20.1-6ubuntu2.3                         deb                           
 language-selector                  0.1                                       python                        
 language-selector-common           0.225                                     deb                           
 language-selector-gnome            0.225                                     deb                           
@@ -332,7 +332,7 @@ libgs-common                       10.02.1~dfsg1-0ubuntu7.4                  deb
 libgs10                            10.02.1~dfsg1-0ubuntu7.4                  deb                           
 libgs10-common                     10.02.1~dfsg1-0ubuntu7.4                  deb                           
 libgsm1                            1.0.22-1build1                            deb                           
-libgssapi-krb5-2                   1.20.1-6ubuntu2.2                         deb                           
+libgssapi-krb5-2                   1.20.1-6ubuntu2.3                         deb                           
 libgstreamer-gl1.0-0               1.24.2-1ubuntu0.2                         deb                           
 libgstreamer-plugins-base1.0-0     1.24.2-1ubuntu0.2                         deb                           
 libgstreamer-plugins-good1.0-0     1.24.2-1ubuntu1.1                         deb                           
@@ -386,11 +386,11 @@ libjson-c5                         0.17-1build1                              deb
 libjson-glib-1.0-0                 1.8.0-2build2                             deb                           
 libjson-glib-1.0-common            1.8.0-2build2                             deb                           
 libjxl0.7                          0.7.0-10.2ubuntu6                         deb                           
-libk5crypto3                       1.20.1-6ubuntu2.2                         deb                           
+libk5crypto3                       1.20.1-6ubuntu2.3                         deb                           
 libkeyutils1                       1.6.3-3build1                             deb                           
 libkmod2                           31+20240202-2ubuntu7.1                    deb                           
-libkrb5-3                          1.20.1-6ubuntu2.2                         deb                           
-libkrb5support0                    1.20.1-6ubuntu2.2                         deb                           
+libkrb5-3                          1.20.1-6ubuntu2.3                         deb                           
+libkrb5support0                    1.20.1-6ubuntu2.3                         deb                           
 libksba8                           1.6.6-1build1                             deb                           
 liblc3-1                           1.0.4-3build1                             deb                           
 liblcms2-2                         2.14-2build1                              deb                           
@@ -826,7 +826,7 @@ systemd-dev                        255.4-1ubuntu8.5                          deb
 systemd-sysv                       255.4-1ubuntu8.5                          deb                           
 sysvinit-utils                     3.08-6ubuntu3                             deb                           
 tar                                1.35+dfsg-3build1                         deb                           
-tzdata                             2024b-0ubuntu0.24.04                      deb                           
+tzdata                             2024b-0ubuntu0.24.04.1                    deb                           
 ubuntu-advantage-desktop-daemon    1.11ubuntu0.1                             deb                           
 ubuntu-drivers-common              0.0.0                                     python                        
 ubuntu-drivers-common              1:0.9.7.6ubuntu3.1                        deb                           
