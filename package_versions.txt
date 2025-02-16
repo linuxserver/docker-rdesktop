@@ -14,9 +14,9 @@ bsdextrautils                     2.38.1-5+deb12u3                deb
 bsdutils                          1:2.38.1-5+deb12u3              deb                        
 ca-certificates                   20230311                        deb                        
 catatonit                         0.1.7-1+b1                      deb                        
-chromium                          133.0.6943.53-1~deb12u1         deb                        
-chromium-common                   133.0.6943.53-1~deb12u1         deb                        
-chromium-l10n                     133.0.6943.53-1~deb12u1         deb                        
+chromium                          133.0.6943.98-1~deb12u1         deb                        
+chromium-common                   133.0.6943.98-1~deb12u1         deb                        
+chromium-l10n                     133.0.6943.98-1~deb12u1         deb                        
 coreutils                         9.1-1                           deb                        
 cpp                               4:12.2.0-3                      deb                        
 cpp-12                            12.2.0-14                       deb                        
@@ -334,7 +334,7 @@ libsvtav1enc1                     1.4.1+dfsg-1                    deb
 libswresample4                    7:5.1.6-0+deb12u1               deb                        
 libsystemd-shared                 252.33-1~deb12u1                deb                        
 libsystemd0                       252.33-1~deb12u1                deb                        
-libtasn1-6                        4.19.0-2                        deb                        
+libtasn1-6                        4.19.0-2+deb12u1                deb                        
 libtdb1                           1.4.8-2                         deb                        
 libthai-data                      0.1.29-1                        deb                        
 libthai0                          0.1.29-1                        deb                        
