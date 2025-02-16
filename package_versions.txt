@@ -19,9 +19,9 @@ bsdextrautils                            2.38.1-5+deb12u3                     de
 bsdutils                                 1:2.38.1-5+deb12u3                   deb                        
 ca-certificates                          20230311                             deb                        
 catatonit                                0.1.7-1+b1                           deb                        
-chromium                                 133.0.6943.53-1~deb12u1              deb                        
-chromium-common                          133.0.6943.53-1~deb12u1              deb                        
-chromium-l10n                            133.0.6943.53-1~deb12u1              deb                        
+chromium                                 133.0.6943.98-1~deb12u1              deb                        
+chromium-common                          133.0.6943.98-1~deb12u1              deb                        
+chromium-l10n                            133.0.6943.98-1~deb12u1              deb                        
 coreutils                                9.1-1                                deb                        
 cpp                                      4:12.2.0-3                           deb                        
 cpp-12                                   12.2.0-14                            deb                        
@@ -698,7 +698,7 @@ libtag1v5                                1.13-2                               de
 libtag1v5-vanilla                        1.13-2                               deb                        
 libtalloc2                               2.4.0-f2                             deb                        
 libtaskmanager6abi1                      4:5.27.5-2+deb12u2                   deb                        
-libtasn1-6                               4.19.0-2                             deb                        
+libtasn1-6                               4.19.0-2+deb12u1                     deb                        
 libtdb1                                  1.4.8-2                              deb                        
 libtevent0                               0.14.1-1                             deb                        
 libthai-data                             0.1.29-1                             deb                        
