@@ -7,6 +7,7 @@ apt-utils                         2.6.1                           deb
 at-spi2-common                    2.46.0-5                        deb                        
 base-files                        12.4+deb12u9                    deb                        
 base-passwd                       3.6.1                           deb                        
+bash                              5.2.15                          binary                     
 bash                              5.2.15-2+b7                     deb                        
 blinker                           1.5                             python                     
 bsd-mailx                         8.1.2-0.20220412cvs-1           deb                        
@@ -14,9 +15,9 @@ bsdextrautils                     2.38.1-5+deb12u3                deb
 bsdutils                          1:2.38.1-5+deb12u3              deb                        
 ca-certificates                   20230311                        deb                        
 catatonit                         0.1.7-1+b1                      deb                        
-chromium                          133.0.6943.98-1~deb12u1         deb                        
-chromium-common                   133.0.6943.98-1~deb12u1         deb                        
-chromium-l10n                     133.0.6943.98-1~deb12u1         deb                        
+chromium                          133.0.6943.126-1~deb12u1        deb                        
+chromium-common                   133.0.6943.126-1~deb12u1        deb                        
+chromium-l10n                     133.0.6943.126-1~deb12u1        deb                        
 coreutils                         9.1-1                           deb                        
 cpp                               4:12.2.0-3                      deb                        
 cpp-12                            12.2.0-14                       deb                        
@@ -43,7 +44,7 @@ dirmngr                           2.2.40-1.1                      deb
 distro                            1.8.0                           python                     
 distro-info-data                  0.58+deb12u3                    deb                        
 dmsetup                           2:1.02.185-2                    deb                        
-docker-ce-cli                     5:27.5.1-1~debian.12~bookworm   deb                        
+docker-ce-cli                     5:28.0.0-1~debian.12~bookworm   deb                        
 dpkg                              1.21.22                         deb                        
 e2fsprogs                         1.47.0-2                        deb                        
 exim4-base                        4.96-15+deb12u6                 deb                        
@@ -60,7 +61,7 @@ gawk                              1:5.2.1-2                       deb
 gcc-12-base                       12.2.0-14                       deb                        
 gir1.2-glib-2.0                   1.74.0-3                        deb                        
 gir1.2-packagekitglib-1.0         1.2.6-5                         deb                        
-github.com/docker/cli/cmd/docker  v27.5.1                         go-module                  
+github.com/docker/cli/cmd/docker  v28.0.0                         go-module                  
 gnupg                             2.2.40-1.1                      deb                        
 gnupg-l10n                        2.2.40-1.1                      deb                        
 gnupg-utils                       2.2.40-1.1                      deb                        
@@ -75,6 +76,7 @@ gpgv                              2.2.40-1.1                      deb
 grep                              3.8-5                           deb                        
 groff-base                        1.22.4-10                       deb                        
 gtk-update-icon-cache             3.24.38-2~deb12u3               deb                        
+gzip                              1.12                            binary                     
 gzip                              1.12-1                          deb                        
 hicolor-icon-theme                0.17-2                          deb                        
 hostname                          3.23+nmu1                       deb                        
@@ -191,8 +193,8 @@ libglvnd0                         1.6.0-1                         deb
 libglx-mesa0                      22.3.6-1+deb12u1                deb                        
 libglx0                           1.6.0-1                         deb                        
 libgmp10                          2:6.2.1+dfsg1-1.1               deb                        
-libgnutls-dane0                   3.7.9-2+deb12u3                 deb                        
-libgnutls30                       3.7.9-2+deb12u3                 deb                        
+libgnutls-dane0                   3.7.9-2+deb12u4                 deb                        
+libgnutls30                       3.7.9-2+deb12u4                 deb                        
 libgomp1                          12.2.0-14                       deb                        
 libgpg-error0                     1.46-1                          deb                        
 libgpm2                           1.20.7-10+b1                    deb                        
@@ -459,7 +461,7 @@ netcat-traditional                1.10-47                         deb
 oauthlib                          3.2.2                           python                     
 ocl-icd-libopencl1                2.3.1-1                         deb                        
 openbox                           3.6.1-10                        deb                        
-openssh-client                    1:9.2p1-2+deb12u4               deb                        
+openssh-client                    1:9.2p1-2+deb12u5               deb                        
 openssl                           3.0.15-1~deb12u1                deb                        
 packagekit                        1.2.6-5                         deb                        
 passwd                            1:4.13+dfsg1-1+b1               deb                        
@@ -508,7 +510,7 @@ shared-mime-info                  2.2-1                           deb
 six                               1.16.0                          python                     
 software-properties-common        0.99.30-4.1~deb12u1             deb                        
 ssl-cert                          1.1.2                           deb                        
-stdlib                            go1.22.11                       go-module                  
+stdlib                            go1.23.6                        go-module                  
 stterm                            0.9-1                           deb                        
 sudo                              1.9.13p3-1+deb12u1              deb                        
 systemd                           252.33-1~deb12u1                deb                        
