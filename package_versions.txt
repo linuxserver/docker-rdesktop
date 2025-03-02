@@ -528,7 +528,7 @@ libass                                                                        0.
 libasyncns                                                                    0.8-r3                                              apk                         
 libatk-1.0                                                                    2.52.0-r0                                           apk                         
 libatk-bridge-2.0                                                             2.52.0-r0                                           apk                         
-libatomic                                                                     13.2.1_git20240309-r0                               apk                         
+libatomic                                                                     13.2.1_git20240309-r1                               apk                         
 libattr                                                                       2.5.2-r0                                            apk                         
 libavif                                                                       1.0.4-r0                                            apk                         
 libblkid                                                                      2.40.1-r1                                           apk                         
@@ -561,10 +561,10 @@ libffi                                                                        3.
 libflac                                                                       1.4.3-r1                                            apk                         
 libfontenc                                                                    1.1.8-r0                                            apk                         
 libfreeaptx                                                                   0.1.1-r1                                            apk                         
-libgcc                                                                        13.2.1_git20240309-r0                               apk                         
+libgcc                                                                        13.2.1_git20240309-r1                               apk                         
 libgcrypt                                                                     1.10.3-r0                                           apk                         
 libgepub                                                                      0.7.1-r1                                            apk                         
-libgomp                                                                       13.2.1_git20240309-r0                               apk                         
+libgomp                                                                       13.2.1_git20240309-r1                               apk                         
 libgpg-error                                                                  1.49-r0                                             apk                         
 libgsf                                                                        1.14.52-r0                                          apk                         
 libgsf-lang                                                                   1.14.52-r0                                          apk                         
@@ -621,7 +621,7 @@ libsrt                                                                        1.
 libsrtp                                                                       2.5.0-r1                                            apk                         
 libssh                                                                        0.10.6-r0                                           apk                         
 libssl3                                                                       3.3.3-r0                                            apk                         
-libstdc++                                                                     13.2.1_git20240309-r0                               apk                         
+libstdc++                                                                     13.2.1_git20240309-r1                               apk                         
 libtasn1                                                                      4.20.0-r0                                           apk                         
 libtheora                                                                     1.1.1-r18                                           apk                         
 libturbojpeg                                                                  3.0.3-r0                                            apk                         
