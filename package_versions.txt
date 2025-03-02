@@ -503,8 +503,8 @@ libfdisk                                                                      2.
 libffi                                                                        3.4.6-r0                                            apk                         
 libflac                                                                       1.4.3-r1                                            apk                         
 libfontenc                                                                    1.1.8-r0                                            apk                         
-libgcc                                                                        13.2.1_git20240309-r0                               apk                         
-libgomp                                                                       13.2.1_git20240309-r0                               apk                         
+libgcc                                                                        13.2.1_git20240309-r1                               apk                         
+libgomp                                                                       13.2.1_git20240309-r1                               apk                         
 libhwy                                                                        1.0.7-r0                                            apk                         
 libice                                                                        1.1.1-r6                                            apk                         
 libid3tag                                                                     0.16.2-r2                                           apk                         
@@ -537,7 +537,7 @@ libsm                                                                         1.
 libsmartcols                                                                  2.40.1-r1                                           apk                         
 libsndfile                                                                    1.2.2-r1                                            apk                         
 libssl3                                                                       3.3.3-r0                                            apk                         
-libstdc++                                                                     13.2.1_git20240309-r0                               apk                         
+libstdc++                                                                     13.2.1_git20240309-r1                               apk                         
 libtasn1                                                                      4.20.0-r0                                           apk                         
 libtheora                                                                     1.1.1-r18                                           apk                         
 libturbojpeg                                                                  3.0.3-r0                                            apk                         
