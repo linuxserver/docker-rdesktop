@@ -527,9 +527,9 @@ libfdisk                                                                      2.
 libffi                                                                        3.4.6-r0                                            apk                         
 libflac                                                                       1.4.3-r1                                            apk                         
 libfontenc                                                                    1.1.8-r0                                            apk                         
-libgcc                                                                        13.2.1_git20240309-r0                               apk                         
+libgcc                                                                        13.2.1_git20240309-r1                               apk                         
 libgcrypt                                                                     1.10.3-r0                                           apk                         
-libgomp                                                                       13.2.1_git20240309-r0                               apk                         
+libgomp                                                                       13.2.1_git20240309-r1                               apk                         
 libgpg-error                                                                  1.49-r0                                             apk                         
 libgtop                                                                       2.41.3-r0                                           apk                         
 libgtop-lang                                                                  2.41.3-r0                                           apk                         
@@ -580,7 +580,7 @@ libsndfile                                                                    1.
 libsoup                                                                       2.74.3-r2                                           apk                         
 libsoup-lang                                                                  2.74.3-r2                                           apk                         
 libssl3                                                                       3.3.3-r0                                            apk                         
-libstdc++                                                                     13.2.1_git20240309-r0                               apk                         
+libstdc++                                                                     13.2.1_git20240309-r1                               apk                         
 libtasn1                                                                      4.20.0-r0                                           apk                         
 libtheora                                                                     1.1.1-r18                                           apk                         
 libturbojpeg                                                                  3.0.3-r0                                            apk                         
