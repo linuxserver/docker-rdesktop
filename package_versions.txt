@@ -778,9 +778,9 @@ libffi                                                                        3.
 libflac                                                                       1.4.3-r1                                            apk                         
 libfontenc                                                                    1.1.8-r0                                            apk                         
 libfprint                                                                     1.94.7-r0                                           apk                         
-libgcc                                                                        13.2.1_git20240309-r0                               apk                         
+libgcc                                                                        13.2.1_git20240309-r1                               apk                         
 libgcrypt                                                                     1.10.3-r0                                           apk                         
-libgomp                                                                       13.2.1_git20240309-r0                               apk                         
+libgomp                                                                       13.2.1_git20240309-r1                               apk                         
 libgpg-error                                                                  1.49-r0                                             apk                         
 libgudev                                                                      238-r0                                              apk                         
 libgusb                                                                       0.4.9-r0                                            apk                         
@@ -847,7 +847,7 @@ libsodium                                                                     1.
 libsrt                                                                        1.5.3-r0                                            apk                         
 libssh                                                                        0.10.6-r0                                           apk                         
 libssl3                                                                       3.3.3-r0                                            apk                         
-libstdc++                                                                     13.2.1_git20240309-r0                               apk                         
+libstdc++                                                                     13.2.1_git20240309-r1                               apk                         
 libtag                                                                        1.13.1-r0                                           apk                         
 libtasn1                                                                      4.20.0-r0                                           apk                         
 libtheora                                                                     1.1.1-r18                                           apk                         
