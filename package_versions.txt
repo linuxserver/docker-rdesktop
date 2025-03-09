@@ -569,7 +569,7 @@ libxinerama                                                                   1.
 libxkbcommon                                                                  1.7.0-r0                                            apk                         
 libxkbcommon-x11                                                              1.7.0-r0                                            apk                         
 libxkbfile                                                                    1.1.3-r0                                            apk                         
-libxml2                                                                       2.12.7-r0                                           apk                         
+libxml2                                                                       2.12.7-r1                                           apk                         
 libxmu                                                                        1.1.4-r2                                            apk                         
 libxpm                                                                        3.5.17-r0                                           apk                         
 libxrandr                                                                     1.5.4-r1                                            apk                         
