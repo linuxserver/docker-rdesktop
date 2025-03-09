@@ -887,8 +887,8 @@ libxinerama                                                                   1.
 libxkbcommon                                                                  1.7.0-r0                                            apk                         
 libxkbcommon-x11                                                              1.7.0-r0                                            apk                         
 libxkbfile                                                                    1.1.3-r0                                            apk                         
-libxml2                                                                       2.12.7-r0                                           apk                         
-libxml2-utils                                                                 2.12.7-r0                                           apk                         
+libxml2                                                                       2.12.7-r1                                           apk                         
+libxml2-utils                                                                 2.12.7-r1                                           apk                         
 libxmlb                                                                       0.3.19-r0                                           apk                         
 libxmu                                                                        1.1.4-r2                                            apk                         
 libxpm                                                                        3.5.17-r0                                           apk                         
