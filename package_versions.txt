@@ -35,11 +35,11 @@ cairomm1.16                                                                   1.
 caja                                                                          1.28.0-1.fc40                          rpm                         
 caja-core-extensions                                                          1.28.0-1.fc40                          rpm                         
 caja-schemas                                                                  1.28.0-1.fc40                          rpm                         
-catatonit                                                                     0.1.7-22.fc40                          rpm                         
+catatonit                                                                     0.2.1-1.fc40                           rpm                         
 cdparanoia-libs                                                               10.2-44.fc40                           rpm                         
 checkpolicy                                                                   3.7-2.fc40                             rpm                         
-chromium                                                                      133.0.6943.141-1.fc40                  rpm                         
-chromium-common                                                               133.0.6943.141-1.fc40                  rpm                         
+chromium                                                                      134.0.6998.35-1.fc40                   rpm                         
+chromium-common                                                               134.0.6998.35-1.fc40                   rpm                         
 cloud.google.com/go/compute/metadata                                          v0.5.2                                 go-module                   
 cloud.google.com/go/logging                                                   v1.9.0                                 go-module                   
 cloud.google.com/go/longrunning                                               v0.5.4                                 go-module                   
@@ -552,7 +552,7 @@ libXvMC                                                                       1.
 libXxf86vm                                                                    1.1.5-6.fc40                           rpm                         
 libacl                                                                        2.3.2-1.fc40                           rpm                         
 libadwaita                                                                    1.5.5-1.fc40                           rpm                         
-libaom                                                                        3.11.0-1.fc40                          rpm                         
+libaom                                                                        3.12.0-1.fc40                          rpm                         
 libappindicator-gtk3                                                          12.10.1-4.fc40                         rpm                         
 libarchive                                                                    3.7.2-7.fc40                           rpm                         
 libass                                                                        0.17.1-4.fc40                          rpm                         
