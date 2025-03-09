@@ -15,9 +15,9 @@ bsdextrautils                     2.38.1-5+deb12u3                 deb
 bsdutils                          1:2.38.1-5+deb12u3               deb                        
 ca-certificates                   20230311                         deb                        
 catatonit                         0.1.7-1+b1                       deb                        
-chromium                          133.0.6943.126-1~deb12u1         deb                        
-chromium-common                   133.0.6943.126-1~deb12u1         deb                        
-chromium-l10n                     133.0.6943.126-1~deb12u1         deb                        
+chromium                          134.0.6998.35-1~deb12u1          deb                        
+chromium-common                   134.0.6998.35-1~deb12u1          deb                        
+chromium-l10n                     134.0.6998.35-1~deb12u1          deb                        
 coreutils                         9.1-1                            deb                        
 cpp                               4:12.2.0-3                       deb                        
 cpp-12                            12.2.0-14                        deb                        
@@ -575,8 +575,8 @@ xml-core                          0.18+nmu1                        deb
 xorg-sgml-doctools                1:1.11-1.1                       deb                        
 xorgxrdp                          1:0.9.19-1                       deb                        
 xrdp                              0.9.24-5~bpo12+1                 deb                        
-xserver-common                    2:21.1.7-3+deb12u8               deb                        
-xserver-xorg-core                 2:21.1.7-3+deb12u8               deb                        
+xserver-common                    2:21.1.7-3+deb12u9               deb                        
+xserver-xorg-core                 2:21.1.7-3+deb12u9               deb                        
 xserver-xorg-video-amdgpu         23.0.0-1                         deb                        
 xserver-xorg-video-ati            1:19.1.0-3                       deb                        
 xserver-xorg-video-intel          2:2.99.917+git20210115-1         deb                        
