@@ -31,15 +31,15 @@ cairomm1.16                                                                   1.
 catatonit                                                                     0.2.1-1.fc40                           rpm                         
 cdparanoia-libs                                                               10.2-44.fc40                           rpm                         
 checkpolicy                                                                   3.7-2.fc40                             rpm                         
-chromium                                                                      134.0.6998.35-1.fc40                   rpm                         
-chromium-common                                                               134.0.6998.35-1.fc40                   rpm                         
+chromium                                                                      134.0.6998.88-1.fc40                   rpm                         
+chromium-common                                                               134.0.6998.88-1.fc40                   rpm                         
 cloud.google.com/go/compute/metadata                                          v0.5.2                                 go-module                   
 cloud.google.com/go/logging                                                   v1.9.0                                 go-module                   
 cloud.google.com/go/longrunning                                               v0.5.4                                 go-module                   
 code.cloudfoundry.org/clock                                                   v1.1.0                                 go-module                   
 codec2                                                                        1.2.0-4.fc40                           rpm                         
 colord-libs                                                                   1.4.7-3.fc40                           rpm                         
-container-selinux                                                             2:2.234.2-1.fc40                       rpm                         
+container-selinux                                                             4:2.235.0-2.fc40                       rpm                         
 containerd.io                                                                 1.7.25-3.1.fc40                        rpm                         
 coreutils                                                                     9.4-9.fc40                             rpm                         
 coreutils-common                                                              9.4-9.fc40                             rpm                         
@@ -471,7 +471,7 @@ hostname                                                                      3.
 hunspell                                                                      1.7.2-7.fc40                           rpm                         
 hunspell-en-US                                                                0.20201207-9.fc40                      rpm                         
 hunspell-filesystem                                                           1.7.2-7.fc40                           rpm                         
-hwdata                                                                        0.392-1.fc40                           rpm                         
+hwdata                                                                        0.393-1.fc40                           rpm                         
 iceauth                                                                       1.0.9-7.fc40                           rpm                         
 ilbc                                                                          3.0.4-10.fc40                          rpm                         
 ima-evm-utils                                                                 1.5-4.fc40                             rpm                         
@@ -616,7 +616,7 @@ libinput                                                                      1.
 libjpeg-turbo                                                                 3.0.2-1.fc40                           rpm                         
 libjxl                                                                        1:0.8.4-1.fc40                         rpm                         
 libksba                                                                       1.6.6-1.fc40                           rpm                         
-liblc3                                                                        1.1.1-1.fc40                           rpm                         
+liblc3                                                                        1.1.3-1.fc40                           rpm                         
 libldac                                                                       2.0.2.3-15.fc40                        rpm                         
 libldb                                                                        2.9.2-2.fc40                           rpm                         
 liblerc                                                                       4.0.0-6.fc40                           rpm                         
@@ -864,11 +864,11 @@ stdlib                                                                        go
 stdlib                                                                        go1.23.6                               go-module  (+2 duplicates)  
 sudo                                                                          1.9.15-2.p5.fc40                       rpm                         
 svt-av1-libs                                                                  2.3.0-1.fc40                           rpm                         
-systemd                                                                       255.16-1.fc40                          rpm                         
-systemd-libs                                                                  255.16-1.fc40                          rpm                         
-systemd-pam                                                                   255.16-1.fc40                          rpm                         
+systemd                                                                       255.18-1.fc40                          rpm                         
+systemd-libs                                                                  255.18-1.fc40                          rpm                         
+systemd-pam                                                                   255.18-1.fc40                          rpm                         
 systemd-python                                                                235                                    python                      
-systemd-udev                                                                  255.16-1.fc40                          rpm                         
+systemd-udev                                                                  255.18-1.fc40                          rpm                         
 tags.cncf.io/container-device-interface                                       v0.7.2                                 go-module                   
 tags.cncf.io/container-device-interface                                       v0.8.1                                 go-module                   
 tags.cncf.io/container-device-interface/specs-go                              v0.7.0                                 go-module                   
@@ -877,8 +877,8 @@ tar                                                                           2:
 tesseract                                                                     5.3.4-4.fc40                           rpm                         
 tesseract-langpack-eng                                                        4.1.0-7.fc40                           rpm                         
 tesseract-tessdata-doc                                                        4.1.0-7.fc40                           rpm                         
-tigervnc-license                                                              1.15.0-1.fc40                          rpm                         
-tigervnc-server-minimal                                                       1.15.0-1.fc40                          rpm                         
+tigervnc-license                                                              1.15.0-2.fc40                          rpm                         
+tigervnc-server-minimal                                                       1.15.0-2.fc40                          rpm                         
 tpm2-tss                                                                      4.1.3-1.fc40                           rpm                         
 tumbler                                                                       4.18.2-2.fc40                          rpm                         
 twolame-libs                                                                  0.4.0-4.fc40                           rpm                         
@@ -940,8 +940,8 @@ xorg-x11-drv-intel                                                            2.
 xorg-x11-drv-libinput                                                         1.4.0-2.fc40                           rpm                         
 xorg-x11-drv-nouveau                                                          1:1.0.17-7.fc40                        rpm                         
 xorg-x11-drv-qxl                                                              0.1.6-3.fc40                           rpm                         
-xorg-x11-server-Xorg                                                          1.20.14-36.fc40                        rpm                         
-xorg-x11-server-common                                                        1.20.14-36.fc40                        rpm                         
+xorg-x11-server-Xorg                                                          1.20.14-37.fc40                        rpm                         
+xorg-x11-server-common                                                        1.20.14-37.fc40                        rpm                         
 xorg-x11-xauth                                                                1:1.1.2-6.fc40                         rpm                         
 xorg-x11-xinit                                                                1.4.2-2.fc40                           rpm                         
 xorgxrdp                                                                      0.10.3-5.fc40                          rpm                         
