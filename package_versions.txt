@@ -12,7 +12,7 @@ alsa-ucm-conf                                                                 1.
 aom                                                                           3.12.0-1                               alpm                           
 appstream                                                                     1.0.4-1                                alpm                           
 archlinux-keyring                                                             20250123-1                             alpm                           
-at-spi2-core                                                                  2.54.1-1                               alpm                           
+at-spi2-core                                                                  2.56.0-1                               alpm                           
 attr                                                                          2.5.2-1                                alpm                           
 audit                                                                         4.0.3-1                                alpm                           
 autoconf                                                                      2.72-1                                 alpm                           
@@ -34,13 +34,13 @@ cairo                                                                         1.
 caja                                                                          1.28.0-2                               alpm                           
 cantarell-fonts                                                               1:0.303.1-2                            alpm                           
 catatonit                                                                     0.2.1-1                                alpm                           
-chromium                                                                      134.0.6998.88-1                        alpm                           
+chromium                                                                      134.0.6998.117-1                       alpm                           
 cloud.google.com/go/compute/metadata                                          v0.5.2                                 go-module                      
 cloud.google.com/go/logging                                                   v1.9.0                                 go-module                      
 cloud.google.com/go/longrunning                                               v0.5.4                                 go-module                      
 code.cloudfoundry.org/clock                                                   v1.1.0                                 go-module                      
 command-line-arguments                                                        (devel)                                go-module                      
-containerd                                                                    2.0.3-1                                alpm                           
+containerd                                                                    2.0.4-1                                alpm                           
 coreutils                                                                     9.6-4                                  alpm                           
 cryptsetup                                                                    2.7.5-2                                alpm                           
 curl                                                                          8.12.1-1                               alpm                           
@@ -66,8 +66,8 @@ duktape                                                                       2.
 e2fsprogs                                                                     1.47.2-1                               alpm                           
 enchant                                                                       2.8.2-2                                alpm                           
 exempi                                                                        2.6.5-1                                alpm                           
-expat                                                                         2.6.4-1                                alpm                           
-fakeroot                                                                      1.37-1                                 alpm                           
+expat                                                                         2.7.0-1                                alpm                           
+fakeroot                                                                      1.37.1-1                               alpm                           
 fftw                                                                          3.3.10-7                               alpm                           
 file                                                                          5.46-3                                 alpm                           
 filesystem                                                                    2024.11.21-1                           alpm                           
@@ -84,7 +84,7 @@ gawk                                                                          5.
 gc                                                                            8.2.8-2                                alpm                           
 gcc                                                                           14.2.1+r753+g1cd744a6828f-1            alpm                           
 gcc-libs                                                                      14.2.1+r753+g1cd744a6828f-1            alpm                           
-gcr-4                                                                         4.3.0-1                                alpm                           
+gcr-4                                                                         4.3.1-1                                alpm                           
 gdbm                                                                          1.24-2                                 alpm                           
 gdk-pixbuf2                                                                   2.42.12-2                              alpm                           
 gettext                                                                       0.24-1                                 alpm                           
@@ -131,7 +131,7 @@ github.com/containerd/cgroups/v3                                              v3
 github.com/containerd/console                                                 v1.0.4                                 go-module     (+4 duplicates)  
 github.com/containerd/containerd/api                                          v1.8.0                                 go-module     (+4 duplicates)  
 github.com/containerd/containerd/v2                                           v2.0.2                                 go-module                      
-github.com/containerd/containerd/v2                                           v2.0.3                                 go-module     (+3 duplicates)  
+github.com/containerd/containerd/v2                                           v2.0.4                                 go-module     (+3 duplicates)  
 github.com/containerd/continuity                                              v0.4.4                                 go-module     (+3 duplicates)  
 github.com/containerd/continuity                                              v0.4.5                                 go-module                      
 github.com/containerd/errdefs                                                 v1.0.0                                 go-module     (+4 duplicates)  
@@ -369,9 +369,9 @@ groff                                                                         1.
 gsettings-desktop-schemas                                                     47.1-1                                 alpm                           
 gsettings-system-schemas                                                      47.1-1                                 alpm                           
 gssdp                                                                         1.6.3-2                                alpm                           
-gst-plugins-bad-libs                                                          1.24.12-4                              alpm                           
-gst-plugins-base-libs                                                         1.24.12-4                              alpm                           
-gstreamer                                                                     1.24.12-4                              alpm                           
+gst-plugins-bad-libs                                                          1.26.0-1                               alpm                           
+gst-plugins-base-libs                                                         1.26.0-1                               alpm                           
+gstreamer                                                                     1.26.0-1                               alpm                           
 gtest                                                                         1.16.0-2                               alpm                           
 gtk-layer-shell                                                               0.9.0-1                                alpm                           
 gtk-update-icon-cache                                                         1:4.16.12-1                            alpm                           
@@ -386,16 +386,17 @@ gzip                                                                          1.
 harfbuzz                                                                      10.4.0-1                               alpm                           
 harfbuzz-icu                                                                  10.4.0-1                               alpm                           
 hicolor-icon-theme                                                            0.18-1                                 alpm                           
+hidapi                                                                        0.14.0-3                               alpm                           
 highway                                                                       1.2.0-1                                alpm                           
 hwdata                                                                        0.393-1                                alpm                           
 hyphen                                                                        2.8.8-6                                alpm                           
 iana-etc                                                                      20250213-1                             alpm                           
 icu                                                                           76.1-1                                 alpm                           
-imlib2                                                                        1.12.3-2                               alpm                           
+imlib2                                                                        1.12.4-1                               alpm                           
 intel-gmmlib                                                                  22.6.0-1                               alpm                           
-intel-media-driver                                                            25.1.2-1                               alpm                           
+intel-media-driver                                                            25.1.3-1                               alpm                           
 iproute2                                                                      6.13.0-1                               alpm                           
-iptables                                                                      1:1.8.10-2                             alpm                           
+iptables                                                                      1:1.8.11-1                             alpm                           
 iso-codes                                                                     4.17.0-1                               alpm                           
 jansson                                                                       2.14-4                                 alpm                           
 jbigkit                                                                       2.1-8                                  alpm                           
@@ -423,12 +424,12 @@ lame                                                                          3.
 lcms2                                                                         2.17-1                                 alpm                           
 leancrypto                                                                    1.2.0-2                                alpm                           
 less                                                                          1:668-1                                alpm                           
-libadwaita                                                                    1:1.6.4-1                              alpm                           
-libarchive                                                                    3.7.7-2                                alpm                           
+libadwaita                                                                    1:1.6.5-1                              alpm                           
+libarchive                                                                    3.7.7-3                                alpm                           
 libassuan                                                                     3.0.0-1                                alpm                           
 libasyncns                                                                    1:0.8+r3+g68cd5af-3                    alpm                           
 libatasmart                                                                   0.19-6                                 alpm                           
-libavif                                                                       1.2.0-2                                alpm                           
+libavif                                                                       1.2.1-1                                alpm                           
 libayatana-appindicator                                                       0.5.94-1                               alpm                           
 libayatana-indicator                                                          0.9.4-1                                alpm                           
 libblockdev                                                                   3.3.0-1                                alpm                           
@@ -468,7 +469,7 @@ libfdk-aac                                                                    2.
 libffi                                                                        3.4.7-1                                alpm                           
 libfontenc                                                                    1.1.8-1                                alpm                           
 libgcrypt                                                                     1.11.0-3                               alpm                           
-libgirepository                                                               1.82.0-3                               alpm                           
+libgirepository                                                               1.84.0-1                               alpm                           
 libglvnd                                                                      1.7.0-1                                alpm                           
 libgpg-error                                                                  1.51-1                                 alpm                           
 libgtop                                                                       2.41.3-2                               alpm                           
@@ -479,10 +480,10 @@ libidn2                                                                       2.
 libinput                                                                      1.27.1-1                               alpm                           
 libisl                                                                        0.27-1                                 alpm                           
 libjpeg-turbo                                                                 3.1.0-1                                alpm                           
-libjxl                                                                        0.11.1-1                               alpm                           
+libjxl                                                                        0.11.1-3                               alpm                           
 libksba                                                                       1.6.7-1                                alpm                           
 libldap                                                                       2.6.9-1                                alpm                           
-libmanette                                                                    0.2.9-2                                alpm                           
+libmanette                                                                    0.2.11-2                               alpm                           
 libmatekbd                                                                    1.28.0-1                               alpm                           
 libmatemixer                                                                  1.28.0-1                               alpm                           
 libmateweather                                                                1.28.0-1                               alpm                           
@@ -509,7 +510,7 @@ libpsl                                                                        0.
 libpulse                                                                      17.0+r43+g3e2bb8a1e-1                  alpm                           
 librsvg                                                                       2:2.59.2-1                             alpm                           
 libsasl                                                                       2.1.28-5                               alpm                           
-libseccomp                                                                    2.5.5-4                                alpm                           
+libseccomp                                                                    2.5.6-1                                alpm                           
 libsecret                                                                     0.21.6-1                               alpm                           
 libsm                                                                         1.2.6-1                                alpm                           
 libsndfile                                                                    1.2.2-3                                alpm                           
@@ -526,7 +527,7 @@ libtirpc                                                                      1.
 libtool                                                                       2.5.4+r1+gbaa1fe41-3                   alpm                           
 libunistring                                                                  1.3-1                                  alpm                           
 libunwind                                                                     1.8.1-3                                alpm                           
-libusb                                                                        1.0.27-1                               alpm                           
+libusb                                                                        1.0.28-1                               alpm                           
 libutempter                                                                   1.2.3-1                                alpm                           
 libva                                                                         2.22.0-1                               alpm                           
 libverto                                                                      0.3.2-5                                alpm                           
@@ -622,7 +623,7 @@ pacman                                                                        7.
 pacman-mirrorlist                                                             20250311-1                             alpm                           
 pam                                                                           1.7.0-2                                alpm                           
 pambase                                                                       20230918-2                             alpm                           
-pango                                                                         1:1.56.2-1                             alpm                           
+pango                                                                         1:1.56.3-1                             alpm                           
 parted                                                                        3.6-2                                  alpm                           
 patch                                                                         2.7.6-10                               alpm                           
 pciutils                                                                      3.13.0-2                               alpm                           
@@ -631,7 +632,7 @@ pcsclite                                                                      2.
 perl                                                                          5.40.1-2                               alpm                           
 pinentry                                                                      1.3.1-5                                alpm                           
 pixman                                                                        0.44.2-1                               alpm                           
-pkgconf                                                                       2.3.0-1                                alpm                           
+pkgconf                                                                       2.4.3-1                                alpm                           
 pluma                                                                         1.28.0-5                               alpm                           
 polkit                                                                        126-2                                  alpm                           
 popt                                                                          1.19-2                                 alpm                           
@@ -642,9 +643,9 @@ rav1e                                                                         0.
 readline                                                                      8.2.013-1                              alpm                           
 resenje.org/singleflight                                                      v0.4.3                                 go-module                      
 rtkit                                                                         0.13-3                                 alpm                           
-runc                                                                          1.2.5-1                                alpm                           
+runc                                                                          1.2.6-1                                alpm                           
 sed                                                                           4.9-3                                  alpm                           
-shadow                                                                        4.17.3-1                               alpm                           
+shadow                                                                        4.17.4-1                               alpm                           
 shared-mime-info                                                              2.4-1                                  alpm                           
 sigs.k8s.io/json                                                              v0.0.0-20221116044647-bc3834ca7abd     go-module                      
 sigs.k8s.io/structured-merge-diff/v4                                          v4.4.1                                 go-module                      
@@ -656,8 +657,7 @@ spice-protocol                                                                0.
 spirv-tools                                                                   1:1.4.309.0-1                          alpm                           
 sqlite                                                                        3.49.1-1                               alpm                           
 startup-notification                                                          0.12-8                                 alpm                           
-stdlib                                                                        go1.24.0                               go-module     (+4 duplicates)  
-stdlib                                                                        go1.24.1                               go-module     (+3 duplicates)  
+stdlib                                                                        go1.24.1                               go-module     (+8 duplicates)  
 sudo                                                                          1.9.16.p2-2                            alpm                           
 svt-av1                                                                       3.0.1-1                                alpm                           
 systemd                                                                       257.4-1                                alpm                           
@@ -673,8 +673,8 @@ ttf-liberation                                                                2.
 turbojpeg                                                                     UNKNOWN                                java-archive                   
 tzdata                                                                        2025a-1                                alpm                           
 udisks2                                                                       2.10.1-5                               alpm                           
-util-linux                                                                    2.40.4-1                               alpm                           
-util-linux-libs                                                               2.40.4-1                               alpm                           
+util-linux                                                                    2.41-2                                 alpm                           
+util-linux-libs                                                               2.41-2                                 alpm                           
 volume_key                                                                    0.3.12-10                              alpm                           
 vte-common                                                                    0.78.4-1                               alpm                           
 vte3                                                                          0.78.4-1                               alpm                           
