@@ -45,13 +45,13 @@ dirmngr                                  2.4.4-2ubuntu17                      de
 distro                                   1.9.0                                python                     
 distro-info-data                         0.60ubuntu0.2                        deb                        
 dmidecode                                3.5-3ubuntu0.1                       deb                        
-docker-ce-cli                            5:28.0.1-1~ubuntu.24.04~noble        deb                        
+docker-ce-cli                            5:28.0.2-1~ubuntu.24.04~noble        deb                        
 dolphin                                  4:23.08.5-0ubuntu4                   deb                        
 dpkg                                     1.22.6ubuntu6.1                      deb                        
 drkonqi                                  5.27.11-0ubuntu3                     deb                        
 e2fsprogs                                1.47.0-2.4~exp1ubuntu4.1             deb                        
 findutils                                4.9.0-5build1                        deb                        
-firefox                                  136.0.1+build1-0ubuntu0.24.04.1~mt1  deb                        
+firefox                                  136.0.2+build1-0ubuntu0.24.04.1~mt1  deb                        
 fontconfig                               2.15.0-1.1ubuntu2                    deb                        
 fontconfig-config                        2.15.0-1.1ubuntu2                    deb                        
 fonts-noto-color-emoji                   2.047-0ubuntu0.24.04.1               deb                        
@@ -66,7 +66,7 @@ gdb                                      15.0.50.20240403-0ubuntu1            de
 gir1.2-girepository-2.0                  1.80.1-1                             deb                        
 gir1.2-glib-2.0                          2.80.0-6ubuntu3.2                    deb                        
 gir1.2-packagekitglib-1.0                1.2.8-2ubuntu1.2                     deb                        
-github.com/docker/cli/cmd/docker         v28.0.1                              go-module                  
+github.com/docker/cli/cmd/docker         v28.0.2                              go-module                  
 glib-networking                          2.80.0-1build1                       deb                        
 glib-networking-common                   2.80.0-1build1                       deb                        
 glib-networking-services                 2.80.0-1build1                       deb                        
@@ -563,7 +563,7 @@ libpackagekitqt5-1                       1.1.1-1build3                        de
 libpam-modules                           1.5.3-5ubuntu5.1                     deb                        
 libpam-modules-bin                       1.5.3-5ubuntu5.1                     deb                        
 libpam-runtime                           1.5.3-5ubuntu5.1                     deb                        
-libpam-systemd                           255.4-1ubuntu8.5                     deb                        
+libpam-systemd                           255.4-1ubuntu8.6                     deb                        
 libpam0g                                 1.5.3-5ubuntu5.1                     deb                        
 libpango-1.0-0                           1.52.1+ds-1build1                    deb                        
 libpangocairo-1.0-0                      1.52.1+ds-1build1                    deb                        
@@ -701,8 +701,8 @@ libstemmer0d                             2.2.0-4build1                        de
 libsvtav1enc1d1                          1.7.0+dfsg-2build1                   deb                        
 libswresample4                           7:6.1.1-3ubuntu5                     deb                        
 libswscale7                              7:6.1.1-3ubuntu5                     deb                        
-libsystemd-shared                        255.4-1ubuntu8.5                     deb                        
-libsystemd0                              255.4-1ubuntu8.5                     deb                        
+libsystemd-shared                        255.4-1ubuntu8.6                     deb                        
+libsystemd0                              255.4-1ubuntu8.6                     deb                        
 libtag1v5                                1.13.1-1build1                       deb                        
 libtag1v5-vanilla                        1.13.1-1build1                       deb                        
 libtalloc2                               2.4.2-1build2                        deb                        
@@ -719,7 +719,7 @@ libtirpc-common                          1.3.4+ds-1.1build1                   de
 libtirpc3t64                             1.3.4+ds-1.1build1                   deb                        
 libtwolame0                              0.4.0-2build3                        deb                        
 libuchardet0                             0.0.8-1build1                        deb                        
-libudev1                                 255.4-1ubuntu8.5                     deb                        
+libudev1                                 255.4-1ubuntu8.6                     deb                        
 libudfread0                              1.1.2-1build1                        deb                        
 libudisks2-0                             2.10.1-6ubuntu1                      deb                        
 libunibreak5                             5.1-2build1                          deb                        
@@ -819,7 +819,7 @@ libxrandr2                               2:1.5.2-2build1                      de
 libxrender1                              1:0.9.10-1.1build1                   deb                        
 libxres1                                 2:1.2.1-1build1                      deb                        
 libxshmfence1                            1.3-1build5                          deb                        
-libxslt1.1                               1.1.39-0exp1build1                   deb                        
+libxslt1.1                               1.1.39-0exp1ubuntu0.24.04.2          deb                        
 libxss1                                  1:1.2.3-1build3                      deb                        
 libxt6t64                                1:1.2.1-1.2build1                    deb                        
 libxtst6                                 2:1.2.3-1.1build1                    deb                        
@@ -965,11 +965,11 @@ six                                      1.16.0                               py
 software-properties-common               0.99.49.1                            deb                        
 sound-theme-freedesktop                  0.8-2ubuntu1                         deb                        
 ssl-cert                                 1.1.2ubuntu1                         deb                        
-stdlib                                   go1.23.6                             go-module                  
+stdlib                                   go1.23.7                             go-module                  
 sudo                                     1.9.15p5-3ubuntu5                    deb                        
-systemd                                  255.4-1ubuntu8.5                     deb                        
-systemd-dev                              255.4-1ubuntu8.5                     deb                        
-systemd-sysv                             255.4-1ubuntu8.5                     deb                        
+systemd                                  255.4-1ubuntu8.6                     deb                        
+systemd-dev                              255.4-1ubuntu8.6                     deb                        
+systemd-sysv                             255.4-1ubuntu8.6                     deb                        
 systemsettings                           4:5.27.11-0ubuntu2                   deb                        
 sysvinit-utils                           3.08-6ubuntu3                        deb                        
 tar                                      1.35+dfsg-3build1                    deb                        
@@ -977,7 +977,7 @@ tzdata                                   2024b-0ubuntu0.24.04.1               de
 ubuntu-keyring                           2023.11.28.1                         deb                        
 ubuntu-mono                              24.04-0ubuntu1                       deb                        
 ucf                                      3.0043+nmu1                          deb                        
-udev                                     255.4-1ubuntu8.5                     deb                        
+udev                                     255.4-1ubuntu8.6                     deb                        
 udisks2                                  2.10.1-6ubuntu1                      deb                        
 unminimize                               0.2.1                                deb                        
 usb.ids                                  2024.03.18-1                         deb                        
