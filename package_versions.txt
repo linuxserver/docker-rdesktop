@@ -31,16 +31,16 @@ cairomm1.16                                                                   1.
 catatonit                                                                     0.2.1-1.fc40                           rpm                         
 cdparanoia-libs                                                               10.2-44.fc40                           rpm                         
 checkpolicy                                                                   3.7-2.fc40                             rpm                         
-chromium                                                                      134.0.6998.165-1.fc40                  rpm                         
-chromium-common                                                               134.0.6998.165-1.fc40                  rpm                         
+chromium                                                                      135.0.7049.52-2.fc40                   rpm                         
+chromium-common                                                               135.0.7049.52-2.fc40                   rpm                         
 cloud.google.com/go/compute/metadata                                          v0.5.2                                 go-module                   
 cloud.google.com/go/logging                                                   v1.9.0                                 go-module                   
 cloud.google.com/go/longrunning                                               v0.5.4                                 go-module                   
 code.cloudfoundry.org/clock                                                   v1.1.0                                 go-module                   
 codec2                                                                        1.2.0-4.fc40                           rpm                         
 colord-libs                                                                   1.4.7-3.fc40                           rpm                         
-container-selinux                                                             4:2.235.0-2.fc40                       rpm                         
-containerd.io                                                                 1.7.26-3.1.fc40                        rpm                         
+container-selinux                                                             4:2.236.0-1.fc40                       rpm                         
+containerd.io                                                                 1.7.27-3.1.fc40                        rpm                         
 coreutils                                                                     9.4-9.fc40                             rpm                         
 coreutils-common                                                              9.4-9.fc40                             rpm                         
 cpuinfo                                                                       23.2.14-3.giteb4a667.fc40.2            rpm                         
@@ -160,7 +160,7 @@ github.com/containerd/cgroups/v3                                              v3
 github.com/containerd/cgroups/v3                                              v3.0.5                                 go-module                   
 github.com/containerd/console                                                 v1.0.3                                 go-module  (+5 duplicates)  
 github.com/containerd/console                                                 v1.0.4                                 go-module  (+1 duplicate)   
-github.com/containerd/containerd                                              v1.7.26                                go-module  (+5 duplicates)  
+github.com/containerd/containerd                                              v1.7.27                                go-module  (+5 duplicates)  
 github.com/containerd/containerd/api                                          v1.8.0                                 go-module  (+6 duplicates)  
 github.com/containerd/containerd/v2                                           v2.0.4                                 go-module                   
 github.com/containerd/continuity                                              v0.4.4                                 go-module  (+5 duplicates)  
@@ -238,19 +238,19 @@ github.com/grpc-ecosystem/go-grpc-middleware                                  v1
 github.com/grpc-ecosystem/go-grpc-prometheus                                  v1.2.0                                 go-module  (+2 duplicates)  
 github.com/grpc-ecosystem/grpc-gateway/v2                                     v2.16.0                                go-module                   
 github.com/grpc-ecosystem/grpc-gateway/v2                                     v2.22.0                                go-module                   
-github.com/hashicorp/errwrap                                                  v1.1.0                                 go-module  (+6 duplicates)  
+github.com/hashicorp/errwrap                                                  v1.1.0                                 go-module                   
 github.com/hashicorp/go-immutable-radix                                       v1.3.1                                 go-module                   
 github.com/hashicorp/go-immutable-radix/v2                                    v2.1.0                                 go-module                   
 github.com/hashicorp/go-memdb                                                 v1.3.2                                 go-module                   
 github.com/hashicorp/go-msgpack                                               v0.5.5                                 go-module                   
-github.com/hashicorp/go-multierror                                            v1.1.1                                 go-module  (+6 duplicates)  
+github.com/hashicorp/go-multierror                                            v1.1.1                                 go-module                   
 github.com/hashicorp/go-sockaddr                                              v1.0.2                                 go-module                   
 github.com/hashicorp/golang-lru                                               v0.5.4                                 go-module                   
 github.com/hashicorp/golang-lru/v2                                            v2.0.7                                 go-module                   
 github.com/hashicorp/memberlist                                               v0.4.0                                 go-module                   
 github.com/hashicorp/serf                                                     v0.8.5                                 go-module                   
 github.com/in-toto/in-toto-golang                                             v0.5.0                                 go-module                   
-github.com/intel/goresctrl                                                    v0.3.0                                 go-module  (+2 duplicates)  
+github.com/intel/goresctrl                                                    v0.5.0                                 go-module  (+2 duplicates)  
 github.com/ishidawataru/sctp                                                  v0.0.0-20230406120618-7ff4192f6ff2     go-module  (+1 duplicate)   
 github.com/jmoiron/sqlx                                                       v1.3.3                                 go-module                   
 github.com/json-iterator/go                                                   v1.1.12                                go-module                   
@@ -307,14 +307,14 @@ github.com/philhofer/fwd                                                      v1
 github.com/pkg/errors                                                         v0.9.1                                 go-module  (+6 duplicates)  
 github.com/planetscale/vtprotobuf                                             v0.6.1-0.20240319094008-0393e58bdf10   go-module                   
 github.com/pmezard/go-difflib                                                 v1.0.0                                 go-module                   
-github.com/prometheus/client_golang                                           v1.14.0                                go-module  (+1 duplicate)   
+github.com/prometheus/client_golang                                           v1.16.0                                go-module  (+1 duplicate)   
 github.com/prometheus/client_golang                                           v1.20.5                                go-module                   
 github.com/prometheus/client_model                                            v0.3.0                                 go-module  (+1 duplicate)   
 github.com/prometheus/client_model                                            v0.6.1                                 go-module                   
-github.com/prometheus/common                                                  v0.37.0                                go-module  (+1 duplicate)   
+github.com/prometheus/common                                                  v0.42.0                                go-module  (+1 duplicate)   
 github.com/prometheus/common                                                  v0.55.0                                go-module                   
+github.com/prometheus/procfs                                                  v0.10.1                                go-module  (+1 duplicate)   
 github.com/prometheus/procfs                                                  v0.15.1                                go-module                   
-github.com/prometheus/procfs                                                  v0.8.0                                 go-module  (+1 duplicate)   
 github.com/rootless-containers/rootlesskit/v2                                 v2.3.4                                 go-module                   
 github.com/russross/blackfriday/v2                                            v2.1.0                                 go-module                   
 github.com/sean-/seed                                                         v0.0.0-20170313163322-e2103e2c3529     go-module                   
@@ -491,7 +491,7 @@ jq                                                                            1.
 json-c                                                                        0.17-3.fc40                            rpm                         
 json-glib                                                                     1.8.0-3.fc40                           rpm                         
 k8s.io/api                                                                    v0.26.2                                go-module                   
-k8s.io/apimachinery                                                           v0.26.2                                go-module  (+2 duplicates)  
+k8s.io/apimachinery                                                           v0.27.4                                go-module  (+2 duplicates)  
 k8s.io/apiserver                                                              v0.26.2                                go-module                   
 k8s.io/client-go                                                              v0.26.2                                go-module                   
 k8s.io/component-base                                                         v0.26.2                                go-module                   
@@ -610,7 +610,7 @@ libgs                                                                         10
 libgsf                                                                        1.14.53-2.fc40                         rpm                         
 libgudev                                                                      238-5.fc40                             rpm                         
 libgusb                                                                       0.4.9-1.fc40                           rpm                         
-libheif                                                                       1.19.5-3.fc40                          rpm                         
+libheif                                                                       1.19.7-1.fc40                          rpm                         
 libicu                                                                        74.2-1.fc40                            rpm                         
 libidn2                                                                       2.3.7-1.fc40                           rpm                         
 libijs                                                                        0.35-22.fc40                           rpm                         
@@ -637,6 +637,7 @@ libnotify                                                                     0.
 libnsl2                                                                       2.0.1-1.fc40                           rpm                         
 libnvme                                                                       1.8-1.fc40                             rpm                         
 libogg                                                                        2:1.3.5-8.fc40                         rpm                         
+libopenjph                                                                    0.21.2-1.fc40                          rpm                         
 libopenmpt                                                                    0.7.12-1.fc40                          rpm                         
 libpaper                                                                      1:2.1.1-3.fc40                         rpm                         
 libpciaccess                                                                  0.16-12.fc40                           rpm                         
@@ -846,7 +847,7 @@ setuptools                                                                    69
 setxkbmap                                                                     1.3.4-3.fc40                           rpm                         
 shadow-utils                                                                  2:4.15.1-4.fc40                        rpm                         
 shared-mime-info                                                              2.3-5.fc40                             rpm                         
-sigs.k8s.io/json                                                              v0.0.0-20220713155537-f223a00ba0e2     go-module                   
+sigs.k8s.io/json                                                              v0.0.0-20221116044647-bc3834ca7abd     go-module                   
 sigs.k8s.io/structured-merge-diff/v4                                          v4.2.3                                 go-module                   
 sigs.k8s.io/yaml                                                              v1.3.0                                 go-module  (+2 duplicates)  
 sigs.k8s.io/yaml                                                              v1.4.0                                 go-module                   
@@ -862,8 +863,7 @@ sqlite-libs                                                                   3.
 sratom                                                                        0.6.14-3.fc40                          rpm                         
 srt-libs                                                                      1.5.3-2.fc40                           rpm                         
 startup-notification                                                          0.12-29.fc40                           rpm                         
-stdlib                                                                        go1.23.6                               go-module  (+6 duplicates)  
-stdlib                                                                        go1.23.7                               go-module  (+2 duplicates)  
+stdlib                                                                        go1.23.7                               go-module  (+9 duplicates)  
 sudo                                                                          1.9.15-2.p5.fc40                       rpm                         
 svt-av1-libs                                                                  2.3.0-1.fc40                           rpm                         
 systemd                                                                       255.18-1.fc40                          rpm                         
@@ -871,10 +871,8 @@ systemd-libs                                                                  25
 systemd-pam                                                                   255.18-1.fc40                          rpm                         
 systemd-python                                                                235                                    python                      
 systemd-udev                                                                  255.18-1.fc40                          rpm                         
-tags.cncf.io/container-device-interface                                       v0.7.2                                 go-module                   
-tags.cncf.io/container-device-interface                                       v0.8.1                                 go-module                   
-tags.cncf.io/container-device-interface/specs-go                              v0.7.0                                 go-module                   
-tags.cncf.io/container-device-interface/specs-go                              v0.8.0                                 go-module                   
+tags.cncf.io/container-device-interface                                       v0.8.1                                 go-module  (+1 duplicate)   
+tags.cncf.io/container-device-interface/specs-go                              v0.8.0                                 go-module  (+1 duplicate)   
 tar                                                                           2:1.35-3.fc40                          rpm                         
 tesseract                                                                     5.3.4-4.fc40                           rpm                         
 tesseract-langpack-eng                                                        4.1.0-7.fc40                           rpm                         
@@ -884,7 +882,7 @@ tigervnc-server-minimal                                                       1.
 tpm2-tss                                                                      4.1.3-1.fc40                           rpm                         
 tumbler                                                                       4.18.2-2.fc40                          rpm                         
 twolame-libs                                                                  0.4.0-4.fc40                           rpm                         
-tzdata                                                                        2025a-1.fc40                           rpm                         
+tzdata                                                                        2025b-1.fc40                           rpm                         
 udisks2                                                                       2.10.1-5.fc40                          rpm                         
 urw-base35-bookman-fonts                                                      20200910-20.fc40                       rpm                         
 urw-base35-c059-fonts                                                         20200910-20.fc40                       rpm                         
