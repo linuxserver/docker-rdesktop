@@ -684,12 +684,12 @@ libzbar                                                                       0.
 libzmq                                                                        4.3.5-r2                                            apk                         
 lilv-libs                                                                     0.24.24-r1                                          apk                         
 linux-pam                                                                     1.6.0-r0                                            apk                         
-llvm17-libs                                                                   17.0.6-r1                                           apk                         
+llvm17-libs                                                                   17.0.6-r2                                           apk                         
 logger                                                                        2.40.1-r1                                           apk                         
 losetup                                                                       2.40.1-r1                                           apk                         
 lsblk                                                                         2.40.1-r1                                           apk                         
 lz4-libs                                                                      1.9.4-r5                                            apk                         
-mbedtls                                                                       3.6.2-r0                                            apk                         
+mbedtls                                                                       3.6.3-r0                                            apk                         
 mcookie                                                                       2.40.1-r1                                           apk                         
 mesa                                                                          24.0.9-r1                                           apk                         
 mesa-dri-gallium                                                              24.0.9-r1                                           apk                         
@@ -813,7 +813,7 @@ tini-static                                                                   0.
 tslib                                                                         1.23-r0                                             apk                         
 tumbler                                                                       4.18.2-r1                                           apk                         
 tumbler-lang                                                                  4.18.2-r1                                           apk                         
-tzdata                                                                        2025a-r0                                            apk                         
+tzdata                                                                        2025b-r0                                            apk                         
 umount                                                                        2.40.1-r1                                           apk                         
 upower                                                                        1.90.4-r0                                           apk                         
 upower-lang                                                                   1.90.4-r0                                           apk                         
