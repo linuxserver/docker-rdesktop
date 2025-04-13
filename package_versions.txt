@@ -37,8 +37,8 @@ caja-schemas                                                                  1.
 catatonit                                                                     0.2.1-1.fc40                           rpm                         
 cdparanoia-libs                                                               10.2-44.fc40                           rpm                         
 checkpolicy                                                                   3.7-2.fc40                             rpm                         
-chromium                                                                      135.0.7049.52-2.fc40                   rpm                         
-chromium-common                                                               135.0.7049.52-2.fc40                   rpm                         
+chromium                                                                      135.0.7049.84-1.fc40                   rpm                         
+chromium-common                                                               135.0.7049.84-1.fc40                   rpm                         
 cloud.google.com/go/compute/metadata                                          v0.5.2                                 go-module                   
 cloud.google.com/go/logging                                                   v1.9.0                                 go-module                   
 cloud.google.com/go/longrunning                                               v0.5.4                                 go-module                   
@@ -622,7 +622,7 @@ libglvnd-gles                                                                 1:
 libglvnd-glx                                                                  1:1.7.0-4.fc40                         rpm                         
 libgomp                                                                       14.2.1-3.fc40                          rpm                         
 libgpg-error                                                                  1.49-1.fc40                            rpm                         
-libgs                                                                         10.02.1-13.fc40                        rpm                         
+libgs                                                                         10.02.1-14.fc40                        rpm                         
 libgtop2                                                                      2.41.3-1.fc40                          rpm                         
 libgudev                                                                      238-5.fc40                             rpm                         
 libgusb                                                                       0.4.9-1.fc40                           rpm                         
@@ -685,7 +685,7 @@ libsepol                                                                      3.
 libshaderc                                                                    2024.3-1.fc40                          rpm                         
 libsigc++30                                                                   3.6.0-3.fc40                           rpm                         
 libsmartcols                                                                  2.40.2-1.fc40                          rpm                         
-libsmbclient                                                                  2:4.20.7-1.fc40                        rpm                         
+libsmbclient                                                                  2:4.20.8-1.fc40                        rpm                         
 libsndfile                                                                    1.2.2-4.fc40                           rpm                         
 libsodium                                                                     1.0.20-1.fc40                          rpm                         
 libsolv                                                                       0.7.31-1.fc40                          rpm                         
@@ -710,7 +710,7 @@ libudfread                                                                    1.
 libudisks2                                                                    2.10.1-5.fc40                          rpm                         
 libunistring                                                                  1.1-7.fc40                             rpm                         
 libunwind                                                                     1.8.0-3.fc40                           rpm                         
-libusb1                                                                       1.0.27-6.fc40                          rpm                         
+libusb1                                                                       1.0.28-2.fc40                          rpm                         
 libutempter                                                                   1.2.1-13.fc40                          rpm                         
 libuuid                                                                       2.40.2-1.fc40                          rpm                         
 libva                                                                         2.21.0-3.fc40                          rpm                         
@@ -727,7 +727,7 @@ libwayland-client                                                             1.
 libwayland-cursor                                                             1.23.0-2.fc40                          rpm                         
 libwayland-egl                                                                1.23.0-2.fc40                          rpm                         
 libwayland-server                                                             1.23.0-2.fc40                          rpm                         
-libwbclient                                                                   2:4.20.7-1.fc40                        rpm                         
+libwbclient                                                                   2:4.20.8-1.fc40                        rpm                         
 libwebp                                                                       1.5.0-1.fc40                           rpm                         
 libwnck3                                                                      43.1-1.fc40                            rpm                         
 libxcb                                                                        1.17.0-2.fc40                          rpm                         
@@ -762,7 +762,7 @@ mate-media                                                                    1.
 mate-menus                                                                    1.28.0-1.fc40                          rpm                         
 mate-menus-libs                                                               1.28.0-1.fc40                          rpm                         
 mate-menus-preferences-category-menu                                          1.28.0-1.fc40                          rpm                         
-mate-notification-daemon                                                      1.28.0-2.fc40                          rpm                         
+mate-notification-daemon                                                      1.28.3-1.fc40                          rpm                         
 mate-panel                                                                    1.28.4-1.fc40                          rpm                         
 mate-panel-libs                                                               1.28.4-1.fc40                          rpm                         
 mate-polkit                                                                   1.28.1-1.fc40                          rpm                         
@@ -939,9 +939,9 @@ rpmfusion-nonfree-release                                                     40
 rsvg-pixbuf-loader                                                            2.57.1-7.fc40                          rpm                         
 rtkit                                                                         0.11-63.fc40                           rpm                         
 rubberband                                                                    3.3.0-6.fc40                           rpm                         
-samba-client-libs                                                             2:4.20.7-1.fc40                        rpm                         
-samba-common                                                                  2:4.20.7-1.fc40                        rpm                         
-samba-common-libs                                                             2:4.20.7-1.fc40                        rpm                         
+samba-client-libs                                                             2:4.20.8-1.fc40                        rpm                         
+samba-common                                                                  2:4.20.8-1.fc40                        rpm                         
+samba-common-libs                                                             2:4.20.8-1.fc40                        rpm                         
 sed                                                                           4.9-1.fc40                             rpm                         
 selinux                                                                       3.7                                    python                      
 selinux-policy                                                                40.29-2.fc40                           rpm                         
@@ -1041,10 +1041,10 @@ xorg-x11-server-Xorg                                                          1.
 xorg-x11-server-common                                                        1.20.14-37.fc40                        rpm                         
 xorg-x11-xauth                                                                1:1.1.2-6.fc40                         rpm                         
 xorg-x11-xinit                                                                1.4.2-2.fc40                           rpm                         
-xorgxrdp                                                                      0.10.3-5.fc40                          rpm                         
+xorgxrdp                                                                      0.10.4-1.fc40                          rpm                         
 xprop                                                                         1.2.7-1.fc40                           rpm                         
 xrdb                                                                          1.2.2-3.fc40                           rpm                         
-xrdp                                                                          1:0.10.2-11.fc40                       rpm                         
+xrdp                                                                          1:0.10.3-1.fc40                        rpm                         
 xterm                                                                         397-1.fc40                             rpm                         
 xvidcore                                                                      1.3.7-11.fc40                          rpm                         
 xz                                                                            1:5.4.6-3.fc40                         rpm                         
