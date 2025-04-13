@@ -15,9 +15,9 @@ bsdextrautils                     2.38.1-5+deb12u3                deb
 bsdutils                          1:2.38.1-5+deb12u3              deb                        
 ca-certificates                   20230311                        deb                        
 catatonit                         0.1.7-1+b1                      deb                        
-chromium                          135.0.7049.52-1~deb12u1         deb                        
-chromium-common                   135.0.7049.52-1~deb12u1         deb                        
-chromium-l10n                     135.0.7049.52-1~deb12u1         deb                        
+chromium                          135.0.7049.84-1~deb12u1         deb                        
+chromium-common                   135.0.7049.84-1~deb12u1         deb                        
+chromium-l10n                     135.0.7049.84-1~deb12u1         deb                        
 coreutils                         9.1-1                           deb                        
 cpp                               4:12.2.0-3                      deb                        
 cpp-12                            12.2.0-14                       deb                        
@@ -245,7 +245,7 @@ liblockfile-bin                   1.17-1+b1                       deb
 liblockfile1                      1.17-1+b1                       deb                        
 libltdl7                          2.4.7-7~deb12u1                 deb                        
 liblz4-1                          1.9.4-1                         deb                        
-liblzma5                          5.4.1-0.2                       deb                        
+liblzma5                          5.4.1-1                         deb                        
 libmd0                            1.0.4-2                         deb                        
 libmfx1                           22.5.4-1                        deb                        
 libminizip1                       1.1-8+deb12u1                   deb                        
@@ -286,7 +286,7 @@ libpangoxft-1.0-0                 1.50.12+ds-1                    deb
 libpaper1                         1.1.29                          deb                        
 libpciaccess0                     0.17-2                          deb                        
 libpcre2-8-0                      10.42-1                         deb                        
-libperl5.36                       5.36.0-7+deb12u1                deb                        
+libperl5.36                       5.36.0-7+deb12u2                deb                        
 libpipeline1                      1.5.7-1                         deb                        
 libpixman-1-0                     0.42.2-1                        deb                        
 libpng16-16                       1.6.39-2                        deb                        
@@ -465,9 +465,9 @@ openssh-client                    1:9.2p1-2+deb12u5               deb
 openssl                           3.0.15-1~deb12u1                deb                        
 packagekit                        1.2.6-5                         deb                        
 passwd                            1:4.13+dfsg1-1+b1               deb                        
-perl                              5.36.0-7+deb12u1                deb                        
-perl-base                         5.36.0-7+deb12u1                deb                        
-perl-modules-5.36                 5.36.0-7+deb12u1                deb                        
+perl                              5.36.0-7+deb12u2                deb                        
+perl-base                         5.36.0-7+deb12u2                deb                        
+perl-modules-5.36                 5.36.0-7+deb12u2                deb                        
 pinentry-curses                   1.2.1-1                         deb                        
 polkitd                           122-3                           deb                        
 poppler-data                      0.4.12-1                        deb                        
