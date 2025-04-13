@@ -38,7 +38,7 @@ confuse                                                                       3.
 containerd                                                                    2.0.4-1                                alpm                           
 coreutils                                                                     9.7-1                                  alpm                           
 cryptsetup                                                                    2.7.5-2                                alpm                           
-curl                                                                          8.13.0-1                               alpm                           
+curl                                                                          8.13.0-2                               alpm                           
 dario.cat/mergo                                                               v1.0.1                                 go-module     (+1 duplicate)   
 dav1d                                                                         1.5.1-1                                alpm                           
 db5.3                                                                         5.3.28-5                               alpm                           
@@ -65,7 +65,7 @@ filesystem                                                                    20
 findutils                                                                     4.10.0-2                               alpm                           
 flac                                                                          1.5.0-1                                alpm                           
 flex                                                                          2.6.4-5                                alpm                           
-fontconfig                                                                    2:2.16.1-1                             alpm                           
+fontconfig                                                                    2:2.16.2-1                             alpm                           
 freetype2                                                                     2.13.3-3                               alpm                           
 fribidi                                                                       1.0.16-1                               alpm                           
 fuse-common                                                                   3.17.1-1                               alpm                           
@@ -379,7 +379,7 @@ intel-gmmlib                                                                  22
 intel-media-driver                                                            25.1.4-1                               alpm                           
 iproute2                                                                      6.14.0-1                               alpm                           
 iptables                                                                      1:1.8.11-2                             alpm                           
-iso-codes                                                                     4.17.0-1                               alpm                           
+iso-codes                                                                     4.18.0-1                               alpm                           
 jansson                                                                       2.14.1-1                               alpm                           
 jbigkit                                                                       2.1-8                                  alpm                           
 jq                                                                            1.7.1-2                                alpm                           
@@ -414,7 +414,7 @@ libcap                                                                        2.
 libcap-ng                                                                     0.8.5-3                                alpm                           
 libcloudproviders                                                             0.3.6-1                                alpm                           
 libcolord                                                                     1.4.7-2                                alpm                           
-libcups                                                                       2:2.4.11-2                             alpm                           
+libcups                                                                       2:2.4.12-1                             alpm                           
 libdaemon                                                                     0.14-6                                 alpm                           
 libdatrie                                                                     0.2.13-4                               alpm                           
 libdrm                                                                        2.4.124-1                              alpm                           
@@ -429,7 +429,7 @@ libffi                                                                        3.
 libfontenc                                                                    1.1.8-1                                alpm                           
 libgcrypt                                                                     1.11.0-3                               alpm                           
 libglvnd                                                                      1.7.0-1                                alpm                           
-libgpg-error                                                                  1.51-1                                 alpm                           
+libgpg-error                                                                  1.53-1                                 alpm                           
 libgtop                                                                       2.41.3-2                               alpm                           
 libgudev                                                                      238-1                                  alpm                           
 libice                                                                        1.1.2-1                                alpm                           
@@ -538,7 +538,7 @@ nspr                                                                          4.
 nss                                                                           3.110-1                                alpm                           
 oniguruma                                                                     6.9.10-1                               alpm                           
 openbox                                                                       3.6.1-11                               alpm                           
-openssh                                                                       9.9p2-1                                alpm                           
+openssh                                                                       10.0p1-3                               alpm                           
 openssl                                                                       3.5.0-1                                alpm                           
 opus                                                                          1.5.2-1                                alpm                           
 orc                                                                           0.4.41-1                               alpm                           
@@ -592,8 +592,8 @@ turbojpeg                                                                     UN
 tzdata                                                                        2025b-1                                alpm                           
 util-linux                                                                    2.41-4                                 alpm                           
 util-linux-libs                                                               2.41-4                                 alpm                           
-vte-common                                                                    0.80.0-1                               alpm                           
-vte3                                                                          0.80.0-1                               alpm                           
+vte-common                                                                    0.80.1-1                               alpm                           
+vte3                                                                          0.80.1-1                               alpm                           
 vulkan-extra-layers                                                           1.4.309.0-1                            alpm                           
 vulkan-icd-loader                                                             1.4.309.0-1                            alpm                           
 vulkan-intel                                                                  1:25.0.3-1                             alpm                           
