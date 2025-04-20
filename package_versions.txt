@@ -1078,7 +1078,7 @@ sound-theme-freedesktop                                                       0.
 soxr                                                                          0.1.3-r7                                            apk                         
 speexdsp                                                                      1.2.1-r2                                            apk                         
 spirv-tools                                                                   1.3.261.1-r0                                        apk                         
-sqlite-libs                                                                   3.45.3-r1                                           apk                         
+sqlite-libs                                                                   3.45.3-r2                                           apk                         
 sratom                                                                        0.6.16-r0                                           apk                         
 ssl_client                                                                    1.36.1-r29                                          apk                         
 startup-notification                                                          0.12-r7                                             apk                         
