@@ -798,7 +798,7 @@ skalibs                                                                       2.
 sound-theme-freedesktop                                                       0.8-r1                                              apk                         
 soxr                                                                          0.1.3-r7                                            apk                         
 speexdsp                                                                      1.2.1-r2                                            apk                         
-sqlite-libs                                                                   3.45.3-r1                                           apk                         
+sqlite-libs                                                                   3.45.3-r2                                           apk                         
 ssl_client                                                                    1.36.1-r29                                          apk                         
 startup-notification                                                          0.12-r7                                             apk                         
 stdlib                                                                        go1.22.5                                            go-module  (+8 duplicates)  
