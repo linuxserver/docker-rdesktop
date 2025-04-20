@@ -38,7 +38,7 @@ diffutils                         1:3.10-1build1                       deb
 dirmngr                           2.4.4-2ubuntu17.2                    deb                        
 distro                            1.9.0                                python                     
 distro-info-data                  0.60ubuntu0.2                        deb                        
-docker-ce-cli                     5:28.0.4-1~ubuntu.24.04~noble        deb                        
+docker-ce-cli                     5:28.1.1-1~ubuntu.24.04~noble        deb                        
 dpkg                              1.22.6ubuntu6.1                      deb                        
 e2fsprogs                         1.47.0-2.4~exp1ubuntu4.1             deb                        
 findutils                         4.9.0-5build1                        deb                        
@@ -57,7 +57,7 @@ gcc-14-base                       14.2.0-4ubuntu2~24.04                deb
 gir1.2-girepository-2.0           1.80.1-1                             deb                        
 gir1.2-glib-2.0                   2.80.0-6ubuntu3.2                    deb                        
 gir1.2-packagekitglib-1.0         1.2.8-2ubuntu1.2                     deb                        
-github.com/docker/cli/cmd/docker  v28.0.4                              go-module                  
+github.com/docker/cli/cmd/docker  v28.1.1                              go-module                  
 glib-networking                   2.80.0-1build1                       deb                        
 glib-networking-common            2.80.0-1build1                       deb                        
 glib-networking-services          2.80.0-1build1                       deb                        
@@ -74,7 +74,7 @@ gpgv                              2.4.4-2ubuntu17.2                    deb
 grep                              3.11-4build1                         deb                        
 groff-base                        1.23.0-3build2                       deb                        
 gsettings-desktop-schemas         46.1-0ubuntu1                        deb                        
-gtk-update-icon-cache             3.24.41-4ubuntu1.2                   deb                        
+gtk-update-icon-cache             3.24.41-4ubuntu1.3                   deb                        
 gzip                              1.12-1ubuntu3                        deb                        
 hicolor-icon-theme                0.17-2                               deb                        
 hostname                          3.23+nmu2ubuntu2                     deb                        
@@ -199,8 +199,8 @@ libgsm1                           1.0.22-1build1                       deb
 libgssapi-krb5-2                  1.20.1-6ubuntu2.5                    deb                        
 libgstreamer-plugins-base1.0-0    1.24.2-1ubuntu0.2                    deb                        
 libgstreamer1.0-0                 1.24.2-1ubuntu0.1                    deb                        
-libgtk-3-0t64                     3.24.41-4ubuntu1.2                   deb                        
-libgtk-3-common                   3.24.41-4ubuntu1.2                   deb                        
+libgtk-3-0t64                     3.24.41-4ubuntu1.3                   deb                        
+libgtk-3-common                   3.24.41-4ubuntu1.3                   deb                        
 libharfbuzz0b                     8.3.0-2build2                        deb                        
 libheif-plugin-aomdec             1.17.6-1ubuntu4.1                    deb                        
 libheif-plugin-libde265           1.17.6-1ubuntu4.1                    deb                        
@@ -439,7 +439,7 @@ openssh-client                    1:9.6p1-3ubuntu13.9                  deb
 openssl                           3.0.13-0ubuntu3.5                    deb                        
 packagekit                        1.2.8-2ubuntu1.2                     deb                        
 passwd                            1:4.13+dfsg1-4ubuntu3.2              deb                        
-perl-base                         5.38.2-3.2build2.1                   deb                        
+perl-base                         5.38.2-3.2ubuntu0.1                  deb                        
 pinentry-curses                   1.2.1-3ubuntu5                       deb                        
 polkitd                           124-2ubuntu1.24.04.2                 deb                        
 poppler-data                      0.4.12-1                             deb                        
@@ -483,7 +483,7 @@ shared-mime-info                  2.4-4                                deb
 six                               1.16.0                               python                     
 software-properties-common        0.99.49.2                            deb                        
 ssl-cert                          1.1.2ubuntu1                         deb                        
-stdlib                            go1.23.7                             go-module                  
+stdlib                            go1.23.8                             go-module                  
 stterm                            0.9-1                                deb                        
 sudo                              1.9.15p5-3ubuntu5                    deb                        
 systemd                           255.4-1ubuntu8.6                     deb                        
