@@ -26,7 +26,7 @@ authselect-libs                                                               1.
 avahi                                                                         0.8-26.fc40                            rpm                         
 avahi-glib                                                                    0.8-26.fc40                            rpm                         
 avahi-libs                                                                    0.8-26.fc40                            rpm                         
-baloo-widgets                                                                 24.12.3-1.fc40                         rpm                         
+baloo-widgets                                                                 25.04.0-1.fc40                         rpm                         
 basesystem                                                                    11-20.fc40                             rpm                         
 bash                                                                          5.2.26-3.fc40                          rpm                         
 bluez-libs                                                                    5.81-2.fc40                            rpm                         
@@ -43,8 +43,8 @@ cairomm1.16                                                                   1.
 catatonit                                                                     0.2.1-1.fc40                           rpm                         
 cdparanoia-libs                                                               10.2-44.fc40                           rpm                         
 checkpolicy                                                                   3.7-2.fc40                             rpm                         
-chromium                                                                      135.0.7049.84-1.fc40                   rpm                         
-chromium-common                                                               135.0.7049.84-1.fc40                   rpm                         
+chromium                                                                      135.0.7049.114-1.fc40                  rpm                         
+chromium-common                                                               135.0.7049.114-1.fc40                  rpm                         
 cloud.google.com/go/compute/metadata                                          v0.5.2                                 go-module                   
 cloud.google.com/go/logging                                                   v1.9.0                                 go-module                   
 cloud.google.com/go/longrunning                                               v0.5.4                                 go-module                   
@@ -91,8 +91,8 @@ docbook-dtds                                                                  1.
 docbook-style-xsl                                                             1.79.2-22.fc40                         rpm                         
 docker-ce                                                                     3:28.1.1-1.fc40                        rpm                         
 docker-ce-cli                                                                 1:28.1.1-1.fc40                        rpm                         
-dolphin                                                                       24.12.3-1.fc40                         rpm                         
-dolphin-libs                                                                  24.12.3-1.fc40                         rpm                         
+dolphin                                                                       25.04.0-3.fc40                         rpm                         
+dolphin-libs                                                                  25.04.0-3.fc40                         rpm                         
 double-conversion                                                             3.3.1-1.fc40                           rpm                         
 duktape                                                                       2.7.0-7.fc40                           rpm                         
 ebook-tools-libs                                                              0.2.2-27.fc40                          rpm                         
@@ -381,7 +381,7 @@ glibc-common                                                                  2.
 glibc-gconv-extra                                                             2.39-37.fc40                           rpm                         
 glibc-locale-source                                                           2.39-37.fc40                           rpm                         
 glibc-minimal-langpack                                                        2.39-37.fc40                           rpm                         
-glibmm2.68                                                                    2.80.0-1.fc40                          rpm                         
+glibmm2.68                                                                    2.80.1-1.fc40                          rpm                         
 glx-utils                                                                     9.0.0-6.fc40                           rpm                         
 gmp                                                                           1:6.2.1-8.fc40                         rpm                         
 gnupg2                                                                        2.4.4-1.fc40                           rpm                         
@@ -482,7 +482,7 @@ gtk-update-icon-cache                                                         3.
 gtk3                                                                          3.24.43-1.fc40                         rpm                         
 gtk4                                                                          4.14.5-1.fc40                          rpm                         
 gtkmm4.0                                                                      4.14.0-1.fc40                          rpm                         
-gupnp                                                                         1.6.7-1.fc40                           rpm                         
+gupnp                                                                         1.6.8-1.fc40                           rpm                         
 gupnp-igd                                                                     1.6.0-4.fc40                           rpm                         
 gzip                                                                          1.13-1.fc40                            rpm                         
 harfbuzz                                                                      8.5.0-1.fc40                           rpm                         
@@ -521,9 +521,9 @@ k8s.io/cri-api                                                                v0
 k8s.io/klog/v2                                                                v2.130.1                               go-module                   
 k8s.io/klog/v2                                                                v2.90.1                                go-module                   
 k8s.io/utils                                                                  v0.0.0-20230220204549-a5ecb0141aa5     go-module                   
-kaccounts-integration-qt6                                                     24.12.3-1.fc40                         rpm                         
+kaccounts-integration-qt6                                                     25.04.0-1.fc40                         rpm                         
 kactivitymanagerd                                                             6.3.3-1.fc40                           rpm                         
-kate-libs                                                                     24.12.3-1.fc40                         rpm                         
+kate-libs                                                                     25.04.0-1.fc40                         rpm                         
 kbd                                                                           2.6.4-3.fc40                           rpm                         
 kbd-legacy                                                                    2.6.4-3.fc40                           rpm                         
 kbd-misc                                                                      2.6.4-3.fc40                           rpm                         
@@ -535,13 +535,13 @@ kde-settings-plasma                                                           40
 kde-settings-pulseaudio                                                       40.1-1.fc40                            rpm                         
 kde-wallpapers                                                                15.08.3-20.fc40                        rpm                         
 kdecoration                                                                   6.3.3-1.fc40                           rpm                         
-kdegraphics-mobipocket                                                        24.12.3-1.fc40                         rpm                         
+kdegraphics-mobipocket                                                        25.04.0-1.fc40                         rpm                         
 kdesu                                                                         1:6.3.3-1.fc40                         rpm                         
-kdialog                                                                       24.12.3-1.fc40                         rpm                         
+kdialog                                                                       25.04.0-1.fc40                         rpm                         
 kdsoap-ws-discovery-client                                                    0.4.0-1.fc40                           rpm                         
 kdsoap6                                                                       2.2.0-4.fc40                           rpm                         
-keditbookmarks                                                                24.12.3-1.fc40                         rpm                         
-keditbookmarks-libs                                                           24.12.3-1.fc40                         rpm                         
+keditbookmarks                                                                25.04.0-1.fc40                         rpm                         
+keditbookmarks-libs                                                           25.04.0-1.fc40                         rpm                         
 keyutils-libs                                                                 1.6.3-3.fc40                           rpm                         
 kf5-attica                                                                    5.116.0-1.fc40                         rpm                         
 kf5-filesystem                                                                5.116.0-1.fc40                         rpm                         
@@ -664,15 +664,15 @@ kf6-solid                                                                     6.
 kf6-sonnet                                                                    6.13.0-1.fc40                          rpm                         
 kf6-syndication                                                               6.13.0-1.fc40                          rpm                         
 kf6-syntax-highlighting                                                       6.13.0-1.fc40                          rpm                         
-kfind                                                                         24.12.3-1.fc40                         rpm                         
+kfind                                                                         25.04.0-1.fc40                         rpm                         
 kglobalacceld                                                                 6.3.3-1.fc40                           rpm                         
-kio-extras                                                                    24.12.3-1.fc40                         rpm                         
+kio-extras                                                                    25.04.0-1.fc40                         rpm                         
 kio-fuse                                                                      5.1.0-5.fc40                           rpm                         
 kmenuedit                                                                     6.3.3-1.fc40                           rpm                         
 kmod                                                                          31-5.fc40                              rpm                         
 kmod-libs                                                                     31-5.fc40                              rpm                         
-konsole                                                                       24.12.3-1.fc40                         rpm                         
-konsole-part                                                                  24.12.3-1.fc40                         rpm                         
+konsole                                                                       25.04.0-1.fc40                         rpm                         
+konsole-part                                                                  25.04.0-1.fc40                         rpm                         
 kpipewire                                                                     6.3.3-1.fc40                           rpm                         
 krb5-libs                                                                     1.21.3-2.fc40                          rpm                         
 kscreenlocker                                                                 6.3.3-1.fc40                           rpm                         
@@ -683,7 +683,7 @@ kwin-common                                                                   6.
 kwin-libs                                                                     6.3.3-1.fc40                           rpm                         
 kwin-wayland                                                                  6.3.3-1.fc40                           rpm                         
 kwin-x11                                                                      6.3.3-1.fc40                           rpm                         
-kwrite                                                                        24.12.3-1.fc40                         rpm                         
+kwrite                                                                        25.04.0-1.fc40                         rpm                         
 kwrited                                                                       6.3.3-1.fc40                           rpm                         
 kyotocabinet-libs                                                             1.2.80-5.fc40                          rpm                         
 ladspa                                                                        1.17-4.fc40                            rpm                         
@@ -792,7 +792,7 @@ libimobiledevice-glue                                                         1.
 libinput                                                                      1.26.2-1.fc40                          rpm                         
 libjpeg-turbo                                                                 3.0.2-1.fc40                           rpm                         
 libjxl                                                                        1:0.8.4-1.fc40                         rpm                         
-libkexiv2-qt6                                                                 24.12.3-1.fc40                         rpm                         
+libkexiv2-qt6                                                                 25.04.0-1.fc40                         rpm                         
 libksba                                                                       1.6.6-1.fc40                           rpm                         
 libkscreen                                                                    6.3.3-1.fc40                           rpm                         
 libksysguard                                                                  6.3.3-1.fc40                           rpm                         
@@ -814,7 +814,7 @@ libnfnetlink                                                                  1.
 libnghttp2                                                                    1.59.0-3.fc40                          rpm                         
 libnice                                                                       0.1.22-1.fc40                          rpm                         
 libnl3                                                                        3.11.0-1.fc40                          rpm                         
-libnotify                                                                     0.8.3-3.fc40                           rpm                         
+libnotify                                                                     0.8.6-1.fc40                           rpm                         
 libnsl2                                                                       2.0.1-1.fc40                           rpm                         
 liboeffis                                                                     1.3.0-1.fc40                           rpm                         
 libogg                                                                        2:1.3.5-8.fc40                         rpm                         
@@ -864,7 +864,7 @@ libtevent                                                                     0.
 libthai                                                                       0.1.29-8.fc40                          rpm                         
 libtheora                                                                     1:1.1.1-36.fc40                        rpm                         
 libtiff                                                                       4.6.0-5.fc40.1                         rpm                         
-libtirpc                                                                      1.3.6-1.rc3.fc40                       rpm        (+1 duplicate)   
+libtirpc                                                                      1.3.6-1.rc3.fc40                       rpm                         
 libtool-ltdl                                                                  2.4.7-10.fc40                          rpm                         
 libtracker-sparql                                                             3.7.3-1.fc40                           rpm                         
 libudfread                                                                    1.1.2-8.fc40                           rpm                         
@@ -935,7 +935,7 @@ nettle                                                                        3.
 npth                                                                          1.7-1.fc40                             rpm                         
 nspr                                                                          4.36.0-4.fc40                          rpm                         
 nss                                                                           3.109.0-1.fc40                         rpm                         
-nss-mdns                                                                      0.15.1-11.fc40                         rpm        (+1 duplicate)   
+nss-mdns                                                                      0.15.1-11.fc40                         rpm                         
 nss-softokn                                                                   3.109.0-1.fc40                         rpm                         
 nss-softokn-freebl                                                            3.109.0-1.fc40                         rpm                         
 nss-sysinit                                                                   3.109.0-1.fc40                         rpm                         
@@ -1106,8 +1106,8 @@ samba-common                                                                  2:
 samba-common-libs                                                             2:4.20.8-1.fc40                        rpm                         
 sed                                                                           4.9-1.fc40                             rpm                         
 selinux                                                                       3.7                                    python                      
-selinux-policy                                                                40.29-2.fc40                           rpm                         
-selinux-policy-targeted                                                       40.29-2.fc40                           rpm                         
+selinux-policy                                                                40.30-1.fc40                           rpm                         
+selinux-policy-targeted                                                       40.30-1.fc40                           rpm                         
 sepolicy                                                                      3.7                                    python                      
 serd                                                                          0.32.4-1.fc40                          rpm                         
 setools                                                                       4.5.1                                  python                      
