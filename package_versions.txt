@@ -30,8 +30,8 @@ cairomm1.16                                                                   1.
 catatonit                                                                     0.2.1-1.fc40                           rpm                         
 cdparanoia-libs                                                               10.2-44.fc40                           rpm                         
 checkpolicy                                                                   3.7-2.fc40                             rpm                         
-chromium                                                                      135.0.7049.84-1.fc40                   rpm                         
-chromium-common                                                               135.0.7049.84-1.fc40                   rpm                         
+chromium                                                                      135.0.7049.114-1.fc40                  rpm                         
+chromium-common                                                               135.0.7049.114-1.fc40                  rpm                         
 cloud.google.com/go/compute/metadata                                          v0.5.2                                 go-module                   
 cloud.google.com/go/logging                                                   v1.9.0                                 go-module                   
 cloud.google.com/go/longrunning                                               v0.5.4                                 go-module                   
@@ -351,7 +351,7 @@ glibc-common                                                                  2.
 glibc-gconv-extra                                                             2.39-37.fc40                           rpm                         
 glibc-locale-source                                                           2.39-37.fc40                           rpm                         
 glibc-minimal-langpack                                                        2.39-37.fc40                           rpm                         
-glibmm2.68                                                                    2.80.0-1.fc40                          rpm                         
+glibmm2.68                                                                    2.80.1-1.fc40                          rpm                         
 glx-utils                                                                     9.0.0-6.fc40                           rpm                         
 gmp                                                                           1:6.2.1-8.fc40                         rpm                         
 gnupg2                                                                        2.4.4-1.fc40                           rpm                         
@@ -446,7 +446,7 @@ gtk-update-icon-cache                                                         3.
 gtk3                                                                          3.24.43-1.fc40                         rpm                         
 gtk4                                                                          4.14.5-1.fc40                          rpm                         
 gtkmm4.0                                                                      4.14.0-1.fc40                          rpm                         
-gupnp                                                                         1.6.7-1.fc40                           rpm                         
+gupnp                                                                         1.6.8-1.fc40                           rpm                         
 gupnp-igd                                                                     1.6.0-4.fc40                           rpm                         
 gzip                                                                          1.13-1.fc40                            rpm                         
 harfbuzz                                                                      8.5.0-1.fc40                           rpm                         
@@ -634,7 +634,7 @@ libtevent                                                                     0.
 libthai                                                                       0.1.29-8.fc40                          rpm                         
 libtheora                                                                     1:1.1.1-36.fc40                        rpm                         
 libtiff                                                                       4.6.0-5.fc40.1                         rpm                         
-libtirpc                                                                      1.3.6-1.rc3.fc40                       rpm        (+1 duplicate)   
+libtirpc                                                                      1.3.6-1.rc3.fc40                       rpm                         
 libtool-ltdl                                                                  2.4.7-10.fc40                          rpm                         
 libtracker-sparql                                                             3.7.3-1.fc40                           rpm                         
 libudfread                                                                    1.1.2-8.fc40                           rpm                         
@@ -697,7 +697,7 @@ nettle                                                                        3.
 npth                                                                          1.7-1.fc40                             rpm                         
 nspr                                                                          4.36.0-4.fc40                          rpm                         
 nss                                                                           3.109.0-1.fc40                         rpm                         
-nss-mdns                                                                      0.15.1-11.fc40                         rpm        (+1 duplicate)   
+nss-mdns                                                                      0.15.1-11.fc40                         rpm                         
 nss-softokn                                                                   3.109.0-1.fc40                         rpm                         
 nss-softokn-freebl                                                            3.109.0-1.fc40                         rpm                         
 nss-sysinit                                                                   3.109.0-1.fc40                         rpm                         
@@ -793,8 +793,8 @@ samba-common                                                                  2:
 samba-common-libs                                                             2:4.20.8-1.fc40                        rpm                         
 sed                                                                           4.9-1.fc40                             rpm                         
 selinux                                                                       3.7                                    python                      
-selinux-policy                                                                40.29-2.fc40                           rpm                         
-selinux-policy-targeted                                                       40.29-2.fc40                           rpm                         
+selinux-policy                                                                40.30-1.fc40                           rpm                         
+selinux-policy-targeted                                                       40.30-1.fc40                           rpm                         
 sepolicy                                                                      3.7                                    python                      
 serd                                                                          0.32.4-1.fc40                          rpm                         
 setools                                                                       4.5.1                                  python                      
