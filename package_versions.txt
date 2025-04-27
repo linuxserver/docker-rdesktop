@@ -7,7 +7,6 @@ apt-utils                         2.6.1                           deb
 at-spi2-common                    2.46.0-5                        deb                        
 base-files                        12.4+deb12u10                   deb                        
 base-passwd                       3.6.1                           deb                        
-bash                              5.2.15                          binary                     
 bash                              5.2.15-2+b7                     deb                        
 blinker                           1.5                             python                     
 bsd-mailx                         8.1.2-0.20220412cvs-1           deb                        
@@ -76,7 +75,6 @@ gpgv                              2.2.40-1.1                      deb
 grep                              3.8-5                           deb                        
 groff-base                        1.22.4-10                       deb                        
 gtk-update-icon-cache             3.24.38-2~deb12u3               deb                        
-gzip                              1.12                            binary                     
 gzip                              1.12-1                          deb                        
 hicolor-icon-theme                0.17-2                          deb                        
 hostname                          3.23+nmu1                       deb                        
