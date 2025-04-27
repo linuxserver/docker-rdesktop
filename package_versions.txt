@@ -45,7 +45,7 @@ dirmngr                                  2.4.4-2ubuntu17.2                    de
 distro                                   1.9.0                                python                     
 distro-info-data                         0.60ubuntu0.2                        deb                        
 dmidecode                                3.5-3ubuntu0.1                       deb                        
-docker-ce-cli                            5:28.0.4-1~ubuntu.24.04~noble        deb                        
+docker-ce-cli                            5:28.1.1-1~ubuntu.24.04~noble        deb                        
 dolphin                                  4:23.08.5-0ubuntu4                   deb                        
 dpkg                                     1.22.6ubuntu6.1                      deb                        
 drkonqi                                  5.27.11-0ubuntu3                     deb                        
@@ -66,7 +66,7 @@ gdb                                      15.0.50.20240403-0ubuntu1            de
 gir1.2-girepository-2.0                  1.80.1-1                             deb                        
 gir1.2-glib-2.0                          2.80.0-6ubuntu3.2                    deb                        
 gir1.2-packagekitglib-1.0                1.2.8-2ubuntu1.2                     deb                        
-github.com/docker/cli/cmd/docker         v28.0.4                              go-module                  
+github.com/docker/cli/cmd/docker         v28.1.1                              go-module                  
 glib-networking                          2.80.0-1build1                       deb                        
 glib-networking-common                   2.80.0-1build1                       deb                        
 glib-networking-services                 2.80.0-1build1                       deb                        
@@ -83,7 +83,7 @@ gpgv                                     2.4.4-2ubuntu17.2                    de
 grep                                     3.11-4build1                         deb                        
 groff-base                               1.23.0-3build2                       deb                        
 gsettings-desktop-schemas                46.1-0ubuntu1                        deb                        
-gtk-update-icon-cache                    3.24.41-4ubuntu1.2                   deb                        
+gtk-update-icon-cache                    3.24.41-4ubuntu1.3                   deb                        
 gwenview                                 4:23.08.5-0ubuntu5                   deb                        
 gzip                                     1.12-1ubuntu3                        deb                        
 hicolor-icon-theme                       0.17-2                               deb                        
@@ -145,7 +145,7 @@ libappimage1.0abi1t64                    1.0.4-5-3.1ubuntu2                   de
 libappstream5                            1.0.2-1build6                        deb                        
 libappstreamqt5-3                        1.0.2-1build6                        deb                        
 libapt-pkg6.0t64                         2.7.14build2                         deb                        
-libarchive13t64                          3.7.2-2ubuntu0.3                     deb                        
+libarchive13t64                          3.7.2-2ubuntu0.4                     deb                        
 libargon2-1                              0~20190702+dfsg-4build1              deb                        
 libaribb24-0t64                          1.0.3-2.1build2                      deb                        
 libasound2-data                          1.2.11-1build2                       deb                        
@@ -298,8 +298,8 @@ libgsm1                                  1.0.22-1build1                       de
 libgssapi-krb5-2                         1.20.1-6ubuntu2.5                    deb                        
 libgstreamer-plugins-base1.0-0           1.24.2-1ubuntu0.2                    deb                        
 libgstreamer1.0-0                        1.24.2-1ubuntu0.1                    deb                        
-libgtk-3-0t64                            3.24.41-4ubuntu1.2                   deb                        
-libgtk-3-common                          3.24.41-4ubuntu1.2                   deb                        
+libgtk-3-0t64                            3.24.41-4ubuntu1.3                   deb                        
+libgtk-3-common                          3.24.41-4ubuntu1.3                   deb                        
 libgudev-1.0-0                           1:238-5ubuntu1                       deb                        
 libharfbuzz-subset0                      8.3.0-2build2                        deb                        
 libharfbuzz0b                            8.3.0-2build2                        deb                        
@@ -574,7 +574,7 @@ libparted2t64                            3.6-4build1                          de
 libpciaccess0                            0.17-3build1                         deb                        
 libpcre2-16-0                            10.42-4ubuntu2.1                     deb                        
 libpcre2-8-0                             10.42-4ubuntu2.1                     deb                        
-libperl5.38t64                           5.38.2-3.2build2.1                   deb                        
+libperl5.38t64                           5.38.2-3.2ubuntu0.1                  deb                        
 libpgm-5.3-0t64                          5.3.128~dfsg-2.1build1               deb                        
 libphonon-l10n                           4:4.12.0-3.1build3                   deb                        
 libphonon4qt5-4t64                       4:4.12.0-3.1build3                   deb                        
@@ -594,7 +594,7 @@ libpostproc57                            7:6.1.1-3ubuntu5                     de
 libproc2-0                               2:4.0.4-4ubuntu3.2                   deb                        
 libprocesscore9                          4:5.27.11-0ubuntu3                   deb                        
 libprocessui9                            4:5.27.11-0ubuntu3                   deb                        
-libprotobuf-lite32t64                    3.21.12-8.2build1                    deb                        
+libprotobuf-lite32t64                    3.21.12-8.2ubuntu0.1                 deb                        
 libproxy1v5                              0.5.4-4build1                        deb                        
 libpsl5t64                               0.21.2-1.1build1                     deb                        
 libpthread-stubs0-dev                    0.4-1build3                          deb                        
@@ -856,16 +856,16 @@ netcat-openbsd                           1.226-1ubuntu2                       de
 oauthlib                                 3.2.2                                python                     
 ocl-icd-libopencl1                       2.3.2-1build1                        deb                        
 openbox                                  3.6.1-12build5                       deb                        
-openssh-client                           1:9.6p1-3ubuntu13.9                  deb                        
+openssh-client                           1:9.6p1-3ubuntu13.11                 deb                        
 openssl                                  3.0.13-0ubuntu3.5                    deb                        
 oxygen-sounds                            4:5.27.11-0ubuntu1                   deb                        
 packagekit                               1.2.8-2ubuntu1.2                     deb                        
 parted                                   3.6-4build1                          deb                        
 passwd                                   1:4.13+dfsg1-4ubuntu3.2              deb                        
 pci.ids                                  0.0~2024.03.31-1ubuntu0.1            deb                        
-perl                                     5.38.2-3.2build2.1                   deb                        
-perl-base                                5.38.2-3.2build2.1                   deb                        
-perl-modules-5.38                        5.38.2-3.2build2.1                   deb                        
+perl                                     5.38.2-3.2ubuntu0.1                  deb                        
+perl-base                                5.38.2-3.2ubuntu0.1                  deb                        
+perl-modules-5.38                        5.38.2-3.2ubuntu0.1                  deb                        
 phonon-backend-vlc-common                0.12.0-3build3                       deb                        
 phonon4qt5                               4:4.12.0-3.1build3                   deb                        
 phonon4qt5-backend-vlc                   0.12.0-3build3                       deb                        
@@ -965,7 +965,7 @@ six                                      1.16.0                               py
 software-properties-common               0.99.49.2                            deb                        
 sound-theme-freedesktop                  0.8-2ubuntu1                         deb                        
 ssl-cert                                 1.1.2ubuntu1                         deb                        
-stdlib                                   go1.23.7                             go-module                  
+stdlib                                   go1.23.8                             go-module                  
 sudo                                     1.9.15p5-3ubuntu5                    deb                        
 systemd                                  255.4-1ubuntu8.6                     deb                        
 systemd-dev                              255.4-1ubuntu8.6                     deb                        
