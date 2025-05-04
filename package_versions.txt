@@ -31,8 +31,8 @@ cairomm1.16                                                                   1.
 catatonit                                                                     0.2.1-1.fc40                           rpm                         
 cdparanoia-libs                                                               10.2-44.fc40                           rpm                         
 checkpolicy                                                                   3.7-2.fc40                             rpm                         
-chromium                                                                      135.0.7049.114-1.fc40                  rpm                         
-chromium-common                                                               135.0.7049.114-1.fc40                  rpm                         
+chromium                                                                      136.0.7103.59-1.fc40                   rpm                         
+chromium-common                                                               136.0.7103.59-1.fc40                   rpm                         
 cloud.google.com/go/compute/metadata                                          v0.5.2                                 go-module                   
 cloud.google.com/go/logging                                                   v1.9.0                                 go-module                   
 cloud.google.com/go/longrunning                                               v0.5.4                                 go-module                   
@@ -48,8 +48,8 @@ cracklib                                                                      2.
 crypto-policies                                                               20241011-1.git5930b9a.fc40             rpm                         
 crypto-policies-scripts                                                       20241011-1.git5930b9a.fc40             rpm                         
 cryptsetup-libs                                                               2.7.5-1.fc40                           rpm                         
-cups-filesystem                                                               1:2.4.11-9.fc40                        rpm                         
-cups-libs                                                                     1:2.4.11-9.fc40                        rpm                         
+cups-filesystem                                                               1:2.4.12-2.fc40                        rpm                         
+cups-libs                                                                     1:2.4.12-2.fc40                        rpm                         
 curl                                                                          8.6.0-10.fc40                          rpm                         
 cyrus-sasl-lib                                                                2.1.28-19.fc40                         rpm                         
 dario.cat/mergo                                                               v1.0.0                                 go-module  (+1 duplicate)   
@@ -113,7 +113,7 @@ gdbm                                                                          1:
 gdbm-libs                                                                     1:1.23-6.fc40                          rpm                         
 gdk-pixbuf2                                                                   2.42.10-8.fc40                         rpm                         
 gdk-pixbuf2-modules                                                           2.42.10-8.fc40                         rpm                         
-giflib                                                                        5.2.2-1.fc40                           rpm                         
+giflib                                                                        5.2.2-6.fc40                           rpm                         
 github.com/Azure/azure-sdk-for-go/sdk/azcore                                  v1.16.0                                go-module                   
 github.com/Azure/azure-sdk-for-go/sdk/internal                                v1.10.0                                go-module                   
 github.com/Azure/azure-sdk-for-go/sdk/storage/azblob                          v1.5.0                                 go-module                   
@@ -644,7 +644,7 @@ libnsl2                                                                       2.
 libnvme                                                                       1.8-1.fc40                             rpm                         
 libogg                                                                        2:1.3.5-8.fc40                         rpm                         
 libopenjph                                                                    0.21.2-1.fc40                          rpm                         
-libopenmpt                                                                    0.7.12-1.fc40                          rpm                         
+libopenmpt                                                                    0.7.13-3.fc40                          rpm                         
 libpaper                                                                      1:2.1.1-3.fc40                         rpm                         
 libpciaccess                                                                  0.16-12.fc40                           rpm                         
 libplacebo                                                                    6.338.2-1.fc40                         rpm                         
@@ -750,13 +750,13 @@ ncurses-libs                                                                  6.
 netcat                                                                        1.229-1.fc40                           rpm                         
 nettle                                                                        3.9.1-6.fc40                           rpm                         
 npth                                                                          1.7-1.fc40                             rpm                         
-nspr                                                                          4.36.0-4.fc40                          rpm                         
-nss                                                                           3.109.0-1.fc40                         rpm                         
+nspr                                                                          4.36.0-6.fc40                          rpm                         
+nss                                                                           3.110.0-2.fc40                         rpm                         
 nss-mdns                                                                      0.15.1-11.fc40                         rpm                         
-nss-softokn                                                                   3.109.0-1.fc40                         rpm                         
-nss-softokn-freebl                                                            3.109.0-1.fc40                         rpm                         
-nss-sysinit                                                                   3.109.0-1.fc40                         rpm                         
-nss-util                                                                      3.109.0-1.fc40                         rpm                         
+nss-softokn                                                                   3.110.0-2.fc40                         rpm                         
+nss-softokn-freebl                                                            3.110.0-2.fc40                         rpm                         
+nss-sysinit                                                                   3.110.0-2.fc40                         rpm                         
+nss-util                                                                      3.110.0-2.fc40                         rpm                         
 numactl-libs                                                                  2.0.16-5.fc40                          rpm                         
 ocl-icd                                                                       2.3.2-6.fc40                           rpm                         
 oniguruma                                                                     6.9.9-3.fc40                           rpm                         
