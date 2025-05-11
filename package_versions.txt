@@ -37,8 +37,8 @@ caja-schemas                                                                  1.
 catatonit                                                                     0.2.1-1.fc40                           rpm                         
 cdparanoia-libs                                                               10.2-44.fc40                           rpm                         
 checkpolicy                                                                   3.7-2.fc40                             rpm                         
-chromium                                                                      136.0.7103.59-1.fc40                   rpm                         
-chromium-common                                                               136.0.7103.59-1.fc40                   rpm                         
+chromium                                                                      136.0.7103.92-1.fc40                   rpm                         
+chromium-common                                                               136.0.7103.92-1.fc40                   rpm                         
 cloud.google.com/go/compute/metadata                                          v0.5.2                                 go-module                   
 cloud.google.com/go/logging                                                   v1.9.0                                 go-module                   
 cloud.google.com/go/longrunning                                               v0.5.4                                 go-module                   
@@ -367,12 +367,12 @@ github.com/zmap/zcrypto                                                       v0
 github.com/zmap/zlint/v3                                                      v3.1.0                                 go-module                   
 glib-networking                                                               2.80.1-1.fc40                          rpm                         
 glib2                                                                         2.80.3-1.fc40                          rpm                         
-glibc                                                                         2.39-37.fc40                           rpm                         
-glibc-all-langpacks                                                           2.39-37.fc40                           rpm                         
-glibc-common                                                                  2.39-37.fc40                           rpm                         
-glibc-gconv-extra                                                             2.39-37.fc40                           rpm                         
-glibc-locale-source                                                           2.39-37.fc40                           rpm                         
-glibc-minimal-langpack                                                        2.39-37.fc40                           rpm                         
+glibc                                                                         2.39-38.fc40                           rpm                         
+glibc-all-langpacks                                                           2.39-38.fc40                           rpm                         
+glibc-common                                                                  2.39-38.fc40                           rpm                         
+glibc-gconv-extra                                                             2.39-38.fc40                           rpm                         
+glibc-locale-source                                                           2.39-38.fc40                           rpm                         
+glibc-minimal-langpack                                                        2.39-38.fc40                           rpm                         
 glibmm2.68                                                                    2.80.1-1.fc40                          rpm                         
 gmp                                                                           1:6.2.1-8.fc40                         rpm                         
 gnome-keyring                                                                 46.2-1.fc40                            rpm                         
@@ -683,7 +683,7 @@ librsvg2                                                                      2.
 libsamplerate                                                                 0.2.2-8.fc40                           rpm                         
 libsbc                                                                        2.0-4.fc40                             rpm                         
 libseccomp                                                                    2.5.5-1.fc40                           rpm                         
-libsecret                                                                     0.21.4-2.fc40                          rpm                         
+libsecret                                                                     0.21.7-2.fc40                          rpm                         
 libselinux                                                                    3.7-5.fc40                             rpm                         
 libselinux-utils                                                              3.7-5.fc40                             rpm                         
 libsemanage                                                                   3.7-2.fc40                             rpm                         
@@ -773,7 +773,7 @@ mate-panel                                                                    1.
 mate-panel-libs                                                               1.28.4-1.fc40                          rpm                         
 mate-polkit                                                                   1.28.1-1.fc40                          rpm                         
 mate-session-manager                                                          1.28.0-4.fc40                          rpm                         
-mate-settings-daemon                                                          1.28.0-1.fc40                          rpm                         
+mate-settings-daemon                                                          1.28.0-4.fc40                          rpm                         
 mate-terminal                                                                 1.28.1-1.fc40                          rpm                         
 mate-themes                                                                   3.22.26-1.fc40                         rpm                         
 mate-user-guide                                                               1.28.0-1.fc40                          rpm                         
