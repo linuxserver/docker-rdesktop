@@ -217,7 +217,7 @@ github.com/davecgh/go-spew                                                    v1
 github.com/deckarep/golang-set/v2                                             v2.3.0                                 go-module                   
 github.com/dimchansky/utfbom                                                  v1.1.1                                 go-module                   
 github.com/distribution/reference                                             v0.6.0                                 go-module  (+3 duplicates)  
-github.com/docker/cli/cmd/docker                                              v28.1.1                                go-module                   
+github.com/docker/cli/cmd/docker                                              UNKNOWN                                go-module                   
 github.com/docker/distribution                                                v2.8.3+incompatible                    go-module                   
 github.com/docker/docker                                                      v28.1.1                                go-module  (+1 duplicate)   
 github.com/docker/go-connections                                              v0.5.0                                 go-module                   
@@ -319,7 +319,7 @@ github.com/opencontainers/cgroups                                             v0
 github.com/opencontainers/go-digest                                           v1.0.0                                 go-module  (+6 duplicates)  
 github.com/opencontainers/image-spec                                          v1.1.0                                 go-module  (+5 duplicates)  
 github.com/opencontainers/image-spec                                          v1.1.1                                 go-module                   
-github.com/opencontainers/runc                                                v1.2.5-0-g59923ef                      go-module                   
+github.com/opencontainers/runc                                                v0.0.0-20250213225849-59923ef18c98     go-module                   
 github.com/opencontainers/runtime-spec                                        v1.1.0                                 go-module  (+5 duplicates)  
 github.com/opencontainers/runtime-spec                                        v1.2.0                                 go-module  (+1 duplicate)   
 github.com/opencontainers/runtime-tools                                       v0.9.1-0.20221107090550-2e043c6bd626   go-module  (+1 duplicate)   
