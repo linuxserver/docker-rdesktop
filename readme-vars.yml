@@ -5,7 +5,7 @@ project_name: rdesktop
 project_url: "http://xrdp.org/"
 project_logo: "https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/rdesktop.png"
 project_blurb: |
-  [{{ project_name|capitalize }}]({{ project_url }}) - Containers containing full desktop environments in many popular flavors for Alpine, Ubuntu, Arch, and Fedora accessible via RDP.
+  [{{ project_name|capitalize }}]({{ project_url }}) - Containers containing full desktop environments in many popular flavors for Ubuntu accessible via RDP.
 project_lsio_github_repo_url: "https://github.com/linuxserver/docker-{{ project_name }}"
 project_categories: "Remote Desktop"
 # supported architectures
@@ -103,8 +103,6 @@ app_setup_block: |
   | NVIDIA | nouveau2 drivers only, closed source NVIDIA drivers lack DRI3 support |
 
   ## Nvidia GPU Support
-
-  **Nvidia is not compatible with Alpine based images**
 
   Nvidia support is available by leveraging Zink for OpenGL support. This can be enabled with the following run flags:
 

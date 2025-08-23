@@ -32,7 +32,7 @@ pipeline {
     CI_WEB='false'
     CI_PORT='3000'
     CI_SSL='false'
-    CI_DELAY='30'
+    CI_DELAY='60'
     CI_DOCKERENV='TZ=Etc/UTC'
     CI_AUTH='user:password'
     CI_WEBPATH=''
@@ -587,7 +587,7 @@ pipeline {
           --label \"org.opencontainers.image.licenses=GPL-3.0-only\" \
           --label \"org.opencontainers.image.ref.name=${COMMIT_SHA}\" \
           --label \"org.opencontainers.image.title=Rdesktop\" \
-          --label \"org.opencontainers.image.description=[Rdesktop](http://xrdp.org/) - Containers containing full desktop environments in many popular flavors for Alpine, Ubuntu, Arch, and Fedora accessible via RDP.  \" \
+          --label \"org.opencontainers.image.description=[Rdesktop](http://xrdp.org/) - Containers containing full desktop environments in many popular flavors for Ubuntu accessible via RDP.  \" \
           --no-cache --pull -t ${IMAGE}:${META_TAG} --platform=linux/amd64 \
           --provenance=true --sbom=true --builder=container --load \
           --build-arg ${BUILD_VERSION_ARG}=${EXT_RELEASE} --build-arg VERSION=\"${VERSION_TAG}\" --build-arg BUILD_DATE=${GITHUB_DATE} ."
@@ -653,7 +653,7 @@ pipeline {
               --label \"org.opencontainers.image.licenses=GPL-3.0-only\" \
               --label \"org.opencontainers.image.ref.name=${COMMIT_SHA}\" \
               --label \"org.opencontainers.image.title=Rdesktop\" \
-              --label \"org.opencontainers.image.description=[Rdesktop](http://xrdp.org/) - Containers containing full desktop environments in many popular flavors for Alpine, Ubuntu, Arch, and Fedora accessible via RDP.  \" \
+              --label \"org.opencontainers.image.description=[Rdesktop](http://xrdp.org/) - Containers containing full desktop environments in many popular flavors for Ubuntu accessible via RDP.  \" \
               --no-cache --pull -t ${IMAGE}:amd64-${META_TAG} --platform=linux/amd64 \
               --provenance=true --sbom=true --builder=container --load \
               --build-arg ${BUILD_VERSION_ARG}=${EXT_RELEASE} --build-arg VERSION=\"${VERSION_TAG}\" --build-arg BUILD_DATE=${GITHUB_DATE} ."
@@ -712,7 +712,7 @@ pipeline {
               --label \"org.opencontainers.image.licenses=GPL-3.0-only\" \
               --label \"org.opencontainers.image.ref.name=${COMMIT_SHA}\" \
               --label \"org.opencontainers.image.title=Rdesktop\" \
-              --label \"org.opencontainers.image.description=[Rdesktop](http://xrdp.org/) - Containers containing full desktop environments in many popular flavors for Alpine, Ubuntu, Arch, and Fedora accessible via RDP.  \" \
+              --label \"org.opencontainers.image.description=[Rdesktop](http://xrdp.org/) - Containers containing full desktop environments in many popular flavors for Ubuntu accessible via RDP.  \" \
               --no-cache --pull -f Dockerfile.aarch64 -t ${IMAGE}:arm64v8-${META_TAG} --platform=linux/arm64 \
               --provenance=true --sbom=true --builder=container --load \
               --build-arg ${BUILD_VERSION_ARG}=${EXT_RELEASE} --build-arg VERSION=\"${VERSION_TAG}\" --build-arg BUILD_DATE=${GITHUB_DATE} ."
