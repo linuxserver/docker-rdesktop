@@ -8,6 +8,12 @@ project_blurb: |
   [{{ project_name|capitalize }}]({{ project_url }}) - Containers containing full desktop environments in many popular flavors for Alpine, Ubuntu, Arch, and Fedora accessible via RDP.
 project_lsio_github_repo_url: "https://github.com/linuxserver/docker-{{ project_name }}"
 project_categories: "Remote Desktop"
+
+project_deprecation_status: true
+project_deprecation_message: |
+  Please migrate to an Ubuntu-based tag. For more info, see
+  https://info.linuxserver.io/issues/2025-08-23-rdesktop/
+
 # supported architectures
 available_architectures:
   - {arch: "{{ arch_x86_64 }}", tag: "amd64-latest"}
