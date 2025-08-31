@@ -44,7 +44,7 @@ docker-compose-plugin                                                         2.
 dpkg                                                                          1.22.6ubuntu6.1                            deb                        
 e2fsprogs                                                                     1.47.0-2.4~exp1ubuntu4.1                   deb                        
 findutils                                                                     4.9.0-5build1                              deb                        
-firefox                                                                       142.0+build1-0ubuntu0.24.04.1~mt1          deb                        
+firefox                                                                       142.0.1+build1-0ubuntu0.24.04.1~mt1        deb                        
 fontconfig                                                                    2.15.0-1.1ubuntu2                          deb                        
 fontconfig-config                                                             2.15.0-1.1ubuntu2                          deb                        
 fonts-dejavu-core                                                             2.37-8                                     deb                        
@@ -378,7 +378,7 @@ libgs10                                                                       10
 libgs10-common                                                                10.02.1~dfsg1-0ubuntu7.7                   deb                        
 libgsm1                                                                       1.0.22-1build1                             deb                        
 libgssapi-krb5-2                                                              1.20.1-6ubuntu2.6                          deb                        
-libgstreamer-plugins-base1.0-0                                                1.24.2-1ubuntu0.2                          deb                        
+libgstreamer-plugins-base1.0-0                                                1.24.2-1ubuntu0.3                          deb                        
 libgstreamer1.0-0                                                             1.24.2-1ubuntu0.1                          deb                        
 libgtk-3-0t64                                                                 3.24.41-4ubuntu1.3                         deb                        
 libgtk-3-common                                                               3.24.41-4ubuntu1.3                         deb                        
@@ -705,7 +705,7 @@ xserver-xorg-core                                                             2:
 xserver-xorg-video-amdgpu                                                     23.0.0-1build1                             deb                        
 xserver-xorg-video-ati                                                        1:22.0.0-1build1                           deb                        
 xserver-xorg-video-intel                                                      2:2.99.917+git20210115-1build1             deb                        
-xserver-xorg-video-nouveau                                                    1:1.0.17-2build1                           deb                        
+xserver-xorg-video-nouveau                                                    1:1.0.17-2ubuntu0.1                        deb                        
 xserver-xorg-video-qxl                                                        0.1.6-1build1                              deb                        
 xserver-xorg-video-radeon                                                     1:22.0.0-1build1                           deb                        
 xterm                                                                         390-1ubuntu3                               deb                        
