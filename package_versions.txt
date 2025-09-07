@@ -19,9 +19,9 @@ ca-certificates                   20230311+deb12u1                     deb
 caja                              1.26.1-1+deb12u1                     deb                        
 caja-common                       1.26.1-1+deb12u1                     deb                        
 catatonit                         0.1.7-1+b1                           deb                        
-chromium                          139.0.7258.154-1~deb12u1             deb                        
-chromium-common                   139.0.7258.154-1~deb12u1             deb                        
-chromium-l10n                     139.0.7258.154-1~deb12u1             deb                        
+chromium                          140.0.7339.80-1~deb12u1              deb                        
+chromium-common                   140.0.7339.80-1~deb12u1              deb                        
+chromium-l10n                     140.0.7339.80-1~deb12u1              deb                        
 coreutils                         9.1-1                                deb                        
 cpp                               4:12.2.0-3                           deb                        
 cpp-12                            12.2.0-14+deb12u1                    deb                        
@@ -51,7 +51,7 @@ distro                            1.8.0                                python
 distro-info-data                  0.58+deb12u4                         deb                        
 dmidecode                         3.4-1                                deb                        
 dmsetup                           2:1.02.185-2                         deb                        
-docker-ce-cli                     5:28.3.3-1~debian.12~bookworm        deb                        
+docker-ce-cli                     5:28.4.0-1~debian.12~bookworm        deb                        
 dpkg                              1.21.22                              deb                        
 e2fsprogs                         1.47.0-2                             deb                        
 emacsen-common                    3.0.5                                deb                        
@@ -103,8 +103,8 @@ gpgv                              2.2.40-1.1                           deb
 grep                              3.8-5                                deb                        
 groff-base                        1.22.4-10                            deb                        
 gsettings-desktop-schemas         43.0-1                               deb                        
-gstreamer1.0-plugins-base         1.22.0-3+deb12u4                     deb                        
-gstreamer1.0-plugins-good         1.22.0-5+deb12u2                     deb                        
+gstreamer1.0-plugins-base         1.22.0-3+deb12u5                     deb                        
+gstreamer1.0-plugins-good         1.22.0-5+deb12u3                     deb                        
 gtk-update-icon-cache             3.24.38-2~deb12u3                    deb                        
 gtk2-engines                      1:2.20.2-5+b1                        deb                        
 gtk2-engines-murrine              0.98.2-3+b1                          deb                        
@@ -135,7 +135,7 @@ libaom3                           3.6.0-1+deb12u1                      deb
 libapparmor1                      3.0.8-3                              deb                        
 libappstream4                     0.16.1-2                             deb                        
 libapt-pkg6.0                     2.6.1                                deb                        
-libarchive13                      3.6.2-1+deb12u2                      deb                        
+libarchive13                      3.6.2-1+deb12u3                      deb                        
 libargon2-1                       0~20171227-0.3+deb12u1               deb                        
 libasound2                        1.2.8-1+b1                           deb                        
 libasound2-data                   1.2.8-1                              deb                        
@@ -281,9 +281,9 @@ libgs10-common                    10.0.0~dfsg-11+deb12u7               deb
 libgsm1                           1.0.22-1                             deb                        
 libgssapi-krb5-2                  1.20.1-2+deb12u3                     deb                        
 libgssdp-1.6-0                    1.6.2-2                              deb                        
-libgstreamer-gl1.0-0              1.22.0-3+deb12u4                     deb                        
+libgstreamer-gl1.0-0              1.22.0-3+deb12u5                     deb                        
 libgstreamer-plugins-bad1.0-0     1.22.0-4+deb12u6                     deb                        
-libgstreamer-plugins-base1.0-0    1.22.0-3+deb12u4                     deb                        
+libgstreamer-plugins-base1.0-0    1.22.0-3+deb12u5                     deb                        
 libgstreamer1.0-0                 1.22.0-2+deb12u1                     deb                        
 libgtk-3-0                        3.24.38-2~deb12u3                    deb                        
 libgtk-3-common                   3.24.38-2~deb12u3                    deb                        
@@ -453,8 +453,8 @@ libsmartcols1                     2.38.1-5+deb12u3                     deb
 libsmbclient                      2:4.17.12+dfsg-0+deb12u2             deb                        
 libsnappy1v5                      1.1.9-3                              deb                        
 libsndfile1                       1.2.0-1                              deb                        
-libsoup-3.0-0                     3.2.2-2                              deb                        
-libsoup-3.0-common                3.2.2-2                              deb                        
+libsoup-3.0-0                     3.2.3-0+deb12u2                      deb                        
+libsoup-3.0-common                3.2.3-0+deb12u2                      deb                        
 libsoup2.4-1                      2.74.3-1+deb12u1                     deb                        
 libsoup2.4-common                 2.74.3-1+deb12u1                     deb                        
 libsoxr0                          0.1.3-4                              deb                        
@@ -687,7 +687,7 @@ six                               1.16.0                               python
 software-properties-common        0.99.30-4.1~deb12u1                  deb                        
 sound-theme-freedesktop           0.8-2                                deb                        
 ssl-cert                          1.1.2                                deb                        
-stdlib                            go1.24.5                             go-module                  
+stdlib                            go1.24.7                             go-module                  
 sudo                              1.9.13p3-1+deb12u2                   deb                        
 systemd                           252.38-1~deb12u1                     deb                        
 systemd-sysv                      252.38-1~deb12u1                     deb                        
