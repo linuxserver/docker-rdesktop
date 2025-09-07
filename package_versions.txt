@@ -19,9 +19,9 @@ bsdextrautils                            2.38.1-5+deb12u3                     de
 bsdutils                                 1:2.38.1-5+deb12u3                   deb                        
 ca-certificates                          20230311+deb12u1                     deb                        
 catatonit                                0.1.7-1+b1                           deb                        
-chromium                                 139.0.7258.154-1~deb12u1             deb                        
-chromium-common                          139.0.7258.154-1~deb12u1             deb                        
-chromium-l10n                            139.0.7258.154-1~deb12u1             deb                        
+chromium                                 140.0.7339.80-1~deb12u1              deb                        
+chromium-common                          140.0.7339.80-1~deb12u1              deb                        
+chromium-l10n                            140.0.7339.80-1~deb12u1              deb                        
 coreutils                                9.1-1                                deb                        
 cpp                                      4:12.2.0-3                           deb                        
 cpp-12                                   12.2.0-14+deb12u1                    deb                        
@@ -48,7 +48,7 @@ distro                                   1.8.0                                py
 distro-info-data                         0.58+deb12u4                         deb                        
 dmidecode                                3.4-1                                deb                        
 dmsetup                                  2:1.02.185-2                         deb                        
-docker-ce-cli                            5:28.3.3-1~debian.12~bookworm        deb                        
+docker-ce-cli                            5:28.4.0-1~debian.12~bookworm        deb                        
 dolphin                                  4:22.12.3-1                          deb                        
 dpkg                                     1.21.22                              deb                        
 drkonqi                                  5.27.5-2                             deb                        
@@ -145,7 +145,7 @@ libappimage1.0abi1                       1.0.4-5-1                            de
 libappstream4                            0.16.1-2                             deb                        
 libappstreamqt2                          0.16.1-2                             deb                        
 libapt-pkg6.0                            2.6.1                                deb                        
-libarchive13                             3.6.2-1+deb12u2                      deb                        
+libarchive13                             3.6.2-1+deb12u3                      deb                        
 libargon2-1                              0~20171227-0.3+deb12u1               deb                        
 libaribb24-0                             1.0.3-2                              deb                        
 libasound2                               1.2.8-1+b1                           deb                        
@@ -195,7 +195,7 @@ libcbor0.8                               0.8.0-2+b1                           de
 libcddb2                                 1.3.2-7                              deb                        
 libcfitsio10                             4.2.0-3                              deb                        
 libchromaprint1                          1.5.1-2+b1                           deb                        
-libcjson1                                1.7.15-1+deb12u2                     deb                        
+libcjson1                                1.7.15-1+deb12u3                     deb                        
 libcodec2-1.0                            1.0.5-1                              deb                        
 libcolorcorrect5                         4:5.27.5-2+deb12u2                   deb                        
 libcolord2                               1.4.6-2.2                            deb                        
@@ -569,7 +569,7 @@ libparted2                               3.5-3                                de
 libpciaccess0                            0.17-2                               deb                        
 libpcre2-16-0                            10.42-1                              deb                        
 libpcre2-8-0                             10.42-1                              deb                        
-libperl5.36                              5.36.0-7+deb12u2                     deb                        
+libperl5.36                              5.36.0-7+deb12u3                     deb                        
 libpgm-5.3-0                             5.3.128~dfsg-2                       deb                        
 libphonon4qt5-4                          4:4.11.1-4                           deb                        
 libphonon4qt5-data                       4:4.11.1-4                           deb                        
@@ -637,7 +637,7 @@ libqt5xml5                               5.15.8+dfsg-11+deb12u3               de
 librabbitmq4                             0.11.0-1+deb12u1                     deb                        
 librav1e0                                0.5.1-6                              deb                        
 libraw1394-11                            2.1.2-2                              deb                        
-libraw20                                 0.20.2-2.1                           deb                        
+libraw20                                 0.20.2-2.1+deb12u1                   deb                        
 libre2-9                                 20220601+dfsg-1+b1                   deb                        
 libreadline8                             8.2-1.3                              deb                        
 libresid-builder0c2a                     2.1.1-15+b1                          deb                        
@@ -854,9 +854,9 @@ packagekit                               1.2.6-5                              de
 parted                                   3.5-3                                deb                        
 passwd                                   1:4.13+dfsg1-1+deb12u1               deb                        
 pci.ids                                  0.0~2023.04.11-1                     deb                        
-perl                                     5.36.0-7+deb12u2                     deb                        
-perl-base                                5.36.0-7+deb12u2                     deb                        
-perl-modules-5.36                        5.36.0-7+deb12u2                     deb                        
+perl                                     5.36.0-7+deb12u3                     deb                        
+perl-base                                5.36.0-7+deb12u3                     deb                        
+perl-modules-5.36                        5.36.0-7+deb12u3                     deb                        
 phonon4qt5                               4:4.11.1-4                           deb                        
 phonon4qt5-backend-vlc                   0.11.3-1                             deb                        
 pinentry-curses                          1.2.1-1                              deb                        
@@ -949,7 +949,7 @@ six                                      1.16.0                               py
 software-properties-common               0.99.30-4.1~deb12u1                  deb                        
 sound-theme-freedesktop                  0.8-2                                deb                        
 ssl-cert                                 1.1.2                                deb                        
-stdlib                                   go1.24.5                             go-module                  
+stdlib                                   go1.24.7                             go-module                  
 sudo                                     1.9.13p3-1+deb12u2                   deb                        
 systemd                                  252.38-1~deb12u1                     deb                        
 systemd-sysv                             252.38-1~deb12u1                     deb                        
@@ -960,7 +960,7 @@ tzdata                                   2025b-0+deb12u1                      de
 ucf                                      3.0043+nmu1+deb12u1                  deb                        
 udev                                     252.38-1~deb12u1                     deb                        
 udisks2                                  2.9.4-4+deb12u2                      deb                        
-usb.ids                                  2024.07.04-0+deb12u1                 deb                        
+usb.ids                                  2025.07.26-0+deb12u1                 deb                        
 usr-is-merged                            37~deb12u1                           deb                        
 util-linux                               2.38.1-5+deb12u3                     deb                        
 util-linux-extra                         2.38.1-5+deb12u3                     deb                        
