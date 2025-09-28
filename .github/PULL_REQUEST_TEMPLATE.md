@@ -1,3 +1,10 @@
+# DEPRECATION NOTICE 
+This image is deprecated. We will not offer support for this image and it will not be updated.
+
+
+Please migrate to an Ubuntu-based tag. For more info, see
+https://info.linuxserver.io/issues/2025-08-23-rdesktop/
+
 <!--- Provide a general summary of your changes in the Title above -->
 
 [linuxserverurl]: https://linuxserver.io
