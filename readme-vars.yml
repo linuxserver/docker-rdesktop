@@ -3,6 +3,10 @@
 # project information
 project_name: rdesktop
 project_lsio_github_repo_url: "https://github.com/linuxserver/docker-{{ project_name }}"
+project_deprecation_status: true
+project_deprecation_message: |
+  Please migrate to an Ubuntu-based tag. For more info, see
+  https://info.linuxserver.io/issues/2025-08-23-rdesktop/
 full_custom_readme: |
   {% raw -%}
   Up to date documentation is available [here](https://github.com/linuxserver/docker-rdesktop/blob/master/README.md).
