@@ -93,7 +93,7 @@ pipeline {
           env.CODE_URL = 'https://github.com/' + env.LS_USER + '/' + env.LS_REPO + '/commit/' + env.GIT_COMMIT
           env.DOCKERHUB_LINK = 'https://hub.docker.com/r/' + env.DOCKERHUB_IMAGE + '/tags/'
           env.PULL_REQUEST = env.CHANGE_ID
-          env.TEMPLATED_FILES = 'Jenkinsfile README.md LICENSE .editorconfig ./.github/CONTRIBUTING.md ./.github/FUNDING.yml ./.github/ISSUE_TEMPLATE/config.yml ./.github/ISSUE_TEMPLATE/issue.bug.yml ./.github/ISSUE_TEMPLATE/issue.feature.yml ./.github/PULL_REQUEST_TEMPLATE.md ./.github/workflows/external_trigger_scheduler.yml ./.github/workflows/greetings.yml ./.github/workflows/package_trigger_scheduler.yml ./.github/workflows/call_issue_pr_tracker.yml ./.github/workflows/call_issues_cron.yml ./.github/workflows/permissions.yml ./.github/workflows/external_trigger.yml'
+          env.TEMPLATED_FILES = 'Jenkinsfile README.md LICENSE .editorconfig ./.github/CONTRIBUTING.md ./.github/FUNDING.yml ./.github/ISSUE_TEMPLATE/config.yml ./.github/ISSUE_TEMPLATE/issue.bug.yml ./.github/ISSUE_TEMPLATE/issue.feature.yml ./.github/PULL_REQUEST_TEMPLATE.md ./root/etc/s6-overlay/s6-rc.d/init-deprecate/run ./root/etc/s6-overlay/s6-rc.d/init-deprecate/up ./root/etc/s6-overlay/s6-rc.d/init-deprecate/type ./root/etc/s6-overlay/s6-rc.d/init-deprecate/dependencies.d/init-config-end ./root/etc/s6-overlay/s6-rc.d/init-services/dependencies.d/init-deprecate ./root/etc/s6-overlay/s6-rc.d/user/contents.d/init-deprecate'
           if ( env.SYFT_IMAGE_TAG == null ) {
             env.SYFT_IMAGE_TAG = 'latest'
           }
@@ -329,6 +329,7 @@ pipeline {
               fi
               echo "Starting Stage 2 - Delete old templates"
               OLD_TEMPLATES=".github/ISSUE_TEMPLATE.md .github/ISSUE_TEMPLATE/issue.bug.md .github/ISSUE_TEMPLATE/issue.feature.md .github/workflows/call_invalid_helper.yml .github/workflows/stale.yml .github/workflows/package_trigger.yml"
+              OLD_TEMPLATES="${OLD_TEMPLATES} $(echo .github/workflows/{external_trigger,external_trigger_scheduler,package_trigger_scheduler,call_issue_pr_tracker,call_issues_cron}.yml)"
               for i in ${OLD_TEMPLATES}; do
                 if [[ -f "${i}" ]]; then
                   TEMPLATES_TO_DELETE="${i} ${TEMPLATES_TO_DELETE}"
@@ -352,35 +353,6 @@ pipeline {
               else
                 echo "No templates to delete"
               fi
-              echo "Starting Stage 2.5 - Update init diagram"
-              if ! grep -q 'init_diagram:' readme-vars.yml; then
-                echo "Adding the key 'init_diagram' to readme-vars.yml"
-                sed -i '\\|^#.*changelog.*$|d' readme-vars.yml
-                sed -i 's|^changelogs:|# init diagram\\ninit_diagram:\\n\\n# changelog\\nchangelogs:|' readme-vars.yml
-              fi
-              mkdir -p ${TEMPDIR}/d2
-              docker run --rm -v ${TEMPDIR}/d2:/output -e PUID=$(id -u) -e PGID=$(id -g) -e RAW="true" ghcr.io/linuxserver/d2-builder:latest ${CONTAINER_NAME}:latest
-              ls -al ${TEMPDIR}/d2
-              yq -ei ".init_diagram |= load_str(\\"${TEMPDIR}/d2/${CONTAINER_NAME}-latest.d2\\")" readme-vars.yml
-              if [[ $(md5sum readme-vars.yml | cut -c1-8) != $(md5sum ${TEMPDIR}/docker-${CONTAINER_NAME}/readme-vars.yml | cut -c1-8) ]]; then
-                echo "'init_diagram' has been updated. Updating repo and exiting build, new one will trigger based on commit."
-                mkdir -p ${TEMPDIR}/repo
-                git clone https://github.com/${LS_USER}/${LS_REPO}.git ${TEMPDIR}/repo/${LS_REPO}
-                cd ${TEMPDIR}/repo/${LS_REPO}
-                git checkout -f master
-                cp ${WORKSPACE}/readme-vars.yml ${TEMPDIR}/repo/${LS_REPO}/readme-vars.yml
-                git add readme-vars.yml
-                git commit -m 'Bot Updating Templated Files'
-                git pull https://LinuxServer-CI:${GITHUB_TOKEN}@github.com/${LS_USER}/${LS_REPO}.git master
-                git push https://LinuxServer-CI:${GITHUB_TOKEN}@github.com/${LS_USER}/${LS_REPO}.git master
-                echo "true" > /tmp/${COMMIT_SHA}-${BUILD_NUMBER}
-                echo "Updating templates and exiting build, new one will trigger based on commit"
-                rm -Rf ${TEMPDIR}
-                exit 0
-              else
-                echo "false" > /tmp/${COMMIT_SHA}-${BUILD_NUMBER}
-                echo "Init diagram is unchanged"
-              fi
               echo "Starting Stage 3 - Update templates"
               CURRENTHASH=$(grep -hs ^ ${TEMPLATED_FILES} | md5sum | cut -c1-8)
               cd ${TEMPDIR}/docker-${CONTAINER_NAME}
@@ -393,6 +365,10 @@ pipeline {
                 cd ${TEMPDIR}/docker-${CONTAINER_NAME}
                 mkdir -p ${TEMPDIR}/repo/${LS_REPO}/.github/workflows
                 mkdir -p ${TEMPDIR}/repo/${LS_REPO}/.github/ISSUE_TEMPLATE
+                mkdir -p \
+                  ${TEMPDIR}/repo/${LS_REPO}/root/etc/s6-overlay/s6-rc.d/init-deprecate/dependencies.d \
+                  ${TEMPDIR}/repo/${LS_REPO}/root/etc/s6-overlay/s6-rc.d/init-services/dependencies.d \
+                  ${TEMPDIR}/repo/${LS_REPO}/root/etc/s6-overlay/s6-rc.d/user/contents.d
                 cp --parents ${TEMPLATED_FILES} ${TEMPDIR}/repo/${LS_REPO}/ || :
                 cp --parents readme-vars.yml ${TEMPDIR}/repo/${LS_REPO}/ || :
                 cd ${TEMPDIR}/repo/${LS_REPO}/
@@ -422,6 +398,19 @@ pipeline {
                 git add docs/images/docker-${CONTAINER_NAME}.md
                 echo "Updating docs repo"
                 git commit -m 'Bot Updating Documentation'
+                git mv docs/images/docker-${CONTAINER_NAME}.md docs/deprecated_images/docker-${CONTAINER_NAME}.md || :
+                if ! command -v yq || ! yq --help | grep -q 'mikefarah'; then
+                  YQ_DL_VERSION=$(curl -fsX GET "https://api.github.com/repos/mikefarah/yq/releases/latest" | jq -r '. | .tag_name')
+                  echo "No yq found, retrieving from upstream release version ${YQ_DL_VERSION}"
+                  curl -fo /usr/local/bin/yq -L "https://github.com/mikefarah/yq/releases/download/${YQ_DL_VERSION}/yq_linux_amd64"
+                  chmod +x /usr/local/bin/yq
+                fi
+                if ! yq -e '.plugins.[].redirects.redirect_maps.[] | select(. == "deprecated_images/docker-" + env(CONTAINER_NAME) + ".md")' mkdocs.yml  >/dev/null 2>&1; then
+                  echo "Updating mkdocs.yml with deprecation info"
+                  yq -i '(.plugins.[] | select(.redirects)).redirects.redirect_maps |= . + {"images/docker-" + env(CONTAINER_NAME) + ".md" : "deprecated_images/docker-" + env(CONTAINER_NAME) + ".md"}' mkdocs.yml
+                  git add mkdocs.yml
+                fi
+                git commit -m 'Bot Moving Deprecated Documentation' || :
                 git pull https://LinuxServer-CI:${GITHUB_TOKEN}@github.com/linuxserver/docker-documentation.git ${GH_DOCS_DEFAULT_BRANCH} --rebase
                 git push https://LinuxServer-CI:${GITHUB_TOKEN}@github.com/linuxserver/docker-documentation.git ${GH_DOCS_DEFAULT_BRANCH} || \
                   (MAXWAIT="10" && echo "Push to docs failed, trying again in ${MAXWAIT} seconds" && \
@@ -430,40 +419,6 @@ pipeline {
                   git push https://LinuxServer-CI:${GITHUB_TOKEN}@github.com/linuxserver/docker-documentation.git ${GH_DOCS_DEFAULT_BRANCH})
               else
                 echo "Docs update not needed, skipping"
-              fi
-              mkdir -p ${TEMPDIR}/unraid
-              git clone --depth=1 https://github.com/linuxserver/docker-templates.git ${TEMPDIR}/unraid/docker-templates
-              git clone --depth=1 https://github.com/linuxserver/templates.git ${TEMPDIR}/unraid/templates
-              if [[ -f ${TEMPDIR}/unraid/docker-templates/linuxserver.io/img/${CONTAINER_NAME}-logo.png ]]; then
-                sed -i "s|master/linuxserver.io/img/linuxserver-ls-logo.png|master/linuxserver.io/img/${CONTAINER_NAME}-logo.png|" ${TEMPDIR}/docker-${CONTAINER_NAME}/.jenkins-external/${CONTAINER_NAME}.xml
-              elif [[ -f ${TEMPDIR}/unraid/docker-templates/linuxserver.io/img/${CONTAINER_NAME}-icon.png ]]; then
-                sed -i "s|master/linuxserver.io/img/linuxserver-ls-logo.png|master/linuxserver.io/img/${CONTAINER_NAME}-icon.png|" ${TEMPDIR}/docker-${CONTAINER_NAME}/.jenkins-external/${CONTAINER_NAME}.xml
-              fi
-              if [[ "${BRANCH_NAME}" == "${GH_DEFAULT_BRANCH}" ]] && [[ (! -f ${TEMPDIR}/unraid/templates/unraid/${CONTAINER_NAME}.xml) || ("$(md5sum ${TEMPDIR}/unraid/templates/unraid/${CONTAINER_NAME}.xml | awk '{ print $1 }')" != "$(md5sum ${TEMPDIR}/docker-${CONTAINER_NAME}/.jenkins-external/${CONTAINER_NAME}.xml | awk '{ print $1 }')") ]]; then
-                echo "Updating Unraid template"
-                cd ${TEMPDIR}/unraid/templates/
-                GH_TEMPLATES_DEFAULT_BRANCH=$(git remote show origin | grep "HEAD branch:" | sed 's|.*HEAD branch: ||')
-                if grep -wq "^${CONTAINER_NAME}$" ${TEMPDIR}/unraid/templates/unraid/ignore.list && [[ -f ${TEMPDIR}/unraid/templates/unraid/deprecated/${CONTAINER_NAME}.xml ]]; then
-                  echo "Image is on the ignore list, and already in the deprecation folder."
-                elif grep -wq "^${CONTAINER_NAME}$" ${TEMPDIR}/unraid/templates/unraid/ignore.list; then
-                  echo "Image is on the ignore list, marking Unraid template as deprecated"
-                  cp ${TEMPDIR}/docker-${CONTAINER_NAME}/.jenkins-external/${CONTAINER_NAME}.xml ${TEMPDIR}/unraid/templates/unraid/
-                  git add -u unraid/${CONTAINER_NAME}.xml
-                  git mv unraid/${CONTAINER_NAME}.xml unraid/deprecated/${CONTAINER_NAME}.xml || :
-                  git commit -m 'Bot Moving Deprecated Unraid Template' || :
-                else
-                  cp ${TEMPDIR}/docker-${CONTAINER_NAME}/.jenkins-external/${CONTAINER_NAME}.xml ${TEMPDIR}/unraid/templates/unraid/
-                  git add unraid/${CONTAINER_NAME}.xml
-                  git commit -m 'Bot Updating Unraid Template'
-                fi
-                git pull https://LinuxServer-CI:${GITHUB_TOKEN}@github.com/linuxserver/templates.git ${GH_TEMPLATES_DEFAULT_BRANCH} --rebase
-                git push https://LinuxServer-CI:${GITHUB_TOKEN}@github.com/linuxserver/templates.git ${GH_TEMPLATES_DEFAULT_BRANCH} || \
-                  (MAXWAIT="10" && echo "Push to unraid templates failed, trying again in ${MAXWAIT} seconds" && \
-                  sleep $((RANDOM % MAXWAIT)) && \
-                  git pull https://LinuxServer-CI:${GITHUB_TOKEN}@github.com/linuxserver/templates.git ${GH_TEMPLATES_DEFAULT_BRANCH} --rebase && \
-                  git push https://LinuxServer-CI:${GITHUB_TOKEN}@github.com/linuxserver/templates.git ${GH_TEMPLATES_DEFAULT_BRANCH})
-              else
-                echo "No updates to Unraid template needed, skipping"
               fi
               if [[ "${BRANCH_NAME}" == "${GH_DEFAULT_BRANCH}" ]]; then
                 if [[ $(cat ${TEMPDIR}/docker-${CONTAINER_NAME}/README.md | wc -m) -gt 25000 ]]; then
@@ -587,7 +542,7 @@ pipeline {
           --label \"org.opencontainers.image.licenses=GPL-3.0-only\" \
           --label \"org.opencontainers.image.ref.name=${COMMIT_SHA}\" \
           --label \"org.opencontainers.image.title=Rdesktop\" \
-          --label \"org.opencontainers.image.description=[Rdesktop](http://xrdp.org/) - Containers containing full desktop environments in many popular flavors for Alpine, Ubuntu, Arch, and Fedora accessible via RDP.  \" \
+          --label \"org.opencontainers.image.description=rdesktop image by linuxserver.io\" \
           --no-cache --pull -t ${IMAGE}:${META_TAG} --platform=linux/amd64 \
           --provenance=true --sbom=true --builder=container --load \
           --build-arg ${BUILD_VERSION_ARG}=${EXT_RELEASE} --build-arg VERSION=\"${VERSION_TAG}\" --build-arg BUILD_DATE=${GITHUB_DATE} ."
@@ -653,7 +608,7 @@ pipeline {
               --label \"org.opencontainers.image.licenses=GPL-3.0-only\" \
               --label \"org.opencontainers.image.ref.name=${COMMIT_SHA}\" \
               --label \"org.opencontainers.image.title=Rdesktop\" \
-              --label \"org.opencontainers.image.description=[Rdesktop](http://xrdp.org/) - Containers containing full desktop environments in many popular flavors for Alpine, Ubuntu, Arch, and Fedora accessible via RDP.  \" \
+              --label \"org.opencontainers.image.description=rdesktop image by linuxserver.io\" \
               --no-cache --pull -t ${IMAGE}:amd64-${META_TAG} --platform=linux/amd64 \
               --provenance=true --sbom=true --builder=container --load \
               --build-arg ${BUILD_VERSION_ARG}=${EXT_RELEASE} --build-arg VERSION=\"${VERSION_TAG}\" --build-arg BUILD_DATE=${GITHUB_DATE} ."
@@ -712,7 +667,7 @@ pipeline {
               --label \"org.opencontainers.image.licenses=GPL-3.0-only\" \
               --label \"org.opencontainers.image.ref.name=${COMMIT_SHA}\" \
               --label \"org.opencontainers.image.title=Rdesktop\" \
-              --label \"org.opencontainers.image.description=[Rdesktop](http://xrdp.org/) - Containers containing full desktop environments in many popular flavors for Alpine, Ubuntu, Arch, and Fedora accessible via RDP.  \" \
+              --label \"org.opencontainers.image.description=rdesktop image by linuxserver.io\" \
               --no-cache --pull -f Dockerfile.aarch64 -t ${IMAGE}:arm64v8-${META_TAG} --platform=linux/arm64 \
               --provenance=true --sbom=true --builder=container --load \
               --build-arg ${BUILD_VERSION_ARG}=${EXT_RELEASE} --build-arg VERSION=\"${VERSION_TAG}\" --build-arg BUILD_DATE=${GITHUB_DATE} ."
@@ -923,6 +878,7 @@ pipeline {
                   if [ -n "${SEMVER}" ]; then
                     docker buildx imagetools create --prefer-index=false -t ${PUSHIMAGE}:${SEMVER} ${CACHEIMAGE}:amd64-${COMMIT_SHA}-${BUILD_NUMBER}
                   fi
+                  docker buildx imagetools create -t ${PUSHIMAGE}:latest ghcr.io/linuxserver/jenkins-builder:empty || true
                 done
               '''
         }
@@ -954,7 +910,7 @@ pipeline {
                   fi
                 done
                 for MANIFESTIMAGE in "${IMAGE}" "${GITLABIMAGE}" "${GITHUBIMAGE}" "${QUAYIMAGE}"; do
-                  docker buildx imagetools create -t ${MANIFESTIMAGE}:latest ${MANIFESTIMAGE}:amd64-latest ${MANIFESTIMAGE}:arm64v8-latest
+                  docker buildx imagetools create -t ${MANIFESTIMAGE}:latest -t ${MANIFESTIMAGE}:amd64-latest -t ${MANIFESTIMAGE}:arm64v8-latest ghcr.io/linuxserver/jenkins-builder:empty || true
                   docker buildx imagetools create -t ${MANIFESTIMAGE}:${META_TAG} ${MANIFESTIMAGE}:amd64-${META_TAG} ${MANIFESTIMAGE}:arm64v8-${META_TAG}
 
                   docker buildx imagetools create -t ${MANIFESTIMAGE}:${EXT_RELEASE_TAG} ${MANIFESTIMAGE}:amd64-${EXT_RELEASE_TAG} ${MANIFESTIMAGE}:arm64v8-${EXT_RELEASE_TAG}
@@ -1107,6 +1063,26 @@ EOF
             fi
             '''
 
+      }
+    }
+    stage('Deprecate/Disable Future Builds') {
+      when {
+        branch "master"
+        environment name: 'CHANGE_ID', value: ''
+        environment name: 'EXIT_STATUS', value: ''
+      }
+      steps {
+        sh '''#! /bin/bash
+          TEMPDIR=$(mktemp -d)
+          mkdir -p ${TEMPDIR}/repo
+          git clone https://github.com/${LS_USER}/${LS_REPO}.git ${TEMPDIR}/repo/${LS_REPO}
+          cd ${TEMPDIR}/repo/${LS_REPO}
+          git checkout -f master
+          git rm Jenkinsfile
+          git commit -m 'Disabling future builds'
+          git pull https://LinuxServer-CI:${GITHUB_TOKEN}@github.com/${LS_USER}/${LS_REPO}.git master
+          git push https://LinuxServer-CI:${GITHUB_TOKEN}@github.com/${LS_USER}/${LS_REPO}.git master
+          rm -Rf ${TEMPDIR}'''
       }
     }
   }
