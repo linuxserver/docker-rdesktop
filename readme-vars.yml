@@ -134,7 +134,7 @@ app_setup_block: |
   ```
 # init diagram
 init_diagram: |
-  "rdesktop:latest": {
+  "rdesktop:ubuntu-xfce": {
     docker-mods
     base {
       fix-attr +\nlegacy cont-init
@@ -150,29 +150,24 @@ init_diagram: |
     init-os-end -> init-config
     init-rdesktop-end -> init-config
     init-config -> init-config-end
-    init-os-end -> init-crontab-config
+    init-crontab-config -> init-config-end
+    init-config -> init-crontab-config
     init-mods-end -> init-custom-files
     init-adduser -> init-device-perms
     base -> init-envfile
-    init-os-end -> init-keygen
+    init-prep-xrdp -> init-keygen
     base -> init-migrations
-    base -> init-mods
     init-config-end -> init-mods
-    init-mods -> init-mods-end
     init-mods-package-install -> init-mods-end
     init-mods -> init-mods-package-install
-    base -> init-os-end
     init-adduser -> init-os-end
     init-device-perms -> init-os-end
     init-envfile -> init-os-end
-    init-migrations -> init-os-end
+    init-os-end -> init-prep-xrdp
     init-keygen -> init-rdesktop
-    init-keygen -> init-rdesktop-config
     init-video -> init-rdesktop-end
     init-custom-files -> init-services
-    init-mods-end -> init-services
     init-rdesktop -> init-video
-    init-rdesktop-config -> init-video
     init-services -> svc-cron
     svc-cron -> legacy-services
     init-services -> svc-xrdp
@@ -182,9 +177,9 @@ init_diagram: |
     svc-xrdp-sesman -> legacy-services
   }
   Base Images: {
-    "baseimage-rdesktop:alpine320" <- "baseimage-alpine:3.20"
+    "baseimage-rdesktop:ubuntunoble" <- "baseimage-ubuntu:noble"
   }
-  "rdesktop:latest" <- Base Images
+  "rdesktop:ubuntu-xfce" <- Base Images
 # changelog
 changelogs:
   - {date: "30.09.25:", desc: "Deprecate all non-Ubuntu versions."}
