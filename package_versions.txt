@@ -70,7 +70,7 @@ dpkg                                                                          1.
 e2fsprogs                                                                     1.47.0-2.4~exp1ubuntu4.1                  deb                           
 emacsen-common                                                                3.0.5                                     deb                           
 findutils                                                                     4.9.0-5build1                             deb                           
-firefox                                                                       143.0.1+build1-0ubuntu0.24.04.1~mt1       deb                           
+firefox                                                                       143.0.4+build1-0ubuntu0.24.04.1~mt1       deb                           
 fontconfig                                                                    2.15.0-1.1ubuntu2                         deb                           
 fontconfig-config                                                             2.15.0-1.1ubuntu2                         deb                           
 fonts-dejavu-core                                                             2.37-8                                    deb                           
@@ -86,7 +86,7 @@ gawk                                                                          1:
 gcc-13-base                                                                   13.3.0-6ubuntu2~24.04                     deb                           
 gcc-14-base                                                                   14.2.0-4ubuntu2~24.04                     deb                           
 gettext-base                                                                  0.21-14ubuntu2                            deb                           
-ghostscript                                                                   10.02.1~dfsg1-0ubuntu7.7                  deb                           
+ghostscript                                                                   10.02.1~dfsg1-0ubuntu7.8                  deb                           
 gir1.2-atk-1.0                                                                2.52.0-1build1                            deb                           
 gir1.2-freedesktop                                                            1.80.1-1                                  deb                           
 gir1.2-gdkpixbuf-2.0                                                          2.42.10+dfsg-3ubuntu3.2                   deb                           
@@ -505,9 +505,9 @@ libgphoto2-port12t64                                                          2.
 libgpm2                                                                       1.20.7-11                                 deb                           
 libgraphene-1.0-0                                                             1.10.8-3build2                            deb                           
 libgraphite2-3                                                                1.3.14-2build1                            deb                           
-libgs-common                                                                  10.02.1~dfsg1-0ubuntu7.7                  deb                           
-libgs10                                                                       10.02.1~dfsg1-0ubuntu7.7                  deb                           
-libgs10-common                                                                10.02.1~dfsg1-0ubuntu7.7                  deb                           
+libgs-common                                                                  10.02.1~dfsg1-0ubuntu7.8                  deb                           
+libgs10                                                                       10.02.1~dfsg1-0ubuntu7.8                  deb                           
+libgs10-common                                                                10.02.1~dfsg1-0ubuntu7.8                  deb                           
 libgsm1                                                                       1.0.22-1build1                            deb                           
 libgssapi-krb5-2                                                              1.20.1-6ubuntu2.6                         deb                           
 libgstreamer-gl1.0-0                                                          1.24.2-1ubuntu0.3                         deb                           
@@ -1043,7 +1043,7 @@ util-linux                                                                    2.
 wadllib                                                                       1.3.6                                     python                        
 wireless-tools                                                                30~pre9-16.1ubuntu2                       deb                           
 wireplumber                                                                   0.4.17-1ubuntu4                           deb                           
-wpasupplicant                                                                 2:2.10-21ubuntu0.2                        deb                           
+wpasupplicant                                                                 2:2.10-21ubuntu0.3                        deb                           
 x11-apps                                                                      7.7+11build3                              deb                           
 x11-common                                                                    1:7.7+23ubuntu3                           deb                           
 x11-session-utils                                                             7.7+6build2                               deb                           
