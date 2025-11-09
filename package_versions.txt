@@ -45,7 +45,7 @@ dirmngr                                                                       2.
 distro                                                                        1.9.0                                   python                     
 distro-info-data                                                              0.60ubuntu0.5                           deb                        
 dmidecode                                                                     3.5-3ubuntu0.1                          deb                        
-docker-ce-cli                                                                 5:28.5.1-1~ubuntu.24.04~noble           deb                        
+docker-ce-cli                                                                 5:28.5.2-1~ubuntu.24.04~noble           deb                        
 docker-compose-plugin                                                         2.40.3-1~ubuntu.24.04~noble             deb                        
 dolphin                                                                       4:23.08.5-0ubuntu4                      deb                        
 dpkg                                                                          1.22.6ubuntu6.5                         deb                        
@@ -763,8 +763,8 @@ libpng16-16t64                                                                1.
 libpolkit-agent-1-0                                                           124-2ubuntu1.24.04.2                    deb                        
 libpolkit-gobject-1-0                                                         124-2ubuntu1.24.04.2                    deb                        
 libpolkit-qt5-1-1                                                             0.200.0-1build4                         deb                        
-libpoppler-qt5-1t64                                                           24.02.0-1ubuntu9.7                      deb                        
-libpoppler134                                                                 24.02.0-1ubuntu9.7                      deb                        
+libpoppler-qt5-1t64                                                           24.02.0-1ubuntu9.8                      deb                        
+libpoppler134                                                                 24.02.0-1ubuntu9.8                      deb                        
 libpopt0                                                                      1.19+dfsg-1build1                       deb                        
 libpostproc57                                                                 7:6.1.1-3ubuntu5                        deb                        
 libproc2-0                                                                    2:4.0.4-4ubuntu3.2                      deb                        
@@ -1144,8 +1144,8 @@ six                                                                           1.
 software-properties-common                                                    0.99.49.3                               deb                        
 sound-theme-freedesktop                                                       0.8-2ubuntu1                            deb                        
 ssl-cert                                                                      1.1.2ubuntu1                            deb                        
-stdlib                                                                        go1.24.8                                go-module                  
 stdlib                                                                        go1.24.9                                go-module                  
+stdlib                                                                        go1.25.3                                go-module                  
 sudo                                                                          1.9.15p5-3ubuntu5.24.04.1               deb                        
 systemd                                                                       255.4-1ubuntu8.11                       deb                        
 systemd-dev                                                                   255.4-1ubuntu8.11                       deb                        
