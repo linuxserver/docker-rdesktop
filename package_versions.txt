@@ -38,7 +38,7 @@ diffutils                                                                     1:
 dirmngr                                                                       2.4.4-2ubuntu17.3                       deb                        
 distro                                                                        1.9.0                                   python                     
 distro-info-data                                                              0.60ubuntu0.5                           deb                        
-docker-ce-cli                                                                 5:28.5.1-1~ubuntu.24.04~noble           deb                        
+docker-ce-cli                                                                 5:28.5.2-1~ubuntu.24.04~noble           deb                        
 docker-compose-plugin                                                         2.40.3-1~ubuntu.24.04~noble             deb                        
 dpkg                                                                          1.22.6ubuntu6.5                         deb                        
 e2fsprogs                                                                     1.47.0-2.4~exp1ubuntu4.1                deb                        
@@ -492,7 +492,7 @@ libspeex1                                                                     1.
 libspeexdsp1                                                                  1.2.1-1ubuntu3                          deb                        
 libsqlite3-0                                                                  3.45.1-1ubuntu2.5                       deb                        
 libss2                                                                        1.47.0-2.4~exp1ubuntu4.1                deb                        
-libssh-4                                                                      0.10.6-2ubuntu0.1                       deb                        
+libssh-4                                                                      0.10.6-2ubuntu0.2                       deb                        
 libssl3t64                                                                    3.0.13-0ubuntu3.6                       deb                        
 libstartup-notification0                                                      0.12-6build3                            deb                        
 libstdc++6                                                                    14.2.0-4ubuntu2~24.04                   deb                        
@@ -662,8 +662,8 @@ sigs.k8s.io/yaml                                                              v1
 six                                                                           1.16.0                                  python                     
 software-properties-common                                                    0.99.49.3                               deb                        
 ssl-cert                                                                      1.1.2ubuntu1                            deb                        
-stdlib                                                                        go1.24.8                                go-module                  
 stdlib                                                                        go1.24.9                                go-module                  
+stdlib                                                                        go1.25.3                                go-module                  
 stterm                                                                        0.9-1                                   deb                        
 sudo                                                                          1.9.15p5-3ubuntu5.24.04.1               deb                        
 systemd                                                                       255.4-1ubuntu8.11                       deb                        
