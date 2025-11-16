@@ -38,7 +38,7 @@ diffutils                                                                     1:
 dirmngr                                                                       2.4.4-2ubuntu17.3                       deb                        
 distro                                                                        1.9.0                                   python                     
 distro-info-data                                                              0.60ubuntu0.5                           deb                        
-docker-ce-cli                                                                 5:28.5.2-1~ubuntu.24.04~noble           deb                        
+docker-ce-cli                                                                 5:29.0.0-1~ubuntu.24.04~noble           deb                        
 docker-compose-plugin                                                         2.40.3-1~ubuntu.24.04~noble             deb                        
 dpkg                                                                          1.22.6ubuntu6.5                         deb                        
 e2fsprogs                                                                     1.47.0-2.4~exp1ubuntu4.1                deb                        
@@ -452,7 +452,7 @@ libproxy1v5                                                                   0.
 libpsl5t64                                                                    0.21.2-1.1build1                        deb                        
 libpthread-stubs0-dev                                                         0.4-1build3                             deb                        
 libpulse0                                                                     1:16.1+dfsg1-2ubuntu10.1                deb                        
-libpython3-stdlib                                                             3.12.3-0ubuntu2                         deb                        
+libpython3-stdlib                                                             3.12.3-0ubuntu2.1                       deb                        
 libpython3.12-minimal                                                         3.12.3-1ubuntu0.8                       deb                        
 libpython3.12-stdlib                                                          3.12.3-1ubuntu0.8                       deb                        
 librav1e0                                                                     0.7.1-2                                 deb                        
@@ -623,7 +623,7 @@ pyjwt                                                                         2.
 pyparsing                                                                     3.1.1                                   python                     
 python-apt                                                                    2.7.7+ubuntu5                           python                     
 python-apt-common                                                             2.7.7ubuntu5                            deb                        
-python3                                                                       3.12.3-0ubuntu2                         deb                        
+python3                                                                       3.12.3-0ubuntu2.1                       deb                        
 python3-apt                                                                   2.7.7ubuntu5                            deb                        
 python3-blinker                                                               1.7.0-1                                 deb                        
 python3-cffi-backend                                                          1.16.0-2build1                          deb                        
@@ -636,7 +636,7 @@ python3-jwt                                                                   2.
 python3-launchpadlib                                                          1.11.0-6                                deb                        
 python3-lazr.restfulclient                                                    0.14.6-1                                deb                        
 python3-lazr.uri                                                              1.0.6-3                                 deb                        
-python3-minimal                                                               3.12.3-0ubuntu2                         deb                        
+python3-minimal                                                               3.12.3-0ubuntu2.1                       deb                        
 python3-oauthlib                                                              3.2.2-1                                 deb                        
 python3-pkg-resources                                                         68.1.2-2ubuntu1.2                       deb                        
 python3-pyparsing                                                             3.1.1-1                                 deb                        
@@ -658,7 +658,7 @@ six                                                                           1.
 software-properties-common                                                    0.99.49.3                               deb                        
 ssl-cert                                                                      1.1.2ubuntu1                            deb                        
 stdlib                                                                        go1.24.9                                go-module                  
-stdlib                                                                        go1.25.3                                go-module                  
+stdlib                                                                        go1.25.4                                go-module                  
 stterm                                                                        0.9-1                                   deb                        
 sudo                                                                          1.9.15p5-3ubuntu5.24.04.1               deb                        
 systemd                                                                       255.4-1ubuntu8.11                       deb                        
