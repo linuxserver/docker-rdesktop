@@ -64,13 +64,13 @@ distro-info                                                                   1.
 distro-info                                                                   1.7build1                                 deb                           
 distro-info-data                                                              0.60ubuntu0.5                             deb                           
 dmidecode                                                                     3.5-3ubuntu0.1                            deb                           
-docker-ce-cli                                                                 5:28.5.2-1~ubuntu.24.04~noble             deb                           
+docker-ce-cli                                                                 5:29.0.0-1~ubuntu.24.04~noble             deb                           
 docker-compose-plugin                                                         2.40.3-1~ubuntu.24.04~noble               deb                           
 dpkg                                                                          1.22.6ubuntu6.5                           deb                           
 e2fsprogs                                                                     1.47.0-2.4~exp1ubuntu4.1                  deb                           
 emacsen-common                                                                3.0.5                                     deb                           
 findutils                                                                     4.9.0-5build1                             deb                           
-firefox                                                                       144.0.2+build1-0ubuntu0.24.04.1~mt1       deb                           
+firefox                                                                       145.0+build2-0ubuntu0.24.04.1~mt1         deb                           
 fontconfig                                                                    2.15.0-1.1ubuntu2                         deb                           
 fontconfig-config                                                             2.15.0-1.1ubuntu2                         deb                           
 fonts-dejavu-core                                                             2.37-8                                    deb                           
@@ -666,7 +666,7 @@ libpsl5t64                                                                    0.
 libpthread-stubs0-dev                                                         0.4-1build3                               deb                           
 libpulse-mainloop-glib0                                                       1:16.1+dfsg1-2ubuntu10.1                  deb                           
 libpulse0                                                                     1:16.1+dfsg1-2ubuntu10.1                  deb                           
-libpython3-stdlib                                                             3.12.3-0ubuntu2                           deb                           
+libpython3-stdlib                                                             3.12.3-0ubuntu2.1                         deb                           
 libpython3.12-minimal                                                         3.12.3-1ubuntu0.8                         deb                           
 libpython3.12-stdlib                                                          3.12.3-1ubuntu0.8                         deb                           
 libpython3.12t64                                                              3.12.3-1ubuntu0.8                         deb                           
@@ -937,7 +937,7 @@ python-apt                                                                    2.
 python-apt-common                                                             2.7.7ubuntu5                              deb                           
 python-dateutil                                                               2.8.2                                     python                        
 python-debian                                                                 0.1.49+ubuntu2                            python                        
-python3                                                                       3.12.3-0ubuntu2                           deb                           
+python3                                                                       3.12.3-0ubuntu2.1                         deb                           
 python3-apport                                                                2.28.1-0ubuntu3.8                         deb                           
 python3-apt                                                                   2.7.7ubuntu5                              deb                           
 python3-aptdaemon                                                             1.1.1+bzr982-0ubuntu44                    deb                           
@@ -964,7 +964,7 @@ python3-jwt                                                                   2.
 python3-launchpadlib                                                          1.11.0-6                                  deb                           
 python3-lazr.restfulclient                                                    0.14.6-1                                  deb                           
 python3-lazr.uri                                                              1.0.6-3                                   deb                           
-python3-minimal                                                               3.12.3-0ubuntu2                           deb                           
+python3-minimal                                                               3.12.3-0ubuntu2.1                         deb                           
 python3-oauthlib                                                              3.2.2-1                                   deb                           
 python3-pkg-resources                                                         68.1.2-2ubuntu1.2                         deb                           
 python3-problem-report                                                        2.28.1-0ubuntu3.8                         deb                           
@@ -999,7 +999,7 @@ sound-theme-freedesktop                                                       0.
 spice-vdagent                                                                 0.22.1-4build3                            deb                           
 ssl-cert                                                                      1.1.2ubuntu1                              deb                           
 stdlib                                                                        go1.24.9                                  go-module                     
-stdlib                                                                        go1.25.3                                  go-module                     
+stdlib                                                                        go1.25.4                                  go-module                     
 sudo                                                                          1.9.15p5-3ubuntu5.24.04.1                 deb                           
 systemd                                                                       255.4-1ubuntu8.11                         deb                           
 systemd-dev                                                                   255.4-1ubuntu8.11                         deb                           
