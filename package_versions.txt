@@ -43,7 +43,7 @@ docker-compose-plugin                                                         5.
 dpkg                                                                          1.22.6ubuntu6.5                         deb                        
 e2fsprogs                                                                     1.47.0-2.4~exp1ubuntu4.1                deb                        
 findutils                                                                     4.9.0-5build1                           deb                        
-firefox                                                                       145.0.2+build1-0ubuntu0.24.04.1~mt1     deb                        
+firefox                                                                       146.0+build1-0ubuntu0.24.04.1~mt1       deb                        
 fontconfig                                                                    2.15.0-1.1ubuntu2                       deb                        
 fontconfig-config                                                             2.15.0-1.1ubuntu2                       deb                        
 fonts-noto-color-emoji                                                        2.047-0ubuntu0.24.04.1                  deb                        
@@ -224,7 +224,7 @@ lazr-restfulclient                                                            0.
 lazr-uri                                                                      1.0.6                                   python                     
 libacl1                                                                       2.3.2-1build1.1                         deb                        
 libaom3                                                                       3.8.2-2ubuntu0.1                        deb                        
-libapparmor1                                                                  4.0.1really4.0.1-0ubuntu0.24.04.4       deb                        
+libapparmor1                                                                  4.0.1really4.0.1-0ubuntu0.24.04.5       deb                        
 libappstream5                                                                 1.0.2-1build6                           deb                        
 libapt-pkg6.0t64                                                              2.8.3                                   deb                        
 libargon2-1                                                                   0~20190702+dfsg-4build1                 deb                        
@@ -401,7 +401,7 @@ libpciaccess0                                                                 0.
 libpcre2-8-0                                                                  10.42-4ubuntu2.1                        deb                        
 libpipeline1                                                                  1.5.7-2                                 deb                        
 libpixman-1-0                                                                 0.42.2-1build1                          deb                        
-libpng16-16t64                                                                1.6.43-5build1                          deb                        
+libpng16-16t64                                                                1.6.43-5ubuntu0.1                       deb                        
 libpolkit-agent-1-0                                                           124-2ubuntu1.24.04.2                    deb                        
 libpolkit-gobject-1-0                                                         124-2ubuntu1.24.04.2                    deb                        
 libproc2-0                                                                    2:4.0.4-4ubuntu3.2                      deb                        
@@ -578,10 +578,10 @@ pulseaudio-utils                                                              1:
 pygobject                                                                     3.48.2                                  python                     
 pyjwt                                                                         2.7.0                                   python                     
 pyparsing                                                                     3.1.1                                   python                     
-python-apt                                                                    2.7.7+ubuntu5                           python                     
-python-apt-common                                                             2.7.7ubuntu5                            deb                        
+python-apt                                                                    2.7.7+ubuntu5.1                         python                     
+python-apt-common                                                             2.7.7ubuntu5.1                          deb                        
 python3                                                                       3.12.3-0ubuntu2.1                       deb                        
-python3-apt                                                                   2.7.7ubuntu5                            deb                        
+python3-apt                                                                   2.7.7ubuntu5.1                          deb                        
 python3-blinker                                                               1.7.0-1                                 deb                        
 python3-cffi-backend                                                          1.16.0-2build1                          deb                        
 python3-cryptography                                                          41.0.7-4ubuntu0.1                       deb                        
