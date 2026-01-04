@@ -39,7 +39,7 @@ dirmngr                                                                       2.
 distro                                                                        1.9.0                                   python                     
 distro-info-data                                                              0.60ubuntu0.5                           deb                        
 docker-ce-cli                                                                 5:29.1.3-1~ubuntu.24.04~noble           deb                        
-docker-compose-plugin                                                         5.0.0-1~ubuntu.24.04~noble              deb                        
+docker-compose-plugin                                                         5.0.1-1~ubuntu.24.04~noble              deb                        
 dpkg                                                                          1.22.6ubuntu6.5                         deb                        
 e2fsprogs                                                                     1.47.0-2.4~exp1ubuntu4.1                deb                        
 findutils                                                                     4.9.0-5build1                           deb                        
@@ -78,9 +78,9 @@ github.com/davecgh/go-spew                                                    v1
 github.com/distribution/reference                                             v0.6.0                                  go-module                  
 github.com/docker/buildx                                                      v0.30.1                                 go-module                  
 github.com/docker/cli                                                         v28.5.2+incompatible                    go-module                  
-github.com/docker/cli-docs-tool                                               v0.10.0                                 go-module                  
+github.com/docker/cli-docs-tool                                               v0.11.0                                 go-module                  
 github.com/docker/cli/cmd/docker                                              UNKNOWN                                 go-module                  
-github.com/docker/compose/v5                                                  v0.0.0-20251202074149-13d70b1c1134      go-module                  
+github.com/docker/compose/v5                                                  v0.0.0-20251218103533-c89b8a2d6b44      go-module                  
 github.com/docker/distribution                                                v2.8.3+incompatible                     go-module                  
 github.com/docker/docker                                                      v28.5.2+incompatible                    go-module                  
 github.com/docker/docker-credential-helpers                                   v0.9.3                                  go-module                  
@@ -117,7 +117,7 @@ github.com/mattn/go-runewidth                                                 v0
 github.com/mattn/go-shellwords                                                v1.0.12                                 go-module                  
 github.com/mgutz/ansi                                                         v0.0.0-20170206155736-9520e82c474b      go-module                  
 github.com/mitchellh/hashstructure/v2                                         v2.0.2                                  go-module                  
-github.com/moby/buildkit                                                      v0.26.2                                 go-module                  
+github.com/moby/buildkit                                                      v0.26.3                                 go-module                  
 github.com/moby/docker-image-spec                                             v1.3.1                                  go-module                  
 github.com/moby/go-archive                                                    v0.1.0                                  go-module                  
 github.com/moby/locker                                                        v1.0.1                                  go-module                  
@@ -130,7 +130,7 @@ github.com/moby/sys/symlink                                                   v0
 github.com/moby/sys/user                                                      v0.4.0                                  go-module                  
 github.com/moby/sys/userns                                                    v0.1.0                                  go-module                  
 github.com/moby/term                                                          v0.5.2                                  go-module                  
-github.com/morikuni/aec                                                       v1.0.0                                  go-module                  
+github.com/morikuni/aec                                                       v1.1.0                                  go-module                  
 github.com/munnerz/goautoneg                                                  v0.0.0-20191010083416-a7dc8b61c822      go-module                  
 github.com/opencontainers/go-digest                                           v1.0.0                                  go-module                  
 github.com/opencontainers/image-spec                                          v1.1.1                                  go-module                  
@@ -148,7 +148,7 @@ github.com/secure-systems-lab/go-securesystemslib                             v0
 github.com/shibumi/go-pathspec                                                v1.3.0                                  go-module                  
 github.com/sirupsen/logrus                                                    v1.9.3                                  go-module                  
 github.com/skratchdot/open-golang                                             v0.0.0-20200116055534-eef842397966      go-module                  
-github.com/spf13/cobra                                                        v1.10.1                                 go-module                  
+github.com/spf13/cobra                                                        v1.10.2                                 go-module                  
 github.com/spf13/pflag                                                        v1.0.10                                 go-module                  
 github.com/stretchr/testify                                                   v1.11.1                                 go-module                  
 github.com/theupdateframework/notary                                          v0.7.0                                  go-module                  
@@ -186,8 +186,8 @@ go.yaml.in/yaml/v2                                                            v2
 go.yaml.in/yaml/v4                                                            v4.0.0-rc.3                             go-module                  
 golang.org/x/crypto                                                           v0.45.0                                 go-module                  
 golang.org/x/net                                                              v0.47.0                                 go-module                  
-golang.org/x/sync                                                             v0.18.0                                 go-module                  
-golang.org/x/sys                                                              v0.38.0                                 go-module                  
+golang.org/x/sync                                                             v0.19.0                                 go-module                  
+golang.org/x/sys                                                              v0.39.0                                 go-module                  
 golang.org/x/term                                                             v0.37.0                                 go-module                  
 golang.org/x/text                                                             v0.31.0                                 go-module                  
 golang.org/x/time                                                             v0.14.0                                 go-module                  
@@ -611,7 +611,7 @@ shared-mime-info                                                              2.
 six                                                                           1.16.0                                  python                     
 software-properties-common                                                    0.99.49.3                               deb                        
 ssl-cert                                                                      1.1.2ubuntu1                            deb                        
-stdlib                                                                        go1.24.9                                go-module                  
+stdlib                                                                        go1.24.11                               go-module                  
 stdlib                                                                        go1.25.5                                go-module                  
 stterm                                                                        0.9-1                                   deb                        
 sudo                                                                          1.9.15p5-3ubuntu5.24.04.1               deb                        
@@ -619,7 +619,7 @@ systemd                                                                       25
 systemd-dev                                                                   255.4-1ubuntu8.12                       deb                        
 systemd-sysv                                                                  255.4-1ubuntu8.12                       deb                        
 sysvinit-utils                                                                3.08-6ubuntu3                           deb                        
-tags.cncf.io/container-device-interface                                       v1.0.1                                  go-module                  
+tags.cncf.io/container-device-interface                                       v1.1.0                                  go-module                  
 tar                                                                           1.35+dfsg-3build1                       deb                        
 tzdata                                                                        2025b-0ubuntu0.24.04.1                  deb                        
 ubuntu-keyring                                                                2023.11.28.1                            deb                        
