@@ -5,7 +5,7 @@ apt                                                                           2.
 apt-transport-https                                                           2.8.3                                   deb                        
 apt-utils                                                                     2.8.3                                   deb                        
 at-spi2-common                                                                2.52.0-1build1                          deb                        
-base-files                                                                    13ubuntu10.3                            deb                        
+base-files                                                                    13ubuntu10.4                            deb                        
 base-passwd                                                                   3.6.3build1                             deb                        
 bash                                                                          5.2.21-2ubuntu4                         deb                        
 blinker                                                                       1.7.0                                   python                     
@@ -407,7 +407,7 @@ libpciaccess0                                                                 0.
 libpcre2-8-0                                                                  10.42-4ubuntu2.1                        deb                        
 libpipeline1                                                                  1.5.7-2                                 deb                        
 libpixman-1-0                                                                 0.42.2-1build1                          deb                        
-libpng16-16t64                                                                1.6.43-5ubuntu0.4                       deb                        
+libpng16-16t64                                                                1.6.43-5ubuntu0.5                       deb                        
 libpolkit-agent-1-0                                                           124-2ubuntu1.24.04.2                    deb                        
 libpolkit-gobject-1-0                                                         124-2ubuntu1.24.04.2                    deb                        
 libproc2-0                                                                    2:4.0.4-4ubuntu3.2                      deb                        
@@ -441,8 +441,8 @@ libsmartcols1                                                                 2.
 libsnapd-glib-2-1                                                             1.64-0ubuntu5                           deb                        
 libsnappy1v5                                                                  1.1.10-1build1                          deb                        
 libsndfile1                                                                   1.2.2-1ubuntu5.24.04.1                  deb                        
-libsoup-3.0-0                                                                 3.4.4-5ubuntu0.6                        deb                        
-libsoup-3.0-common                                                            3.4.4-5ubuntu0.6                        deb                        
+libsoup-3.0-0                                                                 3.4.4-5ubuntu0.7                        deb                        
+libsoup-3.0-common                                                            3.4.4-5ubuntu0.7                        deb                        
 libsoxr0                                                                      0.1.3-4build3                           deb                        
 libspectre1                                                                   0.2.12-1build2                          deb                        
 libspeex1                                                                     1.2.1-2ubuntu2.24.04.1                  deb                        
