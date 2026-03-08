@@ -45,7 +45,7 @@ dirmngr                                                                       2.
 distro                                                                        1.9.0                                 python                     
 distro-info-data                                                              0.60ubuntu0.5                         deb                        
 dmidecode                                                                     3.5-3ubuntu0.1                        deb                        
-docker-ce-cli                                                                 5:29.2.1-1~ubuntu.24.04~noble         deb                        
+docker-ce-cli                                                                 5:29.3.0-1~ubuntu.24.04~noble         deb                        
 docker-compose-plugin                                                         5.1.0-1~ubuntu.24.04~noble            deb                        
 dolphin                                                                       4:23.08.5-0ubuntu4                    deb                        
 dpkg                                                                          1.22.6ubuntu6.5                       deb                        
@@ -666,7 +666,7 @@ libnorm1t64                                                                   1.
 libnotificationmanager1                                                       4:5.27.12-0ubuntu0.1                  deb                        
 libnpth0t64                                                                   1.6-3.1build1                         deb                        
 libnspr4                                                                      2:4.35-1.1build1                      deb                        
-libnss3                                                                       2:3.98-1build1                        deb                        
+libnss3                                                                       2:3.98-1ubuntu0.1                     deb                        
 libnuma1                                                                      2.0.18-1ubuntu0.24.04.1               deb                        
 libnvme1t64                                                                   1.8-3ubuntu1                          deb                        
 libobrender32v5                                                               3.6.1-12build5                        deb                        
@@ -1088,8 +1088,7 @@ six                                                                           1.
 software-properties-common                                                    0.99.49.4                             deb                        
 sound-theme-freedesktop                                                       0.8-2ubuntu1                          deb                        
 ssl-cert                                                                      1.1.2ubuntu1                          deb                        
-stdlib                                                                        go1.25.6                              go-module                  
-stdlib                                                                        go1.25.7                              go-module                  
+stdlib                                                                        go1.25.7                              go-module  (+1 duplicate)  
 sudo                                                                          1.9.15p5-3ubuntu5.24.04.1             deb                        
 systemd                                                                       255.4-1ubuntu8.12                     deb                        
 systemd-dev                                                                   255.4-1ubuntu8.12                     deb                        
