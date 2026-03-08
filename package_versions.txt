@@ -64,7 +64,7 @@ distro-info                                                                   1.
 distro-info                                                                   1.7build1                                 deb                           
 distro-info-data                                                              0.60ubuntu0.5                             deb                           
 dmidecode                                                                     3.5-3ubuntu0.1                            deb                           
-docker-ce-cli                                                                 5:29.2.1-1~ubuntu.24.04~noble             deb                           
+docker-ce-cli                                                                 5:29.3.0-1~ubuntu.24.04~noble             deb                           
 docker-compose-plugin                                                         5.1.0-1~ubuntu.24.04~noble                deb                           
 dpkg                                                                          1.22.6ubuntu6.5                           deb                           
 e2fsprogs                                                                     1.47.0-2.4~exp1ubuntu4.1                  deb                           
@@ -566,7 +566,7 @@ libnl-route-3-200                                                             3.
 libnotify4                                                                    0.8.3-1build2                             deb                           
 libnpth0t64                                                                   1.6-3.1build1                             deb                           
 libnspr4                                                                      2:4.35-1.1build1                          deb                           
-libnss3                                                                       2:3.98-1build1                            deb                           
+libnss3                                                                       2:3.98-1ubuntu0.1                         deb                           
 libnuma1                                                                      2.0.18-1ubuntu0.24.04.1                   deb                           
 libnvme1t64                                                                   1.8-3ubuntu1                              deb                           
 libobrender32v5                                                               3.6.1-12build5                            deb                           
@@ -942,8 +942,7 @@ software-properties-gtk                                                       0.
 sound-theme-freedesktop                                                       0.8-2ubuntu1                              deb                           
 spice-vdagent                                                                 0.22.1-4build3                            deb                           
 ssl-cert                                                                      1.1.2ubuntu1                              deb                           
-stdlib                                                                        go1.25.6                                  go-module                     
-stdlib                                                                        go1.25.7                                  go-module                     
+stdlib                                                                        go1.25.7                                  go-module     (+1 duplicate)  
 sudo                                                                          1.9.15p5-3ubuntu5.24.04.1                 deb                           
 systemd                                                                       255.4-1ubuntu8.12                         deb                           
 systemd-dev                                                                   255.4-1ubuntu8.12                         deb                           
@@ -987,7 +986,7 @@ util-linux                                                                    2.
 wadllib                                                                       1.3.6                                     python                        
 wireless-tools                                                                30~pre9-16.1ubuntu2                       deb                           
 wireplumber                                                                   0.4.17-1ubuntu4.1                         deb                           
-wpasupplicant                                                                 2:2.10-21ubuntu0.3                        deb                           
+wpasupplicant                                                                 2:2.10-21ubuntu0.4                        deb                           
 x11-apps                                                                      7.7+11build3                              deb                           
 x11-common                                                                    1:7.7+23ubuntu3                           deb                           
 x11-session-utils                                                             7.7+6build2                               deb                           
