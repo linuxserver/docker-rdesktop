@@ -38,7 +38,7 @@ diffutils                                                                     1:
 dirmngr                                                                       2.4.4-2ubuntu17.4                     deb                        
 distro                                                                        1.9.0                                 python                     
 distro-info-data                                                              0.60ubuntu0.5                         deb                        
-docker-ce-cli                                                                 5:29.2.1-1~ubuntu.24.04~noble         deb                        
+docker-ce-cli                                                                 5:29.3.0-1~ubuntu.24.04~noble         deb                        
 docker-compose-plugin                                                         5.1.0-1~ubuntu.24.04~noble            deb                        
 dpkg                                                                          1.22.6ubuntu6.5                       deb                        
 e2fsprogs                                                                     1.47.0-2.4~exp1ubuntu4.1              deb                        
@@ -605,8 +605,7 @@ shared-mime-info                                                              2.
 six                                                                           1.16.0                                python                     
 software-properties-common                                                    0.99.49.4                             deb                        
 ssl-cert                                                                      1.1.2ubuntu1                          deb                        
-stdlib                                                                        go1.25.6                              go-module                  
-stdlib                                                                        go1.25.7                              go-module                  
+stdlib                                                                        go1.25.7                              go-module  (+1 duplicate)  
 stterm                                                                        0.9-1                                 deb                        
 sudo                                                                          1.9.15p5-3ubuntu5.24.04.1             deb                        
 systemd                                                                       255.4-1ubuntu8.12                     deb                        
