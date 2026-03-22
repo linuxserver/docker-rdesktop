@@ -65,7 +65,7 @@ distro-info                                                                   1.
 distro-info-data                                                              0.60ubuntu0.5                             deb                           
 dmidecode                                                                     3.5-3ubuntu0.1                            deb                           
 docker-ce-cli                                                                 5:29.3.0-1~ubuntu.24.04~noble             deb                           
-docker-compose-plugin                                                         5.1.0-1~ubuntu.24.04~noble                deb                           
+docker-compose-plugin                                                         5.1.1-1~ubuntu.24.04~noble                deb                           
 dpkg                                                                          1.22.6ubuntu6.5                           deb                           
 e2fsprogs                                                                     1.47.0-2.4~exp1ubuntu4.1                  deb                           
 emacsen-common                                                                3.0.5                                     deb                           
@@ -114,7 +114,7 @@ github.com/cenkalti/backoff/v5                                                v5
 github.com/compose-spec/compose-go/v2                                         v2.10.1                                   go-module                     
 github.com/containerd/console                                                 v1.0.5                                    go-module                     
 github.com/containerd/containerd/api                                          v1.10.0                                   go-module                     
-github.com/containerd/containerd/v2                                           v2.2.1                                    go-module                     
+github.com/containerd/containerd/v2                                           v2.2.2                                    go-module                     
 github.com/containerd/continuity                                              v0.4.5                                    go-module                     
 github.com/containerd/errdefs                                                 v1.0.0                                    go-module                     
 github.com/containerd/errdefs/pkg                                             v0.3.0                                    go-module                     
@@ -127,7 +127,7 @@ github.com/distribution/reference                                             v0
 github.com/docker/buildx                                                      v0.31.1                                   go-module                     
 github.com/docker/cli                                                         v29.2.1+incompatible                      go-module                     
 github.com/docker/cli/cmd/docker                                              UNKNOWN                                   go-module                     
-github.com/docker/compose/v5                                                  v5.1.0                                    go-module                     
+github.com/docker/compose/v5                                                  v5.1.1                                    go-module                     
 github.com/docker/docker                                                      v28.5.2+incompatible                      go-module                     
 github.com/docker/docker-credential-helpers                                   v0.9.5                                    go-module                     
 github.com/docker/go-connections                                              v0.6.0                                    go-module                     
@@ -164,8 +164,8 @@ github.com/moby/buildkit                                                      v0
 github.com/moby/docker-image-spec                                             v1.3.1                                    go-module                     
 github.com/moby/go-archive                                                    v0.2.0                                    go-module                     
 github.com/moby/locker                                                        v1.0.1                                    go-module                     
-github.com/moby/moby/api                                                      v1.53.0                                   go-module                     
-github.com/moby/moby/client                                                   v0.2.2                                    go-module                     
+github.com/moby/moby/api                                                      v1.54.0                                   go-module                     
+github.com/moby/moby/client                                                   v0.3.0                                    go-module                     
 github.com/moby/patternmatcher                                                v0.6.0                                    go-module                     
 github.com/moby/sys/atomicwriter                                              v0.1.0                                    go-module                     
 github.com/moby/sys/capability                                                v0.4.0                                    go-module                     
@@ -230,8 +230,8 @@ go.uber.org/mock                                                              v0
 go.yaml.in/yaml/v4                                                            v4.0.0-rc.4                               go-module                     
 golang.org/x/crypto                                                           v0.46.0                                   go-module                     
 golang.org/x/net                                                              v0.48.0                                   go-module                     
-golang.org/x/sync                                                             v0.19.0                                   go-module                     
-golang.org/x/sys                                                              v0.41.0                                   go-module                     
+golang.org/x/sync                                                             v0.20.0                                   go-module                     
+golang.org/x/sys                                                              v0.42.0                                   go-module                     
 golang.org/x/term                                                             v0.38.0                                   go-module                     
 golang.org/x/text                                                             v0.32.0                                   go-module                     
 golang.org/x/time                                                             v0.14.0                                   go-module                     
@@ -665,7 +665,7 @@ libspeex1                                                                     1.
 libspeexdsp1                                                                  1.2.1-1ubuntu3                            deb                           
 libsqlite3-0                                                                  3.45.1-1ubuntu2.5                         deb                           
 libss2                                                                        1.47.0-2.4~exp1ubuntu4.1                  deb                           
-libssh-4                                                                      0.10.6-2ubuntu0.3                         deb                           
+libssh-4                                                                      0.10.6-2ubuntu0.4                         deb                           
 libssl3t64                                                                    3.0.13-0ubuntu3.7                         deb                           
 libstartup-notification0                                                      0.12-6build3                              deb                           
 libstdc++6                                                                    14.2.0-4ubuntu2~24.04.1                   deb                           
@@ -895,7 +895,7 @@ python3-cffi-backend                                                          1.
 python3-chardet                                                               5.2.0+dfsg-1                              deb                           
 python3-click                                                                 8.1.6-2                                   deb                           
 python3-colorama                                                              0.4.6-4                                   deb                           
-python3-cryptography                                                          41.0.7-4ubuntu0.3                         deb                           
+python3-cryptography                                                          41.0.7-4ubuntu0.4                         deb                           
 python3-dateutil                                                              2.8.2-3ubuntu1                            deb                           
 python3-dbus                                                                  1.3.2-5build3                             deb                           
 python3-debconf                                                               1.5.86ubuntu1                             deb                           
@@ -942,7 +942,8 @@ software-properties-gtk                                                       0.
 sound-theme-freedesktop                                                       0.8-2ubuntu1                              deb                           
 spice-vdagent                                                                 0.22.1-4build3                            deb                           
 ssl-cert                                                                      1.1.2ubuntu1                              deb                           
-stdlib                                                                        go1.25.7                                  go-module     (+1 duplicate)  
+stdlib                                                                        go1.25.7                                  go-module                     
+stdlib                                                                        go1.25.8                                  go-module                     
 sudo                                                                          1.9.15p5-3ubuntu5.24.04.2                 deb                           
 systemd                                                                       255.4-1ubuntu8.12                         deb                           
 systemd-dev                                                                   255.4-1ubuntu8.12                         deb                           
