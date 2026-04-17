@@ -3,6 +3,7 @@
 # project information
 project_name: rdesktop
 project_deprecation_status: true
+project_deprecation_message: "These images were originally created for Apache Guacamole-based Webtop, but since transitioning to an in house web-native protocol, they are no longer maintained. RDP users should seek alternatives while others are advised to transition to [Webtop](https://github.com/linuxserver/docker-webtop)."
 project_url: "http://xrdp.org/"
 project_logo: "https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/rdesktop.png"
 project_blurb: |
