@@ -65,7 +65,7 @@ distro-info                                                                   1.
 distro-info-data                                                              0.60ubuntu0.5                             deb                           
 dmidecode                                                                     3.5-3ubuntu0.1                            deb                           
 docker-ce-cli                                                                 5:29.4.0-1~ubuntu.24.04~noble             deb                           
-docker-compose-plugin                                                         5.1.2-1~ubuntu.24.04~noble                deb                           
+docker-compose-plugin                                                         5.1.3-1~ubuntu.24.04~noble                deb                           
 dpkg                                                                          1.22.6ubuntu6.5                           deb                           
 e2fsprogs                                                                     1.47.0-2.4~exp1ubuntu4.1                  deb                           
 emacsen-common                                                                3.0.5                                     deb                           
@@ -115,7 +115,7 @@ github.com/cespare/xxhash/v2                                                  v2
 github.com/compose-spec/compose-go/v2                                         v2.10.2                                   go-module                     
 github.com/containerd/console                                                 v1.0.5                                    go-module                     
 github.com/containerd/containerd/api                                          v1.10.0                                   go-module                     
-github.com/containerd/containerd/v2                                           v2.2.2                                    go-module                     
+github.com/containerd/containerd/v2                                           v2.2.3                                    go-module                     
 github.com/containerd/continuity                                              v0.4.5                                    go-module                     
 github.com/containerd/errdefs                                                 v1.0.0                                    go-module                     
 github.com/containerd/errdefs/pkg                                             v0.3.0                                    go-module                     
@@ -127,7 +127,7 @@ github.com/distribution/reference                                             v0
 github.com/docker/buildx                                                      v0.33.0                                   go-module                     
 github.com/docker/cli                                                         v29.4.0+incompatible                      go-module                     
 github.com/docker/cli/cmd/docker                                              UNKNOWN                                   go-module                     
-github.com/docker/compose/v5                                                  v5.1.2                                    go-module                     
+github.com/docker/compose/v5                                                  v5.1.3                                    go-module                     
 github.com/docker/docker                                                      v28.5.2+incompatible                      go-module                     
 github.com/docker/docker-credential-helpers                                   v0.9.5                                    go-module                     
 github.com/docker/go-connections                                              v0.6.0                                    go-module                     
@@ -605,8 +605,8 @@ libpipewire-0.3-modules                                                       1.
 libpixman-1-0                                                                 0.42.2-1build1                            deb                           
 libplist-2.0-4                                                                2.3.0-1~exp2build2                        deb                           
 libpng16-16t64                                                                1.6.43-5ubuntu0.5                         deb                           
-libpolkit-agent-1-0                                                           124-2ubuntu1.24.04.2                      deb                           
-libpolkit-gobject-1-0                                                         124-2ubuntu1.24.04.2                      deb                           
+libpolkit-agent-1-0                                                           124-2ubuntu1.24.04.3                      deb                           
+libpolkit-gobject-1-0                                                         124-2ubuntu1.24.04.3                      deb                           
 libpopt0                                                                      1.19+dfsg-1build1                         deb                           
 libproc2-0                                                                    2:4.0.4-4ubuntu3.2                        deb                           
 libproxy1v5                                                                   0.5.4-4build1                             deb                           
@@ -667,7 +667,7 @@ libspeexdsp1                                                                  1.
 libsqlite3-0                                                                  3.45.1-1ubuntu2.5                         deb                           
 libss2                                                                        1.47.0-2.4~exp1ubuntu4.1                  deb                           
 libssh-4                                                                      0.10.6-2ubuntu0.4                         deb                           
-libssl3t64                                                                    3.0.13-0ubuntu3.7                         deb                           
+libssl3t64                                                                    3.0.13-0ubuntu3.9                         deb                           
 libstartup-notification0                                                      0.12-6build3                              deb                           
 libstdc++6                                                                    14.2.0-4ubuntu2~24.04.1                   deb                           
 libstemmer0d                                                                  2.2.0-4build1                             deb                           
@@ -853,7 +853,7 @@ ocl-icd-libopencl1                                                            2.
 openbox                                                                       3.6.1-12build5                            deb                           
 openprinting-ppds                                                             20230202-1                                deb                           
 openssh-client                                                                1:9.6p1-3ubuntu13.15                      deb                           
-openssl                                                                       3.0.13-0ubuntu3.7                         deb                           
+openssl                                                                       3.0.13-0ubuntu3.9                         deb                           
 packagekit                                                                    1.2.8-2ubuntu1.4                          deb                           
 parted                                                                        3.6-4build1                               deb                           
 passwd                                                                        1:4.13+dfsg1-4ubuntu3.2                   deb                           
@@ -866,11 +866,11 @@ perl-modules-5.38                                                             5.
 pinentry-curses                                                               1.2.1-3ubuntu5                            deb                           
 pipewire                                                                      1.0.5-1ubuntu3.2                          deb                           
 pipewire-bin                                                                  1.0.5-1ubuntu3.2                          deb                           
-pkexec                                                                        124-2ubuntu1.24.04.2                      deb                           
+pkexec                                                                        124-2ubuntu1.24.04.3                      deb                           
 pluma                                                                         1.26.1-2build3                            deb                           
 pluma-common                                                                  1.26.1-2build3                            deb                           
-policykit-1                                                                   124-2ubuntu1.24.04.2                      deb                           
-polkitd                                                                       124-2ubuntu1.24.04.2                      deb                           
+policykit-1                                                                   124-2ubuntu1.24.04.3                      deb                           
+polkitd                                                                       124-2ubuntu1.24.04.3                      deb                           
 poppler-data                                                                  0.4.12-1                                  deb                           
 printer-driver-pnm2ppa                                                        1.13+nondbs-0ubuntu10                     deb                           
 procps                                                                        2:4.0.4-4ubuntu3.2                        deb                           
@@ -998,7 +998,7 @@ x11-xserver-utils                                                             7.
 x11proto-dev                                                                  2023.2-1                                  deb                           
 xauth                                                                         1:1.1.2-1build1                           deb                           
 xbitmaps                                                                      1.1.1-2.2                                 deb                           
-xdg-dbus-proxy                                                                0.1.5-1ubuntu0.1                          deb                           
+xdg-dbus-proxy                                                                0.1.5-1ubuntu0.2                          deb                           
 xdg-user-dirs                                                                 0.18-1build1                              deb                           
 xdg-user-dirs-gtk                                                             0.11-1build2                              deb                           
 xfonts-base                                                                   1:1.0.5+nmu1                              deb                           
