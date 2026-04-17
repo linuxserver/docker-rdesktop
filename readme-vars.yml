@@ -155,6 +155,7 @@ init_diagram: |
     init-crontab-config -> init-config-end
     init-config -> init-crontab-config
     init-mods-end -> init-custom-files
+    init-config-end -> init-deprecate
     init-adduser -> init-device-perms
     base -> init-envfile
     init-prep-xrdp -> init-keygen
@@ -169,6 +170,7 @@ init_diagram: |
     init-keygen -> init-rdesktop
     init-video -> init-rdesktop-end
     init-custom-files -> init-services
+    init-deprecate -> init-services
     init-rdesktop -> init-video
     init-services -> svc-cron
     svc-cron -> legacy-services
