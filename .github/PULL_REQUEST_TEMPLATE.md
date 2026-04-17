@@ -1,3 +1,8 @@
+# DEPRECATION NOTICE 
+This image is deprecated. We will not offer support for this image and it will not be updated.
+
+
+These images were originally created for Apache Guacamole-based Webtop, but since transitioning to an in house web-native protocol, they are no longer maintained. RDP users should seek alternatives while others are advised to transition to [Webtop](https://github.com/linuxserver/docker-webtop).
 <!--- Provide a general summary of your changes in the Title above -->
 
 [linuxserverurl]: https://linuxserver.io
