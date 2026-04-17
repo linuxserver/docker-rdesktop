@@ -2,6 +2,7 @@
 
 # project information
 project_name: rdesktop
+project_deprecation_status: true
 project_url: "http://xrdp.org/"
 project_logo: "https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/rdesktop.png"
 project_blurb: |
