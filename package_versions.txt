@@ -42,7 +42,7 @@ dirmngr                                                                       2.
 distro                                                                        1.9.0                                     python                     
 distro-info-data                                                              0.60ubuntu0.5                             deb                        
 docker-ce-cli                                                                 5:29.4.0-1~ubuntu.24.04~noble             deb                        
-docker-compose-plugin                                                         5.1.2-1~ubuntu.24.04~noble                deb                        
+docker-compose-plugin                                                         5.1.3-1~ubuntu.24.04~noble                deb                        
 dpkg                                                                          1.22.6ubuntu6.5                           deb                        
 e2fsprogs                                                                     1.47.0-2.4~exp1ubuntu4.1                  deb                        
 elementary-xfce-icon-theme                                                    0.19-1                                    deb                        
@@ -72,7 +72,7 @@ github.com/cespare/xxhash/v2                                                  v2
 github.com/compose-spec/compose-go/v2                                         v2.10.2                                   go-module                  
 github.com/containerd/console                                                 v1.0.5                                    go-module                  
 github.com/containerd/containerd/api                                          v1.10.0                                   go-module                  
-github.com/containerd/containerd/v2                                           v2.2.2                                    go-module                  
+github.com/containerd/containerd/v2                                           v2.2.3                                    go-module                  
 github.com/containerd/continuity                                              v0.4.5                                    go-module                  
 github.com/containerd/errdefs                                                 v1.0.0                                    go-module                  
 github.com/containerd/errdefs/pkg                                             v0.3.0                                    go-module                  
@@ -84,7 +84,7 @@ github.com/distribution/reference                                             v0
 github.com/docker/buildx                                                      v0.33.0                                   go-module                  
 github.com/docker/cli                                                         v29.4.0+incompatible                      go-module                  
 github.com/docker/cli/cmd/docker                                              UNKNOWN                                   go-module                  
-github.com/docker/compose/v5                                                  v5.1.2                                    go-module                  
+github.com/docker/compose/v5                                                  v5.1.3                                    go-module                  
 github.com/docker/docker                                                      v28.5.2+incompatible                      go-module                  
 github.com/docker/docker-credential-helpers                                   v0.9.5                                    go-module                  
 github.com/docker/go-connections                                              v0.6.0                                    go-module                  
@@ -434,8 +434,8 @@ libpipeline1                                                                  1.
 libpixman-1-0                                                                 0.42.2-1build1                            deb                        
 libplymouth5                                                                  24.004.60-1ubuntu7.1                      deb                        
 libpng16-16t64                                                                1.6.43-5ubuntu0.5                         deb                        
-libpolkit-agent-1-0                                                           124-2ubuntu1.24.04.2                      deb                        
-libpolkit-gobject-1-0                                                         124-2ubuntu1.24.04.2                      deb                        
+libpolkit-agent-1-0                                                           124-2ubuntu1.24.04.3                      deb                        
+libpolkit-gobject-1-0                                                         124-2ubuntu1.24.04.3                      deb                        
 libproc2-0                                                                    2:4.0.4-4ubuntu3.2                        deb                        
 libproxy1v5                                                                   0.5.4-4build1                             deb                        
 libpsl5t64                                                                    0.21.2-1.1build1                          deb                        
@@ -478,7 +478,7 @@ libspeexdsp1                                                                  1.
 libsqlite3-0                                                                  3.45.1-1ubuntu2.5                         deb                        
 libss2                                                                        1.47.0-2.4~exp1ubuntu4.1                  deb                        
 libssh-4                                                                      0.10.6-2ubuntu0.4                         deb                        
-libssl3t64                                                                    3.0.13-0ubuntu3.7                         deb                        
+libssl3t64                                                                    3.0.13-0ubuntu3.9                         deb                        
 libstartup-notification0                                                      0.12-6build3                              deb                        
 libstdc++6                                                                    14.2.0-4ubuntu2~24.04.1                   deb                        
 libstemmer0d                                                                  2.2.0-4build1                             deb                        
@@ -615,7 +615,7 @@ oauthlib                                                                      3.
 ocl-icd-libopencl1                                                            2.3.2-1build1                             deb                        
 openbox                                                                       3.6.1-12build5                            deb                        
 openssh-client                                                                1:9.6p1-3ubuntu13.15                      deb                        
-openssl                                                                       3.0.13-0ubuntu3.7                         deb                        
+openssl                                                                       3.0.13-0ubuntu3.9                         deb                        
 packagekit                                                                    1.2.8-2ubuntu1.4                          deb                        
 passwd                                                                        1:4.13+dfsg1-4ubuntu3.2                   deb                        
 perl                                                                          5.38.2-3.2ubuntu0.2                       deb                        
@@ -627,7 +627,7 @@ plymouth-label                                                                24
 plymouth-theme-ubuntu-text                                                    24.004.60-1ubuntu7.1                      deb                        
 plymouth-theme-xubuntu-logo                                                   24.04.1                                   deb                        
 plymouth-theme-xubuntu-text                                                   24.04.1                                   deb                        
-polkitd                                                                       124-2ubuntu1.24.04.2                      deb                        
+polkitd                                                                       124-2ubuntu1.24.04.3                      deb                        
 poppler-data                                                                  0.4.12-1                                  deb                        
 procps                                                                        2:4.0.4-4ubuntu3.2                        deb                        
 publicsuffix                                                                  20231001.0357-0.1                         deb                        
